@@ -32,6 +32,25 @@ appropriate changes:
 * Add a couple of options to a current dead-end "page", and add a "page" or link
   to an existing "page" for each option.
 
+
+### Directory Structure
+
+We expect that this repository will eventually contain quite a few files, so we
+have a unique directory structure that we'd like contributors to follow to help
+keep things organized.
+
+Each "page" in the story should have its own directory with a single Markdown file.
+The name of the Markdown file should reflect the subject of the file.  For example,
+the first "page" is at the top of the repository, and it is named language.md because
+in it, the reader selects their language.
+
+When you add a new option to an existing "page", you should add the file for that new
+option in a subdirectory of the file that links to it.  For example, when I added the option
+to eat the walls on the "page" [english/marshmallow.md](english/marshmallow.md), I created
+a new directory called [english/eating-walls/](english/eating-walls/), and a new file within
+that directory called
+[english/eating-walls/eating-marshmallows.md](english/eating-walls/eating-marshmallows.md).
+
 ### Use Relative Links
 
 The links in this file should be relative links so that they will still work if
@@ -40,12 +59,6 @@ example of relative links.  (Click the "Raw" button to view the text that
 creates the links.)  You can also use `..` to refer to the parent of the
 current directory if necessary.
 
-### Directory Structure
-
-Try to keep the files that make up the story somewhat organized.  A good rule of
-thumb is to create a new directory for each option, then put the file with the
-resulting story inside that directory.  If you want to add multiple ways of
-getting to the same point, use your best judgment about how to organize this.
 
 ### Line Length
 
