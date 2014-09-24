@@ -4,4 +4,4 @@ They hand you a long green roasting rod, green chocolate, and green graham crack
 
 The result looked a little strange, but it was just as delicious as you could imagine. Afterward, all you can think about is taking a big nap.
 
-[Take that nap](../marshmallow.md)
+[Take that nap](../../marshmallow.md)

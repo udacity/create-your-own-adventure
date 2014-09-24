@@ -4,6 +4,6 @@ The s'more eaters are green all over. They have green hair, green noses, and gre
 
 What do you do now?
 
-[Ask for a s'more](delicious.md)
+[Ask for a s'more](smore-eating/delicious.md)
 
 [Go back to sleep](../marshmallow.md)
