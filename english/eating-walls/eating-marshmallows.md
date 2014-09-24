@@ -1,10 +1,12 @@
 After taking a few bites, you start to feel sick.  You're not sure this was a
 good idea.  On the other hand, it sure is tasty!
 
-Sitting down next to the partially eaten marshmallow wall, your stomach begins to grumble, churn, and babble. Panicked by the sounds, you stand up--hoping to walk off the uneasy feeling. Upon standing up, your stomach quiets and you entertain how to spend the rest of the day.
+Sitting down next to the partially eaten marshmallow wall, your stomach begins to grumble, churn, and babble. Hoping to walk off the uneasy feeling, you stand up.
+
+Upon standing up, your stomach quiets and you entertain how to spend the rest of the day.
 
 Do you:
 
-[Sit back down, and go to sleep](more-sleep/more-sleep.md)?
+[Sit back down, and go to sleep](../sleep/more-sleep/more-sleep.md)?
 
 [Go exploring outside](../explore-outside/explore-outside.md)?
