@@ -53,12 +53,10 @@ that directory called
 
 ### Use Relative Links
 
-The links in this file should be relative links so that they will still work if
-the repository is forked.  View the [language.md](language.md) file for an
-example of relative links.  (Click the "Raw" button to view the text that
-creates the links.)  You can also use `..` to refer to the parent of the
-current directory if necessary.
-
+The links in this file should be [relative links](http://compugoddess.com/relative-vs-absolute-links/)
+so that they will still work if the repository is forked.  View the [language.md](language.md)
+file for an example of relative links.  (Click the "Raw" button to view the text that creates the
+links.)  You can also use `..` to refer to the parent of the current directory if necessary.
 
 ### Line Length
 
