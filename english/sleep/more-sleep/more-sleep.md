@@ -8,4 +8,4 @@ What do you do now?
 
 [Go back to sleep](../marshmallow.md)
 
-[Walk away in fear through the hole in the wall](../../../explore-outside/explore-outside.md)
+[Walk away in fear through a hole in the wall](../../explore-outside/explore-outside.md)
