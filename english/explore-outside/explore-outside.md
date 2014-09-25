@@ -8,4 +8,4 @@ Do you:
 
 [Head towards the tower](./journey-to-flaming-tower/journey-to-flaming-tower.md)
 
-[Walk around this marshmallow structure you've just escaped from](./investigate-marshmallow-structure.md/investigate-marshmallow-structure.md)
+[Walk around this marshmallow structure you've just escaped from](./investigate-marshmallow-structure/investigate-marshmallow-structure.md)
