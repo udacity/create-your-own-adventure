@@ -2,8 +2,8 @@ You light a small fire in the middle of the marshmallow room.
 
 As the fire grows, a sweet aroma fills the room and the ceiling becomes ever so slightly brown just above the fire.
 
-Do you:
+The walls around you begin to melt, globs of flaming marshmallow falling all around you. What do you do?
 
-[Start eating the walls](../eating-walls/eating-marshmallows.md)?
+[Save yourself!](run-away/outside.md)?
 
-[Go back to sleep](../sleep/marshmallow.md)?
+[Succumb to your marshmallow-y grave.](succumb/game-over.md)?
