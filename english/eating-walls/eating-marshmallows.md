@@ -10,3 +10,5 @@ Do you:
 [Sit back down, and go to sleep](../sleep/more-sleep/more-sleep.md)?
 
 [Go exploring outside](../explore-outside/explore-outside.md)?
+
+[Light-fire](../light-fire/fire.md)?
