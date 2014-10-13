@@ -6,4 +6,6 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 
 [Save yourself!](run-away/outside.md)?
 
+[Begin to eat!](eating/inside.md)?
+
 [Succumb to your marshmallow-y grave.](succumb/game-over.md)?
