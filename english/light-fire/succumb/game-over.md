@@ -1,1 +1,1 @@
-You are now one with the marshmallow.
+You are now one with the marshmallow. You feel an inner peace.
