@@ -2,4 +2,4 @@ You conduct a series of hand-seals and summon Ragnor's armor to protect you from
 
 You approach the door with your glistening armor and pick up a rock as your weapon. 
 
-You knock on the door and wait for you what is to come.
+You knock on the door and wait for the legions to answer your knock.
