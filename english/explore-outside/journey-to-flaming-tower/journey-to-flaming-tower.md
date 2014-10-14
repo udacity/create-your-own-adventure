@@ -6,3 +6,5 @@ Do you:
 [Hail a graham cracker cab!](graham-cracker-cab/graham-cracker-cab.md)
 
 [Wait at the jellybus stop for a jellybus!](jellybus/jellybus.md)
+
+[Keep walking.](walk/walk.md)
