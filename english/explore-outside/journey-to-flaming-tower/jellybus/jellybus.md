@@ -3,4 +3,4 @@ At the nearby jellybus stop you see that the next jellybus will be arriving in
 
 Do you:
 
-(Sit down without talking)[wait-without-talking]
+[Sit down without talking](wait-without-talking/wait-without-talking.md)
