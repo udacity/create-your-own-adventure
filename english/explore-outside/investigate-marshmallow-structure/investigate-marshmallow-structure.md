@@ -5,11 +5,11 @@ They seem to be dancing around a wooden table.
 
 Do you:
 
-[Say hello!] (./say-hello/say-hello.md)
+[Say hello!] (./say-hello/say-hello/say-hello.md)
 
-[Go join in their dance] (./say-hello/join-dance.md)
+[Go join in their dance] (./say-hello/join-dance/join-dance.md)
 
-[You explore the other wings of the palace] (./say-hello/explore-other-wings.md)
+[Explore the other wings of the palace] (./say-hello/explore-other-wings/explore-other-wings.md)
 
 [Find the smallest room in the palace](./small-room/small-room.md)
 
