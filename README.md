@@ -21,8 +21,10 @@ following text would turn "here" into a link to Google: "Click
 Try to keep your change small.  Part of the fun of a collaborative story is
 that no one person writes very much of it!  On the other hand, please **don't**
 add an option and then not add any story for readers who choose that option, or
-the story will soon be full of dead links.  Here are some examples of
-appropriate changes:
+the story will soon be full of dead links.  Instead, the last `.md` file the reader
+reaches on any path of the story should not have any options.  For an example, see
+[this file](https://github.com/udacity/create-your-own-adventure/blob/c4f2bf7caac641df1c979a2db056a532e0c93e23/english/light-fire/fire.md)
+from an early version of the story.  Here are some examples of  appropriate changes:
 
 * Add a sentence or two to an existing "page" (file) of the story.
 * Add a new option to an existing choice point, and link that option to an
