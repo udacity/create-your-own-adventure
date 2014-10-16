@@ -6,4 +6,4 @@ When you're done, do you:
 
 [Start eating the walls](../eating-walls/eating-marshmallows.md)?
 
-[Explore outside](../explore-outside/explore-outide.md)?
+[Explore outside](../explore-outside/explore-outside.md)?
