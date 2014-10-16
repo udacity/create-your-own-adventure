@@ -1,5 +1,7 @@
 #!/bin/bash
-# Simple script to assist in finding leafs
+# Simple script to assist in finding leafs - that is, pages of the story with
+# no options yet.
+#
 # Usage: 
 #	find-leafs.sh language
 # to find leafs in that particular language (though technically, just the directory),
