@@ -4,3 +4,5 @@ the tall, sugary flames, you see a small child run across the large field next d
 What do you do?
 
 [Shout "Hey you!"](shout/child-wave.md)?
+
+[Do nothing, you look at your shoes.](nothing/nothing.md)?
