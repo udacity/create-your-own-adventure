@@ -5,4 +5,4 @@ What do you do?
 
 [Shout "Hey you!"](shout/child-wave.md)?
 
-[Do nothing, you look at your shoes.](nothing/nothing.md)?
+[Do nothing, you look at your shoes](nothing/nothing.md)?
