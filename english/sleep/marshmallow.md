@@ -5,3 +5,5 @@ Do you:
 [Start eating the walls](../eating-walls/eating-marshmallows.md)?
 
 [Go back to sleep](more-sleep/more-sleep.md)?
+
+[Make a marshmallow snowman](../staypuft/marshmallowman.md)?
