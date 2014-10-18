@@ -1,0 +1,1 @@
+Apparently you misunderstood. Because they liked you, they wanted to condone the costs of your "voracious scape". Since you can't pay the repairs, they put in a hard candy jail. 
