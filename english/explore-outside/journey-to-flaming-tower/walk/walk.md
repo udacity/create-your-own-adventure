@@ -7,3 +7,5 @@ Beneath the bridge you see a dock with a sailboat tied up.
 Do you:
 
 [Turn around and go back](../journey-to-flaming-tower.md)
+
+[Steal sailboat](./sailboat/sailboat.md)
