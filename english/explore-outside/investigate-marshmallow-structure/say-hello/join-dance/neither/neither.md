@@ -1,1 +1,1 @@
-Absolutely nothing happens. You definately should start taking more chances in life!. 
+Absolutely nothing happens. No risk, no fun. Take your chances! 
