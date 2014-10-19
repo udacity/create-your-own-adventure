@@ -1,1 +1,2 @@
-They burst in happiness!,... at least that is definately the explanation you're hoping for as they turn yellow and bring a huge empty casserole. 
+They burst in happiness!.
+They turn yellow and bring a huge empty casserole. This makes you suspicious.
