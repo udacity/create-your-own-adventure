@@ -6,4 +6,4 @@ Do you:
 
 [Turn around and go back](../walk.md)
 
-[Enter the sailboat](./sailboat/enter.md)
+[Enter the sailboat](./enter.md)
