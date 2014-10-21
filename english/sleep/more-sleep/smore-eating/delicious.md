@@ -6,4 +6,9 @@ the nearest wall onto the tip of the rod and warm it over the fire for a moment.
 The result looks a little strange, but it is just as delicious as you could have imagined. Afterward, all you can
 think about is taking a big nap.
 
+You decide to:
+
 [Take that nap](../../marshmallow.md)
+
+[Stay awake and go explore outside](../../../explore-outside/explore-outside.md)
+
