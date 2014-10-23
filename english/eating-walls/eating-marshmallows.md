@@ -7,8 +7,8 @@ quiets and you entertain how to spend the rest of the day.
 
 Do you:
 
-[Sit back down, and go to sleep](../sleep/more-sleep/more-sleep.md)?
+[Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
-[Go exploring outside](../explore-outside/explore-outside.md)?
+[Go exploring outside?](../explore-outside/explore-outside.md)
 
-[Light-fire](../light-fire/fire.md)?
+[Light-fire?](../light-fire/fire.md)

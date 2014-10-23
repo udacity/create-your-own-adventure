@@ -2,10 +2,10 @@ This time you find that someone has lit a campfire and is using your walls to ma
 
 The s'more eaters are green all over. They have green hair, green noses, and green shoes.
 
-What do you do now?
+What do you do now:
 
-[Ask for a s'more](smore-eating/delicious.md)
+[Ask for a s'more?](smore-eating/delicious.md)
 
-[Go back to sleep](../marshmallow.md)
+[Go back to sleep?](../marshmallow.md)
 
-[Walk away in fear through a hole in the wall](../../explore-outside/explore-outside.md)
+[Walk away in fear through a hole in the wall?](../../explore-outside/explore-outside.md)
