@@ -11,3 +11,5 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 [Succumb to your marshmallow-y grave!](succumb/game-over.md)
 
 [Turn on the chocolate sprinkler!](sprinkler/eating-chocolate.md)
+
+[Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
