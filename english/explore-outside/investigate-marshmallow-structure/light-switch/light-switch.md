@@ -5,7 +5,8 @@ the clock just struck midnight. Only if I could go to sleep or find a cup of str
 
 Do you:
 
-[Go to sleep](../../sleep/more-sleep/more-sleep.md)
+[Go to sleep](../../../sleep/more-sleep/more-sleep.md)
 
-[Get a cup of coffee](./get-coffee/cup-of-coffee.md)
+[Get a cup of coffee](get-coffee/cup-of-coffee.md)
+
 
