@@ -9,3 +9,5 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 [Begin to eat!](eating/inside.md)?
 
 [Succumb to your marshmallow-y grave.](succumb/game-over.md)?
+
+[Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)?
