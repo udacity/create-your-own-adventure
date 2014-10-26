@@ -5,15 +5,15 @@ They seem to be dancing around a wooden table.
 
 Do you:
 
-[Say hello!] (./say-hello/say-hello/say-hello.md)
+[Say hello?](./say-hello/say-hello/say-hello.md)
 
-[Go join in their dance] (./say-hello/join-dance/join-dance.md)
+[Go join in their dance?](./say-hello/join-dance/join-dance.md)
 
-[Explore the other wings of the palace] (./say-hello/explore-other-wings/explore-other-wings.md)
+[Explore the other wings of the palace?](./say-hello/explore-other-wings/explore-other-wings.md)
 
-[Find the smallest room in the palace](./small-room/small-room.md)
+[Find the smallest room in the palace?](./small-room/small-room.md)
 
-[Look for a light switch to see what's behind the other windows](./light-switch/light-switch.md)
+[Look for a light switch to see what's behind the other windows?](./light-switch/light-switch.md)
 
-[Walk up and greet the green people](./greet-green/greet-green.md)
+[Walk up and greet the green people?](./greet-green/greet-green.md)
 
