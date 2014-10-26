@@ -7,3 +7,5 @@ Do you:
 [Light a fire?](light-fire/fire.md)
 
 [Go back to sleep?](sleep/marshmallow.md)
+
+[Stay puft?](staypuft/marshmallowman.md)
