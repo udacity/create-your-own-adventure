@@ -12,7 +12,7 @@ means they are plain text, but with a few special capabilities.  The only
 Markdown capability used in this story is links.  By putting text in brackets
 and a URL in parentheses, you can add a link to the story.  For example, the
 following text would turn "here" into a link to Google: "Click
-\[here\](www.google.com) to visit Google."
+\[www.google.com\](www.google.com) to visit Google."
 
 ## Contribution Guidelines
 
