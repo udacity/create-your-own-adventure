@@ -10,4 +10,7 @@ Türkçe konuşuyorsanız, [buraya](turkce/hatmisekeri.md).
 
 Si parles Català, fes [clic aquí](catala/catala.md).
 
+Daca vorbesti romana, [da click aici](romanian/nalba.md).
+
 Ifyay ouyay eakspay Igpay Atinlay, [ogay erehay](pig-latin/arshmallowmay.md).
+
