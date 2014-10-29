@@ -9,3 +9,5 @@ Do you:
 [Go back to sleep?](sleep/marshmallow.md)
 
 [Stay puft?](staypuft/marshmallowman.md)
+
+[Invite some friends over?](invite-friends/friends.md)
