@@ -9,3 +9,7 @@ You make a spell, and then you re-lease a ball of fire which hits the sailor and
 However he wakes up after few seconds while being even more furious.
 
 What do you do?
+
+[Throw another fireball at him](./another-fireball/another-fireball.md)
+
+[Try to persuade the sailor](convince-sailor/convince-sailor.md)
