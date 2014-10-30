@@ -11,3 +11,5 @@ Do you:
 [Stay puft?](staypuft/marshmallowman.md)
 
 [Invite some friends over?](invite-friends/friends.md)
+
+[Look for a way out?](find-exit/leave.md)
