@@ -6,6 +6,6 @@ What do you do now:
 
 [Ask for a s'more?](smore-eating/delicious.md)
 
-[Go back to sleep?](../marshmallow.md)
+[Go back to sleep?](expired-milk.md)
 
 [Walk away in fear through a hole in the wall?](../../explore-outside/explore-outside.md)
