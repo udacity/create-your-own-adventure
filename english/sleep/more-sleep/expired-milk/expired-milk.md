@@ -2,3 +2,11 @@ This time you wake up in your own room to your phone's alarm clock blasting Kerm
 You're not sure, but you swear you can detect a faint smell of campfire in the air. 
 Your alarm keeps playing, reminding you it's time to get ready for the day. 
 Shaking your head, you vow to stop drinking milk with questionable expiration dates before bedtime.
+
+What do you do now:
+
+[Go exploring outside?](../../../explore-outside/explore-outside.md)
+
+[Invite some friends over?](../../../invite-friends/friends.md)
+
+[Start eating the walls?](../../../eating-walls/eating-marshmallows.md)
