@@ -18,3 +18,5 @@ Si vous parlez français, [suivez-moi] (French/feu-de-camp.md)
 
 Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
+Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
+
