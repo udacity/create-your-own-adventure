@@ -7,3 +7,5 @@ In order to survive the cold night in the forest, you begin searching for shelte
 Do you:
 
 [make camp and start a fire](make-camp/make-camp.md)
+
+[go deeper into the forest](../../../../../find-exit/into-forest/forest.md)
