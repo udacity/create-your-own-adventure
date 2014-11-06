@@ -1,0 +1,1 @@
+You all start singing and dancing. Everyone is in a great mood!
