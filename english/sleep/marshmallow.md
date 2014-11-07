@@ -7,3 +7,5 @@ Do you:
 [Go back to sleep?](more-sleep/more-sleep.md)
 
 [Make a marshmallow snowman?](../staypuft/marshmallowman.md)
+
+[Scream for help?](scream-help/scream-help.md)
