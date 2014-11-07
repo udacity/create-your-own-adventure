@@ -1,4 +1,4 @@
-You hear a faint noise from the other side of the marshmellow wall. A door appears. 
+You hear a faint noise from the other side of the marshmallow walls. A door appears. 
 
 Do you: 
 
