@@ -11,8 +11,9 @@ Each "page" of this story is a separate file.  The files are Markdown, which
 means they are plain text, but with a few special capabilities.  The only
 Markdown capability used in this story is links.  By putting text in brackets
 and a URL in parentheses, you can add a link to the story.  For example, the
-following text would turn "here" into a link to Google: "Click
-\[here\](http://www.google.com) to visit Google."
+following text would turn "here" into a link to Google:
+
+    Click [here](http://www.google.com) to visit Google.
 
 ## Contribution Guidelines
 
