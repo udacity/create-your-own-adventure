@@ -8,4 +8,4 @@ There are three paths outside. One leads into a forest. One leads into the mount
 
 [Path into mountains](into-mountains/mountains.md)
 
-[Path into a castle](into-mountains/castle.md)
+[Path into a castle](into-castle/castle.md)
