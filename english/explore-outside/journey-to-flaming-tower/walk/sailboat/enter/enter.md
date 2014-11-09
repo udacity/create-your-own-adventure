@@ -5,3 +5,5 @@ Turns out there is a sleeping sailor on the sailboat. What do you do next?
 [Sail to the tower](sail/sail.md)
 
 [Search the sailboat](search/search.md)
+
+[Wake him up](wake/wake.md)
