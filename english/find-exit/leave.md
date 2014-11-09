@@ -6,7 +6,7 @@ There are two paths outside. One leads into a forest. One leads into the mountai
 
 In the distance, you notice a tower that has caught fire, but is smoking a deep shade of purple.
 
-You also are a bit sleep-deprived.  You might want to call in sick to work
+You have a slight cold.  You might want to call in sick to work.
 
 [Take path into forest](into-forest/forest.md)
 
@@ -14,4 +14,4 @@ You also are a bit sleep-deprived.  You might want to call in sick to work
 
 [Forget work and investigate](../explore-outside/journey-to-flaming-tower/journey-to-flaming-tower.md)
 
-[Go back inside and sleep?](../sleep/marshmallow.md)
+[Go back inside and sleep](../sleep/marshmallow.md)
