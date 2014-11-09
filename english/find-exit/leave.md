@@ -2,7 +2,7 @@ You feel the walls until you find the jell-o door.
 
 Excited for the day ahead of you, you walk through it to go to work.
 
-There are two paths outside. One leads into a forest. One leads into the mountains.  Which do you choose?
+There are two paths outside. One leads into a forest. One leads into the mountains. Which do you choose?
 
 In the distance, you notice a tower that has caught fire, but is smoking a deep shade of purple.
 
