@@ -10,3 +10,5 @@ Do you:
 [Head towards the tower?](./journey-to-flaming-tower/journey-to-flaming-tower.md)
 
 [Walk around this marshmallow structure you've just escaped from?](./investigate-marshmallow-structure/investigate-marshmallow-structure.md)
+
+[Call Stephen King and tell him the Dark Tower series is in trouble?](./call-king/call-king.md)
