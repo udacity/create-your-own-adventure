@@ -4,6 +4,8 @@ Do you:
 
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
 
+[Quickly run outside and explore?](explore-outside/explore-outside.md)
+
 [Light a fire?](light-fire/fire.md)
 
 [Go back to sleep?](sleep/marshmallow.md)
