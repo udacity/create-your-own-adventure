@@ -13,3 +13,6 @@ Do you:
 [Invite some friends over?](invite-friends/friends.md)
 
 [Look for a way out?](find-exit/leave.md)
+
+[Make Coffee?](coffee/coffee.md)
+
