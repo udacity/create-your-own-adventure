@@ -6,4 +6,4 @@ Part of Roland’s quest involves a “tower”.
 If the two in our series is any way related to SK’s tower, then we should
 let Mr. King know that it is on fire so that he can save it.
 
-HURRY !! - Get in touch with Mr. King \[here\](http://stephenking.com)
+[Get in touch with Mr. King](http://stephenking.com)
