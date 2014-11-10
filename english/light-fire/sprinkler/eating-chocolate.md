@@ -10,3 +10,5 @@ basement, making a pool of chocolate. Do you:
 [Go exploring outside](../../explore-outside/explore-outside.md)?
 
 [Swim in the chocolate pool](basement-swim/basement-swim.md)?
+
+[Call Wonka Construction](wonka-construction/wonka-construction.md)?
