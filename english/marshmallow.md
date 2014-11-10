@@ -15,3 +15,5 @@ Do you:
 [Invite some friends over?](invite-friends/friends.md)
 
 [Look for a way out?](find-exit/leave.md)
+
+[Count the marshmellows?](count-the-marshmellows/count-the-marshmellows.md)
