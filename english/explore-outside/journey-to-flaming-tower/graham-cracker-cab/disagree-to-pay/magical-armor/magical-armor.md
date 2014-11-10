@@ -1,5 +1,4 @@
 You conduct a series of hand-seals and summon Ragnor's armor to protect you from the bone-melting flame from the tower.
-
 You approach the door with your glistening armor and pick up a rock as your weapon.
 
 You knock on the door and wait for the legions to answer your knock.
@@ -16,6 +15,6 @@ Which do you use your gold to bargain with?
 
 [Demonacrat] (demonacrat/demonacrat.md)
 
-[Republicrat] {republicrat/republicrat.md}
+[Republicrat] {republicrat/republicrat.md)
 
 [Independcrat] (independcrat/independcrat.md)
