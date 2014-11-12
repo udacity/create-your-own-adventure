@@ -22,4 +22,4 @@ Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
 Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
 
-Als je Nederlands spreekt, begin [hier] (nederlands/begin.md)
+Als je Nederlands spreekt, begin [hier](nederlands/begin.md)
