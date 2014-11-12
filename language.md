@@ -20,3 +20,5 @@ Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
 
+Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
+
