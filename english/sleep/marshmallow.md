@@ -1,4 +1,5 @@
 When you wake up, you're still in the strange room with marshmallows for walls.
+The walls smell really good, but are they tasty?
 
 Do you:
 
