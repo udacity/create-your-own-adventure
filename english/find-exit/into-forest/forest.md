@@ -9,3 +9,12 @@ Dead leaf on the ground
 Green in life you fed the tree
 
 Red you'll help the Spring.
+
+
+Then you reflect on your path to this point and time:
+
+Version control rules
+
+Managed projects is the aim
+
+Peace of mind the gain.
