@@ -13,3 +13,5 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 [Turn on the chocolate sprinkler!](sprinkler/eating-chocolate.md)
 
 [Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
+
+[Call the marshmallow wall repair guy, Marshall M. Aloe](call-marshall/call-marshall.md)
