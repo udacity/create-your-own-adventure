@@ -1,2 +1,2 @@
-Hey you just bited a real golden apple.
-Be careful with your teeth.
+Lucky you, looks like you just bited a real golden apple.
+But be careful with your teeth.
