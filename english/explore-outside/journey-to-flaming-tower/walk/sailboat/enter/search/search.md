@@ -6,8 +6,8 @@ What do you do next?
 
 [Steal the dagger, you might need it later](loot/loot.md)
 
-[Steal the sailor's armor and dagger](super-powers/super-powers.md)
+[Steal the sailor's armor and dagger](../super-powers/super-powers.md)
 
-[Continue to ignore the sailor and sail to the tower](sail/sail.md)
+[Continue to ignore the sailor and sail to the tower](../sail/sail.md)
 
-[Wake up the sailor, maybe he has some useful information](wake/wake.md)
+[Wake up the sailor, maybe he has some useful information](../wake/wake.md)
