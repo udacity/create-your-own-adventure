@@ -4,5 +4,5 @@ You pick it up and take a bite.
 
 [Do you feel an acute pain in your finger?](./acute-pain/acute-pain.md)
 
-[Have you heart a horrible noise from your mouth?](./horrible-noise/horrible-noise.md)
+[Have you heard a horrible noise from your mouth?](./horrible-noise/horrible-noise.md)
 
