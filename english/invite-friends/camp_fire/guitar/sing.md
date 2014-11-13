@@ -1,1 +1,1 @@
-You all start singing and dancing. Everyone is in a great mood!
+You all start singing and dancing. Everyone is in a great mood! Party is in full swing. 
