@@ -3,3 +3,5 @@ eventually you all get full stomach.
 
 Do you:
 [Bring up a guitar and start singing?](guitar/sing.md)
+
+[Start telling ghost stories?](ghost-stories/ghost-stories.md)
