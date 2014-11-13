@@ -8,4 +8,4 @@ Do you:
 
 [Enter the sailboat](./enter/enter.md)
 
-[Find the owner](./find-owner/find-owner.md)
+[Find the owner](./find-owner/find-wallet.md)
