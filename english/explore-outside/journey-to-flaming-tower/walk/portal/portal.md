@@ -4,6 +4,6 @@ appears the same. A small red figure runs towards you.
 
 He offers you...
 
-[To be sent back in time a short distance](../../../../marshmellow.md)
+[To be sent back in time a short distance](../../../../marshmallow.md)
 
 [Dinner at its place](./dinner/dinner.md)
