@@ -1,4 +1,5 @@
-You start telling a really scary ghost-storie. Everybody is listening to you when suddenly a huge scream comes from the next room.
+You start telling a really scary ghost story.
+Everybody is listening to you when suddenly a huge scream comes from the next room.
 
 Do you:
 
