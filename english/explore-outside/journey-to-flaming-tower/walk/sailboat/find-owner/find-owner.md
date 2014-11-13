@@ -3,3 +3,5 @@ owner. On the deck of the boat, you stumble upon a leather wallet. Now you have 
 what do you do next?
 
 Do you:
+
+[Leave it and forget about it](../sailboat.md)
