@@ -11,6 +11,6 @@ basement, making a pool of chocolate. Do you:
 
 [Swim in the chocolate pool](basement-swim/basement-swim.md)?
 
-[Wait for the chocolate to solidify](solid-chocolate.md)?
-
 [Call Wonka Construction](wonka-construction/wonka-construction.md)?
+
+[Wait for the chocolate to solidify](solid-chocolate/solid-chocolate.md)?
