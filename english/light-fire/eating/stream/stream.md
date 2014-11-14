@@ -1,4 +1,4 @@
-You have arrived at the stream. You drink deeply and quench your thirst. A fascinating tower burns in the distance. What do you want to do now?
+You have arrived at the stream. You drink deeply and quench your thirst. A fascinating tower sits ablazed in the distance. What do you want to do now?
 
 [Go fish](go-fish/fish.md)
 
