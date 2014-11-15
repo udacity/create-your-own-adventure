@@ -8,4 +8,4 @@ Beware of the scree fields that will send you sliding into the forests below.
 
 Do you:
 
-[Slide into the forest?](../find-exit/into-forest/forest.md)
+[Slide into the forest?](../into-forest/forest.md)
