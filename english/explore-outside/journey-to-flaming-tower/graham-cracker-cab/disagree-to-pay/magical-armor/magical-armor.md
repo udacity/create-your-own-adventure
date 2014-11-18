@@ -15,6 +15,6 @@ Which do you use your gold to bargain with?
 
 [Demonacrat] (demonacrat/demonacrat.md)
 
-[Republicrat] {republicrat/republicrat.md)
+[Republicrat] (republicrat/republicrat.md)
 
 [Independcrat] (independcrat/independcrat.md)
