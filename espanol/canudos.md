@@ -7,3 +7,5 @@ el Consejero:
 [Se arrodilló y se echó a rezar mientras Beatito salía por la puerta.](rezando/rezando.md)
 
 [Llegó el periodista miope con noticias importantes.](noticias/noticias.md)
+
+[Se dirigió a la muralla exterior del pueblo.](muralla/muralla.md)
