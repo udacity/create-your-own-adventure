@@ -1,5 +1,7 @@
 One morning, you wake up in a strange room with marshmallows for walls.
 
+You also seem to be wearing an uncomfortable and restrictive jacket...
+
 Do you:
 
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
