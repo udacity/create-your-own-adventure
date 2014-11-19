@@ -1,0 +1,1 @@
+Desde la muralla pudo observar como los hombres de su ejercito venian muy contentos, seguramente con buenas noticias.
