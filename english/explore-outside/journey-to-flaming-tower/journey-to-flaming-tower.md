@@ -1,5 +1,6 @@
 You wave goodbye to the mysterious marshmallow structure and venture forth into the valley.
 Even after walking for an hour the flaming tower you saw in the distance seems no closer.
+You take a deep breath.
 
 Do you:
 
@@ -8,3 +9,5 @@ Do you:
 [Wait at the jellybus stop for a jellybus!](jellybus/jellybus.md)
 
 [Keep walking.](walk/walk.md)
+
+[Start running towards the fire](start-running/start-running.md)
