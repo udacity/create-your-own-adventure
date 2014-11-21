@@ -1,4 +1,12 @@
-You count the marshmellows which relaxes you and you fall asleep, afterwards you wake up and you must make a decision.
+You count the marshmellows which relaxes you and you fall asleep.
+
+You dream that you are floating on a magic marshmallow carpet.
+
+Girl Scouts huddled around a campfire look up to the sky and see you.
+
+They wave graham crackers and chocolate bars at you trying to lure you down.
+
+Afterwards you wake up and you must make a decision.
 
 Do you:
 
