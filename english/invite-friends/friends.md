@@ -7,5 +7,5 @@ Do you:
 
 [Start camp fire and eat marshmallow?](camp_fire/eat_marshmallow.md)
 
-[Have tea with marshmallow and start a discussion of how such a strange thing could happen?]/(start_discussion/discuss.md)
+[Have tea with marshmallow and start a discussion of how such a strange thing could happen?](start_discussion/discuss.md)
 
