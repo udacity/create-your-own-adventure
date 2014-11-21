@@ -6,6 +6,8 @@ When you're done, do you:
 
 [Go back to sleep](../sleep/more-sleep/more-sleep.md)?
 
+[Light a fire?](../light-fire/fire.md)
+
 [Start eating the walls](../eating-walls/eating-marshmallows.md)?
 
 [Explore outside](../explore-outside/explore-outside.md)?
