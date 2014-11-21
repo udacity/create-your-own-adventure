@@ -10,3 +10,8 @@ that you are going to marry the princess of Marshmallow kingdom.
 
 Do you:
 
+[Faint?](faint/faint.md)
+
+[Search for the princess?](princess/princess.md)
+
+
