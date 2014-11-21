@@ -21,3 +21,5 @@ Do you:
 [Count the marshmellows?](count-the-marshmellows/count-the-marshmellows.md)
 
 [Begin to dance to pass the time?](dance/dance.md)
+
+[You pinch yourself to see whether you are dreaming?](pinch/pinch.md)
