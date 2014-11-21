@@ -19,3 +19,5 @@ Do you:
 [Look for a way out?](find-exit/leave.md)
 
 [Count the marshmellows?](count-the-marshmellows/count-the-marshmellows.md)
+
+[Begin to dance to pass the time?](dance/dance.md)
