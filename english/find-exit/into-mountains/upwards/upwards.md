@@ -16,3 +16,9 @@ about one mile to the east; maybe
 you could pass through here to the 
 other side of the ridge. Continuing
 up, the trail ascends towards the peak.
+
+Do you:
+
+[Continue to the saddle?](./further-upwards/towards-saddle.md)
+
+[Continue to the peak?](./further-upwards/towards-peak.md)
