@@ -1,4 +1,5 @@
-You inhale through your nose, holding your breath for a count of three before slowly exhaling, preparing youself for this confrontation.
+You inhale through your nose, holding your breath for a count of three
+before slowly exhaling, preparing youself for this confrontation.
 
 "Am I... am I crazy?"
 
