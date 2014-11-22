@@ -19,6 +19,6 @@ up, the trail ascends towards the peak.
 
 Do you:
 
-[Continue to the saddle?](./further-upwards/towards-saddle.md)
+[Continue to the saddle?](./further-upwards/towards-saddle/towards-saddle.md)
 
-[Continue to the peak?](./further-upwards/towards-peak.md)
+[Continue to the peak?](./further-upwards/towards-peak/towards-peak.md)
