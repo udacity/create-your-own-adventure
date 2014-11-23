@@ -7,3 +7,5 @@ Do you:
 [Look for a way out?](../find-exit/leave.md)
 
 [Sell the marshmellows on ebay?] (./sell-on-ebay/sell-on-ebay.md)
+
+[Eat ALL the marshmellows](./eat-all-the-marshmellows.md)
