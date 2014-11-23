@@ -2,6 +2,8 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 You also seem to be wearing an uncomfortable and restrictive jacket...
 
+You begin to breakout of the jacket and find a lighter, a fork, and rope.
+
 Do you:
 
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
