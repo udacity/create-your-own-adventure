@@ -16,3 +16,7 @@ about one mile to the east; maybe
 you could pass through here to the 
 other side of the ridge. Continuing
 up, the trail ascends towards the peak.
+
+Please go to [google](http://www.google.com)
+
+And also checkout out [github](http://www.github.com/udacity/create-your-own-adventure)
