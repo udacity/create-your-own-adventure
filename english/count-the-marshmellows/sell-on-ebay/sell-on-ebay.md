@@ -1,5 +1,6 @@
-You list the marshmellows in packages of 100 on ebay.  
-They sell like hotcakes.  A popup advertises a dessert courier service "Candy Couriers". How do you get the marshmellows to the buyers?
+You list the marshmellows in packages of 100 on ebay. 
+A popup advertises a dessert courier service "Candy Couriers". 
+They sell like hotcakes.  How do you get the marshmellows to the buyers?
 
 Do you:
 
