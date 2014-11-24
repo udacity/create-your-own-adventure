@@ -4,6 +4,6 @@ They hiss and moo at you but eventually skip away but not before they take one l
 
 Exhausted from that encounter, what do you do now:
 
-[Ask for a s'more?](smore-eating/delicious.md)
+[Ask for a s'more?](../smore-eating/delicious.md)
 
-[Go back to sleep?](expired-milk/expired-milk.md)
+[Go back to sleep?](../expired-milk/expired-milk.md)
