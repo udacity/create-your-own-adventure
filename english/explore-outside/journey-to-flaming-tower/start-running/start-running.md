@@ -3,3 +3,7 @@ you sense a presence chasing you not far behind in the valley. Your heart beats 
 around for help.
 
 Do you:
+
+[Keep running toward the tower](keep-running/keep-running.md)
+
+[Turn and confront the presence chasing after you](confront/confront.md)
