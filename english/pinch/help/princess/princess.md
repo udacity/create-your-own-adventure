@@ -3,6 +3,9 @@ You search the marshmallow mansion and find the princess.
 You fall in love with her.
 
 You hold each other and kiss.
+...The End...
+
+or is it?
 
 But then you realize the princess is a human, but you are a marshmallow. This makes the princess very unhappy.
 
