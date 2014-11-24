@@ -3,4 +3,4 @@ They sell like hotcakes.  How do you get the marshmellows to the buyers?
 
 Do you:
 
-Run quickly to [deliver them] (/running-delivery.md)
+Run quickly to [deliver them] (./running-delivery.md)
