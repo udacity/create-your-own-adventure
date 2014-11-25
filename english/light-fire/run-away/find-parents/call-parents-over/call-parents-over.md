@@ -1,3 +1,3 @@
-You call the parents over, but soon realize the parents are actually Aliens?
+You call the parents over, but soon realize the parents are actually Aliens...
 
 What do you do?
