@@ -9,3 +9,5 @@ When you're done, do you:
 [Start eating the walls](../eating-walls/eating-marshmallows.md)?
 
 [Explore outside](../explore-outside/explore-outside.md)?
+
+Come inside and eat marshmallows while eating the walls and sleeping
