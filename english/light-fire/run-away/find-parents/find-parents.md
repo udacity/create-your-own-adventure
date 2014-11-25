@@ -3,3 +3,7 @@ reveals that the parents are nearby, setting out a picnic, and have not noticed 
 off.
 
 What do you do?
+
+[Call the parents over](call-parents-over/call-parents-over.md)
+
+[Walk away. It is none of your business](none-of-your-business/none-of-your-business.md)
