@@ -1,4 +1,4 @@
-You have entered another room with marshmallow walls. 
+You find that you have entered yet another room with marshmallow walls. 
 
 Do you:
 

@@ -22,3 +22,7 @@ Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
 Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
 
+Jeśli mówisz po polsku, [kliknij tutaj](Polish/ptasieMleczko.md).
+
+Se você fala português, [entre aqui](portugues/colaborando.md)
+
