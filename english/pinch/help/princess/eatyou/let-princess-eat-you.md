@@ -1,0 +1,1 @@
+You accept your true death, and ask the princess to eat you
