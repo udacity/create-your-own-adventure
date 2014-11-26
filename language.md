@@ -26,3 +26,5 @@ Jeśli mówisz po polsku, [kliknij tutaj](Polish/ptasieMleczko.md).
 
 Se você fala português, [entre aqui](portugues/colaborando.md)
 
+Ако говорите български, кликнете [тук](bulgarian/burning_room.md).
+
