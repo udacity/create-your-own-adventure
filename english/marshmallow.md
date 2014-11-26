@@ -27,3 +27,5 @@ Do you:
 [You pinch yourself to see whether you are dreaming?](pinch/pinch.md)
 
 [Promise to yourself this is the last time you take hallucinogenic mushrooms?](shrooms/never-again.md)
+
+[Think this is too surreal and decide to try the French version instead?] (../French/feu-de-camp.md)
