@@ -12,3 +12,5 @@ Do you:
 [Go exploring outside?](../explore-outside/explore-outside.md)
 
 [Light-fire?](../light-fire/fire.md)
+
+[Sing a song?](../sing-song/sing.md)
