@@ -28,3 +28,4 @@ Se você fala português, [entre aqui](portugues/colaborando.md)
 
 Ако говорите български, кликнете [тук](bulgarian/burning_room.md).
 
+日本語を使う人は、[ここ](japanese/chasitsu.md)に行ってください。
