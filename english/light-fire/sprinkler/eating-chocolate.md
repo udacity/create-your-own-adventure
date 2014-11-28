@@ -14,3 +14,5 @@ basement, making a pool of chocolate. Do you:
 [Call Wonka Construction](wonka-construction/wonka-construction.md)?
 
 [Wait for the chocolate to solidify](solid-chocolate/solid-chocolate.md)?
+
+[Go to market to buy some fruits to dip in the chocolate](going-to-market/market.md)?
