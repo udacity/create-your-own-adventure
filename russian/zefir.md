@@ -6,3 +6,5 @@
 [Вы разведете костер?](light-fire/fire.md)
 
 [Попытаетесь проснуться?](awaken/awaken.md) 
+
+[Сделаете селфи?](selfie/selfie.md)
