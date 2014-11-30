@@ -1,1 +1,0 @@
-Po chvilce co se rozhlizis po mistnosti si vsimnes jednoho marsmelounu ktery vypada jinak nez ostatni. Je ruzovy a takovy vic nafouknuty nez ostatni. Rozezlene do nej kopnes pricemz marsmeloun se odloupne ze zdi ve ktere je na jeho miste temna dira. Podivas se do ni a vidis jen cernocernou tmu. Z niceho nic si vsimnes maleho svetla ktere se zacina pomalu priblizovat.

@@ -1,1 +1,0 @@
-Zacnes zpivat jako sileny a po chvilce prijdou dozorci mistniho ustavu a zacnou te konsolidovat okovanymi obusky. Kdyz se valis na zemi v krvi a cekas na ranu z milost, jeden z dozorcu ti pred tim nez te dorazi rekne: "To C# bylo falesny jak dedkovy zuby!" a prorazi ti obuskem lebecni dutinu az do mozku.
