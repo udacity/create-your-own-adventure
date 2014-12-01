@@ -6,3 +6,6 @@ You pick it up and take a bite.
 
 [Have you heard a horrible noise from your mouth?](horrible-noise/horrible-noise.md)
 
+[Did a friendly dragon hear the crunch of the apple and come galloping in to beg
+for a treat?](friendly-dragon/friendly-dragon.md)
+
