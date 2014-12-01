@@ -9,4 +9,6 @@ What do you do now:
 
 [Invite some friends over?](../../../invite-friends/friends.md)
 
+[Start your day over?](../../../marshmallow.md)
+
 [Start eating the walls?](../../../eating-walls/eating-marshmallows.md)
