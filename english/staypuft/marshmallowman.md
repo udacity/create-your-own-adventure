@@ -9,3 +9,5 @@ When you're done, do you:
 [Start eating the walls](../eating-walls/eating-marshmallows.md)?
 
 [Explore outside](../explore-outside/explore-outside.md)?
+
+[Call Dr Venkman to help blast you out?](./ghostbusters/where-is-my-proton-pack.md)
