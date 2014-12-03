@@ -11,3 +11,5 @@ Exhausted from that encounter, what do you do now:
 [Go back to sleep?](../expired-milk/expired-milk.md)
 
 [Stand there](../stand-there/stand-there.md)
+
+[Go out and collect mushroom?](../../../mushroom/collect_mushroom.md)
