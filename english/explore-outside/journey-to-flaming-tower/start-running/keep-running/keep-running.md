@@ -3,5 +3,5 @@ You run until your legs burn and your lungs feel like they will explode.  The pr
 Closer with every step.  You feel hot breath on the back of your neck.
 
 Do you:
-	[Turn and confront the presence chasing after you](confront/confront.md)
+	[Turn and confront the presence chasing after you?](turn-and-confront/turn-and-confront.md)
 
