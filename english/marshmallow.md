@@ -32,4 +32,4 @@ Do you:
 
 [Think this is a dream, and jam the work into your hand to wake up?] (fork-jam/not_dreaming.md)
 
-[Make one of those weird marshmallow Jell-O salads?](marshmallow-jellow-salad/the-kind-your-gradma-used-to-make.md)
+[Make one of those weird marshmallow Jell-O salads?](marshmallow-jello-o-salad/the-kind-your-grandma-used-to-make.md)
