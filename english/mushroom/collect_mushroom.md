@@ -4,4 +4,4 @@ till you reach a giant red oak. You found a handle of fresh mushroom.
 Do you:
 [Eat the mushroom?] (eat/eat_mushroom.md)
 
-[Throw away the poisonous mushroom?] (poison/poisonous_mushroom.d)
+[Throw away the poisonous mushroom?] (poison/poisonous_mushroom.md)
