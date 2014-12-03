@@ -8,14 +8,8 @@ Exhausted from that encounter, what do you do now:
 
 [Ask for a s'more?](../smore-eating/delicious.md)
 
-<<<<<<< HEAD
-[Go back to sleep?](../expired-milk/expired-milk.md)
-
-[Go out and collect mushroom?](../../../mushroom/collect_mushroom.md)
-||||||| merged common ancestors
-[Go back to sleep?](../expired-milk/expired-milk.md)
-=======
 [Go back to sleep?](../expired-milk/expired-milk.md)
 
 [Stand there](../stand-there/stand-there.md)
->>>>>>> master
+
+[Go out and collect mushroom?](../../../mushroom/collect_mushroom.md)
