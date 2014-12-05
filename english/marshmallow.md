@@ -32,4 +32,6 @@ Do you:
 
 [Think this is a dream, and jam the work into your hand to wake up?] (fork-jam/not_dreaming.md)
 
+[Go out and collect mushroom?] (mushroom/collect_mushroom.md)
+
 [Make one of those weird marshmallow Jell-O salads?](marshmallow-jello-o-salad/the-kind-your-grandma-used-to-make.md)
