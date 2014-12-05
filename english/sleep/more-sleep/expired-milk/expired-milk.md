@@ -11,4 +11,6 @@ What do you do now:
 
 [Start your day over?](../../../marshmallow.md)
 
+[Go to sleep one more time](expired-milk.md)
+
 [Start eating the walls?](../../../eating-walls/eating-marshmallows.md)
