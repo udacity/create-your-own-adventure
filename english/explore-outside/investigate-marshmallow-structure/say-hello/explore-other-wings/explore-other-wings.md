@@ -9,3 +9,4 @@ You pick it up and take a bite.
 [Did a friendly dragon hear the crunch of the apple and come galloping in to beg
 for a treat?](friendly-dragon/friendly-dragon.md)
 
+[Do you shrink?](shrink/shrink.md)
