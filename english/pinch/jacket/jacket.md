@@ -8,13 +8,14 @@ zzzzzz
 
 zzzzzz
 
-You wake to the sound of a distant loud noise. Your still in the marshmallow room, and your still in the uncomfortable jacket.
+You wake to the sound of a distant loud noise. Your still in the
+marshmallow room, and your still in the uncomfortable jacket.
 
 Do you:
 
-Shout for help?
+[Shout for help?](shout/shout.md)
 
-Eat your way out of the room?
+[Eat your way out of the room?](eatit/eatit.md)
 
-Use your mad magician skills to get out of the jacket?
+[Use your mad magician skills to get out of the jacket?](magicianskills/magicianskills.md)
 
