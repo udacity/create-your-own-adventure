@@ -6,6 +6,6 @@ Afterwards, you decide to:
 
 [dance with joy](../dance/dance.md)
 
-[invite friends to party with you](../invite-friends/invite-friends.md)
+[invite friends to party with you](../invite-friends/friends.md)
 
 [begin your journey](../explore-outside/explore-outside.md)
