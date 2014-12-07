@@ -21,3 +21,5 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 [Call the marshmallow wall repair guy, Marshall M. Aloe](call-marshall/call-marshall.md)
 
 [Pull graham crackers from inside your jacket](graham-crackers/graham-crackers.md)
+
+[Say xyzzy.](xyzzy/xyzzy.md)
