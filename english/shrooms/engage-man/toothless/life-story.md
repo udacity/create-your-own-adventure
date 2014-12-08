@@ -8,6 +8,8 @@ like you have now."
 "I tried to eat my way through the marshmallow walls. That is how I lost all my
 teeth," he laments mournfully.
 
+"Certainly, you never tried hard enough."
+
 Do you:
 
 [Ignore his words of warning and start eating the walls?](../../../eating-walls/eating-marshmallows.md)
