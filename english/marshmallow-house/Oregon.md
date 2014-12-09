@@ -1,5 +1,5 @@
-Because of nice cold weather..
+Make it here because of nice cold weather..
 
-The marshmallow will last a long time here.
+- The marshmallow will last a long time here.
 
-But you will also enjoy eating it here.
+- But you will also enjoy eating it here.
