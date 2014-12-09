@@ -5,4 +5,4 @@ been eating.
 After a while, you step out of the pool, drenched in milk chocolate. 
 Do you:
 
-[Dry off with the fluffy towel.](/fluffy-towel/fluffy-towel.md)
+[Dry off with the fluffy towel.](fluffy-towel/fluffy-towel.md)
