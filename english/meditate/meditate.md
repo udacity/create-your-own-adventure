@@ -2,6 +2,8 @@ You recently read that meditation helps you feel more awake, relieves stress, an
 
 So you begin to meditate for 30 minutes and when you finish, you feel more refreshed than ever.
 
+And you feel like you need to do something, but what ...
+
 Afterwards, you decide to:
 
 [dance with joy](../dance/dance.md)
