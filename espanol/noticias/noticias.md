@@ -4,4 +4,6 @@ Enseguida, Beatito:
 
 [Pregunta al periodista ¿que noticias nos traes?](pregunta-periodista/pregunta-periodista.md)
 
+[Le hace una seña al periodista](sena/sena.md)
+
 [Se burla del periodista](burla-periodista/burla-periodista.md)
