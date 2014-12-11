@@ -37,3 +37,5 @@ Do you:
 [Make one of those weird marshmallow Jell-O salads?](marshmallow-jello-o-salad/the-kind-your-grandma-used-to-make.md)
 
 [Go meditate and ponder about your next step?](meditate/meditate.md)
+
+[Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
