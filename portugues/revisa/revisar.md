@@ -1,3 +1,5 @@
+Legal, certamente o desenvolvedor irá aprimorar o aplicativo.
+
 Você recebe uma resposta do desenvolvedor, pedindo uma descrição passo-a-passo de como reproduzir o bug
 
 Você:
