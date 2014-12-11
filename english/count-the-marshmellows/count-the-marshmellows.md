@@ -9,3 +9,5 @@ Do you:
 [Sell the marshmallows on ebay?] (./sell-on-ebay/sell-on-ebay.md)
 
 [Eat ALL the marshmallows](./eat-all-the-marshmellows/eat-all-the-marshmellows.md)
+
+[Find a place to hide marshmellows!](./find-place-to-hide/hide-marshmellows.md)
