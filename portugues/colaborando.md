@@ -3,8 +3,8 @@ aplicativo, você detecta um bug.
 
 Você:
 
-[Procura o repositório do aplicativo](colabora/colaborar.md)
+[Procura o repositório do aplicativo?](colabora/colaborar.md)
 
-[Não é um programador e decide enviar uma revisão do aplicativo para o desenvolvedor](revisa/revisar.md)
+[Não é um programador e decide enviar uma revisão do aplicativo para o desenvolvedor?](revisa/revisar.md)
 
 [Git o quê?](git/oque.md)
