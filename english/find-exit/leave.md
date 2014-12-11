@@ -6,7 +6,9 @@ There are two paths outside. One leads into a forest. One leads into the mountai
 
 In the distance, you notice a tower that has caught fire, but is smoking a deep shade of purple.
 
-You have a slight cold.  You might want to call in sick to work. What do you do?
+You have a slight cold.  You might want to call in sick to work.
+
+You hate your job. You might want to try a new employer. What do you do?
 
 [Path into forest](into-forest/forest.md)
 
@@ -17,3 +19,5 @@ You have a slight cold.  You might want to call in sick to work. What do you do?
 [Go back inside and sleep](../sleep/marshmallow.md)
 
 [Invite some friends over to your room](../invite-friends/friends.md)
+
+[Call a recruiter](../call-a-recruiter/recruiter.md)
