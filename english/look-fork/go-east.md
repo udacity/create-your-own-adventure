@@ -8,6 +8,8 @@ Do you:
 
 [fork](you-are-looking-at-a-fork.md)
 
+[check inventory](inventory1.md)
+
 [meditate](../meditate/meditate.md)
 
 [help](http://lmgtfy.com/?q=Why+wall%3F)
