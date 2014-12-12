@@ -16,6 +16,8 @@ Do you:
 
 [Stay puft?](staypuft/marshmallowman.md)
 
+[Dig at the walls with a fork](dig/dig.md)
+
 [Invite some friends over?](invite-friends/friends.md)
 
 [Look for a way out?](find-exit/leave.md)
