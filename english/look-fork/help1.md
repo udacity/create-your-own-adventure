@@ -1,8 +1,8 @@
 Commands are:
 
-[go <direction>](go-where.md)
+[go \<direction\>](go-where.md)
 
-[get <item>](get-what.md)
+[get \<item\>](get-what.md)
 
 [check inventory](inventory1.md)
 
