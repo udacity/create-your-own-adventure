@@ -20,4 +20,4 @@ You have a slight cold.  You might want to call in sick to work. What do you do?
 
 [Invite some friends over to your room](../invite-friends/friends.md)
 
-[shoot a flare to wave down the chococopter](../chococopter/chococopter.md)
+[shoot a flare to wave down the chococopter](chococopter/chococopter.md)
