@@ -8,6 +8,8 @@ Do you:
 
 [look etc.](http://dictionary.reference.com/browse/etcetera)
 
+[get etc.](get-what.md)
+
 [go east](go-east.md)
 
 [speak](speak.md)
