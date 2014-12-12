@@ -2,6 +2,6 @@ The forks stabs you. Game over
 
 Start over?
 
-[Y](../marshmallow.md)
+[Yes](../marshmallow.md)
 
-[N](i-am-sorry.md)
+[No](i-am-sorry.md)
