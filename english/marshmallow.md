@@ -6,6 +6,8 @@ You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
 Do you:
 
+[look fork](look-fork/you-are-looking-at-a-fork.md)
+
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
 
 [Quickly run outside and explore?](explore-outside/explore-outside.md)
