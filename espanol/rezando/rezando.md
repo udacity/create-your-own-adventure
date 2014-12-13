@@ -6,3 +6,5 @@ Beatito entonces:
 [Pregunta a Juarema ¿quién es?](enano/enano.md)
 
 [Coje y abre el paquete](paquete/paquete.md)
+
+[Agarrar a Jurema e irse a la plaza](plaza/plaza.md)

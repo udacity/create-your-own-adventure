@@ -6,6 +6,8 @@ There are two paths outside. One leads into a forest. One leads into the mountai
 
 In the distance, you notice a tower that has caught fire, but is smoking a deep shade of purple.
 
+Overhead, you hear a loud, running noise. It's a chococopter!
+
 You have a slight cold.  You might want to call in sick to work. What do you do?
 
 [Path into forest](into-forest/forest.md)
@@ -15,3 +17,7 @@ You have a slight cold.  You might want to call in sick to work. What do you do?
 [Forget work and investigate](../explore-outside/journey-to-flaming-tower/journey-to-flaming-tower.md)
 
 [Go back inside and sleep](../sleep/marshmallow.md)
+
+[Invite some friends over to your room](../invite-friends/friends.md)
+
+[shoot a flare to wave down the chococopter](chococopter/chococopter.md)
