@@ -11,3 +11,5 @@ What do you do now:
 [Go back to sleep?](expired-milk/expired-milk.md)
 
 [Walk away in fear through a hole in the wall?](../../explore-outside/explore-outside.md)
+
+[Defend your mallows and attack them!](attack/attack.md)

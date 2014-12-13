@@ -12,3 +12,7 @@ Do you:
 [Go exploring outside?](../explore-outside/explore-outside.md)
 
 [Light-fire?](../light-fire/fire.md)
+
+[Sing a song?](../sing-song/sing.md)
+
+[Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
