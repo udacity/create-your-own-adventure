@@ -7,3 +7,5 @@ Enseguida, Beatito:
 [Le hace una seña al periodista](sena/sena.md)
 
 [Se burla del periodista](burla-periodista/burla-periodista.md)
+
+[le comenta al periodista que necessita anteojos](anteojos/anteojos.md)
