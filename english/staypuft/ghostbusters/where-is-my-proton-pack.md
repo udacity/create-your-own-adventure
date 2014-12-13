@@ -9,3 +9,5 @@ From the looks of things, it will take a while to get this mess cleaned up!
 After so much excited you decide to:
 
 [Look for a way out before anyone hands you a broom?](../../find-exit/leave.md)
+
+[Watch Ghostbusters and see if you're in the credits?](watch-ghostbusters/watch-ghostbusters.md)
