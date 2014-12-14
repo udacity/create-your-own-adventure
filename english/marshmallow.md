@@ -32,7 +32,7 @@ Do you:
 
 [Think this is too surreal and decide to try the French version instead?] (../French/feu-de-camp.md)
 
-[Think this is a dream, and jam the work into your hand to wake up?] (fork-jam/not_dreaming.md)
+[Think this is a dream, and jam the fork into your hand to wake up?] (fork-jam/not_dreaming.md)
 
 [Go out and collect mushroom?] (mushroom/collect_mushroom.md)
 
