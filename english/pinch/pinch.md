@@ -10,4 +10,5 @@ Do you:
 
 [Shout for help?](help/help.md)
 
+[Go outside of the marshmallow room](go-out/go-out.md)
 

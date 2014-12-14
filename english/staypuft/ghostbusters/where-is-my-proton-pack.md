@@ -15,3 +15,7 @@ You look up in time to see a taxi cab skidding toward you through the gloopy guc
 [Scream](./vocalize/scream.md)
 
 [Reach for the proton pack](./protons/reach.md)
+
+[Look for a way out before anyone hands you a broom?](../../find-exit/leave.md)
+
+[Watch Ghostbusters and see if you're in the credits?](watch-ghostbusters/watch-ghostbusters.md)

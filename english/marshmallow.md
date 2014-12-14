@@ -16,6 +16,8 @@ Do you:
 
 [Stay puft?](staypuft/marshmallowman.md)
 
+[Dig at the walls with a fork](dig/dig.md)
+
 [Invite some friends over?](invite-friends/friends.md)
 
 [Look for a way out?](find-exit/leave.md)
@@ -37,3 +39,5 @@ Do you:
 [Make one of those weird marshmallow Jell-O salads?](marshmallow-jello-o-salad/the-kind-your-grandma-used-to-make.md)
 
 [Go meditate and ponder about your next step?](meditate/meditate.md)
+
+[Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
