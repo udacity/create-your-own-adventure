@@ -6,3 +6,5 @@ You notice the large sword hanging from his belt. He is playing with the hilt me
 What do you do next?
 
 [Offer to lead the sailor to buried treasure](offer/offer.md)
+
+[Turn and run for it](run/run.md)
