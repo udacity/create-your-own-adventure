@@ -6,7 +6,19 @@ end up landing in a soft, gooey marshmallow mess in the middle of a busy New Yor
 
 From the looks of things, it will take a while to get this mess cleaned up! 
 
+Just out of reach, you see a discarded proton pack.
+
+You try to pull yourself out of the sticky mass, but with a sinking feeling you realise you are stuck.
+
+You look up in time to see a taxi cab skidding toward you through the gloopy guck. You have seconds to act
+
 After so much excited you decide to:
+
+[Close your eyes and think good thoughts](./wishful-thinking/hope.md)
+
+[Scream](./vocalize/scream.md)
+
+[Reach for the proton pack](./protons/reach.md)
 
 [Look for a way out before anyone hands you a broom?](../../find-exit/leave.md)
 
