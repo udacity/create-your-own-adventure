@@ -41,3 +41,5 @@ Do you:
 [Go meditate and ponder about your next step?](meditate/meditate.md)
 
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
+
+[Start humming very deeply and loudly?](hum-loudly/hum-loudly.md)
