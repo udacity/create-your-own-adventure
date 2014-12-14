@@ -4,4 +4,4 @@ The way is now open.
 
 You now decide to:
 
-[Dance fiercely](../dance/danc.md)
+[Dance fiercely](../dance/dance.md)
