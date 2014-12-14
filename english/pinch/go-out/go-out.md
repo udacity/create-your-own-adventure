@@ -6,4 +6,4 @@ Do you:
 
 [Follow the rabbit and jump into the hole](follow-rabbit/follow-rabbit.md)
 
-[Run back into the marshmallow room](../pinch.md)
+[Keep running, going nowhere in particular](keep-running/keep-running.md)
