@@ -2,4 +2,4 @@ Una vez que mencione que necessita anteojos el periodista dice que nunca ha teni
 
 ensequida:
 
-[Se burla del periodista](burla-periodista/burla-periodista.md)
+[Se burla del periodista](../burla-periodista/burla-periodista.md)
