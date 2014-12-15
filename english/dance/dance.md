@@ -9,3 +9,4 @@ Do you:
 [Light a fire?](../light-fire/fire.md)
 
 [Look for a way out?](../find-exit/leave.md)
+it is a dancing cat
