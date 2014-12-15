@@ -12,3 +12,5 @@ Do you:
 [Walk around this marshmallow structure you've just escaped from?](./investigate-marshmallow-structure/investigate-marshmallow-structure.md)
 
 [Call Stephen King and tell him the Dark Tower series is in trouble?](./call-king/call-king.md)
+
+[Go Kite Surfing in Santa Cruz](./kitesurf-in-santa-cruz.md)
