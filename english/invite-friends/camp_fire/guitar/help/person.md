@@ -1,4 +1,6 @@
-Hurrying over to the person on the ground you see that she has a black eye and is moaning in pain!  Do you:
+Hurrying over to the person on the ground you see that she has a black eye and is moaning in pain!
+
+Do you:
 
 [Administer a morphine drip?](english/invite-friends/camp_fire/guitar/help/morphine/morphine.md)
 
