@@ -1,4 +1,4 @@
-You begin to search for the antidote 
+You begin to search for the antidote
 
 You find a key to a locked room which has a bottle in it. 
 
