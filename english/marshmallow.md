@@ -1,5 +1,7 @@
 One morning, you wake up in a strange room with marshmallows for walls.
 
+These marshmallows are numerous and they look so delicious.
+
 You also seem to be wearing an uncomfortable and restrictive jacket...
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
