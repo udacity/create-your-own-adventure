@@ -1,6 +1,6 @@
 You feel the walls until you find the jell-o door.
 
-Excited for the day ahead of you, you walk through it to go to work.
+Excited for the day ahead of you, you walk through the door to see what exactly awaits you.
 
 There are two paths outside. One leads into a forest. One leads into the mountains.
 
@@ -8,7 +8,7 @@ In the distance, you notice a tower that has caught fire, but is smoking a deep 
 
 Overhead, you hear a loud, running noise. It's a chococopter!
 
-You have a slight cold.  You might want to call in sick to work. What do you do?
+You have a slight cold.  It might be dangerous. What do you do?
 
 [Path into forest](into-forest/forest.md)
 
