@@ -12,5 +12,3 @@ Do you:
 it is a dancing cat
 
 
-Were we go.
-Nice experiance
