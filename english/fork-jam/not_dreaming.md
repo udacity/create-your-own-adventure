@@ -6,6 +6,6 @@ At the center of the room you notice a chocolate chalice on a graham cracker alt
 
 Do you:
 
-[Drink from it?](choco-chalice/choco-chalice.md)
+[Drink from it?](./choco-chalice/choco-chalice.md)
 
 [Go exploring outside?](../explore-outside/explore-outside.md)
