@@ -1,0 +1,1 @@
+While walking home you stumbled upon a field of strawberries. Not any ordinary strawberries, talking ones
