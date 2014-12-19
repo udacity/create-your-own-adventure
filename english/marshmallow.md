@@ -10,6 +10,8 @@ Do you:
 
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
 
+[Try to pull a MacGyver with the lighter, fork and rope?](macgyver/macgyver.md)
+
 [Quickly run outside and explore?](explore-outside/explore-outside.md)
 
 [Light a fire?](light-fire/fire.md)
