@@ -14,5 +14,4 @@ The dog: "have you ever seen a cow walking? if you do you'll never walk like a c
 
 The cow: "That's why I'm driving"
 
-Click [Here](href="../marshmallow.md")
-to see a cow walking.
+Click here to see a cow walking.
