@@ -1,4 +1,6 @@
-You find that the walls are very thin, and outside of them is a forest.
+You find that the walls are very thin, so you quickly break through.
+
+The effort has left you exhausted, but outside, you see a forest.
 
 Do you:
 
