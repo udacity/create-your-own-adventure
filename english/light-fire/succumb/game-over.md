@@ -1,6 +1,6 @@
-You are now one with the marshmallow. You feel for the first time, true inner peace.
+You feel yourself slowly being enveloped my the gooiness of the marshmallows.
 
-Better luck next time.
+You feel for the first time, true inner peace.
 
 [Fight the sensation.  Claw back to life.](../../marshmallow.md)
 
