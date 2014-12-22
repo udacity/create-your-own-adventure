@@ -10,3 +10,6 @@ Do you:
 
 [Look for a way out?](../find-exit/leave.md)
 it is a dancing cat
+
+[Wanna be Happy](../happy/happy.md)
+
