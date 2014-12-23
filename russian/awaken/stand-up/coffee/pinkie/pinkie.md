@@ -5,5 +5,5 @@
 
 [Жизнь прекрасна?](Life/LifeIsGood.md)
 
-[Краем сознания вы понимаете, что вас что-то не так.](SomethingWrong/SomethingWrong.md)
+[Краем сознания вы понимаете, что что-то не так...](SomethingWrong/SomethingWrong.md)
 
