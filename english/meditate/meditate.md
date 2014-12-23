@@ -15,3 +15,5 @@ Afterwards, you decide to:
 [begin your journey](../explore-outside/explore-outside.md)
 
 [do Yoga for 30 min](../yoga/yoga.md)
+
+[build a giant stay puft marshmallow snowman](..staypuft/marshmallowman.md)
