@@ -1,0 +1,3 @@
+You tell the sailor that since you were in a no-wake zone, you didn’t want to wake him up.  Then you tell him that you’re part of CandyTown's coast guard and that you were checking how many marshmallow rafts are on board.  You don't want a repeat of the Flaming Cheetos incident from ten years ago, when everyone tried to escape the fire but all the marshmallow rafts had been eaten by the Michelin Man.
+
+He seems to accept your story for the time being.
