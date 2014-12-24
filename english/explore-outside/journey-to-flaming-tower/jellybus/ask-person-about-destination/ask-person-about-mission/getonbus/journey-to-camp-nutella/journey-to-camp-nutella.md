@@ -4,5 +4,6 @@ from the horizon or take a cab."
 
 You decide to ...
 
-[Stay on the bus to get to the horizon](./stay-on-bus.md)
+[Stay on the bus to get to the horizon](stay-on-bus/stay-on-bus.md)
+
 [Take a cab instead](../../../../../graham-cracker-cab/graham-cracker-cab.md)
