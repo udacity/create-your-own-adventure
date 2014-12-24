@@ -8,3 +8,5 @@ The fate of the free world rests on your shoulders...
 Do you:
 
 [Stick the fork in the wall?](stickfork/stickforkinwall.md)
+
+[Place the rope in wall like a wick and light it on fire?](light-rope-on-fire/light-rope-on-fire.md)
