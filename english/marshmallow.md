@@ -6,7 +6,11 @@ You also seem to be wearing an uncomfortable and restrictive jacket...
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
+When you look away, a marshmallow hand attempts to grab the lighter.
+
 Do you:
+
+[Grab the lighter first?](lighter/grab-lighter.md)
 
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
 
