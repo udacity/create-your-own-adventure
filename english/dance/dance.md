@@ -10,3 +10,5 @@ Do you:
 
 [Look for a way out?](../find-exit/leave.md)
 it is a dancing cat
+
+[Sleep because you are tired from dancing?](../sleep/marshmallow.md)
