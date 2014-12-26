@@ -8,4 +8,5 @@ The fate of the free world rests on your shoulders...
 Do you:
 
 [Stick the fork in the wall?](stickfork/stickforkinwall.md)
+
 [Use the lighter on the fork?](lightfork/lightfork.md)
