@@ -18,6 +18,8 @@ Ifyay ouyay eakspay Igpay Atinlay, [ogay erehay](pig-latin/arshmallowmay.md).
 
 Si vous parlez français, [suivez-moi] (French/feu-de-camp.md)
 
+Ja runājat latviski, [tad spied šeit](Latvian/caramelle.md).
+
 Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)

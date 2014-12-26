@@ -1,0 +1,1 @@
+The marshmallow man springs to life and exclaims "Happy Birthday!"
