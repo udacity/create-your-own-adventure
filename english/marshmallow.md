@@ -46,4 +46,4 @@ Do you:
 
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
 
-[Try to solve one unsolved problem in the assignment](solve-problem/solve-problem.md)
+[Try to solve one unsolved problem in the assignment?](solve-problem/solve-problem.md)
