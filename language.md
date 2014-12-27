@@ -35,3 +35,6 @@ Se você fala português, [entre aqui](portugues/colaborando.md)
 Rägite eesti keeles, vajutage [siia](estonian/raamat.md).
 
 Якщо ви говорите україньською, перейдіть за [посиланням](ukrainian/marshmallow.md).
+
+ถ้าคุณเป็นคนไทย เข้าไปเพิ่มเนื้อหาได้เลยครับ [คลิก](Thai/Cuisine/TomYumKung.md)
+
