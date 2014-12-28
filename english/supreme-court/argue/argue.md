@@ -8,7 +8,7 @@ Chief Justice John Roberts looks at you approvingly. You have tickled his judici
 
 How do you respond?
 
-[Punch opposing counsel in the face](opposing-counsel/punch.md)
+[Punch opposing counsel in the face](../opposing-counsel/punch.md)
 
 [Yell "NOOOOOOOOOOOOOOOO"](no.md)
 
