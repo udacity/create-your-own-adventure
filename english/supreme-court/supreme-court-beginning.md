@@ -9,8 +9,8 @@ What do you do?
 
 [Say "Mr. Chief Justice. May it please the Court."](argue/argue.md)
 
-[Address Justice Antonin Scalia directly](scalia/scalia.md)
+[Address Justice Antonin Scalia directly.](scalia/scalia.md)
 
-[Stare directly into Justice Ruth Bader Ginsburg's eyeballs](ginsburg/ginsburg.md)
+[Stare directly into Justice Ruth Bader Ginsburg's eyeballs.](ginsburg/ginsburg.md)
 
-[Punch opposing counsel in the face](opposing-counsel/punch.md)
+[Punch opposing counsel in the face.](opposing-counsel/punch.md)

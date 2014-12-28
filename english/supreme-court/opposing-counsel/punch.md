@@ -10,4 +10,4 @@ What's your next move?
 
 [Punch opposing counsel again!](punch-again.md)
 
-[Stare directly into Justice Ruth Bader Ginsburg's eyeballs](../ginsburg/ginsburg.md)
+[Stare directly into Justice Ruth Bader Ginsburg's eyeballs.](../ginsburg/ginsburg.md)

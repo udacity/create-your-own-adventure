@@ -8,4 +8,4 @@ The Chief Justice just looks disgusted.
 
 You don't really have much choice here.
 
-[Guards take you back to the marshmallow room](../../marshmallow.md)
+[Guards take you back to the marshmallow room.](../../marshmallow.md)
