@@ -45,3 +45,6 @@ Do you:
 [Go meditate and ponder about your next step?](meditate/meditate.md)
 
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
+
+[File a writ of habeas corpus with the Supreme Court to get out of the room?](supreme-court/supreme-court-beginning.md)
+
