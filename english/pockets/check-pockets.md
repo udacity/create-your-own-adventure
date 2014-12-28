@@ -1,22 +1,8 @@
-One morning, you wake up in a strange room with marshmallows for walls.
-
-These marshmallows are numerous and they look so delicious.
-
-You also seem to be wearing an uncomfortable and restrictive jacket...
-
-You begin to breakout of the jacket and find a lighter, a fork, and rope.
+You check your pockets and find only lint.
 
 Do you:
 
-[Start eating the walls?](eating-walls/eating-marshmallows.md)
-
-[Try to pull a MacGyver with the lighter, fork and rope?](macgyver/macgyver.md)
-
-[Check your pants pockets](pockets/check-pockets.md)
-
-[Quickly run outside and explore?](explore-outside/explore-outside.md)
-
-[Light a fire?](light-fire/fire.md)
+[Eat the lint](lint/eat-lint.md)
 
 [Go back to sleep?](sleep/marshmallow.md)
 
