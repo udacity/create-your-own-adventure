@@ -7,7 +7,7 @@ You're not sure what the correct action is. Your nerves are on fire.
 
 What do you do?
 
-[Say "Mr. Chief Justice. May it please the Court."] (argue/argue.md)
+[Say "Mr. Chief Justice. May it please the Court."](argue/argue.md)
 
 [Address Justice Antonin Scalia directly](scalia/scalia.md)
 
