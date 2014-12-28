@@ -45,3 +45,5 @@ Do you:
 [Go meditate and ponder about your next step?](meditate/meditate.md)
 
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
+
+[Sell the marshmallows and make a fortune?](sell-marshmallows/sell-marshmallows.md)
