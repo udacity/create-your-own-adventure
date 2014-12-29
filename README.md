@@ -1,6 +1,10 @@
 # Collaborative Create-Your-Own-Adventure
 
+
 This is a create-your-own-adventure story where at each step, the reader choosen
+
+
+
 what action to take and turns to an appropriate page of the story based on their
 choice.  It is collaborative because it is written one small piece at a time by
 many authors.  To start reading the story, click [here](language.md).
@@ -83,5 +87,9 @@ people who don't know Markdown.
 
 The content of this repository is licensed under a
 [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+<<<<<<< HEAD
 this line is changed by nikhil2
+=======
+this line is nwo merger it again.
+>>>>>>> master
 let change some thing from local repository and then push...
