@@ -83,5 +83,5 @@ people who don't know Markdown.
 
 The content of this repository is licensed under a
 [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
-checking
+same line changed now see merging.
 let change some thing from local repository and then push...
