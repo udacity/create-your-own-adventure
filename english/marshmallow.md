@@ -16,6 +16,8 @@ Do you:
 
 [Light a fire?](light-fire/fire.md)
 
+[dig a hole with your bare hands?](dig-hole-hands/hands.md)
+
 [Go back to sleep?](sleep/marshmallow.md)
 
 [Stay puft?](staypuft/marshmallowman.md)
