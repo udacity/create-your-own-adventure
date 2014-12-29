@@ -10,3 +10,5 @@ Do you:
 
 [Look for a way out?](../find-exit/leave.md)
 it is a dancing cat
+
+[Do an interpretative dance about fire?](../light-fire/fire.md)
