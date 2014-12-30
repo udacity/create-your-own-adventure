@@ -12,3 +12,5 @@ Do you:
 [Share your decision with the man?](engage-man/engage-man.md)
 
 [Pinch yourself to make sure the man is real?](../pinch/pinch.md)
+
+[Pinch the man to make sure your self is real?](../pinch/pinch.md)
