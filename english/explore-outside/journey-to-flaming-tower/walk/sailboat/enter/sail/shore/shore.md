@@ -4,4 +4,4 @@ He won't let you leave until you tell him what happened.
 
 Do you:
  
-[Lie to the sailor?](./lie/lie.md)
+[Lie to the sailor?](lie-to-sailor/lie-to-sailor.md)
