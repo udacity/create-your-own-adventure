@@ -4,8 +4,13 @@ You make a solemn vow to yourself that you will never again consume hallucinogen
 
 Then you notice a small, old man grinning toothlessly back at you from across the room.
 
+He seems somehow detached from reality, and his features appear to both move and stay still,
+like a statue in the shadows or a painting in the corner of your eye.
+
 Do you:
 
 [Share your decision with the man?](engage-man/engage-man.md)
 
 [Pinch yourself to make sure the man is real?](../pinch/pinch.md)
+
+[Pinch the man to make sure your self is real?](../pinch/pinch.md)
