@@ -11,6 +11,6 @@ let Mr. King know that it is on fire so that he can save it.
 ..And while you write the urgent e-mail on some sort of mobile e-mailing device
 you decide that you must soldier on and continue to:
 
-[Investigate the marshmallow structure](./investigate-marshmallow-structure/investigate-marshmallow-structure.md)
+[Investigate the marshmallow structure](../investigate-marshmallow-structure/investigate-marshmallow-structure.md)
 
-[Wonder in to the flaming tower, putting all risks aside](./journey-to-flaming-tower/journey-to-flaming-tower.md)
+[Wonder in to the flaming tower, putting all risks aside](../journey-to-flaming-tower/journey-to-flaming-tower.md)
