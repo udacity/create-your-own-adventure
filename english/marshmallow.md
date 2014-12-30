@@ -47,3 +47,5 @@ Do you:
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
 
 [Start tying knots on the fork?](fork-knots/melt-with-fork.md)
+
+[Think of a plan to defeat Freddy Kruger using with your hand made flaming pitchfork?](freddy-kruger/pitch-fork.md)
