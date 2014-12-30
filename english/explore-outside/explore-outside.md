@@ -1,6 +1,10 @@
 Walking out of a hole created from gobbling marshmallows, you step into a
 valley full of odd sights and sounds, each beckoning, suggesting mystery, but promising adventure. 
 
+You see a yellow lake surrounded by towering blue trees. In the lake, there is a small green
+child fishing in a marshmallow boat that's beginning to melt. But the child doesn't seem
+to mind. The boat is thick enough for now. You are about to call to the child. But...
+
 In the distance, you notice a tower that has caught fire, but is smoking a deep shade of purple.
 
 Do you:
