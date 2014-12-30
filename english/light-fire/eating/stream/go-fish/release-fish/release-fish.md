@@ -8,3 +8,4 @@ Before you can even dry your hands on your pants, you notice the fish has return
 
 You ponder quietly, "Splish the wishing fish?"
 
+[Make a wish.](../make-a-wish/make-a-wish.md)
