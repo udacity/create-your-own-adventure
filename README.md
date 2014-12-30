@@ -1,6 +1,10 @@
 # Collaborative Create-Your-Own-Adventure
 
-This is a create-your-own-adventure story where at each step, the reader chooses
+
+This is a create-your-own-adventure story where at each step, the reader choosen
+
+
+
 what action to take and turns to an appropriate page of the story based on their
 choice.  It is collaborative because it is written one small piece at a time by
 many authors.  To start reading the story, click [here](language.md).
@@ -25,6 +29,7 @@ add an option without adding any story for readers who choose that option, or
 the story will soon be full of dead links.  Instead, the last `.md` file the reader
 reaches on any path of the story should not have any options.  For an example, see
 [this file](https://github.com/udacity/create-your-own-adventure/blob/c4f2bf7caac641df1c979a2db056a532e0c93e23/english/light-fire/fire.md)
+changed version of readme file.
 from an early version of the story.  Here are some examples of  appropriate changes:
 
 * Add a sentence or two to an existing "page" (file) of the story.
@@ -82,3 +87,9 @@ people who don't know Markdown.
 
 The content of this repository is licensed under a
 [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+<<<<<<< HEAD
+this line is changed by nikhil2
+=======
+this line is nwo merger it again.
+>>>>>>> master
+let change some thing from local repository and then push...
