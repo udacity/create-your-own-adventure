@@ -8,4 +8,4 @@ A more simpler goal of yoga is to stay fit and healthy. But beyond sweat
 and a few classes a week, yoga is meant to liberate you by helping you
 to discover your inner self and gain peace.
 
-Peace on earth as it is in heaven.
+Once upon a time.
