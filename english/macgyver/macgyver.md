@@ -10,3 +10,5 @@ Do you:
 [Stick the fork in the wall?](stickfork/stickforkinwall.md)
 
 [Jump off the cliff?](cliff/cliffjump.md)
+
+[Place the rope in wall like a wick and light it on fire?](light-rope-on-fire/light-rope-on-fire.md)
