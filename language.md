@@ -1,4 +1,4 @@
-If you speak English, [go here](english/marshmallow.md).
+﻿If you speak English, [go here](english/marshmallow.md).
 
 如果你说中文，[点击这里](Chinese/大话西游.md).
 
@@ -35,3 +35,5 @@ Se você fala português, [entre aqui](portugues/colaborando.md)
 Rägite eesti keeles, vajutage [siia](estonian/raamat.md).
 
 Якщо ви говорите україньською, перейдіть за [посиланням](ukrainian/marshmallow.md).
+
+Falls Sie Deutsch sprechen, beginnen Sie [hier](german/ruderboot.md).
