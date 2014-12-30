@@ -45,3 +45,5 @@ Do you:
 [Go meditate and ponder about your next step?](meditate/meditate.md)
 
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
+
+[Start tying knots on the fork?](fork-knots/melt-with-fork.md)
