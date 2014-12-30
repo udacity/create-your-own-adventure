@@ -12,3 +12,7 @@ Do you:
 it is a dancing cat
 
 [Sleep because you are tired from dancing?](../sleep/marshmallow.md)
+
+[Count the marshmallows?](../count-the-marshmellows/count-the-marshmellows.md)
+
+[Bake a cake?](../dance/bake-a-cake/bake-a-cake.md)

@@ -13,3 +13,5 @@ Do you:
 [Keep walking.](walk/walk.md)
 
 [Start running towards the fire](start-running/start-running.md)
+
+[Head home!](home/home.md)
