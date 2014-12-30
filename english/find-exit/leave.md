@@ -10,6 +10,8 @@ Overhead, you hear a loud, running noise. It's a chococopter!
 
 You have a slight cold.  You might want to call in sick to work. What do you do?
 
+I would run to the forest
+
 [Path into forest](into-forest/forest.md)
 
 [Path into mountains](into-mountains/mountains.md)
