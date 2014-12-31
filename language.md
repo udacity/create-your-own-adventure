@@ -40,4 +40,6 @@ Falls Sie Deutsch sprechen, beginnen Sie [hier](german/ruderboot.md).
 
 Euskalduna bazara, joan [hona](basque/gaztelua.md).
 
-เรียนเชิญเข้าภาษาไทย Welcome to [Thailand](Thai/Songs/ThaiSong_FanJa.md) and if you like [Thai food](Thai/Cuisine/TomYumKung.md)
+เรียนเชิญเข้าภาษาไทย Welcome to [Thailand](Thai/Songs/ThaiSong_FanJa.md) 
+
+And if you like [Thai food](Thai/Cuisine/TomYumKung.md)
