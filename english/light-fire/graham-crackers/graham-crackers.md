@@ -2,3 +2,9 @@ You pull the graham crackers from underneath your jacket, wondering all the whil
 
 You attempt to catch the falling globs of succulent flaming marshmallows with the graham crackers.
 
+Do you:
+
+[Eat the graham cracker/marshmellow goo?](eat-goo/eat-goo.md)
+
+[Look in jacket for Chocolate](chocolate/find-chocolate.md)
+
