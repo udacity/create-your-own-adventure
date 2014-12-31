@@ -47,3 +47,5 @@ Do you:
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
 
 [Start tying knots on the fork?](fork-knots/melt-with-fork.md)
+
+[Try to solve one unsolved problem in the assignment?](solve-problem/solve-problem.md)
