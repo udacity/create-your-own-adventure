@@ -4,6 +4,8 @@ Eventually you realize this is not very adventurous and decide to:
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
+[Listen to EDM!](edm/edm.md)
+
 [Go exploring outside?](../explore-outside/explore-outside.md)
 
 [Light-fire?](../light-fire/fire.md)
