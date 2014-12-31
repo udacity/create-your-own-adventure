@@ -9,4 +9,4 @@ Do you:
 
 [Lay down and wait for the chocolate to dry.](dried-chocolate/dried-chocolate.md) 
 
-[Call Michael Phelps for advice.](michael-phelps/michael-phelps-help.md)
+[Call Michael Phelps for advice.](michael-phelps/micheal-phelps-help.md)
