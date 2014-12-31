@@ -6,7 +6,5 @@ Do you:
 
 [Go back inside and sleep](../sleep/marshmallow.md)
 
-[Scream for help?](scream-help/scream-help.md)
-
 [Count the marshmallows?](../count-the-marshmellows/count-the-marshmellows.md)
 
