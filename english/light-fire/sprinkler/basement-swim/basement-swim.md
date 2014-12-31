@@ -8,3 +8,5 @@ Do you:
 [Dry off with the fluffy towel.](fluffy-towel/fluffy-towel.md)
 
 [Lay down and wait for the chocolate to dry.](dried-chocolate/dried-chocolate.md) 
+
+[Call Michael Phelps for advice.](michael-phelps/micheal-phelps-help.md)
