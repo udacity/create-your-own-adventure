@@ -19,3 +19,5 @@ Do you:
 
 [Make Taffy!](../marshmallow-taffy/taffy.md)
 
+[Think about Thaifood](../../Thai/Songs/TomYumKung.md)
+
