@@ -1,2 +1,2 @@
-You immediately check the listings on craiglist and ebay to confirm that fully-intact chocolate cocoons are
-still worth a kings ransom.
+Your brain implant immediately checks the listings on craig-bay to view the going rate for fully-intact,
+custom-formed chocolate cocoons.
