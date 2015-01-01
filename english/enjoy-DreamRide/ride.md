@@ -6,9 +6,9 @@ OH! you have a lighter too ...
 
 Do you:
 
-[Light a fire?](light-fire/sprinkler/wonka-construction/wonka-construction.md)
+[Light a fire?](../light-fire/sprinkler/wonka-construction/wonka-construction.md)
 
-[have fun](light-fire/stop-drop-roll/stop-drop-roll.md)
+[have fun](../light-fire/stop-drop-roll/stop-drop-roll.md)
 
-[sleep](sleep/marshmallows.md)
+[sleep](../sleep/marshmallows.md)
 
