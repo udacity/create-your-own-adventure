@@ -1,5 +1,6 @@
 You climb on panda ambles off with a surprisingly smooth gait, bearing you comfortably to the 
-edge of the woods.  You realize that this is exactly where you entered!  Nice panda.  After depositing you on the path, it licks your face then returns to the woods whence it came.
+edge of the woods.  You realize that this is exactly where you entered!  Nice panda.  After 
+depositing you on the path, it licks your face then returns to the woods whence it came.
 
 [Continue towards tower.](../../../../../../walk/walk.md)
 
