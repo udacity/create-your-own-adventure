@@ -8,6 +8,8 @@ You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
 Do you:
 
+[make a swing with rope and jacket](enjoy-DreamRide/ride.md)
+
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
 
 [Try to pull a MacGyver with the lighter, fork and rope?](macgyver/macgyver.md)
