@@ -6,4 +6,4 @@ to hide it in your pant pocket.
 Do you:
 
 
-[Look for a way out?](find-exit/leave.md)
+[Look for a way out?](../find-exit/leave.md)
