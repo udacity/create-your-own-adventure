@@ -2,7 +2,7 @@ As you wait for the chocolate to dry, you quickly fall asleep and start dreaming
 of all your favorite child hood memories and as soon as your best memories start to flow into your dream, you suddenly 
 wake up in your chocolate cocoon.
 
-Do you:
+Do you decide to:
 
 [Eat your way out of the cocoon](eat-your-way/eat-your-way-out.md)
 
