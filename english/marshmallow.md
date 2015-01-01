@@ -47,3 +47,5 @@ Do you:
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
 
 [Start tying knots on the fork?](fork-knots/melt-with-fork.md)
+
+[Start pondering how you got yourself in a sticky situation?](ponder/ponder-about-life.md)
