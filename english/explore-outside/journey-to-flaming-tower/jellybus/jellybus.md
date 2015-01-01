@@ -6,3 +6,5 @@ Do you:
 [Sit down without talking?](wait-without-talking/wait-without-talking.md)
 
 [Ask the person next to you where he's headed?](ask-person-about-destination/ask-person-about-destination.md)
+
+[Keep walking because you're too socially awkward to sit near a stranger for any length of time.](too-socially-awkward/too-socially-awkward.md)
