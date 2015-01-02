@@ -1,4 +1,4 @@
-The mushroom looks so great and they may make great soup. You brought them back.
+The mushroom makes great soup. You brought them back.
 
 
 Do you:
