@@ -55,3 +55,5 @@ Do you:
 [Start tying knots on the fork?](fork-knots/melt-with-fork.md)
 
 [Start pondering how you got yourself in a sticky situation?](ponder/ponder-about-life.md)
+
+[Time to smoke, eat and escape!?](smoke-eat-outtahere/smoke-eat-escape.md)
