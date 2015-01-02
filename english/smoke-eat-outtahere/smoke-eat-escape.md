@@ -5,4 +5,4 @@ After consuming way too much marshmallows you decide...
 
 [Escape?](../macgyver/macgyver.md)
 
-[Go to sleep first and then escape?](../sleep/more-sleep.md)
+[Go to sleep first and then escape?](../sleep/more-sleep/more-sleep.md)
