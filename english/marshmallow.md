@@ -12,7 +12,7 @@ Do you:
 
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
 
-[Realize you are in Minecraft](you-are-in-minecraft/minecraft.md)
+[realize you are in Minecraft](you-are-in-minecraft/minecraft.md)
 
 [Try to pull a MacGyver with the lighter, fork and rope?](macgyver/macgyver.md)
 
