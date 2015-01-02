@@ -12,6 +12,8 @@ You have a slight cold.  You might want to call in sick to work. What do you do?
 
 I would run to the forest
 
+[Explore outside](../explore-outside/explore-outside.md)
+
 [Path into forest](into-forest/forest.md)
 
 [Path into mountains](into-mountains/mountains.md)
