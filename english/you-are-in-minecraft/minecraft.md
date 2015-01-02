@@ -4,7 +4,7 @@ and what seems to be a new addition to minecraft, marshmallow walls.
 You start thinking what new tools can be crafted so that the marshmallow walls can be taken down.
 What materials are needed for these new tools? Hmmm... is there a new ore to be discovered?
 
-Then you think about it again and say: "wait a minute, I'm actually in Minecraft, this is awesome!".
+Then you think about it again and say: "wait a minute, I'm actually in Minecraft, this is awesome!!".
 
 Do you:
 
