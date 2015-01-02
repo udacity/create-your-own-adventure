@@ -12,7 +12,7 @@ You have a slight cold.  You might want to call in sick to work. What do you do?
 
 I would run to the forest
 
-[back to top](../marshmallow.md)
+[Explore Outside](../explore-outside/explore-outside.md)
 
 [Path into forest](into-forest/forest.md)
 
