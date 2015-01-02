@@ -2,19 +2,25 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 These marshmallows are numerous and they look so delicious.
 
-You also seem to be wearing an uncomfortable and restrictive jacket...
+You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
 Do you:
 
+[make a swing with rope and jacket](enjoy-DreamRide/ride.md)
+
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
+
+[realize you are in Minecraft](you-are-in-minecraft/minecraft.md)
 
 [Try to pull a MacGyver with the lighter, fork and rope?](macgyver/macgyver.md)
 
 [Quickly run outside and explore?](explore-outside/explore-outside.md)
 
 [Light a fire?](light-fire/fire.md)
+
+[dig a hole with your bare hands?](hands/hands.md)
 
 [Go back to sleep?](sleep/marshmallow.md)
 
@@ -45,3 +51,7 @@ Do you:
 [Go meditate and ponder about your next step?](meditate/meditate.md)
 
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
+
+[Start tying knots on the fork?](fork-knots/melt-with-fork.md)
+
+[Start pondering how you got yourself in a sticky situation?](ponder/ponder-about-life.md)

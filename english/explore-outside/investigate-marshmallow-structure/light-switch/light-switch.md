@@ -9,4 +9,5 @@ Do you:
 
 [Get a cup of coffee](get-coffee/cup-of-coffee.md)
 
+[Flip the first switch](first-switch/hear-voice.md)
 
