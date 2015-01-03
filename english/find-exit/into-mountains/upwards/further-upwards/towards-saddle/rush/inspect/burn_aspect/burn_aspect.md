@@ -1,5 +1,6 @@
 You gather the materials for the ritual as evening draws. You find a small abandoned cave and light the fire.
-After a period of ceremonial meditation, you open your eyes and cast the small Aspect into the flames. Almost immediately a billowing black smoke erupts from the fire and you are thrown into a deep trance.
+After a period of ceremonial meditation, you open your eyes and cast the small Aspect into the flames.
+Almost immediately a billowing black smoke erupts from the fire and you are thrown into a deep trance.
 
 Shapes dart across your eyes and you struggle to make sense of the dreamlike world you have entered. You
  find yourself in the same cave as before, but this time it extends much further into the mountain. A
