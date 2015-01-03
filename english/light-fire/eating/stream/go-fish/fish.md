@@ -5,3 +5,6 @@ You cast a line, and you caught a fish! What do you want to do now?
 [Throw the fish back](release-fish/release-fish.md)
 
 [Cook the fish](cook-fish/cook-fish.md)
+
+[Talk to to fish](talk-fish/talk.md)
+
