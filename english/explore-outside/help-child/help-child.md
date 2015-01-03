@@ -6,7 +6,7 @@ Since it is melting slowly, you have time to intervene.
 Do you:
 
 [return to the marshmallow room to eat more marshmallows because you no longer 
-feel the need to help?](../../eating-marshmallows/eating-marshmallows.md)
+feel the need to help?](../eating-walls/eating-marshmallows.md)
 
 [Head now to the tower because you can see the child is safe in this one
 foot deep lake?](../journey-to-flaming-tower/journey-to-flaming-tower.md)
