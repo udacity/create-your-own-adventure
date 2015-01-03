@@ -10,6 +10,6 @@ wild, rushing energy passes through your body and you are filled with a deep sen
 
 What do you do with the bear figurine?
 
-[Toss the heretic object and go back up the mountain!](../towards-peak/towards-peak.md)
+[Toss the heretic object and go back up the mountain!](../../towards-peak/towards-peak.md)
 
 [Inspect the interesting object further.](inspect/inspect.md)
