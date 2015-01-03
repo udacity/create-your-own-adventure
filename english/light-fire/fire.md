@@ -23,3 +23,5 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 [Pull graham crackers from inside your jacket](graham-crackers/graham-crackers.md)
 
 [Say xyzzy.](xyzzy/xyzzy.md)
+
+[Drink some coffee.](../coffee/coffee.md)
