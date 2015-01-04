@@ -15,7 +15,8 @@ What do you do?
 
 [Begin to dance to pass the time?](../../../../../dance/dance.md)
 
-[Make one of those weird marshmallow Jell-O salads?](../../../../../marshmallow-jello-o-salad/the-kind-your-grandma-used-to-make.md)
+[Make one of those weird marshmallow Jell-O salads?]
+(../../../../../marshmallow-jello-o-salad/the-kind-your-grandma-used-to-make.md)
 
 [Go meditate and ponder about your next step?](../../../../../meditate/meditate.md)
 
