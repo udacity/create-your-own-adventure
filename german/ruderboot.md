@@ -2,6 +2,8 @@ Sie wachen von der Sonne geblendet auf und stellen ziemlich benommen fest, dass 
 
 in einem Ruderboot auf einem grossen See treiben. Ihre Hose ist vollkommen durchnässt, und
 
-Sie bemerken, dass durch ein Loch in der Bootswand Wasser ins Boot dringt. Werden Sie:
+Sie bemerken, dass durch ein Loch in der Bootswand Wasser ins Boot dringt.
+
+Werden Sie:
 
 [Laut um Hilfe schreien](Hilfeschrei/Hilfeschrei.md)?
