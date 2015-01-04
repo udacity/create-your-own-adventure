@@ -7,3 +7,5 @@ Do you:
 [Offer him your last few marshmallows] (offer-marshmallows/offer-marshmallows.md)
 
 [Tease him about his silly tattoo] (tease-him/tease-him.md)
+
+[Ask him what is going on] (more-info/more-info.md)
