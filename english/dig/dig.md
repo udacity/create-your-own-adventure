@@ -1,7 +1,13 @@
-You find that the walls are very thin, and outside of them is a forest.
+You find that the walls are very thin, so you quickly break through.
+
+The effort has left you exhausted, but outside, you see a forest.
+
+A big bird approaches.
 
 Do you:
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
 [Go exploring outside?](../explore-outside/explore-outside.md)
+
+[Graps paws?](grasp-paws/grasp-paws.md)
