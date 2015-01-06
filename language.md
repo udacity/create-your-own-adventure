@@ -16,7 +16,7 @@ Daca vorbesti romana, [da click aici](romanian/nalba.md).
 
 Ifyay ouyay eakspay Igpay Atinlay, [ogay erehay](pig-latin/arshmallowmay.md).
 
-Si vous parlez français, [suivez-moi] (French/feu-de-camp.md)
+Si vous parlez français, [suivez-moi] (french/feu-de-camp.md)
 
 Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
