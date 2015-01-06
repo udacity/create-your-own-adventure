@@ -10,4 +10,4 @@ el Consejero:
 
 [Se dirigió a la muralla exterior del pueblo.](muralla/muralla.md)
 
-[Mandó a buscar al cocinero para que preparara una cena de agasajo](agasajo/agasajo.md)
+[Mandó a buscar al cocinero para que preparara una cena de agasajo para el ejercito](agasajo/agasajo.md)
