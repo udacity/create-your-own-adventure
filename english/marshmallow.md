@@ -20,6 +20,8 @@ Do you:
 
 [Try to pull a MacGyver with the lighter, fork and rope?](macgyver/macgyver.md)
 
+[Check your pants pockets](pockets/check-pockets.md)
+
 [Quickly run outside and explore?](explore-outside/explore-outside.md)
 
 [Light a fire?](light-fire/fire.md)
