@@ -1,3 +1,5 @@
+These are a few changes I am making in the current adventure game.
+
 One morning, you wake up in a strange room with marshmallows for walls.
 
 These marshmallows are numerous and they look so delicious.
