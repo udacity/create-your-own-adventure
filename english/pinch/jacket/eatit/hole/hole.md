@@ -1,0 +1,1 @@
+There is a big bear standing right in front of you!
