@@ -16,3 +16,5 @@ Do you:
 [Walk around this marshmallow structure you've just escaped from?](./investigate-marshmallow-structure/investigate-marshmallow-structure.md)
 
 [Call Stephen King and tell him the Dark Tower series is in trouble?](./call-king/call-king.md)
+
+[Ignore the purple haze and move closer to the child to see if you can help?](./help-child/help-child.md)
