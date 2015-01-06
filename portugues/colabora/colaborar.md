@@ -1,4 +1,4 @@
-Muito bem, a comunidade open source fica feliz em ter você ajudando. 
+Muito bem, a comunidade open source fica feliz em ter você ajudando. (obs.: continuar)
 
 Ao encontrar o repositiorio do GitHub o que você faz?
 
