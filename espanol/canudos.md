@@ -13,3 +13,5 @@ el Consejero:
 [Empaquetó sus cosas e intentó salir por la puerta trasera.](huida/puerta.md)
 
 [Miró hacia el cielo mientras pensaba](pensamiento/guerra.md)
+ 
+[Mandó a Beatito a buscar al cocinero](cocinero/cocinero.md)
