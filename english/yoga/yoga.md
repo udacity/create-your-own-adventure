@@ -5,3 +5,5 @@ Going through the poses you feel your body warm up and feel the energy flowing t
 [Goals of yoga](../yoga/goals/goals_of_yoga.md)
 
 [LifeStyle Yoga](../yoga/lifestyle/yoga_lifestyle.md)
+
+[Benefits of Yoga](../yoga/benefits/yoga_benefits.md)
