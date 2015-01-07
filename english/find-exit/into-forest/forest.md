@@ -29,4 +29,4 @@ It approaches you, and you can do nothing but wait for it to make it's move
 
 Then it asks "What's your name?"
 
-[Do you talk to it?] ()
+[Do you start a conversation with the cougar?] (https://github.com/zmorris1/create-your-own-adventure/blob/talk-to-cougar/english/find-exit/into-forest/talk-to-cougar/talk-to-cougar.md)
