@@ -1,0 +1,1 @@
+Ti alzi per cercare una via d'uscita.
