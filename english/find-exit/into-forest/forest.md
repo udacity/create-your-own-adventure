@@ -23,9 +23,9 @@ But only for a short while
 
 That something watching you emerges from the shadows
 
-It's a cougar, stalking it's prey
+It's a cougar, stalking it's prey.  It approaches you 
 
-It approaches you, and you can do nothing but wait for it to make it's move
+You can do nothing but wait for it to make it's move
 
 Then it asks "What's your name?"
 
