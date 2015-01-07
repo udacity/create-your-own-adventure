@@ -8,4 +8,4 @@ Do you:
 
 [Count the marshmallows?](../count-the-marshmellows/count-the-marshmellows.md)
 
-[Seek s'more options?] (../seek-smore-options/seek-smore-options.md)
+[Seek s'more options?](../see-smore-options/see-smore-options.md)
