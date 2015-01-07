@@ -1,1 +1,0 @@
-El cocinero dijo que no le gusta cocinar para muchas personas.
