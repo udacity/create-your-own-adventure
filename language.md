@@ -16,7 +16,7 @@ Daca vorbesti romana, [da click aici](romanian/nalba.md).
 
 Ifyay ouyay eakspay Igpay Atinlay, [ogay erehay](pig-latin/arshmallowmay.md).
 
-Si vous parlez français, [suivez-moi] (French/feu-de-camp.md)
+Si vous parlez français, [suivez-moi] (french/feu-de-camp.md)
 
 Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
@@ -45,5 +45,11 @@ Euskalduna bazara, joan [hona](basque/gaztelua.md).
 And if you like [Thai food](Thai/Cuisine/TomYumKung.md)
 
 Maligayang Bati! [Philippines](Philippines/salamat.md)
+<<<<<<< HEAD
 
 אם אתה מדבר עברית, [לחץ כאן](hebrew/marshmallow.md).
+||||||| merged common ancestors
+=======
+
+Εάν μιλάτε ελληνικά, συνεχίστε [εδώ](greek/marshmallow.md)
+>>>>>>> c84858dc2cba7c2a70507b3efe78075175b70a6a
