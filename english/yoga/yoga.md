@@ -4,4 +4,4 @@ Going through the poses you feel your body warm up and feel the energy flowing t
 
 [Goals of yoga](../yoga/goals/goals_of_yoga.md)
 
-[Yoga LifeStyle](../yoga/lifestyle/yoga_lifestyle.md)
+[LifeStyle Yoga](../yoga/lifestyle/yoga_lifestyle.md)
