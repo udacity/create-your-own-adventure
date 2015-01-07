@@ -1,1 +1,0 @@
-El periodista anunció, con voz entrecortada, el regreso del ejercito después de una larga batalla.

@@ -15,4 +15,6 @@ Do you:
 
 [Walk around this marshmallow structure you've just escaped from?](./investigate-marshmallow-structure/investigate-marshmallow-structure.md)
 
+[See what the kids doing and join him?](./follow-kid/follow-kid.md)
+
 [Call Stephen King and tell him the Dark Tower series is in trouble?](./call-king/call-king.md)
