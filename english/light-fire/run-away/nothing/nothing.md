@@ -1,1 +1,0 @@
-The child runs across the field and grabs handfuls of marshmallow fluff from the walls of the gelatinous glob that was previously your home and starts putting them into his mouth.
