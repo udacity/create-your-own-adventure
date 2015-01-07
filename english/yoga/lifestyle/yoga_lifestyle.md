@@ -12,7 +12,7 @@ they are in constant change.
 
 They describe a temporary occurrence. Our essence remains the same. 
 Our core values determine who we are and if we are living a yoga 
-lifestyle. 
+lifestyle.
 
 Yoga Lifestyle is about two actions: "cleaning the mirror" and 
 "spreading the Light". 
