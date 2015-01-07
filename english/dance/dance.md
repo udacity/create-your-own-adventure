@@ -1,5 +1,8 @@
 You dance frantically until the ground begins to shake and 
 then marshmallows fall from walls revealing a hidden door.
+
+Gather the marshmallows and enter through the hidden door into the magic, marshmallow kitchen.
+
 Let us bake
 
 The cake is ready to bake. 
