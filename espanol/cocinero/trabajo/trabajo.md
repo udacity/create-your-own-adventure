@@ -1,2 +1,2 @@
-Beatito encontro al cocinero con cara de preocupado.
+Olvidense que cocine para un ejercito.
 
