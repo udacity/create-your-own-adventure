@@ -60,6 +60,7 @@ Do you:
 
 [Start pondering how you got yourself in a sticky situation?](ponder/ponder-about-life.md)
 
-[Create a new jacket our of marshmallows?](jacket/marshmallow-jacket.md)
+[Create a new jacket out of marshmallows?](jacket/marshmallow-jacket.md)
 
 [Go straight to the solution!](http://youtu.be/dQw4w9WgXcQ)
+

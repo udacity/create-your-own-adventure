@@ -46,4 +46,6 @@ And if you like [Thai food](Thai/Cuisine/TomYumKung.md)
 
 Maligayang Bati! [Philippines](Philippines/salamat.md)
 
+אם אתה מדבר עברית, [לחץ כאן](hebrew/marshmallow.md).
+
 Εάν μιλάτε ελληνικά, συνεχίστε [εδώ](greek/marshmallow.md)

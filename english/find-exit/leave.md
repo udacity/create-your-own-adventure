@@ -20,6 +20,8 @@ I would run to the forest
 
 [Forget work and investigate](../explore-outside/journey-to-flaming-tower/journey-to-flaming-tower.md)
 
+[Call in sick... and utterly lost](call-work/call-work.md)
+
 [Go back inside and sleep](../sleep/marshmallow.md)
 
 [Invite some friends over to your room](../invite-friends/friends.md)
