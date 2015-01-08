@@ -11,3 +11,5 @@ Do you:
 [Go exploring outside?](../explore-outside/explore-outside.md)
 
 [Graps paws?](grasp-paws/grasp-paws.md)
+
+Or do you simply sit and have a cup of cocoa.
