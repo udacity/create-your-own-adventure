@@ -9,4 +9,6 @@ albeit poisonous mushrooms.
 Do you:
 [Eat the mushroom?] (eat/eat_mushroom.md)
 
+[Call up Alan and Leslie Chow?](call_alan/transported.md)
+
 [Throw away the poisonous mushroom?] (poison/poisonous_mushroom.md)

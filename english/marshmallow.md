@@ -6,7 +6,11 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
+When you look away, a marshmallow hand attempts to grab the lighter.
+
 Do you:
+
+[Grab the lighter first?](lighter/grab-lighter.md)
 
 [make a swing with rope and jacket](enjoy-DreamRide/ride.md)
 
@@ -57,3 +61,6 @@ Do you:
 [Start pondering how you got yourself in a sticky situation?](ponder/ponder-about-life.md)
 
 [Create a new jacket out of marshmallows?](jacket/marshmallow-jacket.md)
+
+[Go straight to the solution!](http://youtu.be/dQw4w9WgXcQ)
+

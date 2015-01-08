@@ -11,3 +11,7 @@ el Consejero:
 [Se dirigió a la muralla exterior del pueblo.](muralla/muralla.md)
 
 [Empaquetó sus cosas e intentó salir por la puerta trasera.](huida/puerta.md)
+
+[Miró hacia el cielo mientras pensaba](pensamiento/guerra.md)
+ 
+[Mandó a Beatito a buscar al cocinero](cocinero/cocinero.md)
