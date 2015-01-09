@@ -18,3 +18,15 @@ Version control rules
 Managed projects is the aim
 
 Peace of mind the gain.
+
+But only for a short while
+
+That something watching you emerges from the shadows
+
+It's a cougar, stalking it's prey.  It approaches you 
+
+You can do nothing but wait for it to make it's move
+
+Then it asks "What's your name?"
+
+[Do you start a conversation with the cougar?] (talk-to-cougar/talk-to-cougar.md)
