@@ -15,3 +15,5 @@ el Consejero:
 [Miró hacia el cielo mientras pensaba](pensamiento/guerra.md)
  
 [Mandó a Beatito a buscar al cocinero](cocinero/cocinero.md)
+
+[Clavó sus ojos directamente sobre el Beatito...](rebelion/inicio-rebelion.md)
