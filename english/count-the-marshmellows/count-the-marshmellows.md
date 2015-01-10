@@ -1,5 +1,7 @@
 You count the marshmallows which relaxes you and you fall asleep, afterwards you wake up and you must make a decision.
 
+Also, it looks like the marshmallow count has changed. The wall seems to be growing.
+
 Do you:
 
 [Go back to sleep?](../sleep/more-sleep/more-sleep.md)
@@ -11,3 +13,5 @@ Do you:
 [Eat ALL the marshmallows](./eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 
 [Find a place to hide marshmellows!](./find-place-to-hide/hide-marshmellows.md)
+
+[Start counting again](./count-again/count-again.md)
