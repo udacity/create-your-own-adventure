@@ -1,0 +1,1 @@
+Ele faz um código bugado e você ainda dá uma estrela? tsc tsc
