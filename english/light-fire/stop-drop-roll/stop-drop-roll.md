@@ -4,4 +4,5 @@ you do so.  Soon, you start to resemble a peep.
 Do you?
 
 [Turn on the chocolate sprinkler!](../sprinkler/eating-chocolate.md)
+
 [Scream for help?](../sleep/scream-help/scream-help.md)
