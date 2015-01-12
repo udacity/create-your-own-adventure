@@ -3,3 +3,5 @@ Faça um clone para seu computador e usando git diff encontre a diferença entre
 Tente corrigir...
 
 [Não há diferenças entre as duas versões.](../semdiferencas/semdiferencas.md)
+
+[Há uma diferença entre as duas versões.](../comdiferencas/comdiferencas.md)
