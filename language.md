@@ -49,3 +49,5 @@ Maligayang Bati! [Philippines](Philippines/salamat.md)
 אם אתה מדבר עברית, [לחץ כאן](hebrew/marshmallow.md).
 
 Εάν μιλάτε ελληνικά, συνεχίστε [εδώ](greek/marshmallow.md)
+
+Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
