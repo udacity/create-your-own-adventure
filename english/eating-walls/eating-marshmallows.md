@@ -1,4 +1,4 @@
-After taking a few bites, you start to feel sick.  You're not sure this was a
+After taking more than a few bites, you start to feel sick.  You're not sure this was a
 good idea.  On the other hand, it sure is tasty! In fact, you decide to eat even more marshmallows!
 
 Sitting down next to the partially eaten marshmallow wall, your stomach begins to grumble, churn,
