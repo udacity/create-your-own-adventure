@@ -1,4 +1,4 @@
-Vienu rītu Tu pamosties dīvainā istabā ar zefīriem uz sienas. 
+Vienu rītu Tu pamosties svešā istabā ar zefīriem uz sienas. 
 
 Zefīru ir ļoti daudz un tie izskatās tik garšīgi.
 
