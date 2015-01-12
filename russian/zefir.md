@@ -7,3 +7,5 @@
 [Вы разведете костер?](light-fire/fire.md)
 
 [Попытаетесь проснуться?](awaken/awaken.md)
+
+[Вернётесь ко сну?](sleep/zefir.md)
