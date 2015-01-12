@@ -8,9 +8,10 @@ When it catches fire, you blow it out.
 The result looks a little strange, but it is just as delicious as you could have imagined. Afterward, all you can
 think about is taking a big nap.
 
+However, then you think is napping such a good idea?  Isn't napping the thing that started this whole bizzare adventure?
+
 You decide to:
 
 [Take that nap](../../marshmallow.md)
 
 [Stay awake and go explore outside](../../../explore-outside/explore-outside.md)
-
