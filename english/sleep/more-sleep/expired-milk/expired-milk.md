@@ -16,3 +16,5 @@ What do you do now:
 [Start eating the walls?](../../../eating-walls/eating-marshmallows.md)
 
 [Go start reading a chemistry book](../../../marshmallow.md)
+
+[Tell mom about the milk](tell-mom/tell-mom.md)
