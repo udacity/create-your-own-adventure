@@ -10,3 +10,5 @@ Do you:
 [Look for a way out?](../find-exit/leave.md)
 
 [Lasso the hand with the rope?](../lasso-hand/lasso-hand.md)
+
+[Light the hand on fire?](../light-hand/light-hand.md)
