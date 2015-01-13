@@ -6,3 +6,5 @@ Do you?
 [Turn on the chocolate sprinkler!](../sprinkler/eating-chocolate.md)
 
 [Scream for help?](../../sleep/scream-help/scream-help.md)
+
+[Grab your bottle of Marshmallow flavored vodka?] (/smirnoff/vodka.md)
