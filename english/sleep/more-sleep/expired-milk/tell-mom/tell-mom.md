@@ -1,1 +1,1 @@
-You tell mom about the milk. She instead scolds you for being careless. She is thankful though that you did not get food poisoning
+You tell mom about the milk. She instead scolds you for being careless. 
