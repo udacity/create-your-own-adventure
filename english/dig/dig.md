@@ -12,4 +12,4 @@ Do you:
 
 [Graps paws?](grasp-paws/grasp-paws.md)
 
-Or do you simply sit and have a cup of cocoa.
+[Simply sit and have a cup of cocoa](cup-cocoa/cup-cocoa.md)
