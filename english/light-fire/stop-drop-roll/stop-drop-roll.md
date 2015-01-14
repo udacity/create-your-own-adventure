@@ -1,5 +1,5 @@
 You roll around, getting toasted with slightly burned marshmallow while
-you do so.  Soon, you start to resemble a peep.
+you do so.  Stickier and stickier you get until you start to resemble a peep.
 
 Do you?
 
