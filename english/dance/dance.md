@@ -7,6 +7,8 @@ Let us bake
 
 The cake is ready to bake. 
 
+But there are too many cooks!
+
 Do you:
 
 [Light a fire?](../light-fire/fire.md)
