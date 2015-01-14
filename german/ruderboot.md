@@ -9,3 +9,5 @@ Werden Sie:
 [Laut um Hilfe schreien](Hilfeschrei/Hilfeschrei.md)?
 
 [Gefasst bleiben und ihre Kleidung ausziehen und aus dem Boot werfen?](gefasst-bleiben/gefasst-bleiben.md)
+
+[Obligatory link to new file](test-dir/Kälte.md)
