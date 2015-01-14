@@ -3,6 +3,6 @@
 
 あなたは:
 
-[掛け軸を拝見する](../kakegiku/kakegiku.md)
+[掛け軸を拝見する](../kakejiku/kakejiku.md)
 
 [ソフトドリンクに変更する](../softdrink/softdrink.md)
