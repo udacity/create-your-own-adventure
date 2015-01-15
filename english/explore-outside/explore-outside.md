@@ -18,3 +18,5 @@ Do you:
 [Call Stephen King and tell him the Dark Tower series is in trouble?](./call-king/call-king.md)
 
 [Talk to the child fishing in order to try and figure out where you are?](./talk-child/talk-child.md)
+
+[Tap communicator and ask Scotty to beam you up?](./call-scotty/call-scotty.md)
