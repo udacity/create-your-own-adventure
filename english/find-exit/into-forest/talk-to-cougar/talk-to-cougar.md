@@ -13,3 +13,9 @@ but you figure you'd better be polite and let it slide.
 You ask Sara how she can speak to humans
 
 She says "Be careful asking questions you don't already know the answer to"
+
+You decide you in fact do not want to know the answer to the question,
+
+so you turn back and head into the forest again.
+
+[Head back to the forest](../forest.md)
