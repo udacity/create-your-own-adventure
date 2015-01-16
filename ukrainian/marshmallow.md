@@ -6,4 +6,4 @@
 
 [Розженуся та спробую прорватися крізь одну з стін](break-through-wall/break-through-wall.md)
 
-[Візьму мобілочку, перевірю світлини в фейсбуці](facebook/facebook.md)
+[Візьму мобілочку, перевірю новини в фейсбуці](facebook/facebook.md)
