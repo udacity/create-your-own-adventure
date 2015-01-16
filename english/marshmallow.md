@@ -64,7 +64,7 @@ Do you:
 
 [Create a new jacket out of marshmallows?](jacket/marshmallow-jacket.md)
 
-[Go straight to the solution!](http://youtu.be/dQw4w9WgXcQ)
-
 [Wonder if a marshmallow head, powered by marshmallow muscles would be able to
 pick up your lighter?](wonder-about/wonder.md)
+
+[Go straight to the solution!](http://youtu.be/dQw4w9WgXcQ)
