@@ -1,5 +1,6 @@
 
-Ti appare un paesaggio fiabesco e in lontananza sullo sfondo scorgi un gigantesco T-rex
+Ti appare un paesaggio fiabesco
+e in lontananza sullo sfondo scorgi un gigantesco T-rex
 
 Come reagisci?
 
