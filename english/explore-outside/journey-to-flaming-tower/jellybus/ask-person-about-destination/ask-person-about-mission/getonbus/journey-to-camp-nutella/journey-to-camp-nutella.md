@@ -1,6 +1,6 @@
 "Sorry" says the driver of the bus, "but this bus can only go up to the horizon".
-"The union of match sticks are striking and have closed the road. You will either have to walk
-from the horizon or take a cab."
+"The union of match sticks are striking and have closed the road. 
+You will either have to walk from the horizon or take a cab."
 
 You decide to ...
 
