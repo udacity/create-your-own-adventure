@@ -70,3 +70,5 @@ Do you:
 
 [Go straight to the solution!](http://youtu.be/dQw4w9WgXcQ)
 
+[Cook them marshmallows](http://youtu.be/dQw4w9WgXcQ)
+
