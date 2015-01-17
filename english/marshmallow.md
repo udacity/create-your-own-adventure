@@ -6,7 +6,11 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
+You have the suspicion that you are being closely watched.
+
 When you look away, a marshmallow hand attempts to grab the lighter.
+
+The realization suddenly dawns upon you the marshmallow is self aware!
 
 Do you:
 
