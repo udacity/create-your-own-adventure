@@ -24,6 +24,8 @@ Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
 Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
 
+Toegang tot de [nederlandse versie](dutch/welkom.md).
+
 Jeśli mówisz po polsku, [kliknij tutaj](Polish/ptasieMleczko.md).
 
 Se você fala português, [entre aqui](portugues/colaborando.md)
