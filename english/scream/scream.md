@@ -9,5 +9,3 @@ You will do:
 
 [Its right time to go for walk](walk/walkwiththought.md)
 
-[Keep calm and enjoy this?](http://www.gocomics.com/calvinandhobbes/)
-
