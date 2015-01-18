@@ -22,6 +22,8 @@ Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
 
+Agar aap hindi bolte ho toh, [Hindi](Hindi/boli.md).
+
 Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
 
 Jeśli mówisz po polsku, [kliknij tutaj](Polish/ptasieMleczko.md).
@@ -51,3 +53,5 @@ Maligayang Bati! [Philippines](Philippines/salamat.md)
 Εάν μιλάτε ελληνικά, συνεχίστε [εδώ](greek/marshmallow.md)
 
 Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
+
+Agar aap hindi bolte ho, [Hindi](Hindi/hindi.md).
