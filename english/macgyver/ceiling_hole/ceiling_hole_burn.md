@@ -11,4 +11,4 @@ hand returns. Placing the items in your pocket, you lower yourself down kicking
 foot-holds in the outer wall.
 
 Today will be trouble, but nothing more than a MacGyver like you can handle,
-right? 
+right?
