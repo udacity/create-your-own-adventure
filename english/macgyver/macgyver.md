@@ -14,3 +14,5 @@ Do you:
 [Jump off the cliff?](cliff/cliffjump.md)
 
 [Place the rope in wall like a wick and light it on fire?](light-rope-on-fire/light-rope-on-fire.md)
+
+[Tie the rope to the fork, stick it to the ceiling, climb up and burn a hole to escape?](ceiling_hole/ceiling_hole_burn.md)
