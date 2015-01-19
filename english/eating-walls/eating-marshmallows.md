@@ -5,6 +5,9 @@ Sitting down next to the partially eaten marshmallow wall, your stomach begins t
 and babble. Hoping to walk off the uneasy feeling, you stand up. Upon standing up, your stomach
 quiets and you entertain how to spend the rest of the day.
 
+But wait!  Just when you when you were about to start contemplating, you suddenly feel torn between 
+heading for the toilet or heading for the hills.  Either way, neither of your options look pretty.
+
 Do you:
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
