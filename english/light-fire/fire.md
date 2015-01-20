@@ -25,3 +25,4 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 [Say xyzzy.](xyzzy/xyzzy.md)
 
 [Drink some coffee.](../coffee/coffee.md)
+[Sleep]
