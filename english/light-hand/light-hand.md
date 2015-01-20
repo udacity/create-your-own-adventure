@@ -6,6 +6,6 @@ toward the lighter and poof, the hand explodes.
 
 The immediate danger dealt with, do you:
 
-[light-walls/light-walls.md](Attempt to light more of the marshmallow wall?)
+[Attempt to light the walls on fire?](light-walls/light-walls.md)
 
-[reach-arm-in-wall/reach-arm-in-wall.md](Reach your arm into one of the walls to find out how thick it is?)
+[Reach your arm into one of the walls to find out how thick it is?](reach-arm-in-wall/reach-arm-in-wall.md)
