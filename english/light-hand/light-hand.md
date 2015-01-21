@@ -4,10 +4,10 @@ A flame shoots out. Using the rope you lasso the hand, pull it
 
 toward the lighter and poof, the hand explodes.
 
-You hear a chilling howl followed by eerie silence. 
+The immediate danger dealt with, do you:
 
-A familiar voice grunts, "Don't leave..."
+[Attempt to light the walls on fire?](light-walls/light-walls.md)
 
-Do you:
+[Reach your arm into one of the walls to find out how thick it is?](reach-arm-in-wall/reach-arm-in-wall.md)
 
-[Stay?](../stay-with-animate-marshmallow/stay.md)
+[Examine the animate marshmallow?](../stay-with-animate-marshmallow/stay.md)

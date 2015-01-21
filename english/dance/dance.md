@@ -9,6 +9,9 @@ The cake is ready to bake.
 
 But there are too many cooks!
 
+Or so you think. You're not sure because you are self-aware of your tendency to be 
+easily swayed by catchy rock songs of the 80s and Foreigner - Double Vision was just on the radio.
+
 Do you:
 
 [Light a fire?](../light-fire/fire.md)
@@ -23,3 +26,5 @@ it is a dancing cat
 [Bake a cake?](../dance/bake-a-cake/bake-a-cake.md)
 
 [Want coffee?](../coffee/coffee.md)
+
+

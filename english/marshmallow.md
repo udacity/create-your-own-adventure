@@ -74,3 +74,5 @@ Do you:
 
 [Cook them marshmallows](http://youtu.be/dQw4w9WgXcQ)
 
+[Explore Wikipedia](wikipedia/wiki.md)
+
