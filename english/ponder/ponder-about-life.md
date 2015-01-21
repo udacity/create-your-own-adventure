@@ -10,4 +10,4 @@ Do you:
 
 [Seek s'more options?](../see-smore-options/see-smore-options.md)
 
-[Ponder some more](../ponder-some-more/ponder-some-more.md)
+[Ponder some more](ponder-some-more/ponder-some-more.md)
