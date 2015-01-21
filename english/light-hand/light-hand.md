@@ -9,3 +9,5 @@ The immediate danger dealt with, do you:
 [Attempt to light the walls on fire?](light-walls/light-walls.md)
 
 [Reach your arm into one of the walls to find out how thick it is?](reach-arm-in-wall/reach-arm-in-wall.md)
+
+[Examine the animate marshmallow?](../stay-with-animate-marshmallow/stay.md)
