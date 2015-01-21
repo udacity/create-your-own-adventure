@@ -1,5 +1,4 @@
-You start thinking about how you ended up this bizzare place. Could the marshallmallow wall represent something
-significant? Maybe the lighter represents life, where as fork represents survival. You take another look around
+You start thinking about how you ended up this bizzare place. Could the marshallmallow wall represent something significant? Maybe the lighter represents life, where as fork represents survival. You take another look around
 you.
 
 Do you:
