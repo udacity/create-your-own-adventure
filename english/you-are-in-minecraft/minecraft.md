@@ -17,3 +17,5 @@ Do you:
 [Sing a song?](../sing-song/sing.md)
 
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
+
+[Dig down?](dig_down/dig_down.md)
