@@ -6,12 +6,14 @@ After a while you dig through what appears to be the ceiling of a huge natural c
 
 Since you were digging downwards you fell straight to the floor!
 
-The cave wasn't so tall and you get up without a scratch.
+Luckily the cave wasn't as tall as you tought and you get up without a scratch.
 
 The cave is covered in darkness...
 
-You decide to light up your lighter.
+You decide to use your lighter.
 
-Ahead of you lie two diverging tunnels one to the left and the other one to your right.
+The cave lights up a little and you can somewhat see where you are.
 
-Behind you a single path into darkness.
+Ahead of you lie two diverging tunnels, one goes to your left and the other one to your right.
+
+Behind you a single path...
