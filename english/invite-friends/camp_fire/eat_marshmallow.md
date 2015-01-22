@@ -7,3 +7,5 @@ Do you:
 [Start telling ghost stories?](ghost-stories/ghost-stories.md)
 
 [Decide to take a nap together?](nap-time/nap.md)
+
+[Ask the group which of them drugged you and dumped you in a freaky marshmallow house?](abduction/abduction.md)
