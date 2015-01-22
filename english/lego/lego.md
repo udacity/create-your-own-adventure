@@ -1,8 +1,10 @@
-The mallow man seems nice so you chat to him.
+The mallow man seems nice so you chat to him. He decides he likes you too, so he gets out his Lego's. 
 
-He decides he likes you too, so he gets out his Lego's. He's got Star Wars, Lego Movie, space, technics, oh so much lego and you play with it all!
+He's got Star Wars, Lego Movie, space, technics, oh so much lego and you play with it all!
 
-After a while he starts to go a bit too much, he doesn't get out much, you're bored. What do you do next to stimulate and excite you!
+After a while he starts to go a bit too much, he doesn't get out much, you're bored.
+
+What do you do next to stimulate and excite you!
 
 Would you like to?
 
