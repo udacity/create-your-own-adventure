@@ -9,3 +9,5 @@
 [Попытаетесь проснуться?](awaken/awaken.md)
 
 [Вернётесь ко сну?](sleep/zefir.md)
+
+[Звоните в ЖЭК.](buildings-dep/buildings-dep.md)
