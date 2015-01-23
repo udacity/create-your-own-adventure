@@ -8,11 +8,14 @@ Jangan memasuki interior kapal karam karena besi tua bisa runtuh sewaktu-waktu.
 
 Kemana anda akan pergi:
 
-[blade](wakatobi/blade.md)
+[blade](blade.md)
 
-[misool](rajaampat/misool/misool.md)
 
-[wakatobi](wakatobi/wakatobi.md)
+
+
+[wakatobi](wakatobi.md)
+
+[misool](../rajaampat/misool/misool.md)
 
 [wisata](../wisata.md)
 

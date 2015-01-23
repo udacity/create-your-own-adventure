@@ -6,11 +6,14 @@ Dipenuhi spons raksasa, seafan dan crinoid aneka warna.
 
 Kemana anda akan pergi:
 
-[kulati](wakatobi/kulati.md)
+[kulati](kulati.md)
 
-[misool](rajaampat/misool/misool.md)
 
-[wakatobi](wakatobi/wakatobi.md)
+
+
+[wakatobi](wakatobi.md)
+
+[misool](../rajaampat/misool/misool.md)
 
 [wisata](../wisata.md)
 

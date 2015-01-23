@@ -10,11 +10,13 @@ Terdapat banyak sekali situs menyelam disini.
 
 Kemana anda akan pergi:
 
-[blade](wakatobi/blade.md)
+[blade](blade.md)
 
-[kulati](wakatobi/kulati.md)
+[kulati](kulati.md)
 
-[misool](rajaampat/misool/misool.md)
+
+
+[misool](../rajaampat/misool/misool.md)
 
 [wisata](../wisata.md)
 

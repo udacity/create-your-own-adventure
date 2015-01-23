@@ -14,13 +14,13 @@ Anda jg bisa mengunjungi gua Tomolol dengan staklatik yg indah.
 
 Kemana anda akan pergi:
 
-[blade](wakatobi/blade.md)
+[blade](../../wakatobi/blade.md)
 
-[kulati](wakatobi/kulati.md)
+[kulati](../../wakatobi/kulati.md)
 
-[wakatobi](wakatobi/wakatobi.md)
+[wakatobi](../../wakatobi/wakatobi.md)
 
-[wisata](../wisata.md)
+[wisata](../../wisata.md)
 
 
 
