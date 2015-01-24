@@ -10,4 +10,4 @@ Do you:
 
 [Sing a song?](../../sing-song/sing.md)
 
-[Drink some coffee?](../../coffe/coffee.md)
+[Drink some coffee?](../../coffee/coffee.md)
