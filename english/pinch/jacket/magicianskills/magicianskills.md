@@ -1,6 +1,8 @@
 Allica-bam!
 
-The Jacket couldn't handle your mad skills. Now you feel comfortable.
+The Jacket couldn't handle your mad skills. 
+
+Now you feel comfortable.
 
 Do you:
 
