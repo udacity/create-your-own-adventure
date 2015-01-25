@@ -9,3 +9,5 @@ Do you:
 [Count the marshmallows?](../count-the-marshmellows/count-the-marshmellows.md)
 
 [Seek s'more options?](../see-smore-options/see-smore-options.md)
+
+[Sit down and have a cappuccino?] (../coffee/coffee.md)
