@@ -20,3 +20,5 @@ Do you:
 [Count the marshmallows?](../count-the-marshmellows/count-the-marshmellows.md)
 
 [You pinch yourself to see whether you are dreaming?](../pinch/pinch.md)
+
+[Make another wish?](./make-another-wish/wish.md)
