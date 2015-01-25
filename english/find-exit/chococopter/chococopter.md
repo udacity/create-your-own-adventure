@@ -7,3 +7,9 @@ You're saved! The chococopter has noticed you.
 Then suddenly from your right side a black pillet grazes your hair.
 
 A barrage of hot, melty chocolate chip bullets are rainy down upon you. 
+
+Do you?
+
+[Try to catch them in your jar of peanut butter](reeses/rpbc.md)
+
+[Watch them flood the streets into a chocolate river](charlie/charlie.md) 
