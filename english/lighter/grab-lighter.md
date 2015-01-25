@@ -1,8 +1,12 @@
-You swipe the lighter off the floor as your hand shakes. You try feverishly 
+You swipe the lighter off the floor as your hand shakes. You try feverishly
 
 to hide it in your pant pocket as the hand grabs wildly at your leg.
 
 You place it carefully in you pocket and take a deep breath.  
+
+The marshmallow hand scurries away and huddles in a corner of the room,
+
+trembling.
 
 Do you:
 
