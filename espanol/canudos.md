@@ -17,3 +17,5 @@ el Consejero:
 [Mandó a Beatito a buscar al cocinero](cocinero/cocinero.md)
 
 [Clavó sus ojos directamente sobre el Beatito...](rebelion/inicio-rebelion.md)
+
+[Y entonces compro un dragon](dragon/dragon.md)
