@@ -2,7 +2,7 @@ You find that the walls are very thin, so you quickly break through.
 
 The effort has left you exhausted, but outside, you see a forest.
 
-A big bird approaches.
+A big, black bird approaches.
 
 Do you:
 
