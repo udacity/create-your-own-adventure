@@ -17,3 +17,5 @@ Do you:
 
 Tie the rope to the fork, stick it to the ceiling,
 [climb up and burn a hole to escape?](ceiling_hole/ceiling_hole_burn.md)
+
+[Use raope as a jump rope](jump-rope/jump-a-rope.md)
