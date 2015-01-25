@@ -3,7 +3,9 @@ The walls smell really good, but are they tasty?
 
 You wish there were some chocolate furniture too.
 
-And suddenly your wish come true, the chocolate furniture appears, and you start thinking is it really possible, whatever i think will come true.
+And suddenly your wish come true, the chocolate furniture appears, 
+and you start thinking is it really possible, 
+whatever i think will come true.
 
 Do you:
 
