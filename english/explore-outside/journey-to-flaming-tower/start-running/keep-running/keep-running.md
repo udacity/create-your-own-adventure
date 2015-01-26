@@ -6,13 +6,13 @@ now you are happy and sad at the same time.
 
 Now both of you:
 
-[dance with joy](../../../dance/dance.md)
+[Dance with joy!](../../../../dance/dance.md)
 
-[take a nap](../../../sleep/marshmallow.md)
+[Take a nap!](../../../../sleep/marshmallow.md)
 
 [Head home!](../../home/home.md)
 
-[Take your cellphone out, call Tank and ask for the nearest exit out of the Matrix.](exit/exit.md)
+[Take your cellphone out, call Tank and ask for the nearest exit out of the Matrix.](../../exit/exit.md)
 
 [Keep walking.](../../walk/walk.md)
 
