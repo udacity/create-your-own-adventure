@@ -20,3 +20,5 @@ Do you:
 [Talk to the child fishing in order to try and figure out where you are?](./talk-child/talk-child.md)
 
 [Tap communicator and ask Scotty to beam you up?](./call-scotty/call-scotty.md)
+
+[Have a cup of coffee](../coffee/coffee.md)
