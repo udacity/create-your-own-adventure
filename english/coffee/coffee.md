@@ -9,3 +9,5 @@ After having your coffee do you want to:
 [Write a caffeine-fueled full-length novel?](novel/full-length-novel.md)
 
 [Go skinny dipping?](nude-run/nude-run.md)
+
+[Light a fire](../light-fire/fire.md)
