@@ -54,6 +54,8 @@ Do you:
 
 [Go out and collect mushroom?] (mushroom/collect_mushroom.md)
 
+[Try to walk around](virtualreality/oculus.md)
+
 [Make one of those weird marshmallow Jell-O salads?](marshmallow-jello-o-salad/the-kind-your-grandma-used-to-make.md)
 
 [Begin to sing out of fear?](sing/sing.md)
