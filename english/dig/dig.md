@@ -4,6 +4,8 @@ The effort has left you exhausted, but outside, you see a forest.
 
 A big, black bird approaches.
 
+It says "hello"
+
 Do you:
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
