@@ -4,5 +4,6 @@ commencer la journée ! ;)
 A force de manger vous faites un trou dans le mur
 
 [Je sors](../sortie/chercher-la-sortie.md)
+
 [Je me faufille par le trou](trou/trou.md)
 
