@@ -8,4 +8,4 @@ Do you:
 [Take your cellphone out, call Tank and ask for 
 the nearest exit out of the Matrix.](../journey-to-flaming-tower/exit/exit.md)
 
-[Try a MacGyver escape move with items in pocket.](../english/macgyver/macgyver.md)
+[Try a MacGyver escape move with items in pocket.](../../macgyver/macgyver.md)
