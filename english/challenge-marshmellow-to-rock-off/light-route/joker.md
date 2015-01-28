@@ -1,4 +1,4 @@
-lIt is a difficult choice but in the end you take heed of the "Keep out" 
+It is a difficult choice but in the end you take heed of the "Keep out" 
 warning and rush towards the dim light. As you pace yourself making sure 
 that no marshmallows had followed you, your eyes get adjusted to the 
 darkness and you realize that it was an elevator's light blinking 
