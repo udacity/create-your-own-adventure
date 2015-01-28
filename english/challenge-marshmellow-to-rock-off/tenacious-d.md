@@ -25,6 +25,6 @@ To your immediate right, a dim light shines not far from your current position,
 as you gleam towards it while darting towards the door, you arrive at a tiny 
 (proverbial) fork in the road, will you:
 
-(Go towards the light?)[light-route/joker.md]
+[Go towards the light?](light-route/joker.md)
 
-(Rush towards the door?)[castle-route/narnia.md]
+[Rush towards the door?](castle-route/narnia.md)
