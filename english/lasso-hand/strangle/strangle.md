@@ -1,4 +1,4 @@
-You pull hard on the rope attempting to strangle the hand to death.
+You yank on the rope attempting to strangle the hand to death.
 The hand pulls hard against you tightening the rope around itself.
 
 You realise your foolish mistake.
