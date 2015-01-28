@@ -8,6 +8,6 @@ lunges forward, you throw the rope around the hand.
 
 Do you:
 
-[Jump on the hand?](../ride/ride.md)
+[Jump on the hand?](../lasso-hand/ride/ride.md)
 
-[Strangle the hand to death?](../strangle/strangle.md)
+[Strangle the hand to death?](../lasso-hand/strangle/strangle.md)
