@@ -1,1 +1,0 @@
-"Fuego en el Templo..."

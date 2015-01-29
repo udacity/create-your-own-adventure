@@ -6,6 +6,8 @@ A big, black bird approaches.
 
 It says "hello"
 
+It is clutching a small object in one of its talons.
+
 Do you:
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)

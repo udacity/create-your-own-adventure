@@ -1,1 +1,0 @@
-You tell the boy, "I'll help you find your dog."

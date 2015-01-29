@@ -1,1 +1,0 @@
-The bird seems to really like that you sing together. Adter you finish singing, it moves closer and says "Mama!"

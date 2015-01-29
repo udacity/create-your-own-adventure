@@ -1,1 +1,0 @@
-You find a lemon tree in a fool's gardin.
