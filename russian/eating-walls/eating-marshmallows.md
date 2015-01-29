@@ -5,3 +5,5 @@
 Ваши действия:
 
 [Позавтракать с Винипухом и Пяточком](breakfast/breakfast-marshmallows.md)
+[Вздремнуть после десерта](fall-asleep/fall-asleep.md)
+
