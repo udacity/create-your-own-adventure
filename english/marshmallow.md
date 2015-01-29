@@ -81,3 +81,5 @@ Do you:
 [Whip out your spork, start a fire and make giant s'mores?](http://easybaked.files.wordpress.com/2011/10/smores4.jpg)
 
 [Ask yourself how you got yourself into this situation - AGAIN?](shrooms/never-again.md)
+
+[Challenge the Marshmallows to a Rock Off!](challenge-marshmellow-to-rock-off/tenacious-d.md)
