@@ -16,3 +16,5 @@ Do you:
 [Lasso the hand with the rope?](../lasso-hand/lasso-hand.md)
 
 [Light the hand on fire?](../light-hand/light-hand.md)
+
+[Brandish the lighter and invoke RoastMaster?](roastmaster/invoke-roastmaster.md)
