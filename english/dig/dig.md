@@ -6,7 +6,7 @@ A big, black bird approaches.
 
 It says "hello"
 
-It is clutching a small object in one of its talons.
+The bird is clutching something in its talon.
 
 Do you:
 
