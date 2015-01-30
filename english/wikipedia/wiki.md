@@ -7,3 +7,5 @@ Information, incalculable information, at your fingertips.
 You are blind to all but your exploration of the known and unknown universe.
 
 [Behold!](http://en.wikipedia.org)
+
+Until you get bored and go explore [here](https://www.urbandictionary.com) instead.
