@@ -1,0 +1,1 @@
+You find that the big bird is afraid of you and flies away quickly.

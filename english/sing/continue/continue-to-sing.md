@@ -1,0 +1,1 @@
+You continue to sing to keep the monster's hand at bay.

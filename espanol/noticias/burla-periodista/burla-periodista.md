@@ -1,0 +1,1 @@
+El periodista se puso rojo, y se lanzo violentamente contra Beatito.

@@ -10,3 +10,9 @@ basement, making a pool of chocolate. Do you:
 [Go exploring outside](../../explore-outside/explore-outside.md)?
 
 [Swim in the chocolate pool](basement-swim/basement-swim.md)?
+
+[Call Wonka Construction](wonka-construction/wonka-construction.md)?
+
+[Wait for the chocolate to solidify](solid-chocolate/solid-chocolate.md)?
+
+[Go to market to buy some fruits to dip in the chocolate](going-to-market/going-to-market.md)?
