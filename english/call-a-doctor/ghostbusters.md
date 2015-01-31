@@ -16,4 +16,4 @@ The doctor's hands appear with a folder thick with documents. He scribbles on on
 Then he looks up at you. You can sense his disappointment. "You can finish the movie 
 next week. Until then ... Dr. Sakamoto will be here later on for another round of shock treatments."
 
-[Sit and wait.](../marshmallow.md)
+[Sit and wait.](../../marshmallow.md)
