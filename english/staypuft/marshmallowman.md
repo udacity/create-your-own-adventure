@@ -4,6 +4,8 @@ When you're done, do you:
 
 [Place a top hat on your new friend](./place-hat/place-hat.md)?
 
+[Look for a carrot nose](./carrot-nose/find-carrot-nose.md)?
+
 [Go back to sleep](../sleep/more-sleep/more-sleep.md)?
 
 [Start eating the walls](../eating-walls/eating-marshmallows.md)?
