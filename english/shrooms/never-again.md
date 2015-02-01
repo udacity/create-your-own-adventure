@@ -1,6 +1,6 @@
 You take a long, hard look at your life and decide that enough is enough.
 
-You make a solemn vow to yourself that you will never again consume hallucinogenic substances.
+You make a solemn vow to yourself that you will consume hallucinogenic substances.
 
 Then you notice a small, old man grinning toothlessly back at you from across the room.
 
