@@ -1,1 +1,0 @@
-You have successfully killed the party atmosphere, but you notice a few of them looking shifty!

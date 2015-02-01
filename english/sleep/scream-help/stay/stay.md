@@ -1,1 +1,0 @@
-The door disappears. The marshmallow walls are closing in and merging onto you. You have become a marshmallow man. 
