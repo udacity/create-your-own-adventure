@@ -9,4 +9,4 @@ collaboratively write a script for an upcoming blockbuster movie.
 You feel good about being a part of the latest Internet phenomena and decide to:
 
 [Go meditate and ponder about your next step?](../../../meditate/meditate.md)
-[Hire a lawyer in advance of the upcoming copyright infringement lawsuit] (./hire-lawyer/hire-lawyer.md)
+[Hire a lawyer in advance of the upcoming copyright infringement lawsuit](hire-lawyer/hire-lawyer.md)
