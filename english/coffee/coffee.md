@@ -11,3 +11,7 @@ After having your coffee do you want to:
 [Go skinny dipping?](nude-run/nude-run.md)
 
 [Light a Fire?](../light-fire/fire.md)
+
+[Remenisce?](../remenisce/better-times.md).
+
+
