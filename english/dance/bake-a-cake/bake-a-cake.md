@@ -9,3 +9,5 @@ Do you:
 [Sleep?](../../sleep/marshmallow.md)
 
 [Sing a song?](../../sing-song/sing.md)
+
+[Drink some coffee?](../../coffee/coffee.md)

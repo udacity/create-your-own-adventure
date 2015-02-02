@@ -54,6 +54,8 @@ Do you:
 
 [Go out and collect mushroom?] (mushroom/collect_mushroom.md)
 
+[Try to walk around](virtualreality/oculus.md)
+
 [Make one of those weird marshmallow Jell-O salads?](marshmallow-jello-o-salad/the-kind-your-grandma-used-to-make.md)
 
 [Begin to sing out of fear?](sing/sing.md)
@@ -76,3 +78,6 @@ Do you:
 
 [Explore Wikipedia](wikipedia/wiki.md)
 
+[Whip out your spork, start a fire and make giant s'mores?](http://easybaked.files.wordpress.com/2011/10/smores4.jpg)
+
+[Ask yourself how you got yourself into this situation - AGAIN?](shrooms/never-again.md)

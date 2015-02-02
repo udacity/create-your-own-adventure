@@ -12,6 +12,8 @@ But there are too many cooks!
 Or so you think. You're not sure because you are self-aware of your tendency to be 
 easily swayed by catchy rock songs of the 80s and Foreigner - Double Vision was just on the radio.
 
+Just get to sleep
+
 Do you:
 
 [Light a fire?](../light-fire/fire.md)
