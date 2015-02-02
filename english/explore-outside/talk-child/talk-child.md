@@ -1,5 +1,5 @@
 You walk towards the green child fishing and yell out, "Hello!".
-The child looks towards you with red glaring eyes.  
+The child looks towards you with red and angry glaring eyes.  
 
 Do you:
 
