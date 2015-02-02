@@ -10,4 +10,6 @@ When you're done, do you:
 
 [Explore outside](../explore-outside/explore-outside.md)?
 
+[Play with the Legos](../lego/lego.md)?
+
 [Call Dr Venkman to help blast you out?](./ghostbusters/where-is-my-proton-pack.md)
