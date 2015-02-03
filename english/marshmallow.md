@@ -12,7 +12,11 @@ When you look away, a marshmallow hand attempts to grab the lighter.
 
 The realization suddenly dawns upon you the marshmallow is self aware!
 
+Hold the image of the marshmallow and..
+
 Do you:
+
+[Close your eyes](experience/mediate.md)
 
 [Grab the lighter first?](lighter/grab-lighter.md)
 
