@@ -1,0 +1,1 @@
+Sua mãe entende de Git e diz "Não fez mais que sua obrigação. Aliás, nem o commit você fez...", e você:
