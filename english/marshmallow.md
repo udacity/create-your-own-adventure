@@ -91,3 +91,5 @@ Do you:
 [hide the lighter fork and rope in your pocket](hide/hide-chk.md)
 
 [make a necklace out of the marshmallows](necklace/necklace.md)
+
+[Initiate First Contact Procedures](first-contact/first-contact.md)

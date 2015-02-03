@@ -1,0 +1,1 @@
+Because you have established the marshmallow creature is a sentient being, you begin the official Star Fleet First Contact procedures.
