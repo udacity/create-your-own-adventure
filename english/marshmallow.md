@@ -16,7 +16,7 @@ Hold the image of the marshmallow and..
 
 Do you:
 
-[Close your eyes](experience/mediate.md)
+[Close your eyes](experience/experience.md)
 
 [Grab the lighter first?](lighter/grab-lighter.md)
 
