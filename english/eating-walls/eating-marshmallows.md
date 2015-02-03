@@ -22,3 +22,5 @@ Do you:
 
 [Make Taffy!](../marshmallow-taffy/taffy.md)
 
+[Find a Toilet](find-a-toilet/find-a-toilet.md)
+
