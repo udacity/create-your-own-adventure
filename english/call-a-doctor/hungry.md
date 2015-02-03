@@ -10,4 +10,4 @@ rubs his eyes, radiating disappointment.
 "I'm sorry," the doctor says. "Dr. Sakamoto will be here later on for another round 
 of shock treatments."
 
-[Sit and wait.](../../marshmallow.md)
+[Sit and wait.](../marshmallow.md)

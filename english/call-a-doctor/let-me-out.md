@@ -6,4 +6,4 @@ Maybe hundreds of times.
 "I can't do that," the doctor says. "Dr. Sakamoto will be here later on for another round 
 of shock treatments."
 
-[Sit and wait.](../../marshmallow.md)
+[Sit and wait!.](../marshmallow.md)
