@@ -88,6 +88,6 @@ Do you:
 
 [light up the wall](light-up/light-up.md)
 
-[light up the wall 2](light-up/light-up.md)
+[light up the wall 2](light-up/light-up.md) 
 
 [hide the lighter fork and rope in your pocket](hide/hide-chk.md)
