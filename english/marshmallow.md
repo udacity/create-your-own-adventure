@@ -87,3 +87,5 @@ Do you:
 [Remember that pill you took](adipose/adipose.md)
 
 [light up the wall](light-up/light-up.md)
+
+[light up the wall 2](light-up/light-up.md)
