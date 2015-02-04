@@ -2,7 +2,7 @@ You recently read that meditation helps you feel more awake, relieves stress, an
 
 So you begin to meditate for 30 minutes and when you finish, you feel more refreshed than ever.
 
-Clearing your mind and obserivng your thought, now your are more focued and ready to take on the day.
+Clearing your mind and observing your thought, now your are more focused and ready to take on the day.
 
 And you feel like you need to do something, but what ...
 

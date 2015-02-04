@@ -12,7 +12,11 @@ When you look away, a marshmallow hand attempts to grab the lighter.
 
 The realization suddenly dawns upon you the marshmallow is self aware!
 
+Hold the image of the marshmallow and..
+
 Do you:
+
+[Close your eyes](experience/experience.md)
 
 [Grab the lighter first?](lighter/grab-lighter.md)
 
@@ -83,5 +87,17 @@ Do you:
 [Ask yourself how you got yourself into this situation - AGAIN?](shrooms/never-again.md)
 
 [Challenge the Marshmallows to a Rock Off!](challenge-marshmellow-to-rock-off/tenacious-d.md)
+<<<<<<< HEAD
 
 [Call a doctor](call-a-doctor/doctor.md)
+||||||| merged common ancestors
+=======
+
+[Remember that pill you took](adipose/adipose.md)
+
+[light up the wall](light-up/light-up.md)
+
+[hide the lighter fork and rope in your pocket](hide/hide-chk.md)
+
+[make a necklace out of the marshmallows](necklace/necklace.md)
+>>>>>>> a8a94d08c289d920ec36a589fe2d8e0caa14bcb5
