@@ -19,3 +19,5 @@ Do you:
 [Try to scare the bird?](bird/bird.md)
 
 [Take the marshmallow out of your pocket and offer it to the bird?](marshmallow_to_bird/marshmallow_to_bird.md)
+
+[sing-song "how do you do" back to the black bird](sing-greet/sing-greet.md)
