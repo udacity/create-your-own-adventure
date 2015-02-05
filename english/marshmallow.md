@@ -95,3 +95,5 @@ Do you:
 [hide the lighter fork and rope in your pocket](hide/hide-chk.md)
 
 [make a necklace out of the marshmallows](necklace/necklace.md)
+
+[light up the wall 2](light-up2/light-up2.md)
