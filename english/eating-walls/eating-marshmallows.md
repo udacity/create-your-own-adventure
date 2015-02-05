@@ -10,7 +10,7 @@ heading for the toilet or heading for the hills.  Either way, neither of your op
 
 Do you:
 
-[checkout Susans website](http://www.susanjustin.com)
+[checkout Susans website](http://www.susanjustin.com/wpsj)
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
