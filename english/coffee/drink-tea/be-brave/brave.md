@@ -1,0 +1,1 @@
+You fully reallized your foolishness, the cofee made the burning worse. However the energy gained from cofee gave you a stamina boost to run 3x times faster
