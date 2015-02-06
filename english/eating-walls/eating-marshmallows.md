@@ -24,3 +24,5 @@ Do you:
 
 [Find a Toilet](find-a-toilet/find-a-toilet.md)
 
+[Begin to sing very clearly](../sing/sing.md)
+
