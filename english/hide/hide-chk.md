@@ -4,3 +4,4 @@ you react fast and hide all the three in your pocket.
 next you grab a handful of marshmallows from the wall and stuff you mouth with them.
 but then they are quickly replaced. 
 you guess you cant eat them all but no harm trying isn't it..
+You hear a voice creeping from behind you....
