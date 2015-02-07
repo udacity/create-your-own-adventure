@@ -1,7 +1,8 @@
 Drink some coffee and relax yourself a little bit.
 
-The bitter-sweet flavor of roasted coffee beans invigorates your soul. 
-The sharp taste makes your brain work. 
+The bitter-sweet flavor of roasted coffee beans invigorates your soul.
+
+The sharp taste makes your brain work.
 
 After having your coffee do you want to:
 
