@@ -19,3 +19,5 @@ Afterwards, you decide to:
 [go for a run](../run/run.md)
 
 [sleep a bit](../sleep/marshmallow.md)
+
+[realize that you are in a dream](../dream/marshmallow.md)
