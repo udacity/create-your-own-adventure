@@ -53,3 +53,4 @@ Maligayang Bati! [Philippines](Philippines/salamat.md)
 Εάν μιλάτε ελληνικά, συνεχίστε [εδώ](greek/marshmallow.md)
 
 Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
+Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
