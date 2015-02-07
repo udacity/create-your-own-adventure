@@ -20,4 +20,4 @@ Afterwards, you decide to:
 
 [sleep a bit](../sleep/marshmallow.md)
 
-[realize that you are in a dream](../dream/marshmallow.md)
+[realize that you are in a dream](../dream/dream.md)
