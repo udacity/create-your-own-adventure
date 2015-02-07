@@ -2,8 +2,6 @@ Drink some coffee and relax yourself a little bit.
 
 The bitter-sweet flavor of roasted coffee beans invigorates your soul.
 
-The sharp taste makes your brain work.
-
 After having your coffee do you want to:
 
 [Have another cup of coffee?](another-coffee/another-coffee.md)
@@ -15,5 +13,3 @@ After having your coffee do you want to:
 [Light a Fire?](../light-fire/fire.md)
 
 [Remenisce?](../remenisce/better-times.md).
-
-
