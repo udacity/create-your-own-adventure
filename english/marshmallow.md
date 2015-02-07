@@ -52,11 +52,11 @@ Do you:
 
 [Promise to yourself this is the last time you take hallucinogenic mushrooms?](shrooms/never-again.md)
 
-[Think this is too surreal and decide to try the French version instead?] (../French/feu-de-camp.md)
+[Think this is too surreal and decide to try the French version instead?](../French/feu-de-camp.md)
 
-[Think this is a dream, and jam the fork into your hand to wake up?] (fork-jam/not_dreaming.md)
+[Think this is a dream, and jam the fork into your hand to wake up?](fork-jam/not_dreaming.md)
 
-[Go out and collect mushroom?] (mushroom/collect_mushroom.md)
+[Go out and collect mushroom?](mushroom/collect_mushroom.md)
 
 [Try to walk around](virtualreality/oculus.md)
 
@@ -97,3 +97,5 @@ Do you:
 [make a necklace out of the marshmallows](necklace/necklace.md)
 
 [light up the wall 2](light-up2/light-up2.md)
+
+[search for chocolate and graham crackers?](chocolate/chocolate.md)
