@@ -5,4 +5,4 @@ Je verstopt je in de struiken, en ziet twee mannen met een lijkzak sleuren.
 
 Je gaat snel [terug naar de hei](../welkom.md)
 
-Je gaat [de confrontatie](bos/confrontatie.md) aan, ookal heb je enkel een slappe zwemnoodle om je te verdedigen. 
+Je gaat [de confrontatie](confrontatie/confrontatie.md) aan, ookal heb je enkel een slappe zwemnoodle om je te verdedigen. 
