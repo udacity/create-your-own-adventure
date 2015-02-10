@@ -99,3 +99,5 @@ Do you:
 [light up the wall 2](light-up2/light-up2.md)
 
 [Switch on your laptop and..](netflix/netflix.md)
+
+[Perform some magic](magic.md)
