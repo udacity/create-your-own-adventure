@@ -5,3 +5,5 @@
 [Приготовить кофе?](coffee/coffee.md)
 
 [Раскрасить зефир вареньем?](confiture/confiture.md)
+
+[Ущипнуть себя?](pinch/pinch.md)
