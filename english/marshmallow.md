@@ -100,4 +100,4 @@ Do you:
 
 [Switch on your laptop and..](netflix/netflix.md)
 
-[Perform some magic](magic.md)
+[Perform some magic](magic/magic.md)
