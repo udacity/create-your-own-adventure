@@ -34,6 +34,8 @@ Se você fala português, [entre aqui](portugues/colaborando.md)
 
 日本語を使う人は、[ここ](japanese/chasitsu.md)に行ってください。
 
+Jos puhut suomea, jatka [tänne](finnish/sauna.md)
+
 Rägite eesti keeles, vajutage [siia](estonian/raamat.md).
 
 Якщо ви говорите україньською, перейдіть за [посиланням](ukrainian/marshmallow.md).
