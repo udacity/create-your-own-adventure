@@ -9,3 +9,5 @@ Do you:
 the nearest exit out of the Matrix.](../journey-to-flaming-tower/exit/exit.md)
 
 [Try a MacGyver escape move with items in pocket.](../../macgyver/macgyver.md)
+
+[Flash the sweetest smile to the child?](create-your-own-adventure/english/explore-outside/talk-child/smile/smile-to-child.md)
