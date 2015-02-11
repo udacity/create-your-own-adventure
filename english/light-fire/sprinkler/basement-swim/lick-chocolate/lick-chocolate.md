@@ -9,3 +9,5 @@ size. It notices you standing there, dripping with chocolate, and waddles in you
 Do you:
 
 [Ask yourself "how did I not notice those when I swimming?"](question-self/question-self.md)
+
+[Jam your fork into it](jam-fork/jam-fork.md)
