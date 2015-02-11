@@ -1,8 +1,9 @@
-Baking is therapeutic for you.  You remember
-learning to bake from your grandmother and how
+Baking is therapeutic for you. Smell that radiates 
+through out the house, gives us all that warm fuzzy feeling.
+You remember learning to bake from your grandmother and how
 relaxing and happy that always makes you.  You
 want to spread the joy (and chocolate chip cookies).
-Probably you love cookies too.
+Probably you love cookies too. 
 
 Do you:
 
