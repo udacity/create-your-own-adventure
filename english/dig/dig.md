@@ -10,7 +10,7 @@ Do you:
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
-[Go exploring outside?](../explore-outside/explore-outside.md)
+[Continue your adventure outside away from all that sugar?](explore-outside/explore-outside.md)
 
 [Graps paws?](grasp-paws/grasp-paws.md)
 
