@@ -4,7 +4,9 @@ The effort has left you exhausted, but outside, you see a forest.
 
 A big, black bird approaches.
 
-It says "hello"
+You feel uneasy.
+
+It says "hello".
 
 Do you:
 
