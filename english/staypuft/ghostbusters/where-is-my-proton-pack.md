@@ -24,4 +24,4 @@ After so much excitement you decide to:
 
 [Watch Ghostbusters and see if you're in the credits?](watch-ghostbusters/watch-ghostbusters.md)
 
-[Jump to another Bill Murray movie](billMurrayMovies/billMurrayMovies.md))
+[Jump to another Bill Murray movie](billMurrayMovies/billMurrayMovies.md)
