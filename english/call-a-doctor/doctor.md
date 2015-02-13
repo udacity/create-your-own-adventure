@@ -5,8 +5,8 @@ color, not like the institutionalized white you remember from movies.
 
 The doctor enters.
 
-["Let me outta here, Doc!!!"](let-me-out.md)
+["Let me outta here, Doc!!!"](let-me-out/let-me-out.md)
 
-["I'm uber hungry, Doc."](hungry.md)
+["I'm uber hungry, Doc."](hungry/hungry.md)
 
-["Is Ghostbusters showing in the common room tonight, Doc?"](ghostbusters.md)
+["Is Ghostbusters showing in the common room tonight, Doc?"](ghostbusters/ghostbusters.md)
