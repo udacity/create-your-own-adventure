@@ -9,3 +9,5 @@ He recommends that you do not follow him to the castle. The bus arrives...
 Do you:
 
 [Follow him onto the bus?](./getonbus/getonbus.md)
+
+[Challenge him to a duel!](./duel/duel.md)

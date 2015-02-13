@@ -87,11 +87,8 @@ Do you:
 [Ask yourself how you got yourself into this situation - AGAIN?](shrooms/never-again.md)
 
 [Challenge the Marshmallows to a Rock Off!](challenge-marshmellow-to-rock-off/tenacious-d.md)
-<<<<<<< HEAD
 
 [Call a doctor](call-a-doctor/doctor.md)
-||||||| merged common ancestors
-=======
 
 [Remember that pill you took](adipose/adipose.md)
 
@@ -100,4 +97,9 @@ Do you:
 [hide the lighter fork and rope in your pocket](hide/hide-chk.md)
 
 [make a necklace out of the marshmallows](necklace/necklace.md)
->>>>>>> a8a94d08c289d920ec36a589fe2d8e0caa14bcb5
+
+[light up the wall 2](light-up2/light-up2.md)
+
+[Switch on your laptop and..](netflix/netflix.md)
+
+[Perform some magic](magic/magic.md)

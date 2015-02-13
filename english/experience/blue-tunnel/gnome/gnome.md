@@ -1,0 +1,1 @@
+as you approach the gnome, he gives off a gentle smile.

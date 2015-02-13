@@ -34,6 +34,8 @@ Se você fala português, [entre aqui](portugues/colaborando.md)
 
 日本語を使う人は、[ここ](japanese/chasitsu.md)に行ってください。
 
+Jos puhut suomea, jatka [tänne](finnish/sauna.md)
+
 Rägite eesti keeles, vajutage [siia](estonian/raamat.md).
 
 Якщо ви говорите україньською, перейдіть за [посиланням](ukrainian/marshmallow.md).
@@ -53,3 +55,7 @@ Maligayang Bati! [Philippines](Philippines/salamat.md)
 Εάν μιλάτε ελληνικά, συνεχίστε [εδώ](greek/marshmallow.md)
 
 Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
+
+Hvis du taler dansk, [tryk her](danish/velkommen.md)
+
+Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)

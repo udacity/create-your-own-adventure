@@ -21,4 +21,6 @@ Do you:
 
 [Tap communicator and ask Scotty to beam you up?](./call-scotty/call-scotty.md)
 
+[Notice that there's a patch of fluffy moss off to your left and go to take a nap?](./moss-nap/moss-nap.md)
+
 [Have a cup of coffee](../coffee/coffee.md)
