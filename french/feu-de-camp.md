@@ -9,3 +9,5 @@ Que faites-vous ?
 [Je panique](panique/frapper-le-mur.md)
 
 [Je mange](manger/faim.md)
+
+[Je cherche une arme](arme/arme.md)
