@@ -4,8 +4,8 @@ Vous vous reveillez ce qui semble etre quelques heures plus tard, de tres bonne 
 
 Que faites-vous ?
 
-[Je cherche une sortie](sortie/chercher-la-sortie.md)
+[Je cherche une sortie](../sortie/chercher-la-sortie.md)
 
-[Je panique](panique/frapper-le-mur.md)
+[Je panique](../panique/frapper-le-mur.md)
 
-[Je mange](manger/faim.md)
+[Je mange](../manger/faim.md)
