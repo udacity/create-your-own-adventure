@@ -6,9 +6,11 @@ There are two paths outside. One leads into a forest. One leads into the mountai
 
 In the distance, you notice a tower that has caught fire, but is smoking a deep shade of purple.
 
+You then notice that the purple haze is that of the burning mushrooms in the distance. You start to feel disoriented. 
+
 Overhead, you hear a loud, running noise. It's a chococopter!
 
-You have a slight cold.  You might want to call in sick to work. What do you do?
+You have a slight cold. You start to feel queasy.  You might want to call in sick to work. What do you do?
 
 I would run to the forest
 
