@@ -23,4 +23,4 @@ and suddenly, your rusty sword starts glowing as bright as your torch. The shado
 disgust under its dark hood as it scurries to the stairs and vanishes in the darkness. As you examine some
 cryptic language written on the hilt of the sword, you need to decide.
 
-Will it be the ladder? or the Stairs?
+Will it be the [ladder](/ladder/matrix.md)? or the [Stairs](/stairs/master.md)?
