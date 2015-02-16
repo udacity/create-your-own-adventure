@@ -6,3 +6,5 @@
 [Вы решаете проломить проход в стене и двинуться вперед.](brake-the-wall/brake-the-wall.md)
 
 [Вам страшно что-либо предпринимать.](so-scary/so-scary.md)
+
+[Медитировать.](meditate/meditate.md)
