@@ -1,1 +1,1 @@
-Je wordt de volgende dag met een kater wakker in [de hei](../../welkom.md).
+Je wordt de volgende dag met een kater wakker in [de hei](../../../welkom.md).
