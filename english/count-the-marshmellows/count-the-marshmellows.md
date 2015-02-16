@@ -1,5 +1,7 @@
 You count the marshmallows which relaxes you and you fall asleep, afterwards you wake up and you must make a decision.
 
+You realized you need 15 more minutes of sleep. Upon waking, you're super amped and ready to decide!
+
 Also, it looks like the marshmallow count has changed. The wall seems to be growing.
 
 Do you:
