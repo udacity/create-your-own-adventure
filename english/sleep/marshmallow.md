@@ -9,6 +9,8 @@ whatever i think will come true.
 
 Do you:
 
+[CHOCOLATES!!Are you hungry?](hungry/hungry.md)
+
 [Start eating the walls?](../eating-walls/eating-marshmallows.md)
 
 [Go back to sleep?](more-sleep/more-sleep.md)
@@ -22,3 +24,4 @@ Do you:
 [You pinch yourself to see whether you are dreaming?](../pinch/pinch.md)
 
 [Make another wish?](./make-another-wish/wish.md)
+
