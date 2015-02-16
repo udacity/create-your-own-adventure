@@ -4,3 +4,5 @@ Je verstaat geen woord ervan, maar de stemmen komen wel steeds sneller naar je t
 Je verstopt je in de struiken, en ziet twee mannen met een lijkzak sleuren.
 
 Je gaat snel [terug naar de hei](../welkom.md)
+
+Je blijft stiekem [meekijken](ontvoering/ontvoering.md)
