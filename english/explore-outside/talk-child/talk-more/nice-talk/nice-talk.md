@@ -4,4 +4,4 @@ Suddenly, a large wave forms and capsizes the child's boat. What do you do?
 
 [Help the green child](./help-child/help-child.md)
 
-[Walk away](./ignore-child/ignore-child.md)
+[Walk away](./walk-away/walk-away.md)
