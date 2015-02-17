@@ -6,4 +6,4 @@
 
 [Позавтракать с Винипухом и Пяточком](breakfast/breakfast-marshmallows.md)
 
-[Скажете "нет" наркотикам] (no/nodrugs.md)
+[Скажете "нет" наркотикам](no/nodrugs.md)
