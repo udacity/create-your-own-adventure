@@ -12,4 +12,4 @@ Werden Sie:
 
 [Versuchen den Finger ins Loch zu stecken?](finger-ins-loch/finger-ins-loch.md)
 
-[Springen aus dem Boot und schwimmen nach Norden?](schwimmen/schwimmen.md)
+[Aus dem Boot springen und nach Norden schwimmen?](schwimmen/schwimmen.md)
