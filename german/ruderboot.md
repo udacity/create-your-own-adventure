@@ -11,3 +11,5 @@ Werden Sie:
 [Gefasst bleiben und ihre Kleidung ausziehen und aus dem Boot werfen?](gefasst-bleiben/gefasst-bleiben.md)
 
 [Versuchen den Finger ins Loch zu stecken?](finger-ins-loch/finger-ins-loch.md)
+
+[Springen aus dem Boot und schwimmen nach Norden?](schwimmen/schwimmen.md)
