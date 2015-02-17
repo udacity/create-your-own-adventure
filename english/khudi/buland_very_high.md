@@ -8,4 +8,4 @@ ke har taqdeer se pahle,
 Khuda bande se khud puchhe,
 bata teri raza kya hai?
 
-To know who wrote this click [here](english/khudi/author.md)
+To know who wrote this click [here](khudi/author.md)
