@@ -88,6 +88,8 @@ Do you:
 
 [Challenge the Marshmallows to a Rock Off!](challenge-marshmellow-to-rock-off/tenacious-d.md)
 
+[Call a doctor](call-a-doctor/doctor.md)
+
 [Remember that pill you took](adipose/adipose.md)
 
 [light up the wall](light-up/light-up.md)
@@ -101,3 +103,7 @@ Do you:
 [Switch on your laptop and..](netflix/netflix.md)
 
 [Perform some magic](magic/magic.md)
+
+[Raise your self so high](khudi/buland_very_high.md)
+
+[Put yourself back in the straitjacket](backinstraitjacket/backinstraitjacket.md)

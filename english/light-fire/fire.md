@@ -8,6 +8,9 @@ As the fire grows, a sweet aroma fills the room and the ceiling becomes ever so 
 
 The walls around you begin to melt, globs of flaming marshmallow falling all around you. What do you do?
 
+As you somehow avoid the globs of marshmallow using your reflexes, you notice a big enough opening in the melted 
+walls for you to squeeze through.
+
 [Save yourself!](run-away/outside.md)
 
 [Begin to eat!](eating/inside.md)
