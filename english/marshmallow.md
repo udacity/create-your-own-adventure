@@ -105,3 +105,5 @@ Do you:
 [Perform some magic](magic/magic.md)
 
 [Raise your self so high](khudi/buland_very_high.md)
+
+[Put yourself back in the straitjacket](backinstraitjacket/backinstraitjacket.md)
