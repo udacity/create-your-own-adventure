@@ -14,7 +14,7 @@ After having your coffee do you want to:
 
 [Remenisce?](../remenisce/better-times.md).
 
-[Bake yourself something sweet to go with this delicious brew?](../cookie/bake-cookies.md)
+[Bake yourself something sweet to go with this delicious brew?](cookie/bake-cookies.md)
 
 
 
