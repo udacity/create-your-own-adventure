@@ -6,7 +6,7 @@ Lurkujesz właśnie swoją ulubioną grupę na Facebooku "Jak będzie w akapie" 
 Wtem nagle zza twoich pleców dobiegało głośne pukanie do drzwi. 
 Z lekkim niepokojem spoglądasz za siebie, obserwując wrota do twojego królestwa.
 
-- Przecież mama dziś już raz przynosiła mi kanapki - 
+Przecież mama dziś już raz przynosiła mi kanapki - 
 Przypomniałeś sobie, jednocześnie zdając sobie sprawy że nie masz kolegów, dziewczyny 
 a całe twoje życie towarzyskie ogranicza się tylko do pewnej grupy na Facebooku.
 
