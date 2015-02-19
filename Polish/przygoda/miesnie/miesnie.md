@@ -4,4 +4,4 @@ Co robisz?
 
 [Rozbijasz ściany siłą woli](../wola/wola.md)
 
-[Zaczynasz jeść ptasie mleczko](jedzenie/jedzenie.md)
+[Zaczynasz jeść ptasie mleczko](../jedzenie/jedzenie.md)
