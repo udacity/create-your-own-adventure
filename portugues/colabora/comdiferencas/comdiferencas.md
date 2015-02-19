@@ -8,4 +8,3 @@ Você então:
 [Senta, chora e tenta outra alternativa?](../colaborar.md)
 
 [Desiste e vai pra praia tomar uma cerveja](../../revisa/desiste/desistir.md)
-
