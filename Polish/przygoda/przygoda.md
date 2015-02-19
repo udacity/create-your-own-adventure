@@ -3,5 +3,7 @@ Zew przygody wzywa cię. Czujesz, że musisz się wydostać z tego pokoju. Rozgl
 Co robisz?
 
 [Rozbijasz ściany siłą woli](wola.md)
+
 [Rozbijasz ściany siłą mięśni](miesnie.md)
+
 [Zaczynasz jeść ptasie mleczko](jedzenie/jedzenie.md)
