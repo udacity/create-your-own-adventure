@@ -4,6 +4,6 @@ Okazało się również, że masz na sobie niewygodną kurtkę...
 
 Co robisz? 
 
-[Czujesz zew przygody](przygoda/przygoda.md)
-
 [Idziesz spac?](spanie/spaniee.md)
+
+[Czujesz zew przygody](przygoda/przygoda.md)
