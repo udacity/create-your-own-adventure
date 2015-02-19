@@ -3,4 +3,5 @@ Siłujesz się ze ścianami przez kilka godzin, aż w końcu opadasz z sił.
 Co robisz?
 
 [Rozbijasz ściany siłą woli](wola.md)
+
 [Zaczynasz jeść ptasie mleczko](jedzenie/jedzenie.md)
