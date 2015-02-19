@@ -3,6 +3,6 @@ Jego cudowne właściwości odblokowują ukryty potencjał twojego umysłu.
 Twoje myśli błądzą pomiędzy ziemią a innymi planetami. 
 Gdy całe ptasie mleczko jest już zjedzone, dochodzisz do oczywistych wniosków. Brzmią one:
 
-[Korwin Krul!](korwin.md)
+[Korwin Krul!](korwin/korwin.md)
 
 [Człowiek bez RiGCzu jest jak dżentelmen bez kapelusza, lub dama bez torebki](akap/akap.md)
