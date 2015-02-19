@@ -18,4 +18,4 @@ Jeśli uważasz, że otwieranie drzwi nieznajomym to doskonały pomysł, to [zr�
 
 Jeśli ciekawi cię, kto śmiał zakłócić twój bój o wolność i własność w internetach, to [zapytaj kto tam.](kto-tam.md)
 
-Oczywiście, zawsze możesz odsłuchać [ważną wiadomość.](akap/akap.md)
+Oczywiście, zawsze możesz odsłuchać [ważną wiadomość.](wiadomosc/wiadomosc.md)
