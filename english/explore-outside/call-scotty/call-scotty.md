@@ -8,3 +8,5 @@ As you are about to beam up, you see a rocket firing at a ship.  You just hope i
 Cats have not yet evolved enough to operate transponders.
 Perhaps you'll be safe from the intergalactic
 wars after all on Planet 0-999-999...
+
+[Close your eyes?](../../experience/experience.md)
