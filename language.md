@@ -59,3 +59,5 @@ Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
 Hvis du taler dansk, [tryk her](danish/velkommen.md)
 
 Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
+
+आपण मराठी बोलतो तर, येथे []क्लिक](marathi/song.md) करा 
