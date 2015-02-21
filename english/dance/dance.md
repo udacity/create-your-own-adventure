@@ -14,7 +14,7 @@ easily swayed by catchy rock songs of the 80s and Foreigner - Double Vision was 
 
 Just get to sleep
 
-Dance Like MJ 
+Dance Like MJ , live you life fully, 
 
 Do you:
 
