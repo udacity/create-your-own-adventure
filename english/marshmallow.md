@@ -1,5 +1,13 @@
 One morning, you wake up in a strange room with marshmallows for walls.
 
+Thinking back, there are no memories to suggest that this should have been
+
+anything but an ordinary morning. You didn't go out last night, you don't
+
+usually take intoxicants, what's happening...?
+
+But it's probably not worth dwelling on that right now, you could be in danger.
+
 These marshmallows are numerous and they look so delicious.
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
