@@ -115,3 +115,6 @@ Do you:
 [Raise your self so high](khudi/buland_very_high.md)
 
 [Put yourself back in the straitjacket](backinstraitjacket/backinstraitjacket.md)
+
+[Attempt to befriend the marshmellow man](make-friends/make-friends.md)
+
