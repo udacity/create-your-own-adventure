@@ -8,6 +8,8 @@ After a while he starts to get a bit too much, he doesn't get out much, you're b
 
 What do you do next to stimulate and excite you!
 
+But you ought to be careful, the power of the legos is not a joke!
+
 Would you like to?
 
 [practice flying?](../super-powers/practice-flying.md)
@@ -19,3 +21,7 @@ or
 or 
 
 [Look for a way out?](../find-exit/leave.md)
+
+or
+
+[Ponder](../ponder/ponder-about-life.md)
