@@ -6,4 +6,6 @@ El consejero emocionado ordeno a  Beatito:
 
 [Avisar al pueblo y organizar  las festividades ](avisar/avisar.md)
 
+[Apuntalar la puerta de la muralla](apuntalar/apuntalar.md)
+
 
