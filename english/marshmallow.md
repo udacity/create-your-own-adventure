@@ -118,3 +118,5 @@ Do you:
 
 [Attempt to befriend the marshmellow man](make-friends/make-friends.md)
 
+[Drift off to heaven watching Jax Teller on SOA](netflix_soa/netflix2.md)
+
