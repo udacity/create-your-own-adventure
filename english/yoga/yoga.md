@@ -8,3 +8,5 @@ Going through the poses, you feel your body warm up and you feel the energy flow
 [Yoga LifeStyle](../yoga/lifestyle/yoga_lifestyle.md)
 
 [Benefits of Yoga](../yoga/benefits/yoga_benefits.md)
+
+[Stretch as Far as You Can](../yoga/stretch/stretch.md)
