@@ -13,4 +13,4 @@ Werden Sie:
 [Versuchen den Finger ins Loch zu stecken?](finger-ins-loch/finger-ins-loch.md)
 
 [Aus dem Boot springen und nach Norden schwimmen?](schwimmen/schwimmen.md)
-[Aus dem Traum aufwachen und Oktoberfest besuchen](Oktoberfest/okotoberfest.md)
+[Aus dem Traum aufwachen und Oktoberfest besuchen](Oktoberfest/oktoberfest.md)
