@@ -4,6 +4,6 @@ You use the fork to free the bird from its gooey prison. It is very small
 
 but very strong. You tie the rope to its feet and:
 
-Are lifted [to freedom](../) Or so you hope...
+Are lifted [to freedom](../marshmallow.md) Or so you hope...
 
 Enjoy the [ride](../enjoy-DreamRide/ride.md)
