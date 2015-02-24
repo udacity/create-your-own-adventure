@@ -16,6 +16,8 @@ You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
 You have the suspicion that you are being closely watched.
 
+You hear a small bird sound in the distance.
+
 When you look away, a marshmallow hand attempts to grab the lighter.
 
 The realization suddenly dawns upon you the marshmallow is self aware!
@@ -116,5 +118,6 @@ Do you:
 
 [Put yourself back in the straitjacket](backinstraitjacket/backinstraitjacket.md)
 
-[Attempt to befriend the marshmellow man](make-friends/make-friends.md)
+[Find the bird](find-bird/bird.md)
 
+[Attempt to befriend the marshmellow man](make-friends/make-friends.md)
