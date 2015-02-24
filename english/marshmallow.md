@@ -119,3 +119,5 @@ Do you:
 [Put yourself back in the straitjacket](backinstraitjacket/backinstraitjacket.md)
 
 [Find the bird](find-bird/bird.md)
+
+[Attempt to befriend the marshmellow man](make-friends/make-friends.md)
