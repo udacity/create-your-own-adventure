@@ -121,3 +121,5 @@ Do you:
 [Find the bird](find-bird/bird.md)
 
 [Attempt to befriend the marshmellow man](make-friends/make-friends.md)
+
+[Try to use one of your pokemon?](pokemon/pikachu_wins.md)
