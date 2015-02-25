@@ -5,4 +5,4 @@ in the distance.
 
 Do you:
 
-[Pinch yourself] (create-your-own-adventure/english/pinch/pinch.md)
+[Pinch yourself] (../pinch/pinch.md)
