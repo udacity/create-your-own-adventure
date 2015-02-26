@@ -18,6 +18,6 @@ el Consejero:
 
 [Clavó sus ojos directamente sobre el Beatito...](rebelion/inicio-rebelion.md)
 
-[Y entonces compro un dragon](dragon/dragon.md)
+[Y entonces compró un dragon](dragon/dragon.md)
 
-[¿Qué suerte tendía su hijo en la batalla?](hijo/hijo.md)
+[¿Qué suerte tendrá su hijo en la batalla?](hijo/hijo.md)

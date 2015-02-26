@@ -14,7 +14,13 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
+You are not sure who placed these objects near you or why.
+
+But you have a growing sense that these mundane objects are vital to your survival.
+
 You have the suspicion that you are being closely watched.
+
+You hear a small bird sound in the distance.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
 
@@ -115,3 +121,9 @@ Do you:
 [Raise your self so high](khudi/buland_very_high.md)
 
 [Put yourself back in the straitjacket](backinstraitjacket/backinstraitjacket.md)
+
+[Find the bird](find-bird/bird.md)
+
+[Attempt to befriend the marshmellow man](make-friends/make-friends.md)
+
+[Try to use one of your pokemon?](pokemon/pikachu_wins.md)

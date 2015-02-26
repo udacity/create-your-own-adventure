@@ -17,3 +17,5 @@
 [시간을 확인한다](check-current-time/check-current-time.md)?
 
 [노래를 부른다](sing-a-song/song.md)?
+
+[집에 가고싶어 밖으로 나간다](explore-outside/explore-outside.md)?
