@@ -14,6 +14,10 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
+You are not sure who placed these objects near you or why.
+
+But you have a growing sense that these mundane objects are vital to your survival.
+
 You have the suspicion that you are being closely watched.
 
 You hear a small bird sound in the distance.
