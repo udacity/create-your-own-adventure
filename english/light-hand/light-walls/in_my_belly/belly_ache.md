@@ -1,0 +1,1 @@
+You think you've solved your problem.  You have eaten your way out of the room.  But, you begin to feel an odd movement in your stomach.  You have not killed him; only moved him inside of you.  Your troubles have only just begun.
