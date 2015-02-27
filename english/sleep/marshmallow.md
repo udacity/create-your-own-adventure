@@ -7,6 +7,8 @@ And suddenly your wish come true, the chocolate furniture appears,
 and you start thinking is it really possible, 
 whatever i think will come true.
 
+You think if you should wish there was a way to melt these chocolates
+
 Do you:
 
 [CHOCOLATES!!Are you hungry?](hungry/hungry.md)
