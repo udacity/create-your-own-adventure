@@ -6,7 +6,7 @@ You place it carefully in you pocket and take a deep breath.
 
 The marshmallow hand scurries away and huddles in a corner of the room,
 
-tremblind.
+trembling.
 
 The marshmallow returns from the corner and offers you a freshly rolled doobie.
 
