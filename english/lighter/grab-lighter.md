@@ -4,7 +4,9 @@ to hide it in your pant pocket as the hand grabs wildly at your leg.
 
 You place it carefully in you pocket and take a deep breath.  
 
-The marshmallow hand scurries away and huddles in a corner of the room.
+The marshmallow hand scurries away and huddles in a corner of the room,
+
+tremblind.
 
 The marshmallow returns from the corner and offers you a freshly rolled doobie.
 
