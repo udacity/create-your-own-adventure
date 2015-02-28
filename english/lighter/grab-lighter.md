@@ -8,6 +8,8 @@ The marshmallow hand scurries away and huddles in a corner of the room,
 
 trembling.
 
+The marshmallow returns from the corner and offers you a freshly rolled doobie.
+
 Do you:
 
 
@@ -20,3 +22,5 @@ Do you:
 [Brandish the lighter and invoke RoastMaster?](roastmaster/invoke-roastmaster.md)
 
 [Close your eyes?](../experience/experience.md)
+
+[Toke up with the marshmallow?](toke/toke.md)
