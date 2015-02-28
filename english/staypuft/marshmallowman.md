@@ -15,3 +15,5 @@ When you're done, do you:
 [Play with the Legos](../lego/lego.md)?
 
 [Call Dr Venkman to help blast you out?](./ghostbusters/where-is-my-proton-pack.md)
+
+[Put the leather jacket on your new friend?](./animate-me/animate-me.md)
