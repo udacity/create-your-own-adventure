@@ -3,3 +3,5 @@ Alors que vous laissez la panique s'emparer de vous, vous commencez à courir da
 Finalement, emporté par votre élan, vous finissez par frapper un mur et vous vous écroulez à terre. Bien joué !
 
 Maintenat que vous etes dehors, quoi faire?
+
+[Je sens des fleurs] (sentir/fleurs.md)
