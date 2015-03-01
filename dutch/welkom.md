@@ -1,9 +1,9 @@
 ... en doe ze de groeten thuis ...
 
-Na een zware kroegentocht met Uw vrienden, loopt U nu eenzaam ergens midden op de hei.
-In de verre omtrek is er ook geen kip te zien. Van Uw vrienden is er ook niemand te bespeuren,
+Na een zware kroegentocht met je vrienden, loop je nu eenzaam ergens midden op de hei.
+In de verre omtrek is er ook geen kip te zien. Van je vrienden is er ook niemand te bespeuren,
 
-U denkt
+Je denkt
 
 ... lekker rustig, eindelijk geen gezeur van de baas. Hier blijf ik een poosje.
 
