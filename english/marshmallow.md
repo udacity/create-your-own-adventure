@@ -24,6 +24,8 @@ You hear a small bird sound in the distance.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
 
+But you are too quick for the marshmellow!
+
 The realization suddenly dawns upon you the marshmallow is self aware!
 
 Hold the image of the marshmallow and..
