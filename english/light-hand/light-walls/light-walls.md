@@ -2,6 +2,8 @@ You flick the lighter again and hold it up to the nearest wall.
 
 You realise that the walls are damp.
 
+How could that be possible?
+
 It occurs to you that this is a sentient being, and the dampness 
 
 is either tears or blood.
