@@ -4,6 +4,8 @@
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
+اذا كنت تتحدث العربية، [اضغط هنا] (arabic/salamoAlikom.md)
+
 Se parli italiano, [seguimi](Italian/caramelle.md).
 
 Türkçe konuşuyorsanız, [buraya](turkce/hatmisekeri.md).
