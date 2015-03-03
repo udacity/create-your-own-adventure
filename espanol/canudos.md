@@ -23,3 +23,5 @@ el Consejero:
 [¿Qué suerte tendrá su hijo en la batalla?](hijo/hijo.md)
 
 [Ordenó a Beatito a buscar al capitán Hernández en las Barracas.](barracas/capitan.md)
+
+[Empezó a correr hacia las montañas.](montanas/montanas.md)
