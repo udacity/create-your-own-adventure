@@ -10,3 +10,5 @@ Què fas?
 [Et poses a dormir] (dormir/dormir.md)
 
 [Cantes de l'alegria] (cantar/cantar.md)
+
+[Penses com sortir d'aquí] (sortir/sortir.md)
