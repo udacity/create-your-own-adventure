@@ -6,6 +6,8 @@ child fishing in a marshmallow boat that's beginning to melt. But the child does
 to mind. The boat is thick enough for now. You are about to call to the child. But...
 
 In the distance, you notice a tower that has caught fire, but is smoking a deep shade of purple.
+A strange blue light seems to be eminating from the tower
+making the flames look as though they are made of ice.
 
 Do you:
 
