@@ -10,6 +10,8 @@ But it's probably not worth dwelling on that right now, you could be in danger.
 
 These marshmallows are numerous and they look so delicious.
 
+You reach out to grab a handful of the marshmallow wall, but you can seem to take the handful away from the wall.
+
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
