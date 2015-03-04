@@ -6,4 +6,4 @@ Do you:
 
 [Stand still in terror](bear/stand-still.md)
 
-[Run into the room and close the door](bear/run-into-room.md)
+[Run into the room and close the door](run-in/run-into-room.md)
