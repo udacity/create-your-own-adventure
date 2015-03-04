@@ -14,6 +14,8 @@ You have a slight cold.  You might want to call in sick to work. What do you do?
 
 I would run to the forest
 
+The forest turns dark. I don't see the ice-cold water and fall into it.
+
 [Explore outside](../explore-outside/explore-outside.md)
 
 [Path into forest](into-forest/forest.md)
