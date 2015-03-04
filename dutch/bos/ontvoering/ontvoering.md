@@ -11,3 +11,5 @@ Je besluit terug naar [de hei](../../welkom.md) te rennen.
 Je besluit te huilen om je moeder terwijl de mannen je afmaken.
 
 De mannen besluiten je te [ontvoeren](AllesKomtGoed/alleskomtgoed.md).
+
+Je besluit de [politie te bellen](politie/politie.md).
