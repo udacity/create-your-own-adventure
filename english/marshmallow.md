@@ -34,6 +34,8 @@ Hold the image of the marshmallow and..
 
 Do you:
 
+[Try and interact with the marshmallow hand] (interact/interact.md)
+
 [Close your eyes](experience/experience.md)
 
 [Grab the lighter first?](lighter/grab-lighter.md)
