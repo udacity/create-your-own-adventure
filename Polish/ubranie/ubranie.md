@@ -4,7 +4,7 @@ Na jego miejscu pojawia się niespodziewanie mała kieszonka.
 Ciekawe - myślisz.
 Chyba warto sprawdzić co jest w środku.
 
-[Otwierasz kieszen](ubranie/kieszen/otworz-kieszen.md)
+[Otwierasz kieszen](kieszen/otworz-kieszen.md)
 
 
 
