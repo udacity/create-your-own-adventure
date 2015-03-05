@@ -7,3 +7,5 @@ realize that Pikachu isn't real but the marshmallow nightmare is still a problem
 
 [Appeal to Scotty](../explore-outside/call-scotty/call-scotty.md)
 
+[Turn on the tunes] (../invite-friends/mosh_pit/mosh_pit.md)
+
