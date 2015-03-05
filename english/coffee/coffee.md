@@ -16,6 +16,6 @@ After having your coffee do you want to:
 
 [Bake yourself something sweet to go with this delicious brew?](cookie/bake-cookies.md)
 
-
+[Drink cappuccino?](drink-cappuccino/drink-cappuccino.md)
 
 .
