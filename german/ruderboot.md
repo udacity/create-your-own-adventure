@@ -15,3 +15,5 @@ Werden Sie:
 [Aus dem Boot springen und nach Norden schwimmen?](schwimmen/schwimmen.md)
 
 [Aus dem Traum aufwachen und Oktoberfest besuchen](Oktoberfest/oktoberfest.md)
+
+[Sie beschliessen fortan keinen Alkohol mehr zu trinken.](Alkohol/alkohol.md)
