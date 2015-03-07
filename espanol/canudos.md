@@ -25,3 +25,5 @@ el Consejero:
 [Ordenó a Beatito a buscar al capitán Hernández en las Barracas.](barracas/capitan.md)
 
 [Empezó a correr hacia las montañas.](montanas/montanas.md)
+
+[El capitán se prepara para la batalla.](heroe/heroe.md)
