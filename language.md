@@ -61,3 +61,7 @@ Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
 Hvis du taler dansk, [tryk her](danish/velkommen.md)
 
 Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
+
+Ak hovoríš slovansky, [klikni sem](slovak/marsmelaci.md)
+
+
