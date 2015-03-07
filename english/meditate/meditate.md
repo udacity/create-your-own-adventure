@@ -4,6 +4,10 @@ So you begin to meditate for 30 minutes and when you finish, you feel more refre
 
 Clearing your mind and observing your thought, now your are more focused and ready to take on the day.
 
+Meditation also develops positive emotion and helps to see the world in different perspective.
+
+Daily meditation practice helps in long time. 
+
 And you feel like you need to do something, but what ...
 
 Afterwards, you decide to:
