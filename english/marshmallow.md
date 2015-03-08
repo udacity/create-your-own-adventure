@@ -135,3 +135,5 @@ Do you:
 [Try to use one of your pokemon?](pokemon/pikachu_wins.md)
 
 [Throw a rock at it and see if it moves](moving/moving.md)
+
+[Enter the time tunnel](timeTunnel/timeTunnel.md)
