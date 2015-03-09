@@ -11,3 +11,5 @@ Do you:
 [Continue upwards?](./upwards/upwards.md)
 
 [Slide into the forest?](../into-forest/forest.md)
+
+[Push Bolders](./boulders/boulders.md)
