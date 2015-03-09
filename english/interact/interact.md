@@ -15,3 +15,5 @@ You then:
 [Take your lighter out] (lighter/lighter.md)
 
 [Bend down on one knee] (bend/bend.md)
+
+[Take your fork out] (fork/fork.md)
