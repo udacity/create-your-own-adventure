@@ -10,8 +10,8 @@ structure.
 
 Do you:
 
-[Walk around the marshmallow structure?] [1]
+[Walk around the marshmallow structure?][marshstruct]
 
 [Return to the marshmallow room to eat more marshmallows?](../../eating-walls/eating-marshmallows.md)
 
-[1]:(../../explore-outside/investigate-marshmallow-structure/investigate-marshmallow-structure.md)
+[marshstruct]:(../../explore-outside/investigate-marshmallow-structure/investigate-marshmallow-structure.md)
