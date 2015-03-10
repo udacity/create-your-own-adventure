@@ -15,4 +15,4 @@ Until you get bored and go explore [here](https://www.urbandictionary.com) inste
 
 Then after you explore the website, you learn a few neat tricks. 
 
-[Play minecraft](english/you-are-in-minecraft/minecraft.md)
+[Play minecraft](../you-are-in-minecraft/minecraft.md)
