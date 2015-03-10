@@ -10,8 +10,7 @@ structure.
 
 Do you:
 
-[Walk around the marshmallow structure?][marshstruct]
+<a href="../../explore-outside/investigate-marshmallow-structure/investigate-marshmallow-structure.md">
+Walk around the marshmallow structure?</a>
 
 [Return to the marshmallow room to eat more marshmallows?](../../eating-walls/eating-marshmallows.md)
-
-[marshstruct]:(../../explore-outside/investigate-marshmallow-structure/investigate-marshmallow-structure.md)
