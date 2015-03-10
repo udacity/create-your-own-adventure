@@ -6,4 +6,5 @@ also a captive but has been unable to escapte or use the
 lighter due to lack of aposable thumbs.
 Do you:
 
+
 [Laugh out loud!](../lol/laugh-out-loud.md)
