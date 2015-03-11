@@ -6,4 +6,4 @@ boulder, you realize there is a hole under it.
 
 Do you:
 
-Continue Upwards? [(../upwards/upwards.md)]
+[Continue Upwards?](../upwards/upwards.md)
