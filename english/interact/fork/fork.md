@@ -21,3 +21,5 @@ Confused and still a bit dazed, you stare at the fork holes left on the pink guy
 You pick up your fork and..
 
 Do you:
+
+[Follow Mr marshmallow] (follow/follow.md)
