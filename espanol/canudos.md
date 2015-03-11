@@ -27,3 +27,5 @@ el Consejero:
 [Empezó a correr hacia las montañas.](montanas/montanas.md)
 
 [El capitán se prepara para la batalla.](heroe/heroe.md)
+
+[Una bruja entró en el salón](bruja/bruja.md)
