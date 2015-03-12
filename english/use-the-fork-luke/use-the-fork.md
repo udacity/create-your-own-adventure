@@ -41,10 +41,6 @@ Just before you step through the door, you think to yourself...
 WHO APPROVED THIS MERGE?!?!
 
 
-
-
-
-[Step through the door...](../marshmallow.md)
- 
+"It was I your father Luke!" said Yoda.
 
 
