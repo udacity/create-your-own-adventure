@@ -24,6 +24,8 @@ You have the suspicion that you are being closely watched.
 
 You hear a small bird sound in the distance.
 
+But it sounds like it might be coming out of speakers. 
+
 When you look away, a marshmallow hand attempts to grab the lighter.
 
 But you are too quick for the marshmellow!
