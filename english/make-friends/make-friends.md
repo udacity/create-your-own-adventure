@@ -9,3 +9,5 @@ Do you:
 [Laugh out loud!](lol/laugh-out-loud.md)
 
 [Do not tell him you're hungry!](hungry/hungry.md)
+
+[Attempt to speak the marshmallowish language](marshmallowish/marshmallowish.md)
