@@ -5,16 +5,16 @@ a tragedy for the poor.
 
 
 
-Quote of the day for [Family](quote-of-the-day/family.md)
+Quote of the day for [Family](family/family.md)
 
-Quote of the day for [career](quote-of-the-day/career.md)
+Quote of the day for [career](career/career.md)
 
-Quote of the day for [love](quote-of-the-day/love.md)
+Quote of the day for [love](love/love.md)
 
-Quote of the day for [friends](quote-of-the-day/friends.md)
+Quote of the day for [friends](friends/friends.md)
 
-Quote of the day for [life](quote-of-the-day/life.md)
+Quote of the day for [life](life/life.md)
 
 
 
-[Go back inside and sleep](../sleep/marshmallow.md)
+[Go back inside and sleep](../marshmallow.md)
