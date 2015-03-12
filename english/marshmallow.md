@@ -142,3 +142,5 @@ Do you:
 
 [Use the fork, Luke!](use-the-fork-luke/use-the-fork.md)
 
+[Quote of the day](quote-of-the-day/quote.md)
+
