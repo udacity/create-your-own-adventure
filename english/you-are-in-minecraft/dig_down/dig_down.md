@@ -17,3 +17,7 @@ The cave lights up a little and you can somewhat see where you are.
 Ahead of you lie two diverging tunnels, one goes to your left and the other one to your right.
 
 Behind you a single path...
+
+Do you go [left?](goleft/goleft.md)
+
+Or maybe go [right?](goright/goright.md) 
