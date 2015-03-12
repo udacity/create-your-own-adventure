@@ -10,6 +10,8 @@ Daily meditation practice helps in long time.
 
 And you feel like you need to do something, but what ...
 
+Answer: sit, stare, fill your consciousness with Git 
+
 Afterwards, you decide to:
 
 [dance with joy](../dance/dance.md)
