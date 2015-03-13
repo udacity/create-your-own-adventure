@@ -10,7 +10,7 @@ But it's probably not worth dwelling on that right now, you could be in danger.
 
 These marshmallows are numerous and they look so delicious.
 
-You reach out to grab a handful of the marshmallow wall, but you can seem to take the handful away from the wall.
+You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
@@ -142,6 +142,10 @@ Do you:
 
 [Enter the time tunnel](timeTunnel/timeTunnel.md)
 
+[Tie the marshmallow's hands and legs](tying/tying.md)
+
 [Use the fork, Luke!](use-the-fork-luke/use-the-fork.md)
 
 [B b b bird bird bird, bird is the word](birdistheword/birdistheword.md)
+
+[Quote of the day](quote-of-the-day/quote.md)
