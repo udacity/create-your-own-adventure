@@ -10,4 +10,6 @@ Do you:
 
 [Continue upwards?](./upwards/upwards.md)
 
+[Push boulders into the ravine?](./boulder/boulders.md)
+
 [Slide into the forest?](../into-forest/forest.md)

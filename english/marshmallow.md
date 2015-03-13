@@ -24,6 +24,8 @@ You have the suspicion that you are being closely watched.
 
 You hear a small bird sound in the distance.
 
+But it sounds like it might be coming out of speakers. 
+
 When you look away, a marshmallow hand attempts to grab the lighter.
 
 But you are too quick for the marshmellow!
@@ -142,5 +144,6 @@ Do you:
 
 [Use the fork, Luke!](use-the-fork-luke/use-the-fork.md)
 
-[Quote of the day](quote-of-the-day/quote.md)
+[B b b bird bird bird, bird is the word](birdistheword/birdistheword.md)
 
+[Quote of the day](quote-of-the-day/quote.md)
