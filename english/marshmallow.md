@@ -142,6 +142,8 @@ Do you:
 
 [Enter the time tunnel](timeTunnel/timeTunnel.md)
 
+[Tie the marshmallow's hands and legs](tying/tying.md)
+
 [Use the fork, Luke!](use-the-fork-luke/use-the-fork.md)
 
 [B b b bird bird bird, bird is the word](birdistheword/birdistheword.md)
