@@ -7,3 +7,5 @@ Werden Sie:
 
 [In das Boot zurückkehren?](../ruderboot.md)
 
+[Die Korallen nochmal genauer ansehen?](../Korallen/Korallen.md)
+
