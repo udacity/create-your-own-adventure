@@ -6,4 +6,5 @@ Das Riff ist mit wunderschönen Korallen bewachesen, welche eine bunte Schar Fis
 Werden Sie:
 
 [In das Boot zurückkehren?](../ruderboot.md)
+[Die Korallen nochmal genauer ansehen?](../Korallen/Korallen.md)
 
