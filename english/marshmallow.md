@@ -147,3 +147,5 @@ Do you:
 [Use the fork, Luke!](use-the-fork-luke/use-the-fork.md)
 
 [B b b bird bird bird, bird is the word](birdistheword/birdistheword.md)
+
+[Quote of the day](quote-of-the-day/quote.md)
