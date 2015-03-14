@@ -13,4 +13,4 @@ Marshy replied...
 
 You are in your own mind living your childhood dream
 
-you are in a alien planet(https://github.com/Bnatt/create-your-own-adventure/blob/marshy_myfriend/english/make-friends/alien_planet.md)
+[you are in a alien planet](https://github.com/Bnatt/create-your-own-adventure/blob/marshy_myfriend/english/make-friends/alien_planet.md)
