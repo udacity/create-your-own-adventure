@@ -32,6 +32,8 @@ But you are too quick for the marshmellow!
 
 The realization suddenly dawns upon you the marshmallow is self aware!
 
+If you don't do something quickly, this marshmallow belly will digest you!
+
 Hold the image of the marshmallow and..
 
 Do you:
