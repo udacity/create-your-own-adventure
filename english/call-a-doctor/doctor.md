@@ -12,3 +12,5 @@ The doctor enters.
 ["Is Ghostbusters showing in the common room tonight, Doc?"](ghostbusters/ghostbusters.md)
 
 ["HELLLOOOOOOOOO! Meesa Jar Jar Binks!!!"](jarjar/jarjar.md)
+
+["Eh, what's up Doc"](bugs-bunny/bugs-bunny.md)
