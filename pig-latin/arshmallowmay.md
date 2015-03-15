@@ -8,4 +8,4 @@ Oday ouyay:
 
 [Ogay ackbay otay eepslay](eepslay/arshmallowmay.md)?
 
-[Ixfay ourselfyay ayay upcay ofyay othay ocolatechay](othay-ocolatechay/inkingdray-ocolatechay.md)?
+[Ixfay ourselfyay ayay upcay ofyay othay ocolatechay](othay-ocolatechay/ocolatechay.md)?
