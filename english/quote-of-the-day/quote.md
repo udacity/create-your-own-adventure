@@ -15,7 +15,7 @@ Quote for [friends](friends/friends.md)
 
 Quote for [life](life/life.md)
 
-Quote for [20150314](20150314/life.md)
+Quote for [20150314](20150314/20150314.md)
 
 
 [Go back to marshmallow](../marshmallow.md)
