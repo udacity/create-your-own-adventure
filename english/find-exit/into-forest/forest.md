@@ -45,4 +45,4 @@ and try to remember how you got here in the first place,
 
 while without thinking your fingers find the fork and
 
-[You start making knots on your fork](../../../fork-knots/melt-with-fork.md)
+[You start making knots on your fork](../../fork-knots/melt-with-fork.md)
