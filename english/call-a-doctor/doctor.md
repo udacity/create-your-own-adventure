@@ -13,4 +13,6 @@ The doctor enters.
 
 ["HELLLOOOOOOOOO! Meesa Jar Jar Binks!!!"](jarjar/jarjar.md)
 
+["Eh, what's up Doc"](bugs-bunny/bugs-bunny.md)
+
 ["I'm the Doctor"](timelord/timelord.md)
