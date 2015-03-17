@@ -24,7 +24,7 @@ You have the suspicion that you are being closely watched.
 
 You hear a small bird sound in the distance.
 
-But it sounds like it might be coming out of speakers. 
+But it sounds like it might be coming out of speakers.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
 
@@ -39,6 +39,8 @@ Hold the image of the marshmallow and..
 Do you:
 
 [Try and interact with the marshmallow hand] (interact/interact.md)
+
+[Ask to Alice](ask-to-alice/ask-to-alice.md)
 
 [Close your eyes](experience/experience.md)
 
