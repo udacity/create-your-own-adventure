@@ -40,6 +40,8 @@ Hold the image of the marshmallow and..
 
 Do you:
 
+[Step into an adjacent room to check your social media hubs] (social-media/social-media.md)
+
 [Try and interact with the marshmallow hand] (interact/interact.md)
 
 [Ask to Alice](ask-to-alice/ask-to-alice.md)
