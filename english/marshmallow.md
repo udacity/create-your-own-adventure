@@ -34,6 +34,8 @@ The realization suddenly dawns upon you the marshmallow is self aware!
 
 If you don't do something quickly, this marshmallow belly will digest you!
 
+Marshmallows are going to rule the world!
+
 Hold the image of the marshmallow and..
 
 Do you:
@@ -155,3 +157,5 @@ Do you:
 [Quote of the day](quote-of-the-day/quote.md)
 
 [Escape and find a phone to call...](call-these-guys/calltheseguys.md)
+
+[Play some cricket](play-some-cricket/playsomecricket.md)
