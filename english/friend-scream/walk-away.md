@@ -1,0 +1,1 @@
+You's a cold hearted fool. That was your best friend, dude! Oh, well. You walk away and your "courageous" legs take you to a path in the woods and your adventure continues (I guess). At least you're alive.
