@@ -1,6 +1,6 @@
 Switch on your laptop, go to netflix before you realize there's no available
 
-networks in the marshmellow. 
+networks in the marshmallow.
 
 What do you do?
 
