@@ -64,3 +64,5 @@ Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
 
 Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 
+اگر به زبان فارسی صحبت می‌کنید، [به اینجا بروید](persian/otagheh-basteh.md)
+
