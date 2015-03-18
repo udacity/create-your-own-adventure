@@ -7,3 +7,5 @@ Oday ouyay:
 [Ightlay ayay irefay](ightlay-irefay/irefay.md)?
 
 [Ogay ackbay otay eepslay](eepslay/arshmallowmay.md)?
+
+[Ixfay ourselfyay ayay upcay ofyay othay ocolatechay](othay-ocolatechay/ocolatechay.md)?

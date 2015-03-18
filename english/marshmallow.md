@@ -10,7 +10,7 @@ But it's probably not worth dwelling on that right now, you could be in danger.
 
 These marshmallows are numerous and they look so delicious.
 
-You reach out to grab a handful of the marshmallow wall, but you can seem to take the handful away from the wall.
+You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
@@ -24,17 +24,25 @@ You have the suspicion that you are being closely watched.
 
 You hear a small bird sound in the distance.
 
+But it sounds like it might be coming out of speakers.
+
 When you look away, a marshmallow hand attempts to grab the lighter.
 
 But you are too quick for the marshmellow!
 
 The realization suddenly dawns upon you the marshmallow is self aware!
 
+If you don't do something quickly, this marshmallow belly will digest you!
+
+Marshmallows are going to rule the world!
+
 Hold the image of the marshmallow and..
 
 Do you:
 
 [Try and interact with the marshmallow hand] (interact/interact.md)
+
+[Ask to Alice](ask-to-alice/ask-to-alice.md)
 
 [Close your eyes](experience/experience.md)
 
@@ -140,5 +148,14 @@ Do you:
 
 [Enter the time tunnel](timeTunnel/timeTunnel.md)
 
+[Tie the marshmallow's hands and legs](tying/tying.md)
+
 [Use the fork, Luke!](use-the-fork-luke/use-the-fork.md)
 
+[B b b bird bird bird, bird is the word](birdistheword/birdistheword.md)
+
+[Quote of the day](quote-of-the-day/quote.md)
+
+[Escape and find a phone to call...](call-these-guys/calltheseguys.md)
+
+[Play some cricket](play-some-cricket/playsomecricket.md)
