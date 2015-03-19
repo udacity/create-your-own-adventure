@@ -1,4 +1,6 @@
 You find that surprisingly the marshmallows were not as soft as you thought and you broke your nails in the process.
+As your nail broke off, you noticed that there was a hallway to your left.
+At the end of the hallway is a door.
 
 As your nail broke off, you noticed that there was a hallway to your left.
 At the end of the hallway is a door.
