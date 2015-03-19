@@ -14,13 +14,17 @@ I was a little embarrassed and surprised to hear back a reply. "Where am I?", I 
 
 Your Earth started to literally disintegrate into pieces. So our leaders transported all the remaining humans here."
 
-I was a little relieved. But my mind was beginning to swarm with all sorts of questions. "So, how long have I been in hyper-sleep?", I enquired.
+I was a little relieved. But my mind was beginning to swarm with all sorts of questions. 
+
+"So, how long have I been in hyper-sleep?", I enquired.
 
 "About 10 months", Marshy replied. "you were one of the last group to be transported here. 
 
-We always leave humans in sleep to assess their physical condition and to tune them up to suit to this Planet's environment', she intoned.
+We always leave humans in sleep to assess their physical condition and to tune them up to 
 
-I couldn't wait to go out and explore the new Planet. But I was feeling very tired and felt like didn't ahve any energy left.
+suit to this Planet's environment', she intoned.
+
+I couldn't wait to go out and explore the new Planet. But I was feeling very tired and felt like didn't have any energy left.
 
 "Oh I forgot. One month in our Planet is equal to 10 years in your Earth time. So 100 years have passed in Earth time"
 
