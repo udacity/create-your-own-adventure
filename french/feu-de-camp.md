@@ -12,4 +12,4 @@ Que faites-vous ?
 
 [Je me faufile dans un trou](manger/trou/trou.md)
 
-[Je dessine une porte](dessine/porte.md)
+[Je dessine une porte avec un syphon de crème chantilly qui traine](dessine/porte.md)
