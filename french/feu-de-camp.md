@@ -9,3 +9,7 @@ Que faites-vous ?
 [Je panique](panique/frapper-le-mur.md)
 
 [Je mange](manger/faim.md)
+
+[Je me faufile dans un trou](manger/trou/trou.md)
+
+[Je dessine une porte](dessine/porte.md)
