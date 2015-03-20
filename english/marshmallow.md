@@ -20,6 +20,8 @@ You are not sure who placed these objects near you or why.
 
 But you have a growing sense that these mundane objects are vital to your survival.
 
+You decide to try to light a fire to melt some of the marshmallows so you look for some kindling.
+
 You have the suspicion that you are being closely watched.
 
 You hear a small bird sound in the distance.
