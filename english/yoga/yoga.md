@@ -10,3 +10,5 @@ Going through the poses, you feel your body warm up and you feel the energy flow
 [Benefits of Yoga](../yoga/benefits/yoga_benefits.md)
 
 [Stretch as Far as You Can](../yoga/stretch/stretch.md)
+
+[Set your mind free](../yoga/mind/yoga_mind.md)
