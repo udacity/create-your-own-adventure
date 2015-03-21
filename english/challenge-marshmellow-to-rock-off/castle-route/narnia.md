@@ -24,3 +24,4 @@ disgust under its dark hood as it scurries to the stairs and vanishes in the dar
 cryptic language written on the hilt of the sword, you need to decide.
 
 Will it be the ladder? or the Stairs?
+Despite the fact that you were the tri-state bronze medallist in the Stairmaster competition, 
