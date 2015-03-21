@@ -1,5 +1,5 @@
 You pull out your cell phone and text Chuck Norris to ask what he would do.
 
-Do you ask him:
+Does he tell you to:
 
-If he would [tie the fork in knots?](https://github.com/mongoose1729/create-your-own-adventure/tree/master/english/fork-knots)
+[Tie the fork in knots?](https://github.com/mongoose1729/create-your-own-adventure/blob/master/english/fork-knots/melt-with-fork.md)
