@@ -1,7 +1,7 @@
 Pull out your phone to check the date and see where you are.
 You remember hearing somewhere that you can't read in a dream.
 As you look at your phone, you realize that you can't make
-out what it says...
+out what it says....
 
 Do you:
 
