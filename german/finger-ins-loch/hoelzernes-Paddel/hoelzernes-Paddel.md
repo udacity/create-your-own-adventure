@@ -14,4 +14,4 @@ Sie
 um auf sich [aufmerksam zu machen](aufmerksam_machen/aufmerksam_machen.md)
 
 ...paddeln vorsichtig in eine nahegelegene Bucht, 
-um sich das Ganze aus [sicherer Entfernung](sicherer_Entfernung/sicherer_entfernung.md) anzuschauen. 
+um sich das Ganze aus [sicherer Entfernung](sicherer_Entfernung/sicherer_Entfernung.md) anzuschauen. 
