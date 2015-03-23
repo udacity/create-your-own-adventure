@@ -1,4 +1,4 @@
-After realizing that the marshmallow seems to be self-aware, you have decided to confirm your suspision by delivering the marsmallow a turing test. 
+After realizing that the marshmallow may be self-aware, you want to confirm your suspision by delivering a turing test. 
 
 You scream inside the belly of the beast "Hello! What do you call yourself?"
 
