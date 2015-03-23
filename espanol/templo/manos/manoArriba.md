@@ -1,1 +1,1 @@
-"Levantando su mano gritó herejes"
+Levantando su mano gritó "¡Al infierno, herejes!"
