@@ -30,7 +30,7 @@ But it sounds like it might be coming out of speakers.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
 
-But you are too quick for the marshmellow!
+But you are too quick for the marshmallow!
 
 The realization suddenly dawns upon you the marshmallow is self aware!
 
@@ -41,6 +41,8 @@ Marshmallows are going to rule the world!
 Hold the image of the marshmallow and..
 
 Do you:
+
+[Give the marshmallow entity a turing test](turing-test/turing-test.md)
 
 [Step into an adjacent room to check your social media hubs] (social-media/social-media.md)
 
