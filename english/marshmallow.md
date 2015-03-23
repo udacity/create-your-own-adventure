@@ -28,7 +28,7 @@ You hear a small bird sound in the distance.
 
 But it sounds like it might be coming out of speakers.
 
-When you look away, a marshmallow hand attempts to grab the lighter.
+When you look away, a marshmellow hand attempts to grab the lighter.
 
 But you are too quick for the marshmallow!
 
