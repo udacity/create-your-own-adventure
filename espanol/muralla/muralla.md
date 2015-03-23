@@ -8,4 +8,5 @@ El consejero emocionado ordeno a  Beatito:
 
 [Apuntalar la puerta de la muralla](apuntalar/apuntalar.md)
 
+
 [Volver a poner al minotauro en su sitio](minotauro/minotauro.md)
