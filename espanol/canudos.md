@@ -1,6 +1,6 @@
 En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
-el Consejero: 
+el Consejero Iznogud, sintiendose incómodo ante la gravedad de la situación: 
 
 [Mandó a congregar a Canudos entero al templo.](templo/templo.md)
 
@@ -20,7 +20,7 @@ el Consejero:
 
 [Y entonces compró un dragon](dragon/dragon.md)
 
-[¿Qué suerte tendrá su hijo en la batalla?](hijo/hijo.md)
+Se preguntó [¿Qué suerte tendrá su hijo en la batalla?](hijo/hijo.md)
 
 [Ordenó a Beatito a buscar al capitán Hernández en las Barracas.](barracas/capitan.md)
 
