@@ -20,7 +20,7 @@ And it looks like you made them all angry!
 
 Do you:
 
-[Lay down and play dead] (../english/macgyver/toss-lighter/dead/play-dead.md)
+[Lay down and play dead] (../english/macgyver/toss-lighter/dead/play_dead.md)
 
 [Pick up the lighter] (../english/lighter/grab-lighter.md)
 
