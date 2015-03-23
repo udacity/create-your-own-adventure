@@ -6,3 +6,5 @@ It's definitely throwing off my groove:(
 Then I open my mac and log on to udacity :)
 
 [Sit back down, to get no sleep?](../sleep/marshmallow.md)
+
+Amnesia can be freaking awesome sometimes :)
