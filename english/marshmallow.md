@@ -42,9 +42,13 @@ Hold the image of the marshmallow and..
 
 Do you:
 
+[Give the marshmallow entity a turing test](turing-test/turing-test.md)
+
 [Step into an adjacent room to check your social media hubs] (social-media/social-media.md)
 
 [Try and interact with the marshmallow hand] (interact/interact.md)
+
+[Check your phone for date, time and location?](check-your-phone/check-your-phone.md)
 
 [Ask to Alice](ask-to-alice/ask-to-alice.md)
 
@@ -167,3 +171,5 @@ Do you:
 [Run back and forth quickly slamming into the walls](indigestion/indigestion.md)
 
 [In their tongue he is Dovhakiin, DragonBorn, FUS ROH DAH](fus-roh-dah/fus-roh-dah.md)
+
+[The walls start closing in](malaria/malaria.md)

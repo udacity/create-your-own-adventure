@@ -13,3 +13,9 @@ Dupa ce mancati voi pana dimneata, de vi se umple burtile o apuca pe Gina si str
 
 - Ce ?
 - [Sa mergem in padurea violet](padurea_violet/padurea_violet.md)
+
+Dupa ce va intoarceti din padurea violet, obositi, vreti sa va culcati si realizati
+ca nu aveti pat.. asa ca va intindeti pe o plapuma, pe jos.. Adormiti gandindu- va
+la patul care nu mai este...
+
+[Dimineata urmatoare, cand va treziti..] (ziua_urmatoare/ziua_urmatoare.md)
