@@ -8,3 +8,6 @@ going to be in there long?
 
 Do you:
 
+[Try to distract the bear by pointing out an imaginary beehive behind him?](beehive/beehive.md)
+
+[Inform the bear that you've had one too many marshmallows](too-many-marshmallows/too-many-marshmallows.md)
