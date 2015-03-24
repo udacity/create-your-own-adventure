@@ -21,5 +21,3 @@ just realize you have diabetes.
 [Save yourself!](run-away/outside.md)
 
 [Begin to eat!](eating/inside.md)
-
-[Turn on the chocolate sprinkler!](sprinkler/eating-chocolate.md)

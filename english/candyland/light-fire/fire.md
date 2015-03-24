@@ -12,22 +12,3 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 
 As you somehow avoid the globs of marshmallow using your reflexes, you notice a big enough opening in the melted 
 walls for you to squeeze through.
-
-[Save yourself!](run-away/outside.md)
-
-[Begin to eat!](eating/inside.md)
-
-[Succumb to your marshmallow-y grave!](succumb/game-over.md)
-
-[Turn on the chocolate sprinkler!](sprinkler/eating-chocolate.md)
-
-[Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
-
-[Call the marshmallow wall repair guy, Marshall M. Aloe](call-marshall/call-marshall.md)
-
-[Pull graham crackers from inside your jacket](graham-crackers/graham-crackers.md)
-
-[Say xyzzy.](xyzzy/xyzzy.md)
-
-[Drink some coffee.](../coffee/coffee.md)
-[Sleep]
