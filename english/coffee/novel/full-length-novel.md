@@ -4,8 +4,8 @@ the average citizen of the global industrial complex.
 
 You just written a full-length novel, now what do you do?
 
-[Sell the movie rights](../coffee/hollywood.md)
+[Sell the movie rights](../hollywood/hollywood.md)
 
-[Run nude](../coffee/nude-run.md)
+[Run nude](../nude-run/nude-run.md)
 
-[Have another coffee?](another-coffee.md)
+[Have another coffee?](../another-coffee/another-coffee.md)
