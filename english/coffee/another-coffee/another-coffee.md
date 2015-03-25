@@ -6,6 +6,6 @@ You are quite hungry aren't you ?
 
 [Eat a bagel](../bagel/eat-a-bagel.md)
 
-[Have another coffee?](another-coffee.md)
+[Have another coffee?](../coffee.md)
 
 [Write a novel](../novel/full-length-novel.md)
