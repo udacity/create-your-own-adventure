@@ -1,6 +1,6 @@
 You arrived in Pokhara.
 
-[You visit lakes and caves.](places/caves.md)
+[You visit lakes and caves.](caves/caves.md)
 
-[You wanno go have some fun](places/trek.md)
+[You wanno go have some fun](trek/trek.md)
 
