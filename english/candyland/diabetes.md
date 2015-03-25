@@ -16,8 +16,4 @@ You wanted to taste all these sweetness around you, but damn you
 just realize you have diabetes.
 
 
-[Light fire] (light-fire/fire.md)
-
-[Save yourself!](run-away/outside.md)
-
-[Begin to eat!](eating/inside.md)
+[Magic](magic/magic.md)
