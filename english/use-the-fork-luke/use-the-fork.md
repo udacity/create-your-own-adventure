@@ -32,8 +32,6 @@ Checking out your escape plan, you use the Jedi power of Vim to create a door in
 After resetting your forgotten GitHub password,  you push the branch to the cloud. You create a pull request,
 hoping to get this version into the master branch so you can get out of this nightmare!
 
-Once more, silently, you chant 'Help Me Obi Won Kenobi!'.
-
 Leveraging GitHubs power, the merge is completed in minutes. A door appears before you - this is your ticket out
 of this madhouse! It is moments like these that you appreciate modern learning, and the ability to 'replay the lesson'.
 
