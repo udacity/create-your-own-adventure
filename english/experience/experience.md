@@ -6,6 +6,8 @@ you see a blue tunnel in the center of the golden halo
 
 you see a white star in the center of the blue tunnel
 
+you see a black point in the center of the white star
+
 what happens in:
 
 [golden halo](golden-halo/golden-halo.md)
@@ -13,3 +15,5 @@ what happens in:
 [blue tunnel](blue-tunnel/blue-tunnel.md)
 
 [white star](white-star/white-star.md)
+
+[black point](black-point/black-point.md)
