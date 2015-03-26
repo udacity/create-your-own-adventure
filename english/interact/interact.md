@@ -17,3 +17,5 @@ You then:
 [Bend down on one knee] (bend/bend.md)
 
 [Take your fork out] (fork/fork.md)
+
+[Use the rope to whip the wall] (whip/whip.md)
