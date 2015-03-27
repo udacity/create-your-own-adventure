@@ -13,3 +13,5 @@ They are all making a unique voice:  calling for a Man like you! Do you:
 [practice flying?] (../super-powers/practice-flying.md)
 
 [Find the evil mastermind Lex Luther?] (./lex-luther/find-lex-luther.md)
+
+[Find the bird?] (../find-bird/bird.md)
