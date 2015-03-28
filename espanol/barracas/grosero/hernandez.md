@@ -6,3 +6,5 @@ a Beatito en el rostro y le dice:
 Tras una pausa inquiere a Beatito:
 
 Ahora que ya sabe la regla más importante de estas barracas, cuénteme, ¿qué es lo que quiere?.
+
+[La bofetada produce una revelación a Beatito](../rebelion/inicio-rebelion.md)
