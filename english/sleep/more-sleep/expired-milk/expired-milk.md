@@ -19,4 +19,4 @@ What do you do now:
 
 [Tell mom about the milk](tell-mom/tell-mom.md)
 
-[Go back to sleep.](/even-more-sleep/so-sleepy.md)
+[Go back to sleep.](/even-more-sleep/even-more-sleep.md)
