@@ -8,3 +8,5 @@ Do You:
 [Rush the bear!](./rush/rush.md)
 
 [Tickle the bear!](./tickle/tickle.md)
+
+[Play Dead!](./playdead/playdead.md)
