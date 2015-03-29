@@ -13,3 +13,9 @@
 [어쩔줄 모르고 그냥 운다](cry/cry.md)?
 
 [마시멜로를 모은다](gather-the-marshmellows/gather-the-marshmellows.md)?
+
+[시간을 확인한다](check-current-time/check-current-time.md)?
+
+[노래를 부른다](sing-a-song/song.md)?
+
+[집에 가고싶어 밖으로 나간다](explore-outside/explore-outside.md)?

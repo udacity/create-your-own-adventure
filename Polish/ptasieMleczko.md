@@ -5,3 +5,8 @@ Okazało się również, że masz na sobie niewygodną kurtkę...
 Co robisz? 
 
 [Idziesz spac?](spanie/spaniee.md)
+
+[Czujesz zew przygody](przygoda/przygoda.md)
+
+[Chcesz się przebrać](ubranie/ubranie.md)
+

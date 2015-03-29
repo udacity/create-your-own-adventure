@@ -6,6 +6,8 @@ What materials are needed for these new tools? Hmmm... is there a new ore to be 
 
 Then you think about it again and say: "wait a minute, I'm actually in Minecraft, this is awesome!!".
 
+"I've always wanted to be a Steve in this game! This will be the best day ever..."
+
 Do you:
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
@@ -17,3 +19,5 @@ Do you:
 [Sing a song?](../sing-song/sing.md)
 
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
+
+[Dig down?](dig_down/dig_down.md)

@@ -4,6 +4,8 @@
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
+اذا كنت تتحدث العربية، [اضغط هنا] (arabic/salamoAlikom.md)
+
 Se parli italiano, [seguimi](Italian/caramelle.md).
 
 Türkçe konuşuyorsanız, [buraya](turkce/hatmisekeri.md).
@@ -16,13 +18,15 @@ Daca vorbesti romana, [da click aici](romanian/nalba.md).
 
 Ifyay ouyay eakspay Igpay Atinlay, [ogay erehay](pig-latin/arshmallowmay.md).
 
-Si vous parlez français, [suivez-moi] (French/feu-de-camp.md)
+Si vous parlez français, [suivez-moi] (french/feu-de-camp.md)
 
 Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
 
 Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
+
+Toegang tot de [nederlandse versie](dutch/welkom.md).
 
 Jeśli mówisz po polsku, [kliknij tutaj](Polish/ptasieMleczko.md).
 
@@ -31,6 +35,8 @@ Se você fala português, [entre aqui](portugues/colaborando.md)
 Ако говорите български, кликнете [тук](bulgarian/burning_room.md).
 
 日本語を使う人は、[ここ](japanese/chasitsu.md)に行ってください。
+
+Jos puhut suomea, jatka [tänne](finnish/sauna.md)
 
 Rägite eesti keeles, vajutage [siia](estonian/raamat.md).
 
@@ -45,3 +51,19 @@ Euskalduna bazara, joan [hona](basque/gaztelua.md).
 And if you like [Thai food](Thai/Cuisine/TomYumKung.md)
 
 Maligayang Bati! [Philippines](Philippines/salamat.md)
+
+אם אתה מדבר עברית, [לחץ כאן](hebrew/marshmallow.md).
+
+Εάν μιλάτε ελληνικά, συνεχίστε [εδώ](greek/marshmallow.md)
+
+Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
+
+Hvis du taler dansk, [tryk her](danish/velkommen.md)
+
+Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
+
+Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
+
+اگر به زبان فارسی صحبت می‌کنید، [به اینجا بروید](persian/otagheh-basteh.md)
+
+आप हिंदी बोलते हैं   ?,[go here](hindi/bollywood.md)

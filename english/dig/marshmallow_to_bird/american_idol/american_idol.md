@@ -1,0 +1,1 @@
+That's a great idea! But first you have to figure out how to escape from the forest.

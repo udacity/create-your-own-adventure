@@ -4,3 +4,5 @@ You notice that inside is a large kitchen which bakes blueberry pies. The oven h
 Do you:
 
 [Open the oven to save the pies?](save-pies/save-pies.md)
+
+[Grab the fire extinguisher?](grab-fire-extinguisher/grab-fire-extinguisher.md)
