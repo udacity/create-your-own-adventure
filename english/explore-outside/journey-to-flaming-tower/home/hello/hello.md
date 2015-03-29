@@ -1,4 +1,4 @@
-You gigerly say "Hi!"
+You gingerly say "Hi!"
 
 They answer in a chorus "Hi!". They seem friendly afterall!
 
