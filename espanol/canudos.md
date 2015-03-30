@@ -29,3 +29,5 @@ el Consejero:
 [El capitán se prepara para la batalla.](heroe/heroe.md)
 
 [Una bruja entró en el salón](bruja/bruja.md)
+
+[Subió a la torre](torre/torre.md)
