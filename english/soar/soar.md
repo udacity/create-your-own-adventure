@@ -5,6 +5,6 @@ With the ground moving rapidly past you.
 
 Do you:
 
-[Sing?](sing.md)
-[Check out Facebook?](http://www.facebook.com)
-[Love?](love/love.md)
+[Sing?](english/sing/sing.md)
+[Check out Facebook?](https://www.facebook.com)
+[Love?](english/love/love.md)
