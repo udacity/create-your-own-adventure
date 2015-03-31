@@ -44,6 +44,8 @@ Do you:
 
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
 
+[Yell for Egon](ghostbuster/ghostbuster.md)
+
 [Step into an adjacent room to check your social media hubs] (social-media/social-media.md)
 
 [Try and interact with the marshmallow hand] (interact/interact.md)
