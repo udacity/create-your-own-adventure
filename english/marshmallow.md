@@ -178,4 +178,4 @@ Do you:
 
 [Come to Nepal](nepal/nepal.md)
 
-[Realize you're dreaming] (dream/lucidDream.md)
+[Realize you're dreaming] (lucidDream/lucidDream.md)
