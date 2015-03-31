@@ -4,6 +4,8 @@
 
 [벽을 먹는다](eating-walls/eating-marshmallows.md)?
 
+[마시멜로를 맛있게 먹기 위해 핫초코를 준비한다](eating-walls/prepare-hot-choco.md)?
+
 [불을 지핀다](light-fire/fire.md)?
 
 [다시 잔다](sleep/marshmallow.md)?
