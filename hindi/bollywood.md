@@ -6,3 +6,4 @@ SRK ,[go here](actor1/srk.md)
 
 Salman,[go here](actor2/salman.md)
 
+Amithab, [go here](actor3/amithab.md)
