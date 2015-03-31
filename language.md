@@ -68,4 +68,4 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 
 आप हिंदी बोलते हैं   ?,[go here](hindi/bollywood.md)
 
-ನೀವು ಕೆಚ್ಚೆದೆಯ ಕನ್ನಡಿಗರಾದರೆ, [ಇಲ್ಲಿ ಒತ್ತಿ](kannada/romaanchanavee_kannada.md).
+ನೀವು ಕೆಚ್ಚೆದೆಯ ಕನ್ನಡಿಗರಾದರೆ, [ಇಲ್ಲಿ ಒತ್ತಿ](kannada/soochike.md).
