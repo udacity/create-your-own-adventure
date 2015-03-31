@@ -1,0 +1,1 @@
+You look up and suddenly, there is a woman in front of you. She tells you to get off your phone, because "You're on vacation in Paris!"
