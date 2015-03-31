@@ -10,6 +10,12 @@ Then decide, the best way to handle the situation is to
 
 But then you remember that this is a lucid dream.  You can do whatever you want. 
 
-So, instead you decide to [fly](../fly/fly.md) until just before deciding to go to [nepal](../nepal/nepal.md).
+So, instead you decide to 
+
+[fly](../fly/fly.md) 
+
+until just before deciding to go to 
+
+[nepal](../nepal/nepal.md).
 
 
