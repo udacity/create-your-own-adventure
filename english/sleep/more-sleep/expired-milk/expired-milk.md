@@ -18,3 +18,5 @@ What do you do now:
 [Go start reading a chemistry book](../../../marshmallow.md)
 
 [Tell mom about the milk](tell-mom/tell-mom.md)
+
+[Go back to sleep.](even-more-sleep/even-more-sleep.md)
