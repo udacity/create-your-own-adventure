@@ -11,3 +11,5 @@ Do you:
 [Realize that you are in the ghostbusters movie and wait for the marshmallow to explode] (ghostbusters/ghostbusters.md)
 
 [Be left clueless by this reference and try to eat your way out](eat/eat.md)
+
+[Understand that you need Ghostbusters, and build a stay puft marshmallow man] (../staypuft/marshmallowman.md)
