@@ -11,3 +11,5 @@ El capitan miró hacia el cielo y encontró:
 [Un dragón salvaje](dragon_salvaje/dragon_salvaje.md)
 
 [Dragón Earhart](../dragon/dragon.md)
+
+[Un Hipogrifo](hipogrifo/hipogrifo.md)
