@@ -177,3 +177,5 @@ Do you:
 [The walls start closing in](malaria/malaria.md)
 
 [Come to Nepal](nepal/nepal.md)
+
+[Oh dear! You ended up in Candyland!] (candyland/diabetes.md)
