@@ -13,3 +13,5 @@ Do you:
 [Be left clueless by this reference and try to eat your way out](eat/eat.md)
 
 [Understand that you need Ghostbusters, and build a stay puft marshmallow man] (../staypuft/marshmallowman.md)
+
+[Assume you're on a prank show and begin looking for Ashton Kutcher] (prank/prank.md)
