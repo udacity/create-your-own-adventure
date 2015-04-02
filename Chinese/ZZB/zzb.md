@@ -2,5 +2,5 @@
 
 紫霞仙子继续说：
 
-[你可知月光宝盒？](Chinese/Xinyang/MyLoveStory.md)
+[你可知月光宝盒？](../Xinyang/MyLoveStory.md)
 
