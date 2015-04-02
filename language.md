@@ -32,6 +32,8 @@ Jeśli mówisz po polsku, [kliknij tutaj](Polish/ptasieMleczko.md).
 
 Se você fala português, [entre aqui](portugues/colaborando.md)
 
+Se fala Português_PT, [clique aqui](portugues_pt/colaborar.md).
+
 Ако говорите български, кликнете [тук](bulgarian/burning_room.md).
 
 日本語を使う人は、[ここ](japanese/chasitsu.md)に行ってください。
