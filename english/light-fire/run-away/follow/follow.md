@@ -3,4 +3,4 @@ You realize that you also are covered in melted marshmallow goo that is quickly 
 Each step you take gets more and more difficult until all of the goo cools and hardens.
 You are now a tasty statue, nibbled at by mice and birds.
 
-['To be continued...'](english/little\boy/)
+[To be continued...](english/little-boy/statue/statue.md)
