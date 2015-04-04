@@ -4,3 +4,6 @@ No, not like a bird, like a jet!
 With the ground moving rapidly past you.
 
 Do you:
+
+[Fly to Paris] (fly-to-paris.md)
+[Fly to London] (fly-to-london.md)
