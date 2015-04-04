@@ -6,3 +6,5 @@ You feel that there will be no consequence in your dream and you attempt to mani
 Afterwards, you decide to:
 
 [scream](../scream/scream.md)
+
+[fly](../dream/fly/fly.md)
