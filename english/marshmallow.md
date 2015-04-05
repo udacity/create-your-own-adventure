@@ -179,3 +179,5 @@ Do you:
 [Come to Nepal](nepal/nepal.md)
 
 [Oh dear! You ended up in Candyland!] (candyland/diabetes.md)
+
+[Hulk smash?] (hulk/smash.md)
