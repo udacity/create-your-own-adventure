@@ -15,5 +15,3 @@ Do you:
 [Understand that you need Ghostbusters, and build a stay puft marshmallow man] (../staypuft/marshmallowman.md)
 
 [Assume you're on a prank show and begin looking for Ashton Kutcher] (prank/prank.md)
-
-[Go Super Saiyan to roast the marshmallow with a Kamehameha] (dragonball/dragonball.md)
