@@ -10,11 +10,11 @@ a giant gaping mouth appears and starts to scream.
 
 Do you
 
-[Light a fire?] (light-fire/fire.md)
+[Light a fire?] (https://github.com/udacity/create-your-own-adventure/blob/master/english/light-fire/fire.md)
 
-[Dig a hole?] (hands/hands.md)
+[Dig a hole?] (https://github.com/udacity/create-your-own-adventure/blob/master/english/hands/hands.md)
 
-[Start eating?] (eating-walls/eating-marshmallows.md)
+[Start eating?] (https://github.com/udacity/create-your-own-adventure/blob/master/english/eating-walls/eating-marshmallows.md)
 
-[Run back and forth?] (indigestion/indigestion.md)
+[Run back and forth?] (https://github.com/udacity/create-your-own-adventure/blob/master/english/indigestion/indigestion.md)
 
