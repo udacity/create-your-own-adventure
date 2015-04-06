@@ -10,4 +10,11 @@ a giant gaping mouth appears and starts to scream.
 
 Do you
 
+[Light a fire?] (light-fire/fire.md)
+
+[Dig a hole?] (hands/hands.md)
+
+[Start eating?] (eating-walls/eating-marshmallows.md)
+
+[Run back and forth?] (indigestion/indigestion.md)
 
