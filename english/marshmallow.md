@@ -177,3 +177,5 @@ Do you:
 [The walls start closing in](malaria/malaria.md)
 
 [Come to Nepal](nepal/nepal.md)
+
+[You decide to try to make s'mores](smores/smores.md)
