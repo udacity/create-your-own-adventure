@@ -19,6 +19,8 @@ Just get to sleep
 
 Dance Like MJ , live you life fully, 
 
+Now you should dance at least an hour a day.
+
 Do you:
 
 [Light a fire?](../light-fire/fire.md)
