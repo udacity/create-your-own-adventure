@@ -6,3 +6,4 @@ the correct pronunciation. Then you ask him again what he is doing in the forest
 
 He says:
 
+"I am searching for delicious mushrooms. Do you have any?"
