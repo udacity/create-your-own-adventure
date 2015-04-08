@@ -8,6 +8,6 @@ Yum.
 
 After having coffee and cookies, you would want to:
 
-[Go for a walk](walk\walk.md)
+[Go for a walk](Walk/walk.md)
 
-[Go for a swim](swim\swim.md)
+[Go for a swim](Swim/swim.md)
