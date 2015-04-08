@@ -181,3 +181,5 @@ Do you:
 [Oh dear! You ended up in Candyland!] (candyland/diabetes.md)
 
 [You punch the first person you see!] (punch/punch.md)
+
+[Hulk smash?] (hulk/smash.md)
