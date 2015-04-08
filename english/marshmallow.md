@@ -178,4 +178,4 @@ Do you:
 
 [Come to Nepal](nepal/nepal.md)
 
-[You decide to try to make s'mores](s'mores/s'mores.md)
+[You decide to try to make s'mores](s-mores/s'mores.md)
