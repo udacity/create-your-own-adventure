@@ -187,3 +187,5 @@ Do you:
 [Marsh Attack!!!] (marshmallow-attack/marsh-attack.md)
 
 [Got Lost] (getsLost/getsLost.md)
+
+[Try to make smores] (smores/smores.md)
