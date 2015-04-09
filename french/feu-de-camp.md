@@ -1,4 +1,4 @@
-Par un beau matin, vous vous réveillez dans une pièce étrange aux murs en pain d'épice.
+Par un beau matin, vous vous r\'eveillez dans une pi\`ece \'etrange aux murs en pain d'\'epice.
 
 Que faites-vous ?
 
