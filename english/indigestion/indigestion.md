@@ -4,3 +4,5 @@ become so great that you can no longer run back and forth. Suddenly the walls
 close tighly around you and push you upwards toward a tunnel where there is
 an increasing intensity of light. You are thrown from the mouth of the tunnel
 and land on a pile of gingerbread, shaken, but unharmed.
+
+You find yourself in a vast world of high-added-sugar-content foods.
