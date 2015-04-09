@@ -1,4 +1,3 @@
 تاني مشاركة بالعربي
 
-Click [here](https://ahmedabdelhadykhedr.wordpress.com) to visit my wordpress site.
-And [here](https://eg.linkedin.com/in/ahmedabdelhadykhedr) to visit my LinkedIn profile.
+Click [here](https://github.com/udacity/create-your-own-adventure/blob/master/arabic/salamoAlikom.md) to see where this mini story started.
