@@ -4,6 +4,8 @@ You tasted the cake. Yummy!
 
 After eating a slice, you start to feel sleepy.
 
+Were all of those ingredients what you thought they were...
+
 Do you:
 
 [Sleep?](../../sleep/marshmallow.md)
