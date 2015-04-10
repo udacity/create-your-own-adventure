@@ -8,6 +8,8 @@ After a while he starts to get a bit too much, he doesn't get out much, you're b
 
 You look around wondering what to do.
 
+What would Jesus do?
+
 What do you do next to stimulate and excite you!
 
 But you ought to be careful, the power of the legos is not a joke!
