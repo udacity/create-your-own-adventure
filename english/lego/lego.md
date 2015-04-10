@@ -6,6 +6,8 @@ He's got Star Wars, Lego Movie, space, technics, oh so much lego and you play wi
 
 After a while he starts to get a bit too much, he doesn't get out much, you're bored.
 
+What would Jesus do?
+
 What do you do next to stimulate and excite you!
 
 But you ought to be careful, the power of the legos is not a joke!
