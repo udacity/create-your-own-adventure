@@ -1,0 +1,2 @@
+You shut your eyes and deny the existence of the marshmallows. You convince yourself they do not exist.
+Opening your eyes your field of vision is white. All white. Is this paradise? Is this fluffy sugar? You blink but the world remains white.
