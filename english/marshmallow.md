@@ -189,3 +189,5 @@ Do you:
 [Got Lost] (getsLost/getsLost.md)
 
 [Try to make smores] (smores/smores.md)
+
+[Summon your humble servant] (humbleservant/humbleservant.md)
