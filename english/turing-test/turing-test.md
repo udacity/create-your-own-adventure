@@ -17,3 +17,5 @@ Do you:
 [Assume you're on a prank show and begin looking for Ashton Kutcher] (prank/prank.md)
 
 [Go Super Saiyan to roast the marshmallow with a Kamehameha] (dragonball/dragonball.md)
+
+[Ask ELIZA, who just happens to be running on a nearby terminal] (eliza/ask_eliza.md)
