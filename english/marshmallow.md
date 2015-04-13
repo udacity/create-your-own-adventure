@@ -191,3 +191,5 @@ Do you:
 [Try to make smores] (smores/smores.md)
 
 [Summon your humble servant] (humbleservant/humbleservant.md)
+
+[Summon the magical snuffbox] (snuffbox/snuffbox.md)
