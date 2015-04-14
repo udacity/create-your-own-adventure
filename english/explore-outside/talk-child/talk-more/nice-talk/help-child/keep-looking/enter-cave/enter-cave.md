@@ -4,7 +4,7 @@ There is someone swimming toward the light. Is it the boy? It seems a bit far an
 
 Do you:
 
-[Follow the person toward the light.]()
+[Follow the person toward the light.](follow-person/follow-person.md)
 
 [Swim back to the surface for air.](../../abandon-hope/abandon-hope.md)
 
