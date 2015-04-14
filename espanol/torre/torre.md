@@ -6,3 +6,5 @@ Entonces el consejero decidió:
 [Hacer sonar el toque de alarma](alarma/alarma.md)
 
 [Esperar a que el ejercito se acercara](espera/espera.md)
+
+[Enviar un equipo de exploradores](exploradores/exploradores.md)
