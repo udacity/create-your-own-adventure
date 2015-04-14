@@ -9,3 +9,5 @@ Do you:
 [Invite friends to share?](../invite-friends/friends.md)
 
 [Sing a song?](../sing-song/sing.md)
+
+[Make coffee first?](../coffee/coffee.md)
