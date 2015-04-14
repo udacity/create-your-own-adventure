@@ -1,0 +1,3 @@
+Hours have passed and it's dark. The boy is long gone and the mice and
+birds have nibbled you out of your gooey prison. You hear a scream in
+the direction of your marshmallow apartment. Do you...
