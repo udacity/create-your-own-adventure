@@ -11,4 +11,4 @@ As the waitress places the check on your table, she says, "There are no coincide
 
 Do you ...
 
-[Hightail it to the marsh?](go-to-marsh)
+[Hightail it to the marsh?](go-to-marsh.md)
