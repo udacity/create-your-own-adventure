@@ -42,6 +42,8 @@ Hold the image of the marshmallow and..
 
 Do you:
 
+[Want to break free](yuha/yuha.md)
+
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
 
 [Step into an adjacent room to check your social media hubs] (social-media/social-media.md)
