@@ -42,7 +42,7 @@ Jos puhut suomea, jatka [tänne](finnish/sauna.md)
 
 Rägite eesti keeles, vajutage [siia](estonian/raamat.md).
 
-Якщо ви говорите україньською, перейдіть за [посиланням](ukrainian/marshmallow.md).
+Якщо ви говорите українською, перейдіть за [посиланням](ukrainian/marshmallow.md).
 
 Falls Sie Deutsch sprechen, beginnen Sie [hier](german/ruderboot.md).
 
