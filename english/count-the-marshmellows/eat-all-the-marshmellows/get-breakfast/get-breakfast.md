@@ -5,3 +5,13 @@ down. Your buddy orders a cup of coffee while you cut the pancakes into
 shareable slices and pour syrup into the center. Today's already looking up.
 
 You begin to eat your breakfast, but everything on your plate tastes like marshmallow.
+
+As the waitress places the check on your table, she says, "There are no coincidences."
+
+Her hand moves to reveal a tiny marshmallow. "Think about it," she urges before retreating to the kitchen.
+
+"Marshmallow, marshmallow," you repeat again and again. "Marsh. Marsh. Mallow. Mall— Oh! I understand!" you shout.
+
+Do you ...
+
+[Hightail it to the marsh?](go-to-marsh/go-to-marsh.md)
