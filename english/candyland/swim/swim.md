@@ -10,10 +10,10 @@ Your mouth is filled with a sweet sugary creamy sweet delight.
 
 You start to realize the milk is getting very cold and deep.
 
-What is remaining of the room has filled up to chest high and is the consistency of a milk shake.
+The viscous icy chunky liquid is now up to your chin so you begin to move your limbs to stay afloat.
 
-Your begin to move your arms and legs to stay aloat and being to tread milkshare.
+You are now treading milkshake. 
 
-You see a picture on the wall of a Queen standing by a sign.
+You see an ominous looking picture on the wall with a Queen standing by a sign in front on a sea.
 
-It says: "The Ice Cream Sea"
+The sign in the picture says: "The Ice Cream Sea"

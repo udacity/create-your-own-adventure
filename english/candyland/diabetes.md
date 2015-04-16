@@ -20,4 +20,4 @@ just realize you have diabetes.
 
 [Taste The Rainbow](rainbow/rainbow.md)
 
-[Check out the melted marshmallow](swim/swim.md)
+[Check Out The Melted Marshmallow](swim/swim.md)
