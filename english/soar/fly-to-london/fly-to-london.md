@@ -4,10 +4,10 @@ So you decide to take a break and sit down on Big Ben.
 
 Just then, you realize that you have forgotten your pint.
 
-Do you:
+You choose to:
 
-[Scream?](../scream/scream.md)
+[Scream](../../scream/scream.md)
 
-[Do yoga to relax?](../yoga/yoga.md)
+[Do yoga to relax](../../yoga/yoga.md)
 
-[Play minecraft](../you-are-in-minecraft/minecraft.md)
+[Play minecraft](../../you-are-in-minecraft/minecraft.md)
