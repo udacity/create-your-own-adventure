@@ -28,6 +28,8 @@ You hear a small bird sound in the distance.
 
 But it sounds like it might be coming out of speakers.
 
+You trace the sound to a marshmallow-shaped speaker. The bird says, "Clone me!"
+
 When you look away, a marshmallow hand attempts to grab the lighter.
 
 But you are too quick for the marshmellow!
@@ -41,6 +43,8 @@ Marshmallows are going to rule the world!
 Hold the image of the marshmallow and..
 
 Do you:
+
+[Fork the bird so you can clone it](fork-the-bird/fork-the-bird.md)
 
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
 
