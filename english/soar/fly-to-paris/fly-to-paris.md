@@ -9,8 +9,6 @@ Do you:
 
 [Count the marshmallows?](../../count-the-marshmellows/count-the-marshmellows.md)
 
-[Seek s'more options?](../see-smore-options/see-smore-options.md)
-
 [Ponder about Life](../../ponder/ponder-about-life.md)
 
-[Bake a cake?](../dance/bake-a-cake/bake-a-cake.md)
+[Bake a cake?](../../dance/bake-a-cake/bake-a-cake.md)
