@@ -27,3 +27,5 @@ Do you:
 
 [Make another wish?](./make-another-wish/wish.md)
 
+[Make a wish to fly](../soar/soar.md)
+
