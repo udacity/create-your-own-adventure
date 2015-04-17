@@ -24,6 +24,8 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 
 You have the suspicion that you are being closely watched.
 
+You see a polar bear searching for food.
+
 You hear a small bird sound in the distance.
 
 But it sounds like it might be coming out of speakers.
@@ -65,6 +67,8 @@ Do you:
 [make a swing with rope and jacket](enjoy-DreamRide/ride.md)
 
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
+
+[give the marshmallow to the polar bear?](polar-bear/polar-bear.md)
 
 [realize you are in Minecraft](you-are-in-minecraft/minecraft.md)
 

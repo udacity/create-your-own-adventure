@@ -12,3 +12,7 @@ You bounce a little higher and fly through the trapdoor. Still not quite sure if
 this is a dream. But now you're just rolling with it!
 
 Where do you go?
+
+[Asia?](./asia/asia.md)
+
+[Space?](./space/space.md)
