@@ -24,13 +24,15 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 
 You have the suspicion that you are being closely watched.
 
+You see a polar bear searching for food.
+
 You hear a small bird sound in the distance.
 
 But it sounds like it might be coming out of speakers.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
 
-But you are too quick for the marshmellow!
+But you are too quick for the marshmallow!
 
 The realization suddenly dawns upon you the marshmallow is self aware!
 
@@ -40,7 +42,11 @@ Marshmallows are going to rule the world!
 
 Hold the image of the marshmallow and..
 
+Sing softly the song of it's people as you...
+
 Do you:
+
+[Want to break free](yuha/yuha.md)
 
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
 
@@ -61,6 +67,8 @@ Do you:
 [make a swing with rope and jacket](enjoy-DreamRide/ride.md)
 
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
+
+[give the marshmallow to the polar bear?](polar-bear/polar-bear.md)
 
 [realize you are in Minecraft](you-are-in-minecraft/minecraft.md)
 
@@ -181,3 +189,19 @@ Do you:
 [Oh dear! You ended up in Candyland!] (candyland/diabetes.md)
 
 [Give 'em the Leslie Howard!](slap-it-hard/teach-it-a-lesson.md)
+
+[You punch the first person you see!] (punch/punch.md)
+
+[Hulk smash?] (hulk/smash.md)
+
+[Marsh Attack!!!] (marshmallow-attack/marsh-attack.md)
+
+[Got Lost] (getsLost/getsLost.md)
+
+[Try to make smores] (smores/smores.md)
+
+[Summon your humble servant] (humbleservant/humbleservant.md)
+
+[Summon the magical snuffbox] (snuffbox/snuffbox.md)
+
+[Become the One?] (matrix/matrix.md)

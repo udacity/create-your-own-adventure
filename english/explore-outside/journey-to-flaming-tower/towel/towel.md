@@ -7,3 +7,8 @@ Or if you just had a regular towel, you could wave it in the air and hope that s
 would see you and give you a ride.
 
 Ah ha! You suddenly have a genius idea.
+
+Maybe you should just go home, take your magic towel out of the laundry, and fly to the tower.
+If all goes well, you should be at the tower within five minutes.
+
+There's just one thing wrong with this new idea...

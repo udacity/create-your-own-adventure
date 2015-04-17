@@ -10,3 +10,5 @@ Do you:
 [Seek s'more options?](../see-smore-options/see-smore-options.md)
 
 [Ponder some more](ponder-some-more/ponder-some-more.md)
+
+[Bake a cake?](../dance/bake-a-cake/bake-a-cake.md)
