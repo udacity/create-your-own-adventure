@@ -7,7 +7,7 @@ You then start thinking:
 
 "What would MacGyver do?"
 
-Well for starters, he'd sweep that sweet mullet back and get to work!
+Well for starters, he'd sweep that oh so sweet mullet back and get to work!
 
 Then he would build a flamethrower to melt through the walls, of course! He has everything he would ever need!
 
