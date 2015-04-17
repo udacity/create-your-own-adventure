@@ -23,5 +23,5 @@ It's dark and fluffy.
 While you don't believe that you might be the One,
  it's only up to you to save the world.
 
-[You crawl through the hole you just made and...](english/matrix/matrix2.md)
+[You crawl through the hole you just made and...](english/matrix2/matrix2.md)
 
