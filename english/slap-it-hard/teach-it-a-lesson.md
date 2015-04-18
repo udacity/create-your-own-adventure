@@ -13,4 +13,5 @@ delicious little legs scrunching up to get more height. It's coming for you!
 What do you do?
 
 [Prepare for it and stand your ground!](stand/stand.md)
+
 [Move aside and let it bounce to the ground.](move/move.md)
