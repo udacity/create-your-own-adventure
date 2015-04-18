@@ -1,1 +1,0 @@
-Yami, yami, que c'est bon ce miel! Mais pourquoi est - il si chaud?

@@ -1,1 +1,0 @@
-As you stand there and drool, the smell becomes more pungent

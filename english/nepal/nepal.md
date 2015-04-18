@@ -1,1 +1,0 @@
-You arrive in Nepal.

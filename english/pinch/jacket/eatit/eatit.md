@@ -1,1 +1,0 @@
-You eat a hole threw the Marshmallow wall. Looking through the hole you see a hallway.
