@@ -1,6 +1,6 @@
 Jedno nevšedné ráno sa zobudíš v divnej miestnosti, ktorá má steny z marshmallow, až na to, že máš v nose kyslú rybičku.
 Štípe ťa tam. Čo skúsiš? 
-[Nič.](Nic/sexi-kocka.md)
+[Nič.](nic/sexi-kocka.md)
 [Skúsiš ju vytiahnuť.](Vytiahnut/tahanie.md)
 [Skúsiš zatlačiť hlbšie.](Zatlacit/tlacenie.md)
 [Počkáš, reku prejde.](Cakaj/cakanie.md)
