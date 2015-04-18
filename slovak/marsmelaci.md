@@ -2,5 +2,5 @@ Jedno nevšedné ráno sa zobudíš v divnej miestnosti, ktorá má steny z mars
 Štípe ťa tam. Čo skúsiš? 
 [Nič.](nic/sexi-kocka.md)
 [Skúsiš ju vytiahnuť.](Vytiahnut/tahanie.md)
-[Skúsiš zatlačiť hlbšie.](Zatlacit/tlacenie.md)
-[Počkáš, reku prejde.](Cakaj/cakanie.md)
+[Skúsiš zatlačiť hlbšie.](zatlacit/tlacenie.md)
+[Počkáš, reku prejde.](cakaj/cakanie.md)
