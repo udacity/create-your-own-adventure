@@ -1,1 +1,0 @@
-There is too much. You die of a heart attack from eating too much. 
