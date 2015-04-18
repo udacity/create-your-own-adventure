@@ -6,4 +6,5 @@ Plötzlich knackt es dicht neben Ihnen im Unterholz.
 Ein Leopard blickt sprungbereit in Ihre Augen. 
 
 [Wegrennen] (flucht.md)
+
 [Auf einen Baum klettern] (klettern.md)
