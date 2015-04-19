@@ -206,4 +206,4 @@ Do you:
 
 [Want to cook boneless pork shoulder roast?] (pork/roast.md)
 
-[go to the beach?] (beach/beach.md)
+[go to the beach?] (https://github.com/jonotko/create-your-own-adventure/blob/jono-adventure/english/beach/beach.md)
