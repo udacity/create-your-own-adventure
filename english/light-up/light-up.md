@@ -13,4 +13,4 @@ Hurry!
 
 Do you:
 
-[Grab the lighter and fork and jump throught the hole](grab_tools_and jump/grab_and_jump.md)
+[Grab the lighter and fork and jump throught the hole](grab_tools_and_jump/grab_and_jump.md)
