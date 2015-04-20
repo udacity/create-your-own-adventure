@@ -15,3 +15,5 @@ Que faites-vous?
 [Je demande au crapaud de m'indiquer la sortie](../../feu-de-camp.md)
 
 [Je m'envole sur une libellule](envol/libellule.md)
+
+[Je grimpe sur un haricot géant](grimpe/haricot.md)
