@@ -203,3 +203,5 @@ Do you:
 [Summon the magical snuffbox] (snuffbox/snuffbox.md)
 
 [Become the One?] (matrix/matrix.md)
+
+[Go back to the beginning](https://github.com/udacity/create-your-own-adventure/blob/master/language.md)
