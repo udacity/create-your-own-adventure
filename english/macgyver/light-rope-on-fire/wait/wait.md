@@ -10,3 +10,11 @@ the walls compress. You are thrown upwards through a tunnel that has opened in t
 
 As you fly through the air, you groggily wonder if you've really just been coughed out of a giant 
 living marshmallow creature. 
+
+You realize you've begun your descent, and are falling into a large forest.
+
+Do you:
+
+[Close your eyes and hope for the best] (../../../experience/experience.md)
+
+[Aim for a soft landing on the forest floor] (../../../find-exit/into-forest/forest.md)
