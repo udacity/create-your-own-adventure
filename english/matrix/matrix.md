@@ -25,5 +25,5 @@ While you don't believe that you might be the One,
 
 [You crawl through the hole you just made and...] (matrix2/matrix2.md)
 
-[There is no darkness - or fluffiness - without the Light.] (../matrix2inception/matrix2inception.md)
+[There is no darkness - or fluffiness - without the Light.] (matrix2inception/matrix2inception.md)
 
