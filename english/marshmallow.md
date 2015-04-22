@@ -40,6 +40,8 @@ If you don't do something quickly, this marshmallow belly will digest you!
 
 Marshmallows are going to rule the world!
 
+Long live marshmallows!
+
 Hold the image of the marshmallow and..
 
 Sing softly the song of it's people as you...
@@ -205,3 +207,7 @@ Do you:
 [Summon the magical snuffbox] (snuffbox/snuffbox.md)
 
 [Become the One?] (matrix/matrix.md)
+
+[Want to cook boneless pork shoulder roast?] (pork/roast.md)
+
+[go to the beach?] (https://github.com/jonotko/create-your-own-adventure/blob/jono-adventure/english/beach/beach.md)

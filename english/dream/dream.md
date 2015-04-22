@@ -8,3 +8,5 @@ Afterwards, you decide to:
 [scream](../scream/scream.md)
 
 [fly](../dream/fly/fly.md)
+
+[swim](../dream/swim/swim.md)

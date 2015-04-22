@@ -3,7 +3,7 @@ As you exhale, the walls stiffen, becoming less like marshmallow, and more like
 the interior of your cell. The walls are a toasted-marshmallow kind of dirty white 
 color, not like the institutionalized white you remember from movies.
 
-The doctor enters.
+[The doctor](https://www.youtube.com/watch?v=WsGDvMqcP94) enters.
 
 ["Let me outta here, Doc!!!"](let-me-out/let-me-out.md)
 
