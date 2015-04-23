@@ -6,3 +6,12 @@ but then they are quickly replaced.
 you guess you cant eat them all but no harm trying isn't it..
 You hear a voice creeping from behind you....
 and you realise there is no better place you could be right now than right here.
+
+Fear grips you and your brain start to whirl with ideas.
+
+Do you:
+
+[Begin to stab with walls with the fork?] (fork/fork-stab.md)
+
+[Begin a fire by burning the rope?] (rope/rope-burn.md)
+
