@@ -23,3 +23,8 @@ la patul care nu mai este...
 Va tot intrebati cum de a reaparut patul de nalbe.
 
 [Cand deodata...] (Ginel/ginel.md)
+
+Ginel cade pe ganduri, ca baba pe scanduri... Incearca sa-si aminteasca ce a fumat, 
+cat sa fi costat compania Ginutei, sau de ce nu a avut noroc in viata.
+Ginel nu coreleaza lipsa repetata de la scoala, cu lipsurile din prezent.
+Ginuta il priveste o vreme, asa cazut pe ganduri, apoi il intreaba:
