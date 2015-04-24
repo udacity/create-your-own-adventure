@@ -2,6 +2,8 @@ As you walk in, you smell the fresh brew of coffee, and see some delicious pastr
 
 someone must have left out for everyone. You pour a cup, take an warm apple turnover,
 
+take your iphone 17 out of your pocket,
+
 and sit down to check out your social media sites.
 
 
