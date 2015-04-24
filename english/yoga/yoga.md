@@ -5,6 +5,8 @@ Going through the poses, you feel your body warm up and you feel the energy flow
 
 Calm music starts to play quietly from all directions.
 
+You start becoming transcendent.
+
 [Goals of yoga](../yoga/goals/goals_of_yoga.md)
 
 [Yoga LifeStyle](../yoga/lifestyle/yoga_lifestyle.md)
