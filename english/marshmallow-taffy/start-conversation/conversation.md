@@ -3,6 +3,6 @@ You greet Taffy politly, he responds with strange line:
 
 Do You:
 
-[Go exploring outside?](../explore-outside/explore-outside.md)
+[Write a caffeine-fueled full-length novel?](novel/full-length-novel.md)
 
-[Plummet like a rock?](../plummet/plummet.md)
+[Go skinny dipping?](nude-run/nude-run.md)
