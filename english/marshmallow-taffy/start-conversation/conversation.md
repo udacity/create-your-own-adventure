@@ -3,6 +3,6 @@ You greet Taffy politly, he responds with strange line:
 
 Do You:
 
-[Write a caffeine-fueled full-length novel?](novel/full-length-novel.md)
+[Write a caffeine-fueled full-length novel?](../../coffee/novel/full-length-novel.md)
 
-[Go skinny dipping?](nude-run/nude-run.md)
+[Go skinny dipping?](../../coffee/nude-run/nude-run.md)
