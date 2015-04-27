@@ -19,3 +19,5 @@ Do you:
 [Go Super Saiyan to roast the marshmallow with a Kamehameha] (dragonball/dragonball.md)
 
 [Ask ELIZA, who just happens to be running on a nearby terminal] (eliza/ask_eliza.md)
+
+[Forget ELIZA, ask Siri] (Siri/ask_siri.md)
