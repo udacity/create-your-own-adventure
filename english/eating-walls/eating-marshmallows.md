@@ -35,3 +35,5 @@ Do you:
 [Remember your ability to regurgitate on command](../get-out-of-system/get-out-of-system.md)
 
 [Light a fire](../light-fire/fire.md)
+
+[Remember you have some Tums in your pocket and take a few?](../take_tums/take_tums.md)
