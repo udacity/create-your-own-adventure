@@ -3,4 +3,5 @@
 "Какую из зубных счеток выбрать?"
 
 [Вы выбрали синюю щетку] (choice/blue-toothbrush.md)
+
 [Вы выбрали красную щетку] (choice/red-toothbrush.md)
