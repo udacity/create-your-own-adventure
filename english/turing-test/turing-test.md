@@ -20,4 +20,4 @@ Do you:
 
 [Ask ELIZA, who just happens to be running on a nearby terminal] (eliza/ask_eliza.md)
 
-[Forget ELIZA, ask Siri] (Siri/ask_siri.md)
+[Forget ELIZA, ask Siri] (siri/ask_siri.md)
