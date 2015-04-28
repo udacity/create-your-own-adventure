@@ -1,25 +1,24 @@
-Te trezesti intr-o dimineatza si patul este facut din nalbe. 
+Te trezeşti într-o dimineaţă şi patul este făcut din nalbe. 
 Ce faci?
 
-[Te apuci sa faci un foc](foc/faci-foc.md)
+[Te apuci să faci un foc](foc/faci-foc.md)
 
-Cand ii gata focu o suni pe Ginuta. Abea astepti sa-i dai si ei nalbe.
-Sti tu ca ii plac mult de tot nalbele. Asa ca atunci cand ajunge
-Va dati impreuna capat pana ramaneti fara... pat.
+Când este gata focul, o suni pe Ginuţa. Abea aştepţi să-i dai şi ei nalbe.
+Ştii tu că îi plac mult de tot nalbele. Aşa că atunci când ajunge,
+vă daţi împreună capăt până rămâneţi fără... pat.
 
-Dupa ce mancati voi pana dimneata, de vi se umple burtile o apuca pe Gina si striga:
+După ce mâncaţi voi până dimineaţa, de vi se umple burţile o apucă pe Gina şi strigă:
 
-- Auzi mah sti ce m-am gandit?
-
+- Auzi mă, sţi ce m-am gandit?
 - Ce ?
-- [Sa mergem in padurea violet](padurea_violet/padurea_violet.md)
+- [Să mergem în pădurea violet](padurea_violet/padurea_violet.md)
 
-Dupa ce va intoarceti din padurea violet, obositi, vreti sa va culcati si realizati
-ca nu aveti pat.. asa ca va intindeti pe o plapuma, pe jos.. Adormiti gandindu- va
+După ce vă întoarceţi din pădurea violet, obosiţi, vreţi să vă culcaţi si realizaţi
+că nu aveţi pat.. asa că vă întindeţi pe o plapumă, pe jos.. Adormiţi gândindu-vă
 la patul care nu mai este...
 
-[Dimineata urmatoare, cand va treziti..] (ziua_urmatoare/ziua_urmatoare.md)
+[Dimineaţa următoare, când vă treziţi..] (ziua_urmatoare/ziua_urmatoare.md)
 
-Va tot intrebati cum de a reaparut patul de nalbe.
+Vă tot întrebaţi cum de a reapărut patul de nalbe.
 
-[Cand deodata...] (Ginel/ginel.md)
+[Când deodată...] (Ginel/ginel.md)
