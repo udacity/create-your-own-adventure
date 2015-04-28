@@ -15,3 +15,5 @@ What do you do?
 [Prepare for it and stand your ground!](stand/stand.md)
 
 [Move aside and let it bounce to the ground.](move/move.md)
+
+[Run away from the marshmallow man.] (flee/flee.md)
