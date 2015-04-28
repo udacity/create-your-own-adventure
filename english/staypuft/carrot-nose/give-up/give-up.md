@@ -6,3 +6,5 @@ A few days later, as you're settling down to go to sleep, trying to put the weir
 scrathing at the door. After a few minutes, it becomes more insistent.
 
 Do you investigate?
+[YES](../../../monkey_hat/monkey_hats.md)
+[NO](./done.md)
