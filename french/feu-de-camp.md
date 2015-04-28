@@ -18,4 +18,4 @@ Que faites-vous ?
 
 [Je ne parle pas francais](../english/marshmallow.md)
 
-[J'appelle ma mère immédiatement!](appel-maman/appeler-maman.md)
+[J'appelle ma mère immédiatement](appel-maman/appeler-maman.md)
