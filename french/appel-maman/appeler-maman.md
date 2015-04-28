@@ -1,1 +1,5 @@
-J'appelle ma mère afin de lui demander des conseils. Ma mère a toujours de bons coonseils!
+Ma mère a toujours de bons coonseils!
+Le problème c'est qu'elle ne répond pas... aaargghhh
+Que faire ?
+
+[Je revois mes autres options](../french/feu-de-camp.md)
