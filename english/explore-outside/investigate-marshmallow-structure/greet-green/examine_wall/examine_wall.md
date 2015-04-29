@@ -4,3 +4,5 @@ where you think you saw some of the green people go. As you get closer to the wa
 transparent.
 
 [Realize that you are just as transparent as the wall, and contemplate your existence](contemplate/contemplate.md)
+
+[Step through the wall like a timid James Spader in Stargate](stargate/stargate.md)
