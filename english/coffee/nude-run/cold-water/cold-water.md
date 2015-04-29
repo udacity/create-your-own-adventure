@@ -21,8 +21,8 @@ sure how quick the badgers reflexes are.
 
 What do you do?
 
-["Strangle the badger with your hands"](../nude-run/cold-water/strangle/strangle.md)
+["Strangle the badger with your hands"](../strangle/strangle.md)
 
-["Make a move for the gun"](../nude-run/cold-water/grab-gun/grab-gun.md)
+["Make a move for the gun"](../grab-gun/grab-gun.md)
 
-["Run away"](../nude-run/cold-water/run-away/run-away.md)
+["Run away"](../run-away/run-away.md)
