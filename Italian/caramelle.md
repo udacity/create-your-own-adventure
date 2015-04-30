@@ -6,3 +6,6 @@ Che stai facendo?
 [Cerco l'uscita](scappare/cercare-uscita.md)
 
 [Apro la finestra](finestra/apri.md)
+
+[Mi guardo intorno] (Guardare/guarda.md)
+
