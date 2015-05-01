@@ -3,7 +3,7 @@ Yes! When your strength was almost spent you realized that it was getting shallo
 There is an air space above your head! You can breathe!
 Taking in great heaving gulps of sweet air (well, kind of damp cave air) you take stock of your surroundings.
 
-You are in a vast cavern with walls covered in tiny glittering crystals. A wan purple light from somewhere above reflects off the crystal and the yellow water. In front of you, the green child glares at you coldly. His Pittsburgh accent is gone.
+You are in a vast cavern with walls covered in tiny glittering crystals. A wan purple light from somewhere above reflects off the crystal and the yellow water. In front of you, the green child glares at you fearfully. His Pittsburgh accent is gone.
 
 "You should not have followed me here," he says.
 
