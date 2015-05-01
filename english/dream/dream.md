@@ -10,3 +10,5 @@ Afterwards, you decide to:
 [fly](../dream/fly/fly.md)
 
 [swim](../dream/swim/swim.md)
+
+[dance](../dance/dance.md)
