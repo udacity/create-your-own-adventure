@@ -190,6 +190,8 @@ Do you:
 
 [Come to Nepal](nepal/nepal.md)
 
+[Summon your robot army](robot-army/robots-everywhere.md)
+
 [Oh dear! You ended up in Candyland!] (candyland/diabetes.md)
 
 [Give 'em the Leslie Howard!](slap-it-hard/teach-it-a-lesson.md)
