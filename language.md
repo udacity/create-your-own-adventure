@@ -48,7 +48,7 @@ Falls Sie Deutsch sprechen, beginnen Sie [hier](german/ruderboot.md).
 
 Euskalduna bazara, joan [hona](basque/gaztelua.md).
 
-เรียนเชิญเข้าภาษาไทย Welcome to [Thailand](Thai/Songs/ThaiSong_FanJa.md) 
+เรียนเชิญเข้าภาษาไทย Welcome to [Thailand](Thai/Songs/ThaiSong_FanJa.md)
 
 And if you like [Thai food](Thai/Cuisine/TomYumKung.md)
 
@@ -71,3 +71,5 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 आप हिंदी बोलते हैं   ?,[go here](hindi/bollywood.md)
 
 ನೀವು ಕೆಚ್ಚೆದೆಯ ಕನ್ನಡಿಗರಾದರೆ, [ಇಲ್ಲಿ ಒತ್ತಿ](kannada/soochike.md).
+
+Če govoriš slovensko, [klikni sem] (slovenian/začetek.md).
