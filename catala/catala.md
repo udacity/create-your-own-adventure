@@ -1,4 +1,4 @@
-Un matí, t'aixeques en una estranya habitació amb les parets fetes de núvols de sucre.
+﻿Un matí, t'aixeques en una estranya habitació amb les parets fetes de núvols de sucre.
 
 Què fas?
 
@@ -12,3 +12,5 @@ Què fas?
 [Cantes de l'alegria] (cantar/cantar.md)
 
 [Penses com sortir d'aquí] (sortir/sortir.md)
+
+[Et pessigues el braç] (pessigar-se/pessigar-se.md)
