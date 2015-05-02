@@ -1,4 +1,4 @@
 "Hallo, ich heiße Bernd und bin schiffbrüchig". Die beiden drehen sich schlagartig
-in deine Richtung und starren dich mit großen Augen an. Entsetzen ist in
-ihr Gesicht geschrieben. Gerade als du ...
+in Ihre Richtung und starren Sie mit großen Augen an. Entsetzen ist in
+ihr Gesicht geschrieben. Gerade als Sie ...
 
