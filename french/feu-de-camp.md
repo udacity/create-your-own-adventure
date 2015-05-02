@@ -12,4 +12,10 @@ Que faites-vous ?
 
 [Je me faufile dans un trou](manger/trou/trou.md)
 
+[J'appelle mon prof de musique] (telephone/prof_musique.md)
+
 [Je dessine une porte avec un syphon de crème chantilly qui traine](dessine/porte.md)
+
+[Je ne parle pas francais](../english/marshmallow.md)
+
+[J'appelle ma mère immédiatement](appel-maman/appeler-maman.md)

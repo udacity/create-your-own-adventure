@@ -1,3 +1,6 @@
 至尊宝：谁说我斗鸡眼？我只是把视力集中在一点，以改变我以往对事物的看法！
 
-If you speak English, [go here](../../english/marshmallow.md).
+紫霞仙子继续说：
+
+[你可知月光宝盒？](../Xinyang/MyLoveStory.md)
+

@@ -6,3 +6,5 @@
 Ваши действия: 
 
 [Вы начнете есть стены?](../eating-walls/eating-marshmallows.md)
+
+[Вы идете чистить зубы](brushing/brushing.md)

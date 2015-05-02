@@ -13,3 +13,5 @@ Do you...
 [Decide to go get breakfast with your buddy?](get-breakfast/get-breakfast.md)
 
 [Turn on the TV and watch Alien?](../../watch-alien/watch-alien.md)
+
+[Nervously recall a dumb joke you heard in 3rd grade?](pillow-problems/pillow-problems.md)

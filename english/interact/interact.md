@@ -19,3 +19,5 @@ You then:
 [Take your fork out] (fork/fork.md)
 
 [Use the rope to whip the wall] (whip/whip.md)
+
+[Run at the wall to try to run through it](run-into-wall/run-into-wall.md)

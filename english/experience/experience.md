@@ -8,6 +8,8 @@ you see a white star in the center of the blue tunnel
 
 you see a black point in the center of the white star
 
+you see your reflection in the center of the black point
+
 what happens in:
 
 [golden halo](golden-halo/golden-halo.md)

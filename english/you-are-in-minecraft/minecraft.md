@@ -21,3 +21,5 @@ Do you:
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 
 [Dig down?](dig_down/dig_down.md)
+
+[Hulk out?](../hulk/smash.md)
