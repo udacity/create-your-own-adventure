@@ -12,3 +12,5 @@ Què fas?
 [Cantes de l'alegria] (cantar/cantar.md)
 
 [Penses com sortir d'aquí] (sortir/sortir.md)
+
+[Et pessigues el braç] (pessigar-se/pessigar-se.md)
