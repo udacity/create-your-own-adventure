@@ -31,3 +31,5 @@ The forest turns dark. I don't see the ice-cold water and fall into it.
 [Invite some friends over to your room](../invite-friends/friends.md)
 
 [shoot a flare to wave down the chococopter](chococopter/chococopter.md)
+
+[Wave at the chococopter](../flight/flight.md)

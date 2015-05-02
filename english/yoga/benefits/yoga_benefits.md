@@ -12,4 +12,4 @@ Here we provide a list of benefits:
 2. Increased muscle Strength and tone
 3. Enhanced gluten sensitivity 
 4. Kombucha cravings
-5. 
+5. Increase hipster status

@@ -32,6 +32,8 @@ Jeśli mówisz po polsku, [kliknij tutaj](Polish/ptasieMleczko.md).
 
 Se você fala português, [entre aqui](portugues/colaborando.md)
 
+Se fala Português_PT, [clique aqui](portugues_pt/colaborar.md).
+
 Ако говорите български, кликнете [тук](bulgarian/burning_room.md).
 
 日本語を使う人は、[ここ](japanese/chasitsu.md)に行ってください。
@@ -40,7 +42,7 @@ Jos puhut suomea, jatka [tänne](finnish/sauna.md)
 
 Rägite eesti keeles, vajutage [siia](estonian/raamat.md).
 
-Якщо ви говорите україньською, перейдіть за [посиланням](ukrainian/marshmallow.md).
+Якщо ви говорите українською, перейдіть за [посиланням](ukrainian/marshmallow.md).
 
 Falls Sie Deutsch sprechen, beginnen Sie [hier](german/ruderboot.md).
 

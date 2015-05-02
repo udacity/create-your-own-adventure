@@ -1,0 +1,4 @@
+Tja wat moet je nu met een sleutel... Nu ja, je zit geen andere mogelijkheid dan
+toch het kledingstuk waaraan je hangt langzaam kapot te schuren met de sleutel.
+
+Geheel verdiept in het schuren en scheuren merk je pas langzaam op dat...

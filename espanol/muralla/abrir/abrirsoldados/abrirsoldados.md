@@ -6,3 +6,4 @@ entrar a tiempo.
 El último soldado entró cuando el ejército enemigo se cernía 
 sobre la ciudad.
 
+[¡Cerrad el portón!](cerrad/cerrad.md)

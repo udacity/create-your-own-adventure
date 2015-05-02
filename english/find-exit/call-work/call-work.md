@@ -11,3 +11,6 @@ With your phone, which you inconviniently forgot you had, you dial up your emplo
   You quickly dive out of the way as the chococopter decends to your location.
 
   
+  Do you:
+
+  [Shoot a flare to wave down the chococopter?](../chococopter/chococopter.md)

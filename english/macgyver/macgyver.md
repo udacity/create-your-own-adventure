@@ -9,6 +9,10 @@ You then start thinking:
 
 Well for starters, he'd sweep that sweet mullet back and get to work!
 
+Then he would build a flamethrower to melt through the walls, of course! He has everything he would ever need!
+
+Just don't burn your mullet!
+
 Time is running out, and you need to act fast before the marshmallow explodes. The fate of the free world rests on your
 shoulders...
 
