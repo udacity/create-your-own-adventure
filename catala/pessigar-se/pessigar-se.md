@@ -1,2 +1,3 @@
-tanques els ulls i et pessigues el braç perquè deus estar somiant i així et despertaràs.
-Quan obres els ulls els núvols de sucre s'han convertit en canaris roses que t'estan pessigant el braç esquerre.
+tanques 
+els ulls i et pessigues el braÃ§ perquÃ¨ deus estar somiant i aixÃ­ et despertarÃ s.
+Quan obres els ulls els nÃºvols de sucre s'han convertit en canaris roses que t'estan pessigant el braÃ§ esquerre.
