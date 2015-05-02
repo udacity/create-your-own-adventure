@@ -177,3 +177,5 @@ Do you:
 [The walls start closing in](malaria/malaria.md)
 
 [Come to Nepal](nepal/nepal.md)
+
+[Summon your robot army](robot-army/robots-everywhere.md)
