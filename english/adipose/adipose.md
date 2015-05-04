@@ -10,3 +10,5 @@ As you ponder your place in the universe, you feel a slight fire under your
 feet and begin to worry... "Am I a human dreaming I'm a marshmallow being
 roasted alive, or am I a marshmallow being roasted alive who awoke from a dream that I
 was a human?"
+
+[Wake Up](awake/awake.md)
