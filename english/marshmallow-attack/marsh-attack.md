@@ -4,7 +4,7 @@ you hold it out and pretend to look away. As the marsh hand
 
 reaches for the lighter you quickly jab the fork into the 
 
-white fluffy hand. The marshmallow pulls back it hand and
+white fluffy hand. The marshmallow pulls back its hand and
 
 a giant gaping mouth appears and starts to scream.
 
