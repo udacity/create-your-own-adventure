@@ -31,3 +31,5 @@ el Consejero:
 [Una bruja entró en el salón](bruja/bruja.md)
 
 [Subió a la torre](torre/torre.md)
+
+[Ordenó buscar al Capitán Trueno](capitan/trueno.md)
