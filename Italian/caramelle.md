@@ -1,5 +1,5 @@
 Una mattina, ti svegli in una strana stanza.
-Che stai facendo?
+Che fai?
 
 [Torno a dormire](domire/sogno-strano.md)
 
