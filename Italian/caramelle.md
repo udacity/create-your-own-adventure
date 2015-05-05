@@ -7,3 +7,5 @@ Che fai?
 
 [Apro la finestra](finestra/apri.md)
 
+[Mi guardo intorno](guardare/guarda.md)
+
