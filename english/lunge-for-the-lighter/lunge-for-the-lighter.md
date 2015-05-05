@@ -7,3 +7,6 @@ its confectionary phalanges and wags its index finger at you as if to tell you
 you see the hand shaking a bit. Like it's some sort of inaudible laughter.
 The hand turns and points at you one last time, this time with two fingers,
 aimed right at your eyes and disappears into the marshmallows.
+Then two holes open up in the marshmallow walls, one at each end of the room.
+At one end, a marshmallow staircase going up. At the other a steep slope downwards.
+You grab the rope, fork, and remains of the leather jacket and get ready to run.
