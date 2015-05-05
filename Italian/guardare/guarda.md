@@ -1,1 +1,2 @@
-mi guardo intorno e cerco di capire cosa accade. Vedo le pareti che si restringono, dei simpatici, carini e piccoli elfi che ballano e cantano e..comprendo che i funghi "speciali" che ho mangiato ieri in realta' erano allucinogeni!
+Le pareti si restringono e dei simpatici e piccoli elfi ballano e cantano..
+i funghi "speciali" che ho mangiato ieri in realtà erano allucinogeni!
