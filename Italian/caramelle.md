@@ -7,5 +7,5 @@ Che stai facendo?
 
 [Apro la finestra](finestra/apri.md)
 
-[Mi guardo intorno] (Guardare/guarda.md)
+[Mi guardo intorno](Guardare/guarda.md)
 
