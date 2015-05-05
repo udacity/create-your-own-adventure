@@ -7,6 +7,8 @@ The bitter-sweet flavor of roasted coffee beans invigorates your soul.
 
 You feel like a new person after a cup of coffee.
 
+Can you feel the caffeine rush inside of you?
+
 After having your coffee do you want to:
 
 [Have another cup of coffee?](another-coffee/another-coffee.md)
