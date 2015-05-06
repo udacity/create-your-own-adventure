@@ -58,7 +58,7 @@ Do you:
 
 [Try and interact with the marshmallow hand] (interact/interact.md)
 
-[Use Mystical Magical Jargon From A Wise Sage] (usemagicwords/use-magic-words.md)
+[Use Mystical Magical Jargon From A Wise Sage] (https://github.com/ChrisCoates09/create-your-own-adventure/blob/master/english/usemagicwords/use-magic-words.md)
 
 [Check your phone for date, time and location?](check-your-phone/check-your-phone.md)
 
