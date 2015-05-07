@@ -14,3 +14,5 @@ Do you:
 [Bring some chocolate and graham crackers to make s'mores?] (smores/with_friends.md)
 
 [Start an extreme marshmallow mosh pit] (mosh_pit/mosh_pit.md)
+
+[sing karaoke?](../karaoke/karaoke/sing.md)
