@@ -1,0 +1,1 @@
+Empezó con el ritual de bienvenida para el ejército, el cual incluía los cánticos milenarios de los ganadores de las mil batallas del gran ejército de la República.
