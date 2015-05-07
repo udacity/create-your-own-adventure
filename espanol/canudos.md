@@ -33,3 +33,5 @@ el Consejero:
 [Subió a la torre](torre/torre.md)
 
 [Ordenó buscar al Capitán Trueno](capitan/trueno.md)
+
+[Empezó con el ritual de bienvenida para el ejército](ritual/ritual.md)
