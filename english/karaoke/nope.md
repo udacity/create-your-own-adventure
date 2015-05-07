@@ -1,5 +1,5 @@
 You walk into a bar and see karaoke is going on!
 
-[nope out](../marshmellow.md)
+[nope out](../marshmallow.md)
 
-[sing karaoke?](karaoke/karaoke/sing.md)
+[sing karaoke?](karaoke/sing.md)

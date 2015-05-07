@@ -16,3 +16,5 @@ Do you:
 [Start an extreme marshmallow mosh pit] (mosh_pit/mosh_pit.md)
 
 [sing karaoke?](../karaoke/karaoke/sing.md)
+
+[don't sing karaoke?](../karaoke/nope.md
