@@ -1,4 +1,4 @@
-Sie veruchen die letzte Nach zu rekontruieren. Sie errinern sich daran,
+Sie versuchen die letzte Nach zu rekonstruieren. Sie erinnern sich daran,
 dass Sie angetrunken mit Ihren 3 besten Freunde ins Boot gestiegen sind,
 können sich jedoch seitdem an nichts mehr erinnern.
 
