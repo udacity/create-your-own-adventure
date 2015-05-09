@@ -18,4 +18,4 @@ Werden Sie:
 
 [Sie beschliessen fortan keinen Alkohol mehr zu trinken.](Alkohol/alkohol.md)
 
-[Weiterschlafen.](Schalfen/schlafen.md)
+[Weiterschlafen.](Schlafen/schlafen.md)
