@@ -12,6 +12,8 @@ quiets and you entertain how to spend the rest of the day.
 But wait!  Just when you when you were about to start contemplating, you suddenly feel torn between 
 heading for the toilet or heading for the hills.  Either way, neither of your options look pretty.
 
+Then you remember the matches in your pocket.
+
 Do you:
 
 [checkout Susans website](http://www.susanjustin.com/wpsj)
