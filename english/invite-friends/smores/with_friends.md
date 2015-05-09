@@ -7,7 +7,7 @@ Now what?
 
 Do you want to:
 
-- [Sit back and relax](/indigestion/indigestion.md)
+- [Sit back and relax](indigestion/indigestion.md)
 
 - [Figure out what these marshmellow walls are all about?](after_smores/shrinking_room.md)
 
