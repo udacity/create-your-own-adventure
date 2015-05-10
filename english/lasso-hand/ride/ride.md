@@ -18,4 +18,4 @@ Do you,
 
 [Eat your way out with the fork?](../../eating-walls/eating-marshmallows.md)
 
-[Take a spanking] (./ride/spanking.md)
+[Take a spanking] (./spanking.md)
