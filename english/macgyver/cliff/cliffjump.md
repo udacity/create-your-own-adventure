@@ -1,6 +1,12 @@
 Knowing the fate of the world rested on your shoulders and knowing
 there is no possible way out it, you decide to jump off the cliff.
 
+The mere thought of existence seems like an anti-climax of a bad story.
+You have lost your girlfriend, and ended up with a marshmallow. And as
+yummy as marshmallows are, they'll never replace that special place in
+your heart that your ex-girlfriend held. You realize there's only one thing
+to do:
+
 In a dash, you throw the marshmallow at your ex-girlfriend and bail.
 
 But then you realize that you forgot your parachute!
