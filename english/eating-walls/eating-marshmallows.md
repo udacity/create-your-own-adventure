@@ -16,8 +16,6 @@ Then you remember the matches in your pocket.
 
 Do you:
 
-[checkout Susans website](http://www.susanjustin.com/wpsj)
-
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
 [Go exploring outside?](../explore-outside/explore-outside.md)
@@ -39,3 +37,5 @@ Do you:
 [Light a fire](../light-fire/fire.md)
 
 [Remember you have some Tums in your pocket and take a few?](../take_tums/take_tums.md)
+
+[checkout Susans website](http://www.susanjustin.com/wpsj)
