@@ -48,6 +48,8 @@ Hold the image of the marshmallow and..
 
 Sing softly the song of it's people as you...
 
+So you say, "How strange that I ended up in this sweet, comfortable, yet dangerous situation".  
+
 Do you:
 
 [Want to break free](yuha/yuha.md)
