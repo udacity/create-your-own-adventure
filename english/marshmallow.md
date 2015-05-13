@@ -48,6 +48,10 @@ Hold the image of the marshmallow and..
 
 Sing softly the song of it's people as you...
 
+BUT!!!! wait a minute... Do you hear that??
+
+A soft echo of a torrent is fading from far...
+
 Do you:
 
 [Want to break free](yuha/yuha.md)
