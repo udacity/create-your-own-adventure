@@ -6,8 +6,7 @@ this story happened to provide you. Shoveling the fluffy, whipped sugar into you
 you begin to feel a sense of satisfaction.
 
 Sitting down next to the partially eaten marshmallow wall, your stomach begins to grumble, churn,
-and babble. Hoping to walk off the uneasy feeling, you stand up. Upon standing up, your stomach
-quiets and you entertain how to spend the rest of the day.
+and babble. Hoping to walk off the uneasy feeling, you stand up. Upon standing up, you soon realize that the very marshmallows you've been munching on are eating away at your insides!
 
 But wait!  Just when you when you were about to start contemplating, you suddenly feel torn between 
 heading for the toilet or heading for the hills.  Either way, neither of your options look pretty.
