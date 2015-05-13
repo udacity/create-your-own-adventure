@@ -46,7 +46,7 @@ Long live marshmallows!
 
 Hold the image of the marshmallow and..
 
-Sing softly the song of it's people as you...
+Sing softly the song of its people as you...
 
 Do you:
 
