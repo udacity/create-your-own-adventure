@@ -22,6 +22,8 @@ But you have a growing sense that these mundane objects are vital to your surviv
 
 You decide to try to light a fire to melt some of the marshmallows so you look for some kindling.
 
+Nothing.
+
 You have the suspicion that you are being closely watched.
 
 You see a polar bear searching for food.
