@@ -8,6 +8,8 @@ usually take intoxicants, what's happening...?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
+Grave danger.
+
 These marshmallows are numerous and they look so delicious.
 
 You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
