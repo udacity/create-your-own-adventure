@@ -48,6 +48,12 @@ Hold the image of the marshmallow and..
 
 Sing softly the song of it's people as you...
 
+BUT!!!! wait a minute... Do you hear that??
+
+A soft echo of a torrent is fading from far...
+
+I felt a sudden ease of mind.
+
 Do you:
 
 [Want to break free](yuha/yuha.md)
@@ -223,3 +229,5 @@ Do you:
 [Become an Octodog] (be-octodog/octodog.md)
 
 [Make a Marshmallow cake] (https://www.youtube.com/watch?v=3l1SY3QREv4)
+
+[Realize that you are Batman and have the Utility Belt on you. Yeah!!!](https://youtu.be/YpIQQeL2ZYk?t=22s)
