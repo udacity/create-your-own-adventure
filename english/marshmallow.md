@@ -52,6 +52,8 @@ BUT!!!! wait a minute... Do you hear that??
 
 A soft echo of a torrent is fading from far...
 
+I felt a sudden ease of mind.
+
 Do you:
 
 [Want to break free](yuha/yuha.md)
