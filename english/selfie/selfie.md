@@ -8,6 +8,6 @@ You hate marshmallows but can you really hate yourself?
 
 The next logical step then is to: 
 
-[Begin to eat!](eating/inside.md)
+[Begin to eat!](../light-fire/eating/inside.md)
 
-[Build a fire](light-fire/fire.md)
+[Build a fire](../light-fire/fire.md)
