@@ -8,3 +8,5 @@ Do you:
 
 [Look in jacket for Chocolate](chocolate/find-chocolate.md)
 
+[Build a graham cracker refuge](refuge/build-refuge.md)
+
