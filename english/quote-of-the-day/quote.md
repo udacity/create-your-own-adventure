@@ -15,6 +15,8 @@ Quote for [friends](friends/friends.md)
 
 Quote for [life](life/life.md)
 
+Quote for [my life](life/life2.md)
+
 Quote for [inspiration](inspiration/inspiration.md)
 
 
