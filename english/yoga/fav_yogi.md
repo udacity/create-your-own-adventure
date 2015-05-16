@@ -1,1 +1,1 @@
-Kino MacGregor
+Ashtanga yoga: [Kino MacGregor](https://instagram.com/kinoyoga/).
