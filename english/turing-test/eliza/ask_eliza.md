@@ -7,6 +7,13 @@ You are greeted by the following message:
 
 How do you respond?:
 
+Eliza! It's me! I haven't seen you since CS638 back in January of 1977. How have you been? 
+And why are you wearing that dusty ADM-34 CRT? How do you even get parts for that thing?
+
+Your memory skills at retrieving model numbers of arcane cathod-ray tube devices in vogue
+in the late seventies and early eighties are rewarded with the
+following enigmatic response from ELIZA:
+
 
 
 
