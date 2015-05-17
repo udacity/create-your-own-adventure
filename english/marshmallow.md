@@ -56,6 +56,8 @@ A soft echo of a torrent is fading from far...
 
 I felt a sudden ease of mind.
 
+"Ok", I said to myself, "I need to get out of here"
+
 Do you:
 
 [Want to break free](yuha/yuha.md)
