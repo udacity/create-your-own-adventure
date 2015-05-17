@@ -1,12 +1,12 @@
 The following is the best cookie bar recipe
 
-If you didn't like it, you can got back to [backing cookies] (../english/back-cookies)
+If you didn't like it, you can got back to [backing cookies] (../back-cookies/cookies.md)
 
-* Raspberry "Rhubars"
+Raspberry "Rhubars"
 
-** Ingredients
+Ingredients
 
-*** CRUST 
+CRUST 
 2 cups all-purpose flour
 1/2 cup powdered sugar
 1/2 teaspoon baking soda
@@ -15,7 +15,7 @@ If you didn't like it, you can got back to [backing cookies] (../english/back-co
 3/4 cup toasted slivered almonds, coarsely chopped 
 Vegetable cooking spray 
 
-*** RHUBARB-RASPBERRY FILLING
+RHUBARB-RASPBERRY FILLING
 3/4 cup granulated sugar
 1/4 cup cornstarch
 1/4 teaspoon table salt
@@ -23,7 +23,7 @@ Vegetable cooking spray
 2 (6-oz.) containers fresh raspberries 
 1 teaspoon vanilla extract 
 
-*** CREAM CHEESE BATTER 
+CREAM CHEESE BATTER 
 2 (8-oz.) packages cream cheese, softened
 3/4 cup granulated sugar
 2 large eggs
@@ -31,7 +31,7 @@ Vegetable cooking spray
 1 tablespoon fresh lemon juice
 Garnish: powdered sugar
 
-** Preparation
+Preparation
 
 1. Prepare Crust: Preheat oven to 350°. Stir together flour and next 3 ingredients in a large bowl; cut butter into flour mixture with a pastry blender until crumbly. Stir in almonds. Press mixture onto bottom of a lightly greased (with cooking spray) 13- x 9-inch pan. Bake 15 to 20 minutes or until lightly browned. Cool on a wire rack until ready to use.
 
