@@ -1,6 +1,6 @@
 The following is the best cookie bar recipe
 
-If you didn't like it, you can got back to [backing cookies] (../back-cookies/cookies.md)
+If you didn't like it, you can got back to [backing cookies] (../bake-cookies/cookies.md
 
 Raspberry "Rhubars"
 
