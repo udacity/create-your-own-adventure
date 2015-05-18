@@ -17,3 +17,5 @@ Werden Sie:
 [Aus dem Traum aufwachen und Oktoberfest besuchen](Oktoberfest/oktoberfest.md)
 
 [Sie beschliessen fortan keinen Alkohol mehr zu trinken.](Alkohol/alkohol.md)
+
+[Weiterschlafen.](Schlafen/schlafen.md)
