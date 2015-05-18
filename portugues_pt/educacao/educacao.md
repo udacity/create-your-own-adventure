@@ -1,0 +1,1 @@
+UM povo somente evolui com Educação!!!
