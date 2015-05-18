@@ -74,4 +74,4 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 
 Če govoriš slovensko, [klikni sem] (slovenian/začetek.md).
 
-telugulO raayuTaku [ikkaDa](telugu/telugu.md) nokkanDi :-)
+తెలుగులో రాయుటకు [ఇక్కడ](telugu/telugu.md) నొక్కండి.:-)
