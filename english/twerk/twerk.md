@@ -1,0 +1,1 @@
+You begin to twerk and hope that it all blows over soon.
