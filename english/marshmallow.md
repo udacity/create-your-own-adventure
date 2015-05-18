@@ -58,6 +58,8 @@ I felt a sudden ease of mind.
 
 "Ok", I said to myself, "I need to get out of here"
 
+"But first I must remember the magic spell needed to open the enchanted door!"
+
 Do you:
 
 [Want to break free](yuha/yuha.md)
