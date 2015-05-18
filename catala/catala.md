@@ -14,3 +14,5 @@ Què fas?
 [Penses com sortir d'aquí] (sortir/sortir.md)
 
 [Et pessigues el braç] (pessigar-se/pessigar-se.md)
+
+[T'aixeques del llit] (aixecar/aixecar.md)
