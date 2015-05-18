@@ -13,3 +13,9 @@ Dangling by the head.
 Things do not look good.
 
 The hand is angry.
+
+Do you, 
+
+[Eat your way out with the fork?](../../eating-walls/eating-marshmallows.md)
+
+[Take a spanking] (./spanking.md)
