@@ -7,6 +7,8 @@ Then you notice a small, old man grinning toothlessly back at you from across th
 He seems somehow detached from reality, and his features appear to both move and stay still,
 like a statue in the shadows or a painting in the corner of your eye.
 
+As he begins to levitate, you realize that it's already too late.
+
 Do you:
 
 [Share your decision with the man?](engage-man/engage-man.md)
