@@ -18,3 +18,5 @@ even the thunderbolts of heaven -- but stand up and work!
 
 
 4. Know that every time you feel weak, you not only hurt yourself but also the Cause. Infinite faith and strength are the only conditions of success.
+
+[Read More Here](http://www.awakeningindia.org/life/Teachings.aspx)
