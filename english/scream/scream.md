@@ -9,7 +9,7 @@ You will do:
 
 [Call your mom?](mom/eatwithmom.md)
 
-[Its right time to go for an walk](walk/walkwiththought.md)
+[Its right time to go for walk](walk/walkwiththought.md)
 
 [Remove marshmallow.](remove/removemarshmallow.md)
 
