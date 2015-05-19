@@ -73,3 +73,5 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 ನೀವು ಕೆಚ್ಚೆದೆಯ ಕನ್ನಡಿಗರಾದರೆ, [ಇಲ್ಲಿ ಒತ್ತಿ](kannada/soochike.md).
 
 Če govoriš slovensko, [klikni sem] (slovenian/začetek.md).
+
+తెలుగులో రాయుటకు [ఇక్కడ](telugu/telugu.md) నొక్కండి.:-)
