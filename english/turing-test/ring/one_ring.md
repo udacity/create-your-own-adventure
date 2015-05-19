@@ -4,3 +4,5 @@ The marshmellows are bewildered by your vanishing act and frantically hop
 around searching for you.
 
 Meanwhile, you descry your surroundings for escape routes.
+
+You eventually realize that tickling the walls makes the whole room to rumble and cracks start appearing in the walls.
