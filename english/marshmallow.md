@@ -1,3 +1,5 @@
+[Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
+
 One morning, you wake up in a strange room with marshmallows for walls.
 
 Thinking back, there are no memories to suggest that this should have been
