@@ -1,7 +1,9 @@
 ﻿Shri Swami Vivekananda says:
 
 
-1. Education is not the amount of information that we put into your brain and runs riot there, undigested, all your life.
+1. Education is not the amount of information that we put into your 
+
+brain and runs riot there, undigested, all your life.
 
 We must have life building, man making, character making assimilation of ideas.
 
