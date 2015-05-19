@@ -1,3 +1,5 @@
+[Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
+
 One morning, you wake up in a strange room with marshmallows for walls.
 
 Thinking back, there are no memories to suggest that this should have been
@@ -55,6 +57,10 @@ BUT!!!! wait a minute... Do you hear that??
 A soft echo of a torrent is fading from far...
 
 I felt a sudden ease of mind.
+
+"Ok", I said to myself, "I need to get out of here"
+
+"But first I must remember the magic spell needed to open the enchanted door!"
 
 Do you:
 
@@ -236,3 +242,6 @@ Do you:
 
 [You realize you are in NeverLand and you are
  never going come... so you sing the Tinker Bell song] (https://youtu.be/Sopngy6uucw)
+
+[You decide to become a marshmallow yourself.](becomemarshmallow/becomemarshmallow.md)
+
