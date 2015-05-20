@@ -17,3 +17,9 @@ dog!
 For some reason, you forget your fear and watch. The polar bear eventually stops 
 chewing away and looks up at you with big happy eyes and his tongue flopping out
 of the side of his mouth.
+
+Now you decide to:
+
+[Take a selfie](../selfie/selfie.md)
+
+[Do a dance](../dance/dance.md)
