@@ -245,3 +245,5 @@ Do you:
 
 [You decide to become a marshmallow yourself.](becomemarshmallow/becomemarshmallow.md)
 
+[Explain Fizzbin to the marshmallow hand?](fizzbin/explain-fizzbin.md)
+
