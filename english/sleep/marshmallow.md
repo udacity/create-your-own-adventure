@@ -29,4 +29,4 @@ Do you:
 
 [Make a wish to fly](../soar/soar.md)
 
-[Wish for graham crackers](/crackers/crackers.md)
+[Wish for graham crackers](./crackers/crackers.md)
