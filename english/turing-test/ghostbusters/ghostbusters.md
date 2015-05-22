@@ -2,4 +2,8 @@ The ghostbusters eventually blow up the marshmallow man and you fly off in a hug
 
 Marshmallow cushions your fall and you have safely escaped the danger. 
 
+A sudden awareness of a broken and marshmallow strewn Central Park breaks upon you.  
+
+It is clear that your real work has just begun.
+
 Congrats for completing the adventure!
