@@ -252,3 +252,5 @@ Do you:
 [Explain Fizzbin to the marshmallow hand?](fizzbin/explain-fizzbin.md)
 
 [Drool on the Marshmallow to show demonstrate your digestive superiority](drool/droolstrategem.md)
+
+[Eat the Marshmallow](eatmarshmallow/eatmarshmallow.md)
