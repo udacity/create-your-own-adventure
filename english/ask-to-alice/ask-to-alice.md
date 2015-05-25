@@ -7,6 +7,8 @@ it's time for another pill, but which one should you take?
 
 Pick one of the choices below:
 
+Just click on the link.
+
 [The one that makes you larger](../super-man/save-the-word.md)
 
 [The one that makes you sleep](../sleep/marshmallow.md)
