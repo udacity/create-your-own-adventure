@@ -11,3 +11,5 @@ Do you:
 [Sing a song?](../sing-song/sing.md)
 
 [Make coffee first?](../coffee/coffee.md)
+
+[bake the cookies yourself] (../best_cookies/cookie_bars.md)
