@@ -1,5 +1,9 @@
 You take out your phone and take a selfie. You look at the picture.
 
+It's too blurred to see well.
+
+You use the fork as a make-shift selfie-stick and try again.
+
 Oh no! You are made of marshmallow!
 
 This sudden revelation has now complicated the matter.

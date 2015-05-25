@@ -62,6 +62,10 @@ I felt a sudden ease of mind.
 
 "But first I must remember the magic spell needed to open the enchanted door!"
 
+You pick up the fork and wrap it in rope to fashion a crappy wand.
+
+Pointing it at the door, eyes closed, "Alohomora..."
+
 Do you:
 
 [Want to break free](yuha/yuha.md)
