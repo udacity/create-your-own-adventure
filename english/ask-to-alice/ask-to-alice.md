@@ -5,6 +5,8 @@ But how can you believe anyone who stands 10 ft tall holding a white rabbit? Wha
 [music](https://www.youtube.com/watch?v=WANNqr-vcx0) that you're hearing?  You decide to that 
 it's time for another pill, but which one should you take?
 
+Pick one of the choices below:
+
 [The one that makes you larger](../super-man/save-the-word.md)
 
 [The one that makes you sleep](../sleep/marshmallow.md)
