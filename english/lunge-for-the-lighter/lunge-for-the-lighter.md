@@ -10,3 +10,5 @@ aimed right at your eyes and disappears into the marshmallows.
 Then two holes open up in the marshmallow walls, one at each end of the room.
 At one end, a marshmallow staircase going up. At the other a steep slope downwards.
 You grab the rope, fork, and remains of the leather jacket and get ready to run.
+
+[Run to the opening with the steep slope](steep-slope/steep-slope.md)
