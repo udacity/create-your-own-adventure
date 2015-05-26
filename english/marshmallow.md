@@ -254,3 +254,5 @@ Do you:
 [Drool on the Marshmallow to show demonstrate your digestive superiority](drool/droolstrategem.md)
 
 [Eat the Marshmallow](eatmarshmallow/eatmarshmallow.md)
+
+[Escape into Willy Wonka Lego-World](lego-world/lego-world.md)
