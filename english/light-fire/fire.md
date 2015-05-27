@@ -29,6 +29,8 @@ walls for you to squeeze through.
 
 [Say xyzzy.](xyzzy/xyzzy.md)
 
+[Extinguish fire.](extinguish-fire/extinguish-fire.md)
+
 [Drink some coffee.](../coffee/coffee.md)
 [Sleep]
 
