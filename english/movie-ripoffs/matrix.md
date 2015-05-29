@@ -29,6 +29,4 @@ Morpheus across the room.
 Choose the next spell:
 
 ["Apparate" to get the hell out of here](./hogwarts.md)
-
 ["Avada Kedavra" to finish Morpheus off](./matrix-boss.md)
-

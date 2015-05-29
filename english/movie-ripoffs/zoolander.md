@@ -19,7 +19,5 @@ Excitedly, Hansel rummages through his pockets and hauls out a grubby assortment
 Hansel holds out the pills, which look suspiciously like M&Ms to you.  Do you:
 
 [Get the heck away from this junkie and explore some more](../marshmallow.md)
-
 [Take a blue pill](../virtualreality/oculus.md)
-
 [Take a red pill](./matrix.md)

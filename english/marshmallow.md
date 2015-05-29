@@ -18,7 +18,6 @@ Quickly surveying your immediate surrounds, you notice a garishly dressed, vacan
 
 [Interrogate the man for clues](/movie-ripoffs/zoolander.md)  
 
-
 These marshmallows are numerous and they look so delicious.
 
 You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
