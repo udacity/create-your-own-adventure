@@ -9,7 +9,7 @@ his eyes unsuccessfully attempting to focus on you as he inhales deeply from a h
 
 "But how did you get here?" you demand irritably, attempting to keep the conversation on track.
 
-Looking puzzled Hansel continues. "Dunno Bro. I was climbing Mt Vesuvius and I slipped and fell.  Next thing I was here."
+Looking puzzled Hansel continues. "Dunno. I was climbing Mt Vesuvius and I slipped and fell. Next thing I was here."
 He pauses for a moment "Oh... epiphany... I've never even BEEN to Vesuvius!  Must be something to do with the pills." 
 
 Excitedly, Hansel rummages through his pockets and hauls out a grubby assortment of colored tablets.  
