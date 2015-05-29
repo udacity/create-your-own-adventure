@@ -2,14 +2,14 @@ As you approach the shaggy haired hippy, it is immediately obvious that the fell
 his eyes unsuccessfully attempting to focus on you as he inhales deeply from a half smoked joint.
 "Who are you, and what the hell is this place?" you ask loudly, hoping to penetrate his drug-fogged stupor.
 
-"Chill Bro - you're ruining the vibe!" whines the stoner.  "I'm Hansel by the way." he adds, moving his hands in a vague waving gesture.
+"Chill Bro - you're ruining the vibe!" whines the stoner.  "I'm Hansel by the way." he adds, waving vaguely.
 
 "Where am I, and how do I get out of here?" you ask the red-eyed derelict, with a sense of increasing futility.
-"Dude, that's awesome!" Hansel responds in wide-eyed wonderment.  "You're lost! I'm lost! We're like cosmic twins or something!".
+"Dude, that's awesome!" Hansel responds wide-eyed.  "You're lost! I'm lost! We're like cosmic twins or something!".
 
 "But how did you get here?" you demand irritably, attempting to keep the conversation on track.
 
-With a puzzled look Hansel continues - "Dunno Bro - I was climbing Mt Vesuvius and I slipped and fell.  Next moment I was here."
+Looking puzzled Hansel continues. "Dunno Bro. I was climbing Mt Vesuvius and I slipped and fell.  Next thing I was here."
 He pauses for a moment "Oh... epiphany... I've never even BEEN to Vesuvius!  Must be something to do with the pills." 
 
 Excitedly, Hansel rummages through his pockets and hauls out a grubby assortment of colored tablets.  
