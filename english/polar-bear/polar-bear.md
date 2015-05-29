@@ -32,4 +32,4 @@ Now you decide to:
 
 [Do a dance](../dance/dance.md)
 
-[and ride through the worm whole](/worm_hole/worm_hole.md)
+[and ride through the worm whole](worm_hole/worm_hole.md)
