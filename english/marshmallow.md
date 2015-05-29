@@ -12,6 +12,12 @@ But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger.
 
+The type of mortal danger that so often accompanies confectionary inspired interior design.
+Quickly surveying your immediate surrounds, you notice a garishly dressed, 
+vacant eyed young man lounging on a nearby sofa.
+
+[Interrogate the man for clues](./movie-ripoffs/zoolander/zoolander.md)  
+
 These marshmallows are numerous and they look so delicious.
 
 You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
