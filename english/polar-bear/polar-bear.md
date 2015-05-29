@@ -18,8 +18,18 @@ For some reason, you forget your fear and watch. The polar bear eventually stops
 chewing away and looks up at you with big happy eyes and his tongue flopping out
 of the side of his mouth.
 
+The polar bear was distracted by the incredible herd/pod of walruses.
+ These amazing animals are now viewable on youtube.. 
+..(do a google search for live walrus feed)..
+the walruses quickly help the situation by using their tusks to pierce any
+marshmellows and create a rip in the fabric of reality.. you jump on the 
+walruses back..
+
+
 Now you decide to:
 
 [Take a selfie](../selfie/selfie.md)
 
 [Do a dance](../dance/dance.md)
+
+[and ride through the worm whole](worm_hole/worm_hole.md)
