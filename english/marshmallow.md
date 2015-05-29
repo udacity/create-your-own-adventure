@@ -78,6 +78,8 @@ Do you:
 
 [Check your phone for date, time and location?](check-your-phone/check-your-phone.md)
 
+[Check mspaintadventures](mspa/mspa.md)
+
 [Lunge for the lighter](lunge-for-the-lighter/lunge-for-the-lighter.md)
 
 [Ask to Alice](ask-to-alice/ask-to-alice.md)
