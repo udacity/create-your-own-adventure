@@ -78,7 +78,7 @@ Do you:
 
 [Check your phone for date, time and location?](check-your-phone/check-your-phone.md)
 
-[Check mspaintadventures](https://github.com/VanLoon/create-your-own-adventure/tree/my-story/english/mspa/mspa.md)
+[Check mspaintadventures](mspa/mspa.md)
 
 [Lunge for the lighter](lunge-for-the-lighter/lunge-for-the-lighter.md)
 
