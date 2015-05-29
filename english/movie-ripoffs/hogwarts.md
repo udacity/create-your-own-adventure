@@ -6,8 +6,7 @@ A bearded Giant clumps up to you yelling "Cor blimey - it's HARRY POTTER!" as he
 
 "I think you're badly mistaken" you exclaim breathlessly as he places you back on the ground.
 
-"No - no mistake, Harry.", he says gleefully as he quickly scribbles a zig-zag on your forehead with a permanent marker pen.  
-"You've got the scar and everything!".
+"No - no mistake, Harry.", he says gleefully as he quickly scribbles a zig-zag on your forehead with a permanent marker pen.  "You've got the scar and everything!".
 
 Just then a clever looking girl approaches. 
 
