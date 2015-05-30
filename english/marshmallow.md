@@ -74,6 +74,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Peak through the keyhole to reveal what is beyond](world-war-marshmallows/world-war-marshmallows.md)
+
 [Want to break free](yuha/yuha.md)
 
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
