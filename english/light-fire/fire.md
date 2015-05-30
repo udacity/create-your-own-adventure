@@ -13,6 +13,12 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 As you somehow avoid the globs of marshmallow using your reflexes, you notice a big enough opening in the melted 
 walls for you to squeeze through.
 
+But then you notice a rat entering that opening too.
+
+[Enter that opening](magic-world/alice.md)
+
+[Start screaming seeing the rat](fire/alone.md)
+
 [Save yourself!](run-away/outside.md)
 
 [Begin to eat!](eating/inside.md)
