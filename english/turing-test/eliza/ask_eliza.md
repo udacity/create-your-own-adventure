@@ -14,6 +14,6 @@ Your memory skills at retrieving model numbers of arcane cathod-ray tube devices
 in the late seventies and early eighties are rewarded with the
 following enigmatic response from ELIZA:
 
-
+ELIZA : "So, what is it about the CS638 back in January of 1977 that's troubling you?"
 
 
