@@ -77,3 +77,5 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 Če govoriš slovensko, [klikni sem] (slovenian/začetek.md).
 
 తెలుగులో రాయుటకు [ఇక్కడ](telugu/telugu.md) నొక్కండి.:-)
+
+ಕುಡ್ಲದ ಜನ [ಇಡೆ ಒತ್ತುಲೇ](tulu/tulu.md)
