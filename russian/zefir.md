@@ -10,6 +10,6 @@
 
 [Вернётесь ко сну?](sleep/zefir.md)
 
-[Идёте варить кофе](awaken/stand-up/coffee/coffee.md)
+[Идёте варить кофе?](awaken/stand-up/coffee/coffee.md)
 
 [Звоните в ЖЭК.](buildings-dep/buildings-dep.md)
