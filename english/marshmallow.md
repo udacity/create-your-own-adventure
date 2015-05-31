@@ -76,6 +76,8 @@ Do you:
 
 [Peak through the keyhole to reveal what is beyond](world-war-marshmallows/world-war-marshmallows.md)
 
+[Try the more effective "Apparation" spell to teleport elsewhere](movie-ripoffs/hogwarts/hogwarts.md)
+
 [Want to break free](yuha/yuha.md)
 
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
