@@ -1,5 +1,5 @@
 # Collaborative Create-Your-Own-Adventure
-
+An awesome story twist added
 This is a create-your-own-adventure story where at each step, the reader chooses
 what action to take and turns to an appropriate page of the story based on their
 choice.  It is collaborative because it is written one small piece at a time by
