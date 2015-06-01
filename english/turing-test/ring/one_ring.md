@@ -9,4 +9,5 @@ You eventually realize that tickling the walls makes the whole room to rumble an
 
 The cracks in the walls grow larger and larger until they form a doorway big enough for you to walk thorugh.
 
-A shrill sound almost like someone scraping their fingernails on a chalkboard emanates from the doorway, growing louder with each passing moment.
+A shrill sound almost like someone scraping their fingernails on a chalkboard emanates from the doorway,
+growing louder with each passing moment.
