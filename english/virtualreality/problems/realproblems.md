@@ -4,4 +4,4 @@ made of marshmallows. There is still a problem here.
 
 All of a sudden the lights went off.
 
-[You hear a strange voice](voice/strangeVoice.md).
+[You hear a strange voice](../voice/strangeVoice.md).
