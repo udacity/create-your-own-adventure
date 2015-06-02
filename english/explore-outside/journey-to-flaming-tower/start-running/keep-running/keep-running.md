@@ -6,6 +6,8 @@ now you are happy and sad at the same time.
 
 Now both of you:
 
+[Decide to explore the rest of the tower.](search-and-rescue/search-and-rescue.md)
+
 [Dance with joy!](../../../../dance/dance.md)
 
 [Take a nap!](../../../../sleep/marshmallow.md)
