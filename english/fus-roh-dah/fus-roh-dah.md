@@ -13,3 +13,5 @@ Do you:
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 
 [Perform some magic?](../magic/magic.md)
+
+[Contemplate your place in the universe?](../contemplate/contemplate.md)
