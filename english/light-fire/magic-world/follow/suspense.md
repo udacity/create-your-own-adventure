@@ -6,6 +6,6 @@ The rat finally goes into a dark place.
 
 When you look back, you see nothing...
 
-[Go back](die/die.md)
+[Go back](../../fire/die/die.md)
 
 [Go to that dark place](dream/dream.md)
