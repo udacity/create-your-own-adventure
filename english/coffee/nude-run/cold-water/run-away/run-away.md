@@ -7,4 +7,4 @@ matter.
 
 Because that badger s-o-b outruns you and kills you.
 
-["Go to heaven"](../cold-water/run-away/heaven/heaven.md)
+["Go to heaven"](..run-away/heaven/heaven.md)
