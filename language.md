@@ -62,6 +62,8 @@ Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
 
 Hvis du taler dansk, [tryk her](danish/velkommen.md)
 
+Ifall du pratar svenska, [tryck här](swedish/start.md)
+
 Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
 
 Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
@@ -75,3 +77,5 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 Če govoriš slovensko, [klikni sem] (slovenian/začetek.md).
 
 తెలుగులో రాయుటకు [ఇక్కడ](telugu/telugu.md) నొక్కండి.:-)
+
+ಕುಡ್ಲದ ಜನ [ಇಡೆ ಒತ್ತುಲ](tulu/tulu.md)ೆ.

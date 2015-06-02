@@ -35,3 +35,5 @@ el Consejero:
 [Ordenó buscar al Capitán Trueno](capitan/trueno.md)
 
 [Empezó con el ritual de bienvenida para el ejército](ritual/ritual.md)
+
+[Propone reconfigurar la máquina del tiempo](maquina/maquina.md)
