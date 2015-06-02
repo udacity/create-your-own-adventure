@@ -18,3 +18,4 @@ Do you
 
 [Run back and forth?](../indigestion/indigestion.md)
 
+[Decide you're hungry for s'mores] (../make-smores/make-smores.md)
