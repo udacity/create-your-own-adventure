@@ -5,3 +5,5 @@ Mit csinalsz ?
 [visszaalszol](alvas/alom.md)
 
 [felveszel egy par malyva zoknit] (zokni/zokni.md)
+
+[lezuhanyzol](zuhanyzas/zuhanyzas.md)
