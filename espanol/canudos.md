@@ -37,3 +37,5 @@ el Consejero:
 [Empezó con el ritual de bienvenida para el ejército](ritual/ritual.md)
 
 [Propone reconfigurar la máquina del tiempo](maquina/maquina.md)
+
+[Saco la guitarra y empezo a bailar en una pata](bailar/bailar.md)
