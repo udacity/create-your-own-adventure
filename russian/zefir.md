@@ -13,3 +13,5 @@
 [Идёте варить кофе?](awaken/stand-up/coffee/coffee.md)
 
 [Звоните в ЖЭК.](buildings-dep/buildings-dep.md)
+
+[Закрываете глаза.](close-eyes/close-eyes.md)

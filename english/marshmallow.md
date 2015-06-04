@@ -74,6 +74,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Watch the Warriors vs Cavaliers game 1 of the NBA Finals](warriors-game/watch-warriors.md)
+
 [Peak through the keyhole to reveal what is beyond](world-war-marshmallows/world-war-marshmallows.md)
 
 [Try the more effective "Apparation" spell to teleport elsewhere](movie-ripoffs/hogwarts/hogwarts.md)

@@ -8,3 +8,5 @@ Entonces el consejero decidió:
 [Esperar a que el ejercito se acercara](espera/espera.md)
 
 [Enviar un equipo de exploradores](exploradores/exploradores.md)
+
+[Preparar su ejercito y ejecutar la estrategia establecida] (estrategia/estrategia.md)
