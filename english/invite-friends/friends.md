@@ -18,3 +18,5 @@ Do you:
 [sing karaoke?](../karaoke/karaoke/sing.md)
 
 [don't sing karaoke?](../karaoke/nope.md)
+
+[do a flip](flip/flip.md)
