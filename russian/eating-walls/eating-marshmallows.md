@@ -4,6 +4,8 @@
 
 Ваши действия:
 
+[Вызвать милицию] (police/call-police.md)
+
 [Позавтракать с Винипухом и Пяточком](breakfast/breakfast-marshmallows.md)
 
 [Спросить о будущем планеты] (yes/yesdrugs.md)
