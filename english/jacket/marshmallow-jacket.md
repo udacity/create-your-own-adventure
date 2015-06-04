@@ -4,3 +4,5 @@ You get started right away melting and cooling marshmallows in to the form of a 
 
 Do you:
 Give up and have [milk and cookies](milk-and-cookies/jacket-cookie.md)
+
+[Complete the jacket](complete-jacket/ad.md)
