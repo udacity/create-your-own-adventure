@@ -74,7 +74,7 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
-[Peak through the keyhole to reveal what is beyond](world-war-marshmallows/world-war-marshmallows.md)
+[Peek through the keyhole to reveal what is beyond](world-war-marshmallows/world-war-marshmallows.md)
 
 [Try the more effective "Apparation" spell to teleport elsewhere](movie-ripoffs/hogwarts/hogwarts.md)
 
