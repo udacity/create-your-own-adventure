@@ -80,6 +80,8 @@ Do you:
 
 [Try the more effective "Apparation" spell to teleport elsewhere](movie-ripoffs/hogwarts/hogwarts.md)
 
+[Begin to feel suspicious](lucidream/luciddream.md)
+
 [Want to break free](yuha/yuha.md)
 
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
