@@ -8,3 +8,5 @@ Thankfully you were smart enough to fill the pillow with organic California buck
 itself, now reduced to shards? You fumble through its remnants and find the tag:  "Made from 
 experimental material.  Not for consumption.  If swallowed, call 1-888-285-20"  Wait, "experimental?" 
 You've chewed off the last 2 digits, and your stomach isn't feeling so right suddenly.  Now what?
+You recall that California is in the midst of a drought, so what will help is a nice large glass
+of water. You survey the room again, looking for something cool and refreshing.
