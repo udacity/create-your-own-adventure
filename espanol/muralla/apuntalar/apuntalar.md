@@ -1,1 +1,0 @@
-Los soldados apuntalaron la muralla y los arqueros apuntaron a los visitantes desde lo alto de la colmena

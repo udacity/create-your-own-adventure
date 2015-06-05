@@ -1,1 +1,0 @@
-Sie werden herzlich aufgenommen, als Held gefeiert und eingeladen mitzutanzen.
