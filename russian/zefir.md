@@ -15,3 +15,5 @@
 [Звоните в ЖЭК.](buildings-dep/buildings-dep.md)
 
 [Закрываете глаза.](close-eyes/close-eyes.md)
+
+[Открываете зефирный магазин.](shop/shop.md)
