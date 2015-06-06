@@ -8,6 +8,6 @@ to understand the power of git, but with github by my side, I knew I would be un
 
 What was I to do next?
 
-Dominate the world?
+[Dominate the world?](../hulk/smash.md)
 
-Keep my super git powers to myself?
+[Use super git powers to save the world?](../super-powers/practice-flying.md)
