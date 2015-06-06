@@ -16,9 +16,7 @@ among a river of rock trapped in an enclosing flow.
 You start pushing off the rocks around you and start 
 to gain momentum towards the middle.  A well timed 
 push off of a car sized rock sends you on a trajectory 
-headed straght for the center, the helper rock is 
-pitched in the other direction, crashing through 
-the ring of stone and out into nothingness.  As 
+headed straght for the center.  As 
 your fingers wrap themselves around the orb of 
 light you feel your body melt away. You are one 
 with it.  You are omnipotent.  NICE!
