@@ -12,3 +12,5 @@ roasted alive, or am I a marshmallow being roasted alive who awoke from a dream 
 was a human?"
 
 [Wake Up](awake/awake.md)
+
+Now, if you wanna continue the adventure, please click [here](../amnesia/amnesia.md)
