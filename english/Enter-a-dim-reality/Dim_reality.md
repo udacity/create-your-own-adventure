@@ -3,13 +3,7 @@ You keep your eyes closed, afraid to open them - anticipating a
 shift to an even stranger place.  Slowly you open them.  You blink 
 several times, but there is only darkness. 
 You muster the courage to take a step into the blackness, it seems that 
-you are on solid ground - for the moment.  After taking several 
-steps you realize that the ground you are walking on has some give,
-and there is a brushing sound as you shuffle your feet.  You slowly 
-reach beneath you and are suprised to find grass and earth.  It 
-is cool to the touch, slightly damp.  You dig your fingers deep 
-into the soft soil, and are suddenly overwhelmed with a sense of
-comfort and belonging.  Something echoes in the distance, straining 
+you are on solid ground - for the moment.Something echoes in the distance, straining 
 your ears you frantically try to find the source of the sound on 
 the dark horizon.  A dim light comes into focus, its hard to tell 
 how far off.  Get to the light. Your timid steps quickly turn 
