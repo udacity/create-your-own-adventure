@@ -1,8 +1,7 @@
 Something happened after you called the magic spell "Alohomora".
 You keep your eyes closed, afraid to open them - anticipating a
-shift to an even stranger place.  Slowly you open them.  Wait.. 
-Are they open?  You blink several times, but there is only darkness.  
-You move your hands across your body making sure that you still exits.  
+shift to an even stranger place.  Slowly you open them.  You blink 
+several times, but there is only darkness. 
 You muster the courage to take a step into the blackness, it seems that 
 you are on solid ground - for the moment.  After taking several 
 steps you realize that the ground you are walking on has some give,
