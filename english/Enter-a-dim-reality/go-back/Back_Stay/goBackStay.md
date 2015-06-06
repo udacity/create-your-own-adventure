@@ -9,12 +9,12 @@ floating all around you.  You've been falling for awhile
 now, you anticipated a meeting with crunching fate much 
 sooner.  You become comfortable with the sensation of 
 falling, and you begin to maneuver your body so that you
-can look around.  You begin to realize that you arent 
+can look around.  You begin to realize that you aren't 
 falling, you are in some kind of orbit.  A faint but 
 perceptible orb of light is in the center, and you are
 among a river of rock trapped in an enclosing flow.  
-You start pushing off the rocks around you and start 
-to gain momentum towards the middle.  A well timed 
+You start pushing off the rocks around you, gaining
+momentum towards the middle.  A well timed 
 push off of a car sized rock sends you on a trajectory 
 headed straght for the center.  As 
 your fingers wrap themselves around the orb of 
