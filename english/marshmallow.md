@@ -74,6 +74,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Enter a Dim Reality](Enter-a-dim-reality/Dim_reality.md)
+
 [Watch the Warriors vs Cavaliers game 1 of the NBA Finals](warriors-game/watch-warriors.md)
 
 [Peak through the keyhole to reveal what is beyond](world-war-marshmallows/world-war-marshmallows.md)
