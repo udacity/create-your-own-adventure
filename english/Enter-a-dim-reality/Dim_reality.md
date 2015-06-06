@@ -1,4 +1,4 @@
-Something happened after you called the magic spell "Alohomora".
+Something strange happended after speaking those magic words..
 You keep your eyes closed, afraid to open them - anticipating a
 shift to an even stranger place.  Slowly you open them.  You blink 
 several times, but there is only darkness. 
