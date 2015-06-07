@@ -13,3 +13,4 @@ Here we provide a list of benefits:
 3. Enhanced gluten sensitivity 
 4. Kombucha cravings
 5. Increase hipster status
+6. Weight reduction
