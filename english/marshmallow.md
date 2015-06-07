@@ -10,7 +10,9 @@ usually take intoxicants, what's happening...?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
-Grave danger. *(Is there another kind?)*
+Grave danger.
+
+*(Is there another kind?)*
 
 The type of mortal danger that so often accompanies confectionary inspired interior design.
 Quickly surveying your immediate surrounds, you notice a garishly dressed, 
