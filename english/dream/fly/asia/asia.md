@@ -10,7 +10,8 @@ Stopping first in India for some of that authentic curry and to play with those
 monkeys that seem to be ubiquitous. 
 
 You are surrounded by vividly dressed people of all kinds. You past many
-explorers like your self, who stand with uninhibited awe and marvel.
+explorers like your self, who stand with uninhibited awe and marvel at the wonder all 
+around.
 
 
 
