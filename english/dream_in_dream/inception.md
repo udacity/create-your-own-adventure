@@ -13,4 +13,5 @@ You exit the marshmallow and notice it a spinner on the table top.
 Do you:
 
 [Spin the spinner on the table top?](spin_spinner/spin.md)
+
 [Exit through the door?](exit_room/exit_room.md)
