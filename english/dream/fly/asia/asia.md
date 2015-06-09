@@ -13,6 +13,7 @@ You are surrounded by vividly dressed people of all kinds. You past many
 explorers like your self, who stand with uninhibited awe and marvel at the wonder all 
 around.
 
+What exotic adventures await?
 
 
 
