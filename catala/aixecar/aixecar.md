@@ -1,1 +1,0 @@
-T'aixeques del llit i recorres l'habitació intentant recordar on ets

@@ -1,1 +1,0 @@
-Podíváš se po kapsách a najdeš jeden zapalovač, žvýkačky, a 666 Kč.
