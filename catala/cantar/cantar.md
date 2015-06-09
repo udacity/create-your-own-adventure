@@ -3,4 +3,4 @@ El teu company de tenda havia deixat una bossa plena de llaminadures prop del te
 
 I ara... què vols fer?
 
-[Tasto una llaminadura] (cantar/tastar/tastar.md)
+[Tasto una llaminadura] (tastar/tastar.md)
