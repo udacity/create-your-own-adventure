@@ -278,3 +278,5 @@ Do you:
 [Escape into Willy Wonka Lego-World](lego-world/lego-world.md)
 
 [The inception protocol](dream_in_dream/inception.md)
+
+[Choose the blue pill or the red pill?](choose-pill/choose-pill.md)
