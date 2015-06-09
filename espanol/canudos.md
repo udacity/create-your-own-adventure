@@ -39,3 +39,5 @@ el Consejero:
 [Propone reconfigurar la máquina del tiempo](maquina/maquina.md)
 
 [Saco la guitarra y empezo a bailar en una pata](bailar/bailar.md)
+
+[Un perro llego corriendo y se puso a bailar con el pero en 2 patas](perro/perro.md)
