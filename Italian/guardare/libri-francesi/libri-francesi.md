@@ -7,6 +7,6 @@ Muovendo gli occhi lungo i diversi scaffali, incontri un libro stranamente non r
 stato letto da poco: "Les histoires horribles d'enfants chauves-souris", che suona qualcosa come "Le terribili storie
 dei bambini pipistrello".
 
-[Lasci perdere i libri e decidi di esaminare le fotografie, sperando di riconoscere qualcuno](../vecchie-fotografie/vecchie-fotografie.md)
+[Lasci perdere i libri e decidi di esaminare le fotografie](../vecchie-fotografie/vecchie-fotografie.md)
 
 [Prendi il libro](/prendere-il-libro/prendere-il-libro.md)
