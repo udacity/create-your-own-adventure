@@ -10,5 +10,5 @@ chains of expectation, and promptly flies away.
 
 Do you:
 
-[Drink the Red Bull in your backpack to give you wings and follow the badger](mario-world)
+[Drink the Red Bull in your backpack to give you wings and follow the badger](mario-world/castle.md)
 
