@@ -26,6 +26,8 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
+You are feeling very anxious at this point.
+
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
 You are not sure who placed these objects near you or why.
@@ -75,6 +77,8 @@ You pick up the fork and wrap it in rope to fashion a crappy wand.
 Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
+
+[Cry out for your Mommy](cry-out-for-mommy/oh_mommy.md)
 
 [Enter a Dim Reality](Enter-a-dim-reality/Dim_reality.md)
 
