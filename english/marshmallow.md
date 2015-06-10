@@ -278,3 +278,5 @@ Do you:
 [Escape into Willy Wonka Lego-World](lego-world/lego-world.md)
 
 [The inception protocol](dream_in_dream/inception.md)
+
+[Pull out your proton pack!](ghost-buster/ghost-busted.md)
