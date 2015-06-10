@@ -1,0 +1,1 @@
+As you sit to consider your finite role in an incomprehensible ever-expanding cosmos, you completely lose touch with reality, transcend your physical form, and traverse dimensions heretofor unknown.
