@@ -9,4 +9,4 @@ dei bambini pipistrello".
 
 [Lasci perdere i libri e decidi di esaminare le fotografie](../vecchie-fotografie/vecchie-fotografie.md)
 
-[Prendi il libro](/prendere-il-libro/prendere-il-libro.md)
+[Prendi il libro](./prendere-il-libro/prendere-il-libro.md)
