@@ -10,3 +10,5 @@ Entonces el consejero decidió:
 [Enviar un equipo de exploradores](exploradores/exploradores.md)
 
 [Preparar su ejercito y ejecutar la estrategia establecida] (estrategia/estrategia.md)
+
+[Recibir al ejército que se aproximaba en el campo](recepcion/recepcion.md)

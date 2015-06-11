@@ -1,0 +1,1 @@
+Llegando a cierta distancia de la compañia que se acercaba, el general del ejército pudo darse cuenta de que eran embajadores que venían en paz.
