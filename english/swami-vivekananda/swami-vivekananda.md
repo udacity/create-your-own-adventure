@@ -3,3 +3,5 @@
 All the best with whatever you wish to do in your life :)
 
 But, whatever you do, don't touch a hot stove.
+
+(No matter what your swami advises.)
