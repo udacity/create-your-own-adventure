@@ -12,6 +12,8 @@ But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger.
 
+*(Is there another kind?)*
+
 The type of mortal danger that so often accompanies confectionary inspired interior design.
 Quickly surveying your immediate surrounds, you notice a garishly dressed, 
 vacant eyed young man lounging on a nearby sofa.
@@ -23,6 +25,8 @@ These marshmallows are numerous and they look so delicious.
 You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
+
+You are feeling very anxious at this point.
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
@@ -73,6 +77,8 @@ You pick up the fork and wrap it in rope to fashion a crappy wand.
 Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
+
+[Cry out for your Mommy](cry-out-for-mommy/oh_mommy.md)
 
 [Enter a Dim Reality](Enter-a-dim-reality/Dim_reality.md)
 
@@ -274,6 +280,14 @@ Do you:
 [Eat the Marshmallow](eatmarshmallow/eatmarshmallow.md)
 
 [Escape into Willy Wonka Lego-World](lego-world/lego-world.md)
+<<<<<<< HEAD
 
 [Eat breakfast] (../english/breakfast/breakfast.md)
 
+||||||| merged common ancestors
+=======
+
+[The inception protocol](dream_in_dream/inception.md)
+
+[Pull out your proton pack!](ghost-buster/ghost-busted.md)
+>>>>>>> 1aead4324b63c9802e63bd83910671bd25627047

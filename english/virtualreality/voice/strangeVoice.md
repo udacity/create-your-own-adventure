@@ -1,4 +1,4 @@
-“You might have noticed that removing your Rift 
+﻿“You might have noticed that removing your Rift 
 does not return you to reality.  This is working 
 as intended.”
 
@@ -9,3 +9,8 @@ do not match up with the hands you can actually feel.
 Your hands feel like normal hands,
 but your left hand looks like a trout,
 and your right hand looks like a hotdog.
+
+Suddenly you feel very tired and you're starting to fall
+alseep.
+
+Just before falling asleep, you wonder where you'll wake up...

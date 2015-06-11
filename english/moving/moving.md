@@ -7,3 +7,5 @@ What do you do next?
 [Tie up the marshmallow, feeling safe and walk outside](../mushroom/collect_mushroom.md)
 
 [Try to run away from the supposedly dead marshmallow](../run/run.md)
+
+[Eat the marshmallow](../eatmarshmallow/eatmarshmallow.md)
