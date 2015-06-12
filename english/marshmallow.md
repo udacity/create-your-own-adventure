@@ -280,14 +280,10 @@ Do you:
 [Eat the Marshmallow](eatmarshmallow/eatmarshmallow.md)
 
 [Escape into Willy Wonka Lego-World](lego-world/lego-world.md)
-<<<<<<< HEAD
 
-[Eat breakfast] (../english/breakfast/breakfast.md)
-
-||||||| merged common ancestors
-=======
+[Eat breakfast](../english/breakfast/breakfast.md)
 
 [The inception protocol](dream_in_dream/inception.md)
 
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
->>>>>>> 1aead4324b63c9802e63bd83910671bd25627047
+
