@@ -1,0 +1,3 @@
+An wrinkly old man with a funny hat appears from nowhere.  He approaches you, removes his hat and removes a red pill from within it which he hands to you with a glass of chocolate milk. Reluctantly, you take the pill and place it on your tounge then drink the milk.
+
+Within seconds, you feel dizzy and disorriented, but also euphoric.   You become hungry but only for tacos as the man who gave you the pills turns into a crow an flies away.

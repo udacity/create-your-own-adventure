@@ -284,3 +284,5 @@ Do you:
 [The inception protocol](dream_in_dream/inception.md)
 
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
+
+[You take the red pill](red-pill/red-pill.md)
