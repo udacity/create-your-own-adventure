@@ -1,6 +1,6 @@
 
 Vai lá "hardcore", faz teu nome!
 
-[google](google.com)
+[google](http://google.com)
 
-[wikipedia](wikipedia.org)
+[wikipedia](http://wikipedia.org)
