@@ -144,7 +144,7 @@ Do you:
 
 [Promise to yourself this is the last time you take hallucinogenic mushrooms?](shrooms/never-again.md)
 
-[Think this is too surreal and decide to try the French version instead?](../French/feu-de-camp.md)
+[Think this is too surreal and decide to try the French version instead?](../french/feu-de-camp.md)
 
 [Think this is a dream, and jam the fork into your hand to wake up?](fork-jam/not_dreaming.md)
 
