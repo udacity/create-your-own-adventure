@@ -9,6 +9,6 @@ To your astonishment, the door opens without a fuss. "Didn't I already try the h
 Out into the day and the madness still ensues. You feel a sense of boldness
 creeping into you. "I think I can do this..."
 
-Do you [charge the nearest marshmellow monster?](charge-a-marshmellow.md)?
+Do you [charge the nearest marshmellow monster?](../charge-a-marshmellow/charge-a-marshmellow.md)?
 
-Or do you [flee away from them](flee-marshmellows.md)?
+Or do you [flee away from them](../flee-marshmellows/flee-marshmellows.md)?
