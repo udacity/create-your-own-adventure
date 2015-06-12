@@ -40,7 +40,7 @@ You have the suspicion that you are being closely watched.
 
 You see a polar bear searching for food.
 
-"Well- OK" you admit to yourself, "Perhaps I do indulge in the occAsional intoxicant!"
+"Well- OK" you admit to yourself, "Perhaps I do indulge in the occasional intoxicant!"
 
 You hear a small bird sound in the distance.
 
