@@ -17,3 +17,5 @@ Do you:
 
 [Walk up and greet the green people?](./greet-green/greet-green.md)
 
+[Cover your face with sticky marshmallow and scream and scare the green people away](./scare-green/scare-green.md)
+
