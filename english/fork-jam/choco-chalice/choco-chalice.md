@@ -7,3 +7,4 @@ For some reason, you cannot get the thought of smores out of your head.
 Do you:
 
 [Start screaming.](start-screaming/start-screaming.md)
+[Search for the perfect marshmallow stick.](find-stick/find-stick.md)
