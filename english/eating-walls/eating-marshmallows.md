@@ -16,7 +16,7 @@ Then you remember the matches in your pocket.
 
 Do you:
 
-[Search your pockets for a piece of chocolate?](english/search_for_chocolate/search_for_chocolate.md)
+[Search your pockets for a piece of chocolate?](../search_for_chocolate/search_for_chocolate.md)
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
