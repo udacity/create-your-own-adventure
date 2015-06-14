@@ -7,4 +7,7 @@ Checkout Samsung VR for amazing experiance.
 
 But next day the same thing happens to you again.
 
+You have accidently entered into Kafka's world that has been redesigned
+by Murakami... you cannot escape it!
+
 [Life in the real world](problems/realproblems.md).
