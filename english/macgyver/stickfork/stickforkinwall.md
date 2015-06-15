@@ -11,4 +11,4 @@ Macguyver's work, however, is never finished. As you admire your own marshmallow
 
 [Attempt to dance your way out of the situation](dance/dance.md)
 
-[Grab the nearest weapon and destroy the army by hand[(destroy/destroy.md)
+[Grab the nearest weapon and destroy the army by hand](destroy/destroy.md)
