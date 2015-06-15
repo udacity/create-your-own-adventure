@@ -1,0 +1,1 @@
+You grab the nearest paperclip and rubber band, quickly fashioning a high-powered rifle from the objects. The clones, however, are far too many to be handled by one man alone. Furthermore, with a hive mind based on Bill Pullman, their intellect overpowers Macguyver, putting him in a terrible position.
