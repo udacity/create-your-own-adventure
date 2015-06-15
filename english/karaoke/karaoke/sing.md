@@ -6,5 +6,7 @@ You continue to sing anyway. The drunk audience breaks into a standing ovation
 on your courage.  Your eyes meet with the girl of your dreams.
 
 Do you:
+
 [propose to her](propose-to-her/propose-to-her.md)
+
 [puke on the mike](puke-on-the-mike/puke-on-the-mike.md)
