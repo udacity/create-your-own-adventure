@@ -6,6 +6,9 @@ Your primal roots take over and you frantically climb the nearest tree. You gaze
 You're pretty high up for an average citizen but not for Superman.
 
 Getting ready to jump, your heart beats harder than Dre.
+
+But then you see a group of birds effortlessly gliding through the air. They make it look so easy.
+
 Your chest feels like it's ready to explode. At the final second you close your eyes.
 You've just made the leap...
 

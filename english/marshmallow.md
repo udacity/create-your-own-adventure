@@ -26,6 +26,8 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
+You are feeling very anxious at this point.
+
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
 You are not sure who placed these objects near you or why.
@@ -38,7 +40,7 @@ You have the suspicion that you are being closely watched.
 
 You see a polar bear searching for food.
 
-"Well- OK" you admit to yourself, "Perhaps I do indulge in the occAsional intoxicant!"
+"Well- OK" you admit to yourself, "Perhaps I do indulge in the occasional intoxicant!"
 
 You hear a small bird sound in the distance.
 
@@ -76,6 +78,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Cry out for your Mommy](cry-out-for-mommy/oh_mommy.md)
+
 [Enter a Dim Reality](Enter-a-dim-reality/Dim_reality.md)
 
 [Watch the Warriors vs Cavaliers game 1 of the NBA Finals](warriors-game/watch-warriors.md)
@@ -90,9 +94,9 @@ Do you:
 
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
 
-[Step into an adjacent room to check your social media hubs] (social-media/social-media.md)
+[Step into an adjacent room to check your social media hubs](social-media/social-media.md)
 
-[Try and interact with the marshmallow hand] (interact/interact.md)
+[Try and interact with the marshmallow hand](interact/interact.md)
 
 [Check your phone for date, time and location?](check-your-phone/check-your-phone.md)
 
@@ -140,11 +144,11 @@ Do you:
 
 [Promise to yourself this is the last time you take hallucinogenic mushrooms?](shrooms/never-again.md)
 
-[Think this is too surreal and decide to try the French version instead?] (../French/feu-de-camp.md)
+[Think this is too surreal and decide to try the French version instead?](../french/feu-de-camp.md)
 
-[Think this is a dream, and jam the fork into your hand to wake up?] (fork-jam/not_dreaming.md)
+[Think this is a dream, and jam the fork into your hand to wake up?](fork-jam/not_dreaming.md)
 
-[Go out and collect mushroom?] (mushroom/collect_mushroom.md)
+[Go out and collect mushroom?](mushroom/collect_mushroom.md)
 
 [Try to walk around](virtualreality/oculus.md)
 
@@ -230,37 +234,37 @@ Do you:
 
 [Summon your robot army](robot-army/robots-everywhere.md)
 
-[Oh dear! You ended up in Candyland!] (candyland/diabetes.md)
+[Oh dear! You ended up in Candyland!](candyland/diabetes.md)
 
 [Give 'em the Leslie Howard!](slap-it-hard/teach-it-a-lesson.md)
 
-[You punch the first person you see!] (punch/punch.md)
+[You punch the first person you see!](punch/punch.md)
 
-[Hulk smash?] (hulk/smash.md)
+[Hulk smash?](hulk/smash.md)
 
-[Marsh Attack!!!] (marshmallow-attack/marsh-attack.md)
+[Marsh Attack!!!](marshmallow-attack/marsh-attack.md)
 
-[Got Lost] (getsLost/getsLost.md)
+[Got Lost](getsLost/getsLost.md)
 
-[Try to make smores] (smores/smores.md)
+[Try to make smores](smores/smores.md)
 
-[Summon your humble servant] (humbleservant/humbleservant.md)
+[Summon your humble servant](humbleservant/humbleservant.md)
 
-[Summon the magical snuffbox] (snuffbox/snuffbox.md)
+[Summon the magical snuffbox](snuffbox/snuffbox.md)
 
-[Become the One?] (matrix/matrix.md)
+[Become the One?](matrix/matrix.md)
 
-[Want to cook boneless pork shoulder roast?] (pork/roast.md)
+[Want to cook boneless pork shoulder roast?](pork/roast.md)
 
-[Take a selfie?] (selfie/selfie.md)
+[Take a selfie?](selfie/selfie.md)
 
-[Say something] (blah-balh/blah-blah.md)
+[Say something](blah-balh/blah-blah.md)
 
-[Try the Marshmallow Test on it?] (https://youtu.be/QX_oy9614HQ)
+[Try the Marshmallow Test on it?](https://youtu.be/QX_oy9614HQ)
 
-[Become an Octodog] (be-octodog/octodog.md)
+[Become an Octodog](be-octodog/octodog.md)
 
-[Make a Marshmallow cake] (https://www.youtube.com/watch?v=3l1SY3QREv4)
+[Make a Marshmallow cake](https://www.youtube.com/watch?v=3l1SY3QREv4)
 
 [Realize that you are Batman and have the Utility Belt on you. Yeah!!!](https://youtu.be/YpIQQeL2ZYk?t=22s)
 
@@ -276,3 +280,15 @@ Do you:
 [Eat the Marshmallow](eatmarshmallow/eatmarshmallow.md)
 
 [Escape into Willy Wonka Lego-World](lego-world/lego-world.md)
+
+[Eat breakfast](../english/breakfast/breakfast.md)
+
+[The inception protocol](dream_in_dream/inception.md)
+
+[Pull out your proton pack!](ghost-buster/ghost-busted.md)
+
+[You take the red pill](red-pill/red-pill.md)
+ 
+[Twas the Night Before Christmas](night-night/tale.md)
+
+[heck Reddit for any useful information.](reddit/ask-reddit.md)

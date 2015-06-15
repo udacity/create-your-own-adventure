@@ -11,3 +11,5 @@ Fazia como o Willy Fog e [Viajava pelo Mundo](mundo/voltaaomundo.md)
 Eu quero é praia! Vou para umas [ilhas tropicais](praias/solemar.md)
 
 Contribuía para [obras de caridade](caridade/caridade.md)
+
+Compraria [componentes eletronicos](componentes/componentes.md)
