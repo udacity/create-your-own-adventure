@@ -79,3 +79,5 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 తెలుగులో రాయుటకు [ఇక్కడ](telugu/telugu.md) నొక్కండి.:-)
 
 ಕುಡ್ಲದ ಜನ [ಇಡೆ ಒತ್ತುಲ](tulu/tulu.md)ೆ.
+
+Кыргызча сүйлөсөңөр, [бул жака](kyrgyz/makal-lakaptar.md)
