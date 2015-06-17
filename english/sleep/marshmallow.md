@@ -1,6 +1,10 @@
 When you wake up, you're still in the strange room with marshmallows for walls.
 The walls smell really good, but are they tasty?
 
+It would be nice to find out, but not all by themselves.
+You need something to go with them.
+Maybe some chocolate.
+
 You wish there were some chocolate furniture too.
 
 And suddenly your wish come true, the chocolate furniture appears, 
