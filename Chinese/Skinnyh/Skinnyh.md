@@ -1,1 +1,1 @@
-Mayday [Click here](../mayDay/mayDay.md)
+Mayday 是五月天
