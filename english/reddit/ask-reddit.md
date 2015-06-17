@@ -17,3 +17,5 @@ Oh look..[a kitten laying in marshmallows in r/awww](http://i.imgur.com/NXmEI.jp
 Oh look, a cute puppy...
 
 And that, my friends, is how I spent the last week.
+
+But finally i stumbled upon [r/outside](outside_subreddit/r outside.md) 
