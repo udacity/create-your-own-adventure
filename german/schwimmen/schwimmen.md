@@ -10,6 +10,7 @@ Man sollte ...
 ... ein sicheres Lager aufbauen, denn wer weiß schon welche Gefahren auf einer Insel lauern
 [Gefahr](gefahr/gefahr.md)
 
+
 ... sich erst einmal auf der Insel umschauen und dann entscheiden wie es weiter geht.
 [Insel](insel/insel.md)
 
