@@ -18,4 +18,4 @@ Oh look, a cute puppy...
 
 And that, my friends, is how I spent the last week.
 
-But finally i stumbled upon [r/outside](outside_subreddit/r outside.md) 
+But finally i stumbled upon [r/outside](outside_subreddit/r_outside.md) 
