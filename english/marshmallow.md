@@ -15,7 +15,7 @@ Grave danger.
 *(Is there another kind?)*
 
 The type of mortal danger that so often accompanies confectionary inspired interior design.
-Quickly surveying your immediate surrounds, you notice a garishly dressed,
+Quickly surveying your immediate surrounds, you notice a garishly dressed, 
 vacant eyed young man lounging on a nearby sofa.
 
 [Interrogate the man for clues](./movie-ripoffs/zoolander/zoolander.md)  
@@ -78,7 +78,7 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
-[Jump on a plane](forest/forest.md)
+[Hop on a plane](forest/forest.md)
 
 [Spend so long trying to decide that you fall asleep](sleep-and-wake/sleep_and_wake.md)
 
@@ -294,7 +294,7 @@ Do you:
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
 
 [You take the red pill](red-pill/red-pill.md)
-
+ 
 [Twas the Night Before Christmas](night-night/tale.md)
 
 [heck Reddit for any useful information.](reddit/ask-reddit.md)
