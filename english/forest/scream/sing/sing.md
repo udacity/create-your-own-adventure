@@ -18,6 +18,6 @@ The tiger stopped you mid-sentence.
 
 "What is it?" you replied.
 
-<scene cut>
+*scene cut*
 
 Your eyes are teary. This was a bad idea. At least you've got your freedom, but you will never look at the world the same way again.
