@@ -11,6 +11,8 @@ Can you feel the caffeine rush inside of you?
 
 After having your coffee do you want to:
 
+[Have a nice nap?](nice-nap/nice-nap.md)
+
 [Have another cup of coffee?](another-coffee/another-coffee.md)
 
 [Or better, have a cup of tea?](drink-tea/drink-hot-tea.md)
