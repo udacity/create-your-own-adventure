@@ -77,6 +77,7 @@ You pick up the fork and wrap it in rope to fashion a crappy wand.
 Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
+[Spend so long trying to decide that you fall asleep](sleep-and-wake/sleep_and_wake.md)
 
 [Cry out for your Mommy](cry-out-for-mommy/oh_mommy.md)
 
@@ -285,8 +286,12 @@ Do you:
 
 [The inception protocol](dream_in_dream/inception.md)
 
+[Choose the blue pill or the red pill?](choose-pill/choose-pill.md)
+
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
 
 [You take the red pill](red-pill/red-pill.md)
  
 [Twas the Night Before Christmas](night-night/tale.md)
+
+[heck Reddit for any useful information.](reddit/ask-reddit.md)
