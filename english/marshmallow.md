@@ -77,6 +77,7 @@ You pick up the fork and wrap it in rope to fashion a crappy wand.
 Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
+[Spend so long trying to decide that you fall asleep](sleep-and-wake/sleep_and_wake.md)
 
 [Cry out for your Mommy](cry-out-for-mommy/oh_mommy.md)
 
