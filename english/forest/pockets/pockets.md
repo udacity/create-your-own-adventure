@@ -9,5 +9,3 @@ You light the flare and wave it over your head! Suddenly you realize, that under
 You think quickly. Of course! You throw the flare at the tree that holds your parachute. Immediately, the flare sets it ablaze! You hear the sounds of the helicopter's rotor blades approaching. It lands in a small nearby field. You're saved! As you limp towards the helicopter, and see stewardesses approach you with champagne and refreshments, you think to yourself:
 
 "Phew. That could have gone very differently!"
-
-&mdash; By [@svdb](https://twitter.com/svdb)

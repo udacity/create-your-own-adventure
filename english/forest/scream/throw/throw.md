@@ -21,5 +21,3 @@ It's a waterfall! With all your might, you give it one last shot and swim toward
 You plunge down a huge waterfall, and land in a small lake. Dazed by the impact, you manage gasp for air and just before you go under again. You see something underwater. A shadow. Gasp! Another breath of air, mixed with salty water. Then it grabs you.
 
 You realize, that you're the bonecrushing jaws of an alligator. As it starts its death-roll, you realize that it's over. If only you hadn't screamed.
-
-&mdash; By [@svdb](https://twitter.com/svdb)
