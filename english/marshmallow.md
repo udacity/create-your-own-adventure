@@ -78,7 +78,7 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
-[Jump on a plane][forest/forest.md]
+[Jump on a plane](forest/forest.md)
 
 [Spend so long trying to decide that you fall asleep](sleep-and-wake/sleep_and_wake.md)
 
