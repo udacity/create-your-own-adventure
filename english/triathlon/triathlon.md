@@ -6,3 +6,4 @@ You're hooked with the challenge.
 You click on the [IRONMAN](http://www.ironman.com) link on the wikipedia page.
 There happens to be a race very close to you and you sign up.
 What the? did I just do? 
+
