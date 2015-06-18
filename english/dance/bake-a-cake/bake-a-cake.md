@@ -13,3 +13,5 @@ Do you:
 [Sing a song?](../../sing-song/sing.md)
 
 [Drink some coffee?](../../coffee/coffee.md)
+
+[Sing a Queen Song about cake and champagne?](../../music/add_music.md)
