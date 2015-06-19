@@ -20,4 +20,4 @@ so you turn back and head into the forest again.
 
 [Head back to the forest](../forest.md)
 
-[Press Sarah for answer anyway](./press-for-answer/press-for-answer.md)
+[Press Sara for answer anyway](./press-for-answer/press-for-answer.md)
