@@ -7,4 +7,4 @@
 
 [Попытаетесь проснуться?](awaken/awaken.md) 
 
-[Позовёте друзей?](invite=friends/invite.md) 
+[Позовёте друзей?](invite-friends/invite.md) 
