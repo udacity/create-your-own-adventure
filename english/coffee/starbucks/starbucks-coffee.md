@@ -8,6 +8,8 @@ After having your starbucks do you want to:
 
 [Just one more cup is all you need](../coffee.md)
 
+[Order elephant poop coffee](../elephant-poop/coffee.md)
+
 [Still writing my essay, have some more coffee](../coffee.md)
 
 [It's dehydration... WATER!!!](../drink-water/drink.md)
