@@ -289,6 +289,8 @@ Do you:
 
 [Eat breakfast](../english/breakfast/breakfast.md)
 
+[After breakfast you lookup triathlon](triathlon/triathlon.md)
+
 [The inception protocol](dream_in_dream/inception.md)
 
 [Choose the blue pill or the red pill?](choose-pill/choose-pill.md)
