@@ -5,6 +5,6 @@
 
 [Вы разведете костер?](light-fire/fire.md)
 
-[Попытаетесь проснуться?](awaken/awaken.md)
+[Попытаетесь проснуться.](awaken/awaken.md)
 
 [Позовёте друзей?](invite-friends/invite.md) 
