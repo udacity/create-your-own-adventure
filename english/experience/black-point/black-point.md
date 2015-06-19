@@ -6,4 +6,4 @@ What do you do now?
 
 [Open your eyes](../../marshmallow.md)
 
-[Concentrate harder on the black point] (/stargaze.md)
+[Concentrate harder on the black point] (concentrate/stargaze.md)
