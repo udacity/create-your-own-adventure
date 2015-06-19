@@ -10,6 +10,6 @@ Bob with a gleam in his eye, looks at you and says, "Come on down you're the nex
 
 You hesitate just a moment before replying...
 
-[The blue door](../1970s/1970s.md)
+[The blue door](/1970s/1970s.md)
 
-[The red door](../2050s/2050s.md)
+[The red door](/2050s/2050s.md)
