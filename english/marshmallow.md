@@ -78,6 +78,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Talk to Bob Barker](bob-barker/barker.md)
+
 [Hop on a plane](forest/forest.md)
 
 [Spend so long trying to decide that you fall asleep](sleep-and-wake/sleep_and_wake.md)
@@ -286,6 +288,8 @@ Do you:
 [Escape into Willy Wonka Lego-World](lego-world/lego-world.md)
 
 [Eat breakfast](../english/breakfast/breakfast.md)
+
+[After breakfast you lookup triathlon](triathlon/triathlon.md)
 
 [The inception protocol](dream_in_dream/inception.md)
 
