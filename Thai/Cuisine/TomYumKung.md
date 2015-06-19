@@ -6,6 +6,8 @@ Please try to taste Tom Yum Kung when you found Thai restaurant around you.
 
 Do you:
 
+[eat pat thai instead](./PadThai.md)
+
 [eat Thai food with Japanese beer](../../japanese/beer/beer.md)
 
 [sing a song while having Thai food](../../english/sing-song/sing.md)
