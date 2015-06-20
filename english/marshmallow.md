@@ -78,6 +78,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Talk to Bob Barker](bob-barker/barker.md)
+
 [Hop on a plane](forest/forest.md)
 
 [Spend so long trying to decide that you fall asleep](sleep-and-wake/sleep_and_wake.md)
