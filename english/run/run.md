@@ -8,3 +8,4 @@ You get up, to go to your dead-end job to pay for the mountain of student loans 
 while seeking that degree in Lego Engineering.
 You realize Lego Engineering may not have been the best choice in majors...
 That's so ratchet..
+But first, let me take a selfie.
