@@ -304,3 +304,5 @@ Do you:
 [heck Reddit for any useful information.](reddit/ask-reddit.md)
 
 [Watch Up](watch-movie/Up.md)
+
+[Give up and search for oil fields](oil-field/oil-field.md)
