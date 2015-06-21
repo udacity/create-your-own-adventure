@@ -28,6 +28,8 @@ Do you:
 
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 
+[Eat pani-puri](../eat-panipuri/eat-panipuri.md)
+
 [Make Taffy!](../marshmallow-taffy/taffy.md)
 
 [Find a Toilet](find-a-toilet/find-a-toilet.md)

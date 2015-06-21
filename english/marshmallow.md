@@ -78,6 +78,12 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Talk to Bob Barker](bob-barker/barker.md)
+
+[Hop on a plane](forest/forest.md)
+
+[Spend so long trying to decide that you fall asleep](sleep-and-wake/sleep_and_wake.md)
+
 [Cry out for your Mommy](cry-out-for-mommy/oh_mommy.md)
 
 [Enter a Dim Reality](Enter-a-dim-reality/Dim_reality.md)
@@ -283,7 +289,11 @@ Do you:
 
 [Eat breakfast](../english/breakfast/breakfast.md)
 
+[After breakfast you lookup triathlon](triathlon/triathlon.md)
+
 [The inception protocol](dream_in_dream/inception.md)
+
+[Choose the blue pill or the red pill?](choose-pill/choose-pill.md)
 
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
 
@@ -292,3 +302,7 @@ Do you:
 [Twas the Night Before Christmas](night-night/tale.md)
 
 [heck Reddit for any useful information.](reddit/ask-reddit.md)
+
+[Watch Up](watch-movie/Up.md)
+
+[Give up and search for oil fields](oil-field/oil-field.md)

@@ -1,19 +1,23 @@
-Вы проснулись в комнате со стенами сделанными из зефира.
+﻿Вы просыпаетесь в комнате со стенами из зефира.
+
+Солнце светит, и вы видете в окне цветы цветущие в саду.
 
 Ваши действия:
 
-[Вы начнете есть стены?](eating-walls/eating-marshmallows.md)
+[Начнёте есть стены.](eating-walls/eating-marshmallows.md)
 
-[Вы разведете костер?](light-fire/fire.md)
+[Разведёте костер.](light-fire/fire.md)
 
-[Попытаетесь проснуться?](awaken/awaken.md)
+[Попытаетесь проснуться.](awaken/awaken.md)
 
-[Вернётесь ко сну?](sleep/zefir.md)
+[Вернётесь ко сну.](sleep/zefir.md)
 
-[Идёте варить кофе?](awaken/stand-up/coffee/coffee.md)
+[Пойдёте варить кофе.](awaken/stand-up/coffee/coffee.md)
 
-[Звоните в ЖЭК.](buildings-dep/buildings-dep.md)
+[Позвоните в ЖЭК.](buildings-dep/buildings-dep.md)
 
-[Закрываете глаза.](close-eyes/close-eyes.md)
+[Закроете глаза.](close-eyes/close-eyes.md)
 
-[Открываете зефирный магазин.](shop/shop.md)
+[Откроете зефирный магазин.](shop/shop.md)
+
+[Пойдёте в сад.](garden/garden.md)

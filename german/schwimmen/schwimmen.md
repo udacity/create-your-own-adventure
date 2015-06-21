@@ -11,5 +11,7 @@ Man sollte ...
 [Gefahr](gefahr/gefahr.md)
 
 
+... sich erst einmal auf der Insel umschauen und dann entscheiden wie es weiter geht.
+[Insel](insel/insel.md)
 
 [Zurück](../ruderboot.md)

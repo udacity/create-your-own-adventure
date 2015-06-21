@@ -20,7 +20,7 @@ Ifyay ouyay eakspay Igpay Atinlay, [ogay erehay](pig-latin/arshmallowmay.md).
 
 Si vous parlez français, [suivez-moi] (french/feu-de-camp.md)
 
-Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
+Ha beszélsz magyarul, [kövess] (hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
 
@@ -79,3 +79,5 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 తెలుగులో రాయుటకు [ఇక్కడ](telugu/telugu.md) నొక్కండి.:-)
 
 ಕುಡ್ಲದ ಜನ [ಇಡೆ ಒತ್ತುಲ](tulu/tulu.md)ೆ.
+
+Кыргызча сүйлөсөңөр, [бул жака.](kyrgyz/makal-lakaptar.md)
