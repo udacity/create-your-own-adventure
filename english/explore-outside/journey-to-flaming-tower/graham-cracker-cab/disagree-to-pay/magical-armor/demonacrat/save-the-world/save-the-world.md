@@ -1,1 +1,0 @@
-The demon takes your gold and flyes away to let you save the world

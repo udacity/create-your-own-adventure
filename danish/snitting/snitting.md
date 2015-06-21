@@ -1,1 +1,0 @@
-Günther siger "It is not so lige til", og fortsætter med at snitte.
