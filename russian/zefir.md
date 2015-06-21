@@ -17,3 +17,5 @@
 [Закроете глаза.](close-eyes/close-eyes.md)
 
 [Откроете зефирный магазин.](shop/shop.md)
+
+[Позовёте друзей.](invite-friends/invite.md)
