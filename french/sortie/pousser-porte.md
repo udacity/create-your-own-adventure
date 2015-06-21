@@ -1,1 +1,1 @@
-La porte ne s'ouvre pas. Vous décidez donc de la [tirer](sortie/tirer-porte.md).
+La porte ne s'ouvre pas. Vous décidez donc de la [tirer](tirer-porte.md).
