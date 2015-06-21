@@ -17,3 +17,4 @@ Bu durumda ne yapardiniz?
 [Duvarları yeme başla?](../turkce/duvarlari-ye/duvarlari-ye.md)
 
 [Duvarları çatalla kaz?](../turkce/catalla-kaz/catalla-kaz.md)
+[Darbe tesebbusu desifre et](../turkce/darbe-kumpas/darbeler.md)
