@@ -1,1 +1,1 @@
-La porte s'ouvre et vous arriver dans un jardin.
+La porte s'ouvre et vous arrivez dans un jardin.
