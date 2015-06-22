@@ -11,4 +11,4 @@ now swine infused brain, you think...
 
 ["Wow, I still love bacon...but now I hate myself!"](/english/water-dreams/pig-farm/love-bacon/love-bacon.md)
 
-["I can't believe I ever loved bacon! I must make amends!"](englilsh/water-dreams/pig-farm/hate-bacon/hate-bacon.md)
+["I can't believe I ever loved bacon! I must make amends!"](english/water-dreams/pig-farm/hate-bacon/hate-bacon.md)
