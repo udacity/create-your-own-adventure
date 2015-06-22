@@ -20,7 +20,7 @@ Ifyay ouyay eakspay Igpay Atinlay, [ogay erehay](pig-latin/arshmallowmay.md).
 
 Si vous parlez français, [suivez-moi] (french/feu-de-camp.md)
 
-Ha beszelsz magyarul, [kovess] (hungarian/malyvacukor.md)
+Ha beszélsz magyarul, [kövess] (hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
 
