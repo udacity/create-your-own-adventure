@@ -11,4 +11,6 @@ feet and begin to worry... "Am I a human dreaming I'm a marshmallow being
 roasted alive, or am I a marshmallow being roasted alive who awoke from a dream that I
 was a human?"
 
+I must resolve this marshmallow dream.
+
 [Wake Up](awake/awake.md)
