@@ -81,3 +81,5 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 ಕುಡ್ಲದ ಜನ [ಇಡೆ ಒತ್ತುಲ](tulu/tulu.md)ೆ.
 
 Кыргызча сүйлөсөңөр, [бул жака.](kyrgyz/makal-lakaptar.md)
+
+Se falas galego, [achégate](galician/lua.md).
