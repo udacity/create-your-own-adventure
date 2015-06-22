@@ -1,7 +1,13 @@
 Do not mistake my yawn.
 It is a scream for coffee.
 
+though
+you might wanna see wonderful dream 
+that's why i don't fully agree 
+but if you are out of bed then
 Drink some coffee and relax yourself a little bit.
+
+or have just few sips and get energy
 
 The bitter-sweet flavor of roasted coffee beans invigorates your soul.
 
