@@ -9,6 +9,6 @@ and suddenly you have eyes, and feet and sharp tusks at the end of your face.
 As the realization that you have become a pig winds its way through your
 now swine infused brain, you think...
 
-["Wow, I still love bacon...but now I hate myself!"](/english/water-dreams/pig-farm/love-bacon)
+["Wow, I still love bacon...but now I hate myself!"](/english/water-dreams/pig-farm/love-bacon/love-bacon.md)
 
-["I can't believe I ever loved bacon! I must make amends!"](englilsh/water-dreams/pig-farm/hate-bacon)
+["I can't believe I ever loved bacon! I must make amends!"](englilsh/water-dreams/pig-farm/hate-bacon/hate-bacon.md)
