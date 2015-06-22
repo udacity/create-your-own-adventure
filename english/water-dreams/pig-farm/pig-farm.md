@@ -6,3 +6,9 @@ Before long you hear a snort, and a large snout invades the traquil spaces of di
 that make up the pigs meal. You feel yourself being sucked into his mouth, pulled down into his stomach...
 and suddenly you have eyes, and feet and sharp tusks at the end of your face.
 
+As the realization that you have become a pig winds its way through your
+now swine infused brain, you think...
+
+["Wow, I still love bacon...but now I hate myself!"](/english/water-dreams/pig-farm/love-bacon)
+
+["I can't believe I ever loved bacon! I must make amends!"](englilsh/water-dreams/pig-farm/hate-bacon)
