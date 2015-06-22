@@ -41,3 +41,5 @@ Do you:
 [Remember you have some Tums in your pocket and take a few?](../take_tums/take_tums.md)
 
 [checkout Susans website](http://www.susanjustin.com/wpsj)
+
+[Remember the advice your mother gave you:](..advice_from_mother/advice_from_mother.md)
