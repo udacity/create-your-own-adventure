@@ -1,4 +1,9 @@
-You remember a friend telling you that the Bird is the word.
+You remember a friend telling you, "Bird is the word."
+
+The memory of that friend from so long ago puts you in a sense of calm you haven't
+experienced in ages. 
+
+Redness rushed to your cheeks.
 
 This gives you hope
 
