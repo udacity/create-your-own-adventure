@@ -10,6 +10,8 @@ Then you think about it again and say: "wait a minute, I'm actually in Minecraft
 
 Do you:
 
+[Gather woods?](gather_wood/gather_wood.md)
+
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
 [Go exploring outside?](../explore-outside/explore-outside.md)
