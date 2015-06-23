@@ -11,3 +11,4 @@ Você:
 
 [Procura um amigo que sabe de tecnologia](amigo/tecnologia.md)
 
+[Cria um aplicativo melhor](cria/melhor.md)
