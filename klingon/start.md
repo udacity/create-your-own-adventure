@@ -5,6 +5,6 @@ laH wo' magh wutlh 'ej reH 'Igh 'ej vaq law' puny Ha'DIbaH, pagh
 chay' cher wo' 'ej batlhlIj qotlh SoH!
 
 
-[nuch!](wIv/puqloD_targhmey.md)
+[nuch!](wIv/targhmey/puqloD_targhmey.md)
 
-[wo' Hoch!](wIv/pujbe.md)
+[wo' Hoch!](wIv/pujbe/pujbe.md)
