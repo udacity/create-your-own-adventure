@@ -5,3 +5,7 @@ You do not even have an axe and so you start chopping trees with your bare hands
 You see an elephant.
 
 Do you:
+
+[Tame the elephant?](tame_the_elephant/tame_the_elephant.md)
+
+[Dig Down?](../dig_down/dig_down.md)
