@@ -100,6 +100,8 @@ Do you:
 
 [Want to break free](yuha/yuha.md)
 
+[Open the door and run outside](open-door/open-door.md)
+
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
 
 [Step into an adjacent room to check your social media hubs](social-media/social-media.md)
