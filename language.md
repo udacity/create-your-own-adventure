@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।] (nepali/about_nepal.md)
+
 如果你说中文，[点击这里](Chinese/大话西游.md).
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
@@ -82,4 +84,6 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 
 Кыргызча сүйлөсөңөр, [бул жака.](kyrgyz/makal-lakaptar.md)
 
-Se falas galego, [achégate](galician/lua.md).
+Se falas galego, [achégate](galician/lua.md)
+
+
