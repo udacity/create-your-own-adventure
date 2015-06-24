@@ -84,6 +84,7 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 
 Кыргызча сүйлөсөңөр, [бул жака.](kyrgyz/makal-lakaptar.md)
 
-Se falas galego, [achégate](galician/lua.md)
+Se falas galego, [achégate](galician/lua.md).
 
+click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
