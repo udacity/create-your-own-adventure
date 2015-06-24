@@ -20,6 +20,6 @@
 
 [Откроете зефирный магазин.](shop/shop.md)
 
-[Позовёте друзей.](invite-friends/invite.md)
-
 [Пойдёте в сад.](garden/garden.md)
+
+[Позовёте друзей.](invite-friends/invite.md)
