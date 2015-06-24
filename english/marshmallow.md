@@ -78,6 +78,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Talk to Bob Barker](bob-barker/barker.md)
+
 [Hop on a plane](forest/forest.md)
 
 [Spend so long trying to decide that you fall asleep](sleep-and-wake/sleep_and_wake.md)
@@ -300,3 +302,7 @@ Do you:
 [Twas the Night Before Christmas](night-night/tale.md)
 
 [heck Reddit for any useful information.](reddit/ask-reddit.md)
+
+[Watch Up](watch-movie/Up.md)
+
+[Give up and search for oil fields](oil-field/oil-field.md)

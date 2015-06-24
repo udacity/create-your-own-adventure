@@ -28,6 +28,8 @@ Do you:
 
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 
+[Eat pani-puri](../eat-panipuri/eat-panipuri.md)
+
 [Make Taffy!](../marshmallow-taffy/taffy.md)
 
 [Find a Toilet](find-a-toilet/find-a-toilet.md)
@@ -41,3 +43,5 @@ Do you:
 [Remember you have some Tums in your pocket and take a few?](../take_tums/take_tums.md)
 
 [checkout Susans website](http://www.susanjustin.com/wpsj)
+
+[Remember the advice your mother gave you:](../advice_from_mother/advice_from_mother.md)

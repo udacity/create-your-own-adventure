@@ -17,3 +17,5 @@ What will you do?
 [Sing it a song](sing/sing.md)
 
 [Throw nearby twigs and crap at it](throw/throw.md)
+
+[Play dead](dead/dead.md)
