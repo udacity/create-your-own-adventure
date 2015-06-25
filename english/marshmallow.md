@@ -78,6 +78,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Call the GhostBusters] (ghostbusters/ghostbusters.md)
+
 [Talk to Bob Barker](bob-barker/barker.md)
 
 [Hop on a plane](forest/forest.md)
@@ -97,6 +99,8 @@ Do you:
 [Begin to feel suspicious](lucidream/luciddream.md)
 
 [Want to break free](yuha/yuha.md)
+
+[Open the door and run outside](open-door/open-door.md)
 
 [Give the marshmallow entity a turing test](turing-test/turing-test.md)
 
@@ -306,3 +310,5 @@ Do you:
 [Watch Up](watch-movie/Up.md)
 
 [Give up and search for oil fields](oil-field/oil-field.md)
+
+[Appear on Falkor’s Back](appear-on-falkors-back/falkor.md)
