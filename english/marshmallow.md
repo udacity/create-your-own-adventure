@@ -78,6 +78,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Do you:
 
+[Grab some coffee?] (coffee/coffee.md)
+
 [Call the GhostBusters] (ghostbusters/ghostbusters.md)
 
 [Talk to Bob Barker](bob-barker/barker.md)
