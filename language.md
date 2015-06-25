@@ -85,3 +85,5 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 Se falas galego, [achégate](galician/lua.md).
 
 click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
+
+तुम्हाला मराठी भाषा येत असेल तर इथे जा: [संकेथ्स्थळ ](Marathi/marathi.md)
