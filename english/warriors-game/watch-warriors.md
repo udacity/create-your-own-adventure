@@ -13,4 +13,4 @@ good old days, when the deejay plays a Tevin Campbell track at your school dance
 that no girl can resist a slow dance. You ponder about what else was great about the 90's.
 
 Michael Jordan was pretty great. LeBron James is great too. But not that great. They would be 
-great if they had not traded Wiggins. That was a dumb move. Warriors win in 5.
+great if they had not traded Wiggins. That was a dumb move. Warriors win in 6.
