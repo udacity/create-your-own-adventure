@@ -314,3 +314,5 @@ Do you:
 [Give up and search for oil fields](oil-field/oil-field.md)
 
 [Appear on Falkor’s Back](appear-on-falkors-back/falkor.md)
+
+[Use your chance, master self-control](self-control/self-control.md)
