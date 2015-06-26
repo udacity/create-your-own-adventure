@@ -13,3 +13,7 @@ the approach of a dark figure.
 or
 
 [Run toward distant tower.](../../explore-outside/journey-to-flaming-tower/walk/walk.md)
+
+or
+
+[Say magic words.](../../Enter-a-dim-reality/Dim_reality.md)
