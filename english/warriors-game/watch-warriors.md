@@ -14,3 +14,5 @@ that no girl can resist a slow dance. You ponder about what else was great about
 
 Michael Jordan was pretty great. LeBron James is great too. But not that great. They would be 
 great if they had not traded Wiggins. That was a dumb move. Warriors win in 5.
+
+The Warriors won in 6. Lebron was great, but the Warriors prevailed!

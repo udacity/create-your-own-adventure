@@ -136,6 +136,8 @@ Do you:
 
 [Light a fire?](light-fire/fire.md)
 
+[Offer to get the narrator a ladder, so they can get off your back?](can-i-get-you-a-ladder/can-i-get-you-a-ladder.md)
+
 [dig a hole with your bare hands?](hands/hands.md)
 
 [Go back to sleep?](sleep/marshmallow.md)
@@ -314,3 +316,5 @@ Do you:
 [Give up and search for oil fields](oil-field/oil-field.md)
 
 [Appear on Falkor’s Back](appear-on-falkors-back/falkor.md)
+
+[Sit and ponder how you got into this situation](thesituation/situation.md)
