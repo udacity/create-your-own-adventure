@@ -11,6 +11,6 @@ Do you:
 
 คุณจะ:
 
-[โทรหาเธอ](/callher/callher.md)
+[โทรหาเธอ](./callher/callher.md)
 
 [ลืมมันซะแล้วไปหาต้มยำกุ้งกิน](../Cuisine/TomYumKung.md)
