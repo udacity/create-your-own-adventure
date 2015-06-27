@@ -90,3 +90,5 @@ click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
 तुम्हाला मराठी भाषा येत असेल तर इथे जा: [संकेथ्स्थळ ](Marathi/marathi.md)
 
+Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
+
