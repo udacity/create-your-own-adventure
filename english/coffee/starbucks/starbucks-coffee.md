@@ -2,6 +2,7 @@ Mmmmmmmmm, that hit the spot!
 Freshly ground, black, sweet sweet starbucks coffee!!!!!
 
 I now feel something coming over me and I am not sure if I can hold it in any longer.
+ ¯\_(ツ)_/¯
 After having your starbucks do you want to:
 
 [Drink coffee forever](../another-coffee/another-coffee.md)
