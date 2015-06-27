@@ -6,4 +6,4 @@ Mihez kezdesz?
 
 [felveszed a telefont] (felvesz/felvesz.md)
 
-[törülközőért nyúlsz] (zuhanyzas/torulkozo.md)
+[törülközőért nyúlsz] (hungarian/zuhanyzas/torulkozo.md)
