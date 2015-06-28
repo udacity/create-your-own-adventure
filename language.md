@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।] (nepali/about_nepal.md)
+
 如果你说中文，[点击这里](Chinese/大话西游.md).
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
@@ -87,3 +89,6 @@ Se falas galego, [achégate](galician/lua.md).
 click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
 तुम्हाला मराठी भाषा येत असेल तर इथे जा: [संकेथ्स्थळ ](Marathi/marathi.md)
+
+Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
+
