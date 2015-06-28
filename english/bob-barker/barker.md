@@ -19,3 +19,5 @@ You hesitate just a moment before replying...
 [The blue door](1970s/1970s.md)
 
 [The red door](2050s/2050s.md)
+
+[Grab some coffee?](../coffee/coffee.md)
