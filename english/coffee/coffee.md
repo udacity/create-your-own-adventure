@@ -36,4 +36,6 @@ After having your coffee do you want to:
 
 [Book a Flight to Paris?](Paris/fly-to-paris.md)
 
+[Go for a run?](Run/run.md)
+
 .
