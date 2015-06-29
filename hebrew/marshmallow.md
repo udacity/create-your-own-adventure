@@ -4,6 +4,6 @@
 
 מה תעשה עם היכולת החדשה שלך?
 
-[תזיין את בר רפאלי](fuck/bar.md)
+[תזיין את בר רפאלי](bar/bar.md)
 
-[תזיין את אחותך](fuck/your-sister.md)
+[תזיין את אחותך](sister/your-sister.md)
