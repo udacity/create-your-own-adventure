@@ -322,3 +322,5 @@ Do you:
 [Smart Ape roasting a marshmellow](https://www.youtube.com/watch?v=_ZEBrHe4hVs)
 
 [Bruce Wayne is BATS !!](batman/batman.md)
+
+[Cast the Expelliarmus spell!](expelliarmus/expelliarmus.md)
