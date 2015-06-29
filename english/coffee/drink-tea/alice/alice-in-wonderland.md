@@ -25,3 +25,8 @@ in the dazzling light of a beautiful day, wearing what looks like a marshmallow 
 
 "That's nothing" purrs a long bulbous green thing lying nearby on the ground. "Why
 , sometimes I’ve believed as many as six impossible things before breakfast."
+
+
+[You're rooted to the ground in a brief moment of shock, but quickly recover yourself.](talk/talk.md)
+
+[You jump out of your skin and run.](shriek/shriek.md)

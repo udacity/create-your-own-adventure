@@ -34,4 +34,8 @@ After having your coffee do you want to:
 
 [Eat a Bagel?](bagel/eat-a-bagel.md)
 
+[Book a Flight to Paris?](Paris/fly-to-paris.md)
+
+[Go for a run?](Run/run.md)
+
 .

@@ -319,4 +319,8 @@ Do you:
 
 [Sit and ponder how you got into this situation](thesituation/situation.md)
 
+[Smart Ape roasting a marshmellow](https://www.youtube.com/watch?v=_ZEBrHe4hVs)
+
+[Bruce Wayne is BATS !!](batman/batman.md)
+
 [Use your chance, master self-control](self-control/self-control.md)
