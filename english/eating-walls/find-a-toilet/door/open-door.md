@@ -1,6 +1,6 @@
 As you open the door, a cold hand is placed on your shoulder.
 
-In that pretty moment you see your watches: 12 o'clock. 
+In that very moment your watch sings: 12 o'clock midnight. 
 
 You jump back as you see dark black eyes.
 
