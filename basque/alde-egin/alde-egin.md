@@ -1,6 +1,8 @@
 Pertsona arraroari zure gaztelutik alde egiteko esan diozu eta bera zuri irainka hasi da.
 
-Harresiaren ateak itxi eta gero barrura sartzen zara, eta telebista ikusten hasten zara. Bat-batean, albisteetan ikusten duzun pertsona batek urrezko gaztainak saltzen hari zela gaztelu guztietan.
+Harresiaren ateak itxi eta gero barrura sartzen zara, eta telebista ikusten hasten zara. 
+
+Bat-batean, albisteetan ikusten duzun pertsona batek urrezko gaztainak saltzen hari zela gaztelu guztietan.
 
 Zer egiten duzu orain?
 
