@@ -324,3 +324,5 @@ Do you:
 [Bruce Wayne is BATS !!](batman/batman.md)
 
 [Use your chance, master self-control](self-control/self-control.md)
+
+[Have a Pip-Boy](pipboy/pipboy.md)
