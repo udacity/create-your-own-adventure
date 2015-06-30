@@ -4,6 +4,8 @@ Doch es ist keine Menschenseele in Sicht.
 
 Im Wasser jedoch regt sich etwas.
 
+Eine gigantische dunkle Fläche gleitet neben ihrem Boot vorbei.
+
 Ein Blauwal taucht direkt neben Ihnen auf und schaut Sie mit treuen Augen an.
 
 Werden Sie
