@@ -76,6 +76,10 @@ You pick up the fork and wrap it in rope to fashion a crappy wand.
 
 Pointing it at the door, eyes closed, "Alohomora..."
 
+Nothing seems to be happening.
+
+Sheepishly you look down on the crappy wand in your hand.
+
 Do you:
 
 [Grab some coffee?] (coffee/coffee.md)
