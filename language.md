@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+If you speak Punjabi, [go here](punjabi/punjabi.md).
+
 यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।] (nepali/about_nepal.md)
 
 如果你说中文，[点击这里](Chinese/大话西游.md).
