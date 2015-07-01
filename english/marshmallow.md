@@ -330,3 +330,5 @@ Do you:
 [Use your chance, master self-control](self-control/self-control.md)
 
 [Have a Pip-Boy](pipboy/pipboy.md)
+
+[Call upon one of your past lives as avatar](avatar/air.md)
