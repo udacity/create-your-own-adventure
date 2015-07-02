@@ -26,4 +26,4 @@ Do you:
 
 [Hulk out?](../hulk/smash.md)
 
-[Surprise!](../surprise!/suprise.md)
+[Surprise!](../surprise!/surprise.md)
