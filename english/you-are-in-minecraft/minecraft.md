@@ -25,3 +25,5 @@ Do you:
 [Dig down?](dig_down/dig_down.md)
 
 [Hulk out?](../hulk/smash.md)
+
+[Surprise!](../surprise!/suprise.md)
