@@ -28,6 +28,8 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You are feeling very anxious at this point.
 
+This is because you do not like leather for ethical reasons.
+
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
 You are not sure who placed these objects near you or why.
