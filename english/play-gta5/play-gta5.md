@@ -1,0 +1,1 @@
+Trevor killed a lot of rednecks with minigun.

@@ -334,3 +334,5 @@ Do you:
 [Have a Pip-Boy](pipboy/pipboy.md)
 
 [Call upon one of your past lives as avatar](avatar/air.md)
+
+[Play some GTA5](play-gta5/play-gta5.md)
