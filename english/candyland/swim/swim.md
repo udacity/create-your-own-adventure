@@ -17,3 +17,8 @@ You are now treading milkshake.
 You see an ominous looking picture on the wall with a Queen standing by a sign in front on a sea.
 
 The sign in the picture says: "The Ice Cream Sea"
+
+[Inspect the wall more closely](wall/queen_portrait.md)
+
+[Look toward the horizon](horizon/milkshake_everywhere.md)
+
