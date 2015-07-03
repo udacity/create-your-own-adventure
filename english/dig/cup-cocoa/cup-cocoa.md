@@ -19,4 +19,3 @@ The last thing you hear before everything goes black
 "Have a forget-me-now Michael"
 
 [Forget everything that has happened](../../marshmallow.md)
-
