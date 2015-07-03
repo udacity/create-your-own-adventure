@@ -8,9 +8,13 @@ He says:
 
 "I am searching for delicious mushrooms. Do you have any?"
 
-You realize that this day has gotten out of hand.  Big bird is scary, the cocoa not longer tastes good, you want to go home.
+You realize that this day has gotten out of hand.
 
-Luckily for you, GOB appears behind you and sticks a pill into your mouth.  The last thing you hear before everything goes black
+Big bird is scary, the cocoa not longer tastes good, you want to go home.
+
+Luckily for you, GOB appears behind you and sticks a pill into your mouth.
+
+The last thing you hear before everything goes black
 
 "Have a forget-me-now Michael"
 
