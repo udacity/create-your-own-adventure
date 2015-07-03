@@ -94,3 +94,5 @@ click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
 Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 
+നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ, 
+[ഇവിടെ ക്ലിക്ക് ചെയ്യുക](Malayalam/malayalam.md)
