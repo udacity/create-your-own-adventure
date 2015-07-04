@@ -4,3 +4,4 @@ Zum Glück haben Sie eine kleine Taschenlampe am Schlüsselbund und beginnen
 
 das Innere des Wals zu durchsuchen, dabei stoßen Sie auf....
 
+einen grünen Kobold mit einem Glöckchen um den Hals. Der Kobold sagt:
