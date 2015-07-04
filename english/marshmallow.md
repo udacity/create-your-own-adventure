@@ -81,6 +81,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 Nothing seems to be happening.
 
 Sheepishly you look down on the crappy wand in your hand.
+ 
+You must be doing something wrong, you drink a beer and think about it, then Ah-ha!
 
 Do you:
 
