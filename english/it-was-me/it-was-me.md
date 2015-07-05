@@ -11,3 +11,5 @@ What was I to do next?
 [Dominate the world?](../hulk/smash.md)
 
 [Use super git powers to save the world?](../super-powers/practice-flying.md)
+
+[Chill out until the road is clear](../lighter/toke.md)
