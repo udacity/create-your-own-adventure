@@ -1,5 +1,5 @@
-No outro dia, você:
+No outro dia, você descobre que algumas pessoas responderem à sua pergunta.
 
-[Recebeu uma resposta útil](./resposta/resposta.md)
+[A resposta é útil](./resposta/resposta.md)
 
-[Não recebeu resposta](./semresposta/semresposta.md)
+[Não recebeu uma resposta que ajuda](./semresposta/semresposta.md)
