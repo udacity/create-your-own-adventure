@@ -5,3 +5,10 @@ box and bring it up to a nostril. You then breathe in quickly to induce a terrib
 which expands and blows small baseball sized holes in the marshmallow walls.
 
 Do you:
+[Go back to sleep?](../sleep/marshmallow.md)
+
+[Stay puft?](../staypuft/marshmallowman.md)
+
+[Dig at the walls with a fork](../dig/dig.md)
+
+[Explore the holes](explore/explore.md)
