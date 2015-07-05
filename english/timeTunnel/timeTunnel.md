@@ -6,7 +6,8 @@ Suddenly, a cat walks up and says "Is that a marshmallow on your fork?"
 
 You quickly stuff the marshmellow in your mouth and garble out a quick, "no".
 
-The cat suspiciously notes, "alrighty then, nyaan. Good thing it wasn't, otherwise, I would've had to take you away, nyaan. I'll be off now!"
+The cat suspiciously notes, "alrighty then, nyaan. Good thing it wasn't, otherwise, 
+I would've had to take you away, nyaan. I'll be off now!"
 
 As you watch the cat pounce off into the distance, you feel a moment of relief, 
 as you had almost been captured by the totalitarian state of cats. 
