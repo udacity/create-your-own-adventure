@@ -340,3 +340,5 @@ Do you:
 [Play some GTA5](play-gta5/play-gta5.md)
 
 [Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
+
+[go afk and report the jungler?](https://www.youtube.com/watch?v=jdg6cnE6IyM)
