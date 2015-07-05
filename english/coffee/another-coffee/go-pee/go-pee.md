@@ -6,7 +6,7 @@ toilet and wash your hands.  As you are getting ready to exit, you notice a smal
 
 In your rush to urinate, you did not notice it before, but now your bladder has been emptied and your mind is 
 
-free dwell on the curious nature of things.  As you reach for the door, you ponder the wisdom of the decision
+free to dwell on the curious nature of things.  As you reach for the door, you ponder the wisdom of the decision
 
 you are about to make.  Somewhere in the depths of your conscienceness, you know to enter this door is to 
 
