@@ -21,3 +21,5 @@ Until you get bored and go explore [here](https://www.urbandictionary.com) inste
 Then after you explore the website, you learn a few neat tricks. 
 
 [Play minecraft](../you-are-in-minecraft/minecraft.md)
+
+[Play Skyrim](../fus-roh-dah/fus-roh-dah.md)

@@ -2,6 +2,8 @@
 
 One morning, you wake up in a strange room with marshmallows for walls.
 
+A sound from a Hitchcock movie fills the room, then quickly fades away.
+
 Thinking back, there are no memories to suggest that this should have been
 
 anything but an ordinary morning. You didn't go out last night, you don't
@@ -14,7 +16,7 @@ Grave danger.
 
 *(Is there another kind?)*
 
-The type of mortal danger that so often accompanies confectionary inspired interior design.
+The type of extreme mortal danger that so often accompanies confectionary inspired interior design.
 Quickly surveying your immediate surrounds, you notice a garishly dressed, 
 vacant eyed young man lounging on a nearby sofa.
 
@@ -341,4 +343,8 @@ Do you:
 
 [Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
 
-[Search for gluten] (search-for-gluten/search-for-gluten.md)
+[Search for gluten](search-for-gluten/search-for-gluten.md)
+
+[Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
+
+[go afk and report the jungler?](https://www.youtube.com/watch?v=jdg6cnE6IyM)

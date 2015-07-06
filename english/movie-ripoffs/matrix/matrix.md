@@ -31,3 +31,5 @@ gooey liquid smashes Morpheus across the room.  Choose the next spell:
 ["Apparate" to get the hell out of here](../hogwarts/hogwarts.md)
 
 ["Avada Kedavra" to finish Morpheus off](../matrix-boss/matrix-boss.md)
+
+["Woah" just to see what happens](../selfaware/selfaware.md)
