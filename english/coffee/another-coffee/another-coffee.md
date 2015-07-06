@@ -13,3 +13,5 @@ Coffee is the hope for tired, a hug for the chilled, and a smile for a long lost
 [Write a novel](../novel/full-length-novel.md)
 
 [Find stronger coffee!](../starbucks/starbucks-coffee.md)
+
+[Go to the bathroom](./go-pee/go-pee.md)
