@@ -4,4 +4,4 @@ Visiškoje tamsoje jis turėjo pasirinkti
 
 [Užsimerkti](uzsimerkti/vejas.md)
 
-[Pradėti rėkti]()
+[Pradėti rėkti](rekti/niekas.md)
