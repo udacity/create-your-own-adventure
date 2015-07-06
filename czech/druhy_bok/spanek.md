@@ -1,1 +1,1 @@
-Spíš
+Spíš, ale ve spánku si uvědomuješ sama sebe. Divné. Dokážeš ovlivnit své myšlenky. Co uděláš?
