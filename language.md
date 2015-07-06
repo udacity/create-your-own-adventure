@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
+
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
 यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।] (nepali/about_nepal.md)
