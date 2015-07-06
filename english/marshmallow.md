@@ -343,4 +343,8 @@ Do you:
 
 [Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
 
+[Search for gluten](search-for-gluten/search-for-gluten.md)
+
+[Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
+
 [go afk and report the jungler?](https://www.youtube.com/watch?v=jdg6cnE6IyM)
