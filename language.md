@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
+
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
 यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।] (nepali/about_nepal.md)
@@ -96,5 +98,3 @@ Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 
 നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ, 
 [ഇവിടെ ക്ലിക്ക് ചെയ്യുക](Malayalam/malayalam.md)
-
-Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
