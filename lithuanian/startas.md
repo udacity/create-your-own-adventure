@@ -1,3 +1,7 @@
 Čia viskas prasidėjo
 
 Visiškoje tamsoje jis turėjo pasirinkti
+
+[Užsimerkti](uzsimerkti/vejas.md)
+
+[Pradėti rėkti]()
