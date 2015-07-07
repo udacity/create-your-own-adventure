@@ -1,4 +1,4 @@
-You remember you took your diet pills before going to sleep.
+You just remember you took your diet pills before going to sleep.
 The marshmallows are in fact your Adipose!
 You die from fat drain.
 
@@ -31,3 +31,4 @@ It eirily reminded you of a story you read as a young fluff, but the chant was, 
 You couldn't quite decide whether you were awake or asleep, 
 but as time was running out, you remembered something your mother always told you...
 [Mom's Advice](../advice_from_mother/advice_from_mother.md)
+
