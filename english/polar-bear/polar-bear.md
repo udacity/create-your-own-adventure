@@ -18,12 +18,12 @@ For some reason, you forget your fear and watch. The polar bear eventually stops
 chewing away and looks up at you with big happy eyes and his tongue flopping out
 of the side of his mouth.
 
-The polar bear was distracted by the incredible herd/pod of walruses.
+The polar bear was distracted by the incredible herd/pod of flamingos.
  These amazing animals are now viewable on youtube.. 
-..(do a google search for live walrus feed)..
+..(do a google search for live flamingo feed)..
 the walruses quickly help the situation by using their tusks to pierce any
 marshmellows and create a rip in the fabric of reality.. you jump on the 
-walruses back..
+walruses back..flamingos will come out of their ears.
 
 
 Now you decide to:
