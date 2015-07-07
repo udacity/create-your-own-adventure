@@ -348,3 +348,5 @@ Do you:
 [Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
 
 [go afk and report the jungler?](https://www.youtube.com/watch?v=jdg6cnE6IyM)
+
+[Leap on the Polar bear and charge](polar-bear-attack/polar-bear-attack.md)
