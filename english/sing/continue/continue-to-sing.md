@@ -7,3 +7,5 @@ How long can you keep this going?
 You must really work out that larynx.
 
 Do they call you the Iron Lung? Because they should.
+
+You start to feel something in your throat.
