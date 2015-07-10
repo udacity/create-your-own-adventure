@@ -14,6 +14,4 @@ Until battery dies…
 
 Do you:
 
-[wait](../ghostbusters/ghostbusters.md)
-
-[try eliza this time](../eliza/ask_eliza.md)
+[Wait](../ghostbusters/ghostbusters.md)
