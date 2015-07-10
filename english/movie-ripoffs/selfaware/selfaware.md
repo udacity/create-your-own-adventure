@@ -21,4 +21,4 @@ your life.
 
 But you realize you know lisp and therefore can devise a means of escape.
 
-["Run CL" to fire up the LISP interpreter](../../../lisp/lisp.md)
+["Run CL" to fire up the LISP interpreter](../../lisp/lisp.md)
