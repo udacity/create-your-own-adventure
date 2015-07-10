@@ -352,3 +352,5 @@ Do you:
 [Leap on the Polar bear and charge](polar-bear-attack/polar-bear-attack.md)
 
 [Commit suicide](commit-suicide/suicide.md)
+
+[Make an appointment with the dentist](dentist/ouch.md)
