@@ -356,3 +356,5 @@ Do you:
 [Make an appointment with the dentist](dentist/ouch.md)
 
 [Create an artificial intelligence to help you escape](robot-rap-battle/robot-rap-battle.md)
+
+[You Google what to do](https://www.google.co.in/)
