@@ -356,3 +356,5 @@ Do you:
 [Make an appointment with the dentist](dentist/ouch.md)
 
 [Create an artificial intelligence to help you escape](robot-rap-battle/robot-rap-battle.md)
+
+[Abdul kalam quotes on overcoming fear] (apj/apj.md)
