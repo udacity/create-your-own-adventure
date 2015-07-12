@@ -13,3 +13,5 @@ Do you:
 [Tame the elephant?](tame_the_elephant/tame_the_elephant.md)
 
 [Dig Down?](../dig_down/dig_down.md)
+
+[Focus on gathering wood](focus_on_gathering_wood/focus_on_gathering_wood.md)
