@@ -86,7 +86,11 @@ Sheepishly you look down on the crappy wand in your hand.
  
 You must be doing something wrong, you drink a beer and think about it, then Ah-ha!
 
+You notice your pants are now glowing, so you must have been holding the wand upside down.
+
 Do you:
+
+[Admire your glowing pants](glowing-pants/glowing-pants.md)
 
 [Grab some coffee?] (coffee/coffee.md)
 
