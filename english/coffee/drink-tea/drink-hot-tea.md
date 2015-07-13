@@ -5,5 +5,5 @@ You see a bowl of chocolates and sneakily eat one.
 
 [Everything around you seems to grow](alice/alice-in-wonderland.md)
 
-[Everything around you seems to shrink](shrunk/shrunken.md)
+[Everything around you seems to shrink](../shrunk/shrunken.md)
 
