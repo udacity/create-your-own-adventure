@@ -2,7 +2,7 @@ Wie eine Wiege liegt das Boot auf dem leicht gekräuselten Wasser. Es scheint si
 zu bewegen. Die Sonne dringt wärmend durch die nassen Kleider und läßt den ersten Schreck 
 langsam abklingen.
 
-Da fällt Ihr Blick auf eine kurze Rute am Bootsende. Jetzt fiel es Ihnen wieder ein:
+Da fällt Ihr Blick auf eine kurze Rute am Bootsende und Sie beginnen sich zu erinnern:
 
 Sie wollten ein paar Tage ausspannen und hatten sich einem Kollegen angeschlossen, 
 der Ihnen schon die eine oder andere wilde Geschichte vom Angeln erzählt hatte. Es sollte 
@@ -12,8 +12,8 @@ Nacht durchzumachen.
 
 Was ist seitdem geschehen?
 
-Wo ist Ihr Kollege?
+Wo ist Ihr Kollege geblieben?
 
 Warum sind Sie allein auf dem Boot?
 
-Haben Sie etwas gefangen?
+Haben Sie schon etwas gefangen?
