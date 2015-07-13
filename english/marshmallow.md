@@ -42,9 +42,9 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 
 You have the suspicion that you are being closely watched.
 
-[Sure it's that man on the sofa](./movie-ripoffs/zoolander/zoolander.md)
+[Sure it's that man on the sofa, go talk to him again](./movie-ripoffs/zoolander/zoolander.md)
 
-[Wait, I'm in front of a mirror... Am I?](./mirror/enter-mirror.md)
+[Wait, I'm in front of a mirror... Am I? Let's see...](./mirror/enter-mirror.md)
 
 You see a polar bear searching for food.
 
