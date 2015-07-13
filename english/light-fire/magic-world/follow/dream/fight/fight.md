@@ -7,3 +7,5 @@ Just as you are about to breath a sigh of relief you notice that something seems
 What is worse, that it may have been you. And why would they taste like marshmallows.
 
 Wait you have a sword under your bed....
+
+[Pick up sword](sword/sword.md)
