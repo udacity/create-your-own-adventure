@@ -365,4 +365,6 @@ Do you:
 
 [Create an artificial intelligence to help you escape](robot-rap-battle/robot-rap-battle.md)
 
+[You Google what to do](https://www.google.co.in/)
+
 [Abdul kalam quotes on overcoming fear] (apj/apj.md)
