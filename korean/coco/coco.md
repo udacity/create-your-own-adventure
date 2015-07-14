@@ -2,4 +2,5 @@
 
 돈이 없으면 뭘 어쩌겠어? [다시 방으로 돌아간다](../marshmallow.md) 집에서 잠이나 자!
 
-돈이 없으면 핫초코를...직접 찾아나서는거! [핫초코를 찾아 여행](journey-to-find-coco/find-coco.md) 
+돈이 없으면 핫초코를...직접 찾아나서는거! [핫초코를 찾아 여행](../explore-outside/find-coco.md) 
+
