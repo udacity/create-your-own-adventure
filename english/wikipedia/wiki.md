@@ -8,6 +8,8 @@ Information, incalculable information, at your fingertips.
 
 You are blind to all but your exploration of the known and unknown universe.
 
+And you don't have to go to the library.
+
 [Behold!](http://en.wikipedia.org)
 
 You are so impressed with Wikipedia, you decide that you might even like to 
