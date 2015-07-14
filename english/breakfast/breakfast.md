@@ -2,3 +2,4 @@ You see a pot of coffee near you and you realize that you are hungry. Well, you 
 marshmallows from the wall and added them to the coffee. While you are drinking the coffee and eating those delicious 
 marshmallows and staring at the wall you found that you made a whole in the wall by picking marshmallows. You finished
 your flavoured coffee and got out from marshmallows-walled room.
+Outside, a lush forest is echoing with birdsong and the cries of savage monkeys. The scent of marshmallows is fainter put still present and seems to be oozing from some place not far away.
