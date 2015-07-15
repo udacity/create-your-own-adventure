@@ -94,6 +94,8 @@ You notice your pants are now glowing, so you must have been holding the wand up
 
 Do you:
 
+[Go eat some rainbows](eat-rainbows/rainbows.md)
+
 [Admire your glowing pants](glowing-pants/glowing-pants.md)
 
 [Grab some coffee?] (coffee/coffee.md)
@@ -368,5 +370,7 @@ Do you:
 [You Google what to do](https://www.google.co.in/)
 
 [Abdul kalam quotes on overcoming fear] (apj/apj.md)
-
 [If you want something done right, you have to do it yourself.](untrustworthy/untrustworthy.md)
+
+[There's no such thing as a free lunch.](free-lunch/free-lunch.md)
+
