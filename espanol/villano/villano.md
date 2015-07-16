@@ -1,0 +1,1 @@
+En ese momento encontraron al villano, el caballero negro. Después de rodar y rodar aturdidos estaban a merced del peor de sus enemigos
