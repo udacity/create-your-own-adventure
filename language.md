@@ -98,3 +98,7 @@ Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 
 നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ, 
 [ഇവിടെ ക്ലിക്ക് ചെയ്യുക](Malayalam/malayalam.md)
+
+ئەگەر کوردی ئەزانیت کلیک [لێرە] بکە(kurdish/kurdi.md)
+
+if you speak kurdish click[here](kurdish/kurdi.md)
