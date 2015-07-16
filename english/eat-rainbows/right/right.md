@@ -1,0 +1,1 @@
+You turned right and slammed into another custmer carrying a birthday cake.
