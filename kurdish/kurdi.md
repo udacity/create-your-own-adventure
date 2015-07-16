@@ -1,3 +1,3 @@
 چەند وانەیەک لەسەر ژیان
 
-[مرۆڤایەتی](kurdish/faith-in-humanity/mrov.md)
+[مرۆڤایەتی](kreate-your-own-adventure/kurdish/faith-in-humanity/mrov.md)
