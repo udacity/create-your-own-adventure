@@ -374,3 +374,5 @@ Do you:
 
 [There's no such thing as a free lunch.](free-lunch/free-lunch.md)
 
+[Follow the dog...](play-with-dog/dog.md)
+
