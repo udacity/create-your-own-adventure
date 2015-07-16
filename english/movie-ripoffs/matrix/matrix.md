@@ -33,3 +33,5 @@ gooey liquid smashes Morpheus across the room.  Choose the next spell:
 ["Avada Kedavra" to finish Morpheus off](../matrix-boss/matrix-boss.md)
 
 ["Woah" just to see what happens](../selfaware/selfaware.md)
+
+["Valar Morghulis"](../../valarmorghulis/valarmorghulis.md)
