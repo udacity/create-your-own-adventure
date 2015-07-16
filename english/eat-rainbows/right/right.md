@@ -1,1 +1,1 @@
-You turned right and slammed into another custmer carrying a birthday cake.
+You turned right and slammed into another customer carrying a birthday cake.
