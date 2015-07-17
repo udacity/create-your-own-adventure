@@ -1,0 +1,1 @@
+T'acabes menjant la teva tauleta de nit. Encara que sigui de xocolata, et quedes sense queixals. De sobte, et comença a fer mal la panxa. Els trossos del moble es tornen a convertir en fusta... i aquí és on acaba la teva història. Un dia dolent per aixecar-se del llit!

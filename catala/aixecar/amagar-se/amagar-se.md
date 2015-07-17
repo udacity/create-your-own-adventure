@@ -1,0 +1,1 @@
+Un cop t'amagues al llençol et tornes a dormir. Al cap d'unes hores t'aixeques i tot torna a ser normal. T'acabes de perdre l'aventura de la teva vida per covard!
