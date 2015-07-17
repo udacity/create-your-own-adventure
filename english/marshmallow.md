@@ -377,3 +377,5 @@ Do you:
 [Follow the dog...](play-with-dog/dog.md)
 
 [What is LOVE ?](love/love.md)
+
+[Got to Singapore](singapore/singapore.md)
