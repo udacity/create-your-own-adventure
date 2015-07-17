@@ -22,4 +22,4 @@ You hesitate just a moment before replying...
 
 [Grab some coffee?](../coffee/coffee.md)
 
-[Become a marshmellow](https://github.com/KellyBurdine/create-your-own-adventure/blob/master/english/becomemarshmallow/becomemarshmallow.md)
+[Become a marshmellow](../becomemarshmallow.md)
