@@ -372,6 +372,7 @@ Do you:
 [You Google what to do](https://www.google.co.in/)
 
 [Abdul kalam quotes on overcoming fear] (apj/apj.md)
+
 [If you want something done right, you have to do it yourself.](untrustworthy/untrustworthy.md)
 
 [There's no such thing as a free lunch.](free-lunch/free-lunch.md)
