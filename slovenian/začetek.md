@@ -4,6 +4,6 @@ Leva vrata so rumene barve, desna pa svetlo vijolične barve.
 
 Skozi katera vrata vstopiš?
 
-[Odpreš vrata rumene barve] (rumena/rumena.md)
+[Odpreš vrata rumene barve](rumena/rumena.md)
 
-[Odpreš vrata svetlo vijolične barve] (svetlo-vijolična/svetlo-vijolična.md)
+[Odpreš vrata svetlo vijolične barve](svetlo-vijolična/svetlo-vijolična.md)

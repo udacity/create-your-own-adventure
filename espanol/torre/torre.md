@@ -9,6 +9,6 @@ Entonces el consejero decidió:
 
 [Enviar un equipo de exploradores](exploradores/exploradores.md)
 
-[Preparar su ejercito y ejecutar la estrategia establecida] (estrategia/estrategia.md)
+[Preparar su ejercito y ejecutar la estrategia establecida](estrategia/estrategia.md)
 
-[Huir de la escena] (huida/huida.md)
+[Huir de la escena](huida/huida.md)
