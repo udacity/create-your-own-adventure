@@ -2,7 +2,7 @@ You recently read that meditation helps you feel more awake, relieves stress, an
 
 So you begin to meditate for 30 minutes and when you finish, you feel more refreshed than ever.
 
-The vision of dancing women flying from cloud to cloud are magical.
+The vision of dancing giraffes flying from cloud to cloud are magical.
 
 Clearing your mind and observing your thought, now your are more focused and ready to take on the day.
 

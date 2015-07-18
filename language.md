@@ -4,13 +4,13 @@ Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
-यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।] (nepali/about_nepal.md)
+यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।](nepali/about_nepal.md)
 
 如果你说中文，[点击这里](Chinese/大话西游.md).
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
-اذا كنت تتحدث العربية، [اضغط هنا] (arabic/salamoAlikom.md)
+اذا كنت تتحدث العربية، [اضغط هنا](arabic/salamoAlikom.md)
 
 Se parli italiano, [seguimi](Italian/caramelle.md).
 
@@ -24,9 +24,9 @@ Daca vorbesti romana, [da click aici](romanian/nalba.md).
 
 Ifyay ouyay eakspay Igpay Atinlay, [ogay erehay](pig-latin/arshmallowmay.md).
 
-Si vous parlez français, [suivez-moi] (french/feu-de-camp.md)
+Si vous parlez français, [suivez-moi](french/feu-de-camp.md)
 
-Ha beszélsz magyarul, [kövess] (hungarian/malyvacukor.md)
+Ha beszélsz magyarul, [kövess](hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
 
@@ -80,7 +80,7 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 
 ನೀವು ಕೆಚ್ಚೆದೆಯ ಕನ್ನಡಿಗರಾದರೆ, [ಇಲ್ಲಿ ಒತ್ತಿ](kannada/soochike.md).
 
-Če govoriš slovensko, [klikni sem] (slovenian/začetek.md).
+Če govoriš slovensko, [klikni sem](slovenian/začetek.md).
 
 తెలుగులో రాయుటకు [ఇక్కడ](telugu/telugu.md) నొక్కండి.:-)
 

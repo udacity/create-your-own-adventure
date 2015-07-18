@@ -4,4 +4,4 @@ prop del teu cap, deu ser això el que t'ha fet somniar amb les parets de sucre.
 
 I ara... què vols fer?
 
-[Tasto una llaminadura] (tastar/tastar.md)
+[Tasto una llaminadura](tastar/tastar.md)

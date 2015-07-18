@@ -94,15 +94,17 @@ You notice your pants are now glowing, so you must have been holding the wand up
 
 Do you:
 
+[Play a guitar](guitar/guitar.md)
+
 [Pick up giant blowtorch](pick-up-blowtorch/blowtorch.md)
 
 [Go eat some rainbows](eat-rainbows/rainbows.md)
 
 [Admire your glowing pants](glowing-pants/glowing-pants.md)
 
-[Grab some coffee?] (coffee/coffee.md)
+[Grab some coffee?](coffee/coffee.md)
 
-[Call the GhostBusters] (ghostbusters/ghostbusters.md)
+[Call the GhostBusters](ghostbusters/ghostbusters.md)
 
 [Talk to Bob Barker](bob-barker/barker.md)
 
@@ -305,7 +307,7 @@ Do you:
 [I'm batman](I'm-batman/batman.md)
 
 [You realize you are in NeverLand and you are
- never going come... so you sing the Tinker Bell song] (https://youtu.be/Sopngy6uucw)
+ never going come... so you sing the Tinker Bell song](https://youtu.be/Sopngy6uucw)
 
 [You decide to become a marshmallow yourself.](becomemarshmallow/becomemarshmallow.md)
 
@@ -371,7 +373,8 @@ Do you:
 
 [You Google what to do](https://www.google.co.in/)
 
-[Abdul kalam quotes on overcoming fear] (apj/apj.md)
+[Abdul kalam quotes on overcoming fear](apj/apj.md)
+
 [If you want something done right, you have to do it yourself.](untrustworthy/untrustworthy.md)
 
 [There's no such thing as a free lunch.](free-lunch/free-lunch.md)
