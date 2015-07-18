@@ -6,4 +6,4 @@ And sing if possible. Singing cheers people up.
 
 If no sing [go back](../marshmallow.md)
 
-Or go [drink a coffee](https://github.com/udacity/create-your-own-adventure/tree/master/english/coffee) to get your courage up
+Or go [drink a coffee](../coffee/novel/full-length-novel.md) to get your courage up
