@@ -5,3 +5,5 @@ Be as smart as you can be in your voice so you don't sound stupid.
 And sing if possible. Singing cheers people up.
 
 If no sing [go back](../marshmallow.md)
+
+Or go [drink a coffee](https://github.com/udacity/create-your-own-adventure/tree/master/english/coffee) to get your courage up
