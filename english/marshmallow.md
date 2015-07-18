@@ -379,3 +379,5 @@ Do you:
 [What is LOVE ?](love/love.md)
 
 [Got to Singapore](singapore/singapore.md)
+
+[Talk to Finn](talk-to-finn/finn.md)
