@@ -12,6 +12,8 @@ Bob with a gleam in his eye, looks at you and says, "Come on down you're the nex
 
 You step into the room and walk up to Bob.  Behind him are two large doors.
 
+The flaming hot marshmallows are gesturing suggestively at the doors while swaying their flaming hips.
+
 "Which door is the door for you, the blue door, or the red door?", he asks.
 
 You hesitate just a moment before replying...
