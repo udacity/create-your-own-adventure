@@ -10,12 +10,15 @@ you throw an enormous slab of marshmallow on a graham cracker.
 
 You're actually enjoying this, you think to yourself.
 
-Eventually, you're supporting (and eating) a 25 lbs smores in one hand, burning your way to freedom with the other when
+Eventually, you're supporting (and eating) a 25 lbs smores in one hand, 
+burning your way to freedom with the other when
 
 you break into the next cavern only to see a 200 ft Stay Puft Marmallow Man turn who rumbles:
 
 "Who disturbs my slumber?" 
 
-Turning up your blowtorch, you make a mental note not to cross the streams and you run into the room screaming.
+Turning up your blowtorch, you make a mental note not to cross the streams and you run 
+into the room screaming.
 
-You're not sure if you've got enough graham cracker and chocolate for this, but at least you're bringing the camp fire... 
+You're not sure if you've got enough graham cracker and chocolate for this, but at least you're 
+bringing the camp fire... 
