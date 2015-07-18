@@ -1,6 +1,6 @@
 You pick up a blowtorch that is within arm's reach.
 
-You also notice that there is a giant grapham cracker and Hershey's chocolate bar within reach.
+You also notice that there is a giant graham cracker and Hershey's chocolate bar within reach.
 
 "Let's do this thing," you say to yourself as you turn on the blowtorch.
 
@@ -8,7 +8,7 @@ As you carve though the walls like a hot knife through butter,
 
 you throw an enormous slab of marshmallow on a graham cracker.
 
-You're actually enjoying this, you're thinking to yourself.
+You're actually enjoying this, you think to yourself.
 
 Eventually, you're supporting (and eating) a 25 lbs smores in one hand, burning your way to freedom with the other when
 
