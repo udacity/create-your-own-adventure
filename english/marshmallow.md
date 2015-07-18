@@ -94,6 +94,8 @@ You notice your pants are now glowing, so you must have been holding the wand up
 
 Do you:
 
+[Play a guitar](guitar/guitar.md)
+
 [Pick up giant blowtorch](pick-up-blowtorch/blowtorch.md)
 
 [Go eat some rainbows](eat-rainbows/rainbows.md)
