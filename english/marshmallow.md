@@ -383,3 +383,5 @@ Do you:
 [Got to Singapore](singapore/singapore.md)
 
 [Talk to Finn](talk-to-finn/finn.md)
+
+[Play Guitar](guitar/guitar.md)
