@@ -16,4 +16,4 @@ What do you do?
 
 [Move aside and let it bounce to the ground.](move/move.md)
 
-[Run away from the marshmallow man.] (flee/flee.md)
+[Run away from the marshmallow man.](flee/flee.md)

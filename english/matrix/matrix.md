@@ -23,7 +23,7 @@ It's dark and fluffy.
 While you don't believe that you might be the One,
  it's only up to you to save the world.
 
-[You crawl through the hole you just made and...] (matrix2/matrix2.md)
+[You crawl through the hole you just made and...](matrix2/matrix2.md)
 
-[There is no darkness - or fluffiness - without the Light.] (matrix2inception/matrix2inception.md)
+[There is no darkness - or fluffiness - without the Light.](matrix2inception/matrix2inception.md)
 

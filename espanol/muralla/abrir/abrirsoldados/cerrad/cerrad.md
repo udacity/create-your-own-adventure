@@ -2,4 +2,4 @@
 ¡Rápido! ¿Qué hacemos ahora?
 ¡Tenemos que organizar la defensa!
 
-[Colocar arqueros en la muralla] (arqueros/arqueros.md)
+[Colocar arqueros en la muralla](arqueros/arqueros.md)
