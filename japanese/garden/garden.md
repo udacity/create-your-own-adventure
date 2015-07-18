@@ -5,3 +5,5 @@
 
 さてあなたは：
 [林の中に分け入る](../beanus/beanus.md)
+
+[小道を進む](../path/path.md)
