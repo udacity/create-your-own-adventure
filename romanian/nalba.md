@@ -33,3 +33,5 @@ Ginuta il priveste o vreme, asa cazut pe ganduri, apoi il intreaba:
 -N-am, dar putem sa facem un [ceai de nalbe](ceai_de_nalbe/ceai_de_nalbe.md). Ar trebui sa 
 aiba gust bun, putem mari putin doza, doar avem un pat de nalbe, sa vedem ce se intampla. 
 Se pusera ei pe baut ceai de nalba cand deodata... 
+Aparu, [Zana Albastra](zana_albastra/cum_arata_zana.md):
+- Dragii mei, nu mai beti ceai de nalbe! Am nevoie de toate nalbele de aici pentru o [potiune fermecata](potiune_fermecata/potiune.md).
