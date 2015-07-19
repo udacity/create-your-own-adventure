@@ -6,4 +6,4 @@ So we have to overcome our fear.
 
 There are some quotes :-
 
-[QUOTES] (quotes/quotes.md)
+[QUOTES](quotes/quotes.md)
