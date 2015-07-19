@@ -4,4 +4,4 @@
 
 3) "There is no illusion greater than fear." -Lao Tzu
 
-Click [hear] (https://www.goodreads.com/quotes/tag/overcoming-fear) to find more quotes. 
+Click [hear](https://www.goodreads.com/quotes/tag/overcoming-fear) to find more quotes. 
