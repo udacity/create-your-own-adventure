@@ -14,3 +14,5 @@ Hint: you're a lyrical wordsmith
 [Turn on the tunes](../invite-friends/mosh_pit/mosh_pit.md)
 
 [Write a hit song](../hit-song/hit-song.md)
+
+[buy a gameboy] (../buy-gameboy/buy-gameboy.md)
