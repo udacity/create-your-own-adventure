@@ -385,3 +385,5 @@ Do you:
 [Talk to Finn](talk-to-finn/finn.md)
 
 [Play Guitar](guitar/guitar.md)
+
+[Wake up!](wake-up/wake-up.md)
