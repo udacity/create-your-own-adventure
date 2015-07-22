@@ -102,3 +102,5 @@ Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 [ئەگەر کوردی ئەزانیت کلیک بکە](kurdish/kurdi.md)
 
 Ako govorite srpski [klikni ovde](serbian/start.md)
+
+If you speak Urdu [click here](urdu/urdu-news.md)
