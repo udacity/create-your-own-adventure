@@ -1,1 +1,1 @@
-if you like to see urdu news [click here](www.bbc.com/urdu)
+if you like to see urdu news [click here](http://www.bbc.com/urdu/)
