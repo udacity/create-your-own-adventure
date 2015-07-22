@@ -15,3 +15,5 @@ Do you:
 [Have a cup of coffee?](../coffee/coffee.md)
 
 [Ask the marshmellow man, "What's it all for?"](question/question.md)
+
+[Ask what the lighter is for](lighter-use/lighter-use.md)
