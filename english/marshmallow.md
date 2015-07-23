@@ -385,3 +385,7 @@ Do you:
 [Talk to Finn](talk-to-finn/finn.md)
 
 [Play Guitar](guitar/guitar.md)
+
+[Rinse the marshmallow under the tap then eat it](dysentry/dysentry.md)
+
+[Wake up!](wake-up/wake-up.md)
