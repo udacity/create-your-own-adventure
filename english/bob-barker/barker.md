@@ -1,8 +1,10 @@
 The door thuds open and the light coming from within the room in front of you blinds you momentarily.
 
-When your vision clears, standing before you is Bob Barker in all his glory.  
+When your vision clears, standing before you is Bob Barker in all his glory.
 
-You stare at him in awe. He doesn't look a day past 50.  Like all of the greats he doesn't age in your mind.  
+You stare at him in awe.
+
+He doesn't look a day past 50.  Like all of the greats he doesn't age in your mind.
 
 He is flanked by two of the hottest...marshmallows that you have ever seen.
 
