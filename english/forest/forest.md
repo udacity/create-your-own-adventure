@@ -22,3 +22,5 @@ and jumped into the unknown. You're lucky to have made it alive. But now what?
 [Scream out for help](scream/scream.md)
 
 [Check pockets](pockets/pockets.md)
+
+[Make a shelter from the parachute](shelter/shelter.md)
