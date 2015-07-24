@@ -8,4 +8,4 @@
 Через несколько часов вы зашли на кухню и обнаружили зефиринку на столе,
 а затем в ванне и на балконе...
 
-It looked exactly like [these ones](http://uniconf.ru.images.1c-bitrix-cdn.ru/upload/iblock/c66/c66a51819fab7fd8baf5ba0f0ca97504.jpg?137163076386437).
+It looked exactly like [this one](http://i.otzovik.com/2014/02/11/790304/img/55744033.jpg).
