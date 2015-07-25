@@ -1,6 +1,7 @@
 Et la surprise ! Tout cela n'était pas un rêve.
 
-En effet, vous vous réveillez bien au milieu d'un plan d'eau, la peau toujours recouverte d'une fine pellicule caramélisée.
+En effet, vous vous réveillez bien au milieu d'un plan d'eau.
+Et votre peau est toujours recouverte d'une fine pellicule caramélisée.
 
 Cependant, à la place du crapeau se tient maintenant une sirène d'eau douce.
 Et votre nénuphare est devenu un radeau doublé d'un lit de mousse.
