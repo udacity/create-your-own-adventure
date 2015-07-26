@@ -10,3 +10,8 @@ leaving, out of the corner of your mind's eye, you
 see their weakness. Fire. And not the fire of a 
 backyard party, but pure, white fire - that which
 only the One can achieve...
+
+Wait a minute...what is this place.  Is that fire or 
+just the sun?  And is this a marshmallow or the snow?
+Such a tall wall.  I've never seen such a tall wall...
+[You approach the wall...](jonsnow/jon.md)

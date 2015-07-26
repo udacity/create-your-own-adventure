@@ -389,3 +389,7 @@ Do you:
 [Rinse the marshmallow under the tap then eat it](dysentry/dysentry.md)
 
 [Wake up!](wake-up/wake-up.md)
+
+[Thank Mr. Skeltal](2spooky/2spooky.md)
+
+[Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
