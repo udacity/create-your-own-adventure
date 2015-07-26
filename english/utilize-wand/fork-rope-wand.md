@@ -4,5 +4,4 @@ Letting out a light sigh, you grip your makeshift wand firmly and concentrate. G
     Rattling sounds out from the door's keyhole as the door begins to rumble within, wood
     splintering as the sounds of grinding metal and wood fill the room.
 
-        The door jars opens with a creak 
-        as the locking mechanism breaks.
+        The door jars opens with a creak as the locking mechanism breaks.
