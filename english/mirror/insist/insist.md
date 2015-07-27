@@ -6,4 +6,4 @@ You hear a faint and eerie voice: "Welcome to the labyrinth".
 
 You feel an infinite vertigo and are slowly engulfed by a soft blindness that
 slowly washes into an encompassing puffy whiteness. You find yourself
-, again, in the [marshmellow](../../marshmallow.md)
+, again, in the [marshmallow](../../marshmallow.md)
