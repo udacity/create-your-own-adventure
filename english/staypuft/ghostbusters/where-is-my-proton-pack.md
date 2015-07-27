@@ -14,6 +14,12 @@ You look up in time to see a taxi cab skidding toward you through the gloopy guc
 
 After so much excitement you decide to:
 
+[Do nothing. Cars can't kill Robocop!](../../robocop/youre-robocop.md)
+
+[Great Scott! That's no taxi, it's a Delorean about to hit 88 mph!](../../timeTunnel/timeTunnel.md)
+
+[Teleport using your superpowers that you didn't know you had!](../../super-powers/teleport.md)
+
 [Close your eyes and think good thoughts](./wishful-thinking/hope.md)
 
 [Scream](./vocalize/scream.md)
