@@ -34,6 +34,8 @@ This is because you do not like leather for ethical reasons.
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
+You also find a new packet of double chocolate caramel Tim Tams inside a pink sock.
+
 You are not sure who placed these objects near you or why.
 
 But you have a growing sense that these mundane objects are vital to your survival.
