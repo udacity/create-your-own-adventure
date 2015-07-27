@@ -1,5 +1,5 @@
 Do not mistake my yawn.
-It is a scream for coffee.
+It is a silent scream for coffee.
 
 though
 you might wanna see wonderful dream 
