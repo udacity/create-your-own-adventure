@@ -1,4 +1,6 @@
-It's not a mirror, it's a door to a marshmellow room that looks identical to the previous one!
+It's not a mirror, it's a door to a marshmellow room that looks identical to the previous one
+
+[Insist that it is a mirror](/insist/insist.md)
 
 [Go back to the previous room](../marshmallow.md)
 
