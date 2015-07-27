@@ -11,6 +11,8 @@ Hint: you're a lyrical wordsmith
 
 [Appeal to Scotty](../explore-outside/call-scotty/call-scotty.md)
 
-[Turn on the tunes] (../invite-friends/mosh_pit/mosh_pit.md)
+[Turn on the tunes](../invite-friends/mosh_pit/mosh_pit.md)
 
 [Write a hit song](../hit-song/hit-song.md)
+
+[buy a gameboy] (../buy-gameboy/buy-gameboy.md)

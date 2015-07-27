@@ -19,6 +19,8 @@ Do you:
 
 [Start eating the walls?](../eating-walls/eating-marshmallows.md)
 
+[Do your happy dance?](../dance/dance.md)
+
 [Go back to sleep?](more-sleep/more-sleep.md)
 
 [Make a marshmallow snowman?](../staypuft/marshmallowman.md)

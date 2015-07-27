@@ -1,5 +1,7 @@
 The hand of marshmallow has left you with so many questions. What did it want with the lighter?
 What does it want with me? Why did it have a ring-finger tan line?
+What am I doing with a coin in my pocket? (if you don't have any coins, 
+you may say ["Valar Morghulis"](../valarmorghulis/valarmorghulis.md).)
 
 It is obvious that these questions will have to wait, and you switch into survival mode. Examining your items closer,
 you realize the lighter has enough butane for one - maybe two - small flames before it is empty. In one fluent motion,

@@ -10,3 +10,4 @@ Do you:
 
 [Run into the room and close the door](run-in/run-into-room.md)
 
+[Blind the eyes with your torch](alien/use-torch.md)

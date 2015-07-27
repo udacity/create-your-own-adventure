@@ -13,6 +13,10 @@ Then he would build a flamethrower to melt through the walls, of course! He has 
 
 Just don't burn your mullet!
 
+And certainly do not, on any account, burn the rope!
+
+For it is where your power truly lies....
+
 Time is running out, and you need to act fast before the marshmallow explodes. The fate of the free world rests on your
 shoulders...
 

@@ -4,3 +4,7 @@ like that?"
 The bear then stalks away seeming very annoyed.
 
 What do you do next?
+
+[Close the door and finally relieve yourself?](../../../relieve/relieve-yourself.md)
+
+[Go back to the previous room](../../../../../marshmallow.md)

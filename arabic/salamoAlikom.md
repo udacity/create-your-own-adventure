@@ -7,3 +7,5 @@
 [انام](sleep/sleep.md)
 
 [اريد ان اتعلم المزيد](learn/learn.md)
+
+[اريد ان احلم](dream/dream.md)

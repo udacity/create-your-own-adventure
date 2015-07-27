@@ -45,3 +45,8 @@ el Consejero:
 [Termina el baile y piden calcetines para la cena](calcetines/calcetines.md)
 
 [Acaban tan llenos, que ruedan por las escaleras.](rodar/rodar.md)
+
+[La exageración y la indigestión](exageracion/exageracion.md)
+
+[Se arrodilla y...](rogando/rogando.md)
+
