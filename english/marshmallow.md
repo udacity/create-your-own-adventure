@@ -34,6 +34,10 @@ This is because you do not like leather for ethical reasons.
 
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
+You also find a new packet of double chocolate caramel Tim Tams inside a pink sock.
+
+Do you want to [try to fill the remaining space in the sock with marshmallows](./fill-sock/fill-sock.md)?
+
 You are not sure who placed these objects near you or why.
 
 But you have a growing sense that these mundane objects are vital to your survival.
@@ -389,3 +393,7 @@ Do you:
 [Rinse the marshmallow under the tap then eat it](dysentry/dysentry.md)
 
 [Wake up!](wake-up/wake-up.md)
+
+[Thank Mr. Skeltal](2spooky/2spooky.md)
+
+[Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
