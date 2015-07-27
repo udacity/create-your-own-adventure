@@ -36,6 +36,8 @@ You begin to breakout of the jacket and find a lighter, a fork, and rope.
 
 You also find a new packet of double chocolate caramel Tim Tams inside a pink sock.
 
+Do you want to [try to fill the remaining space in the sock with marshmallows](./fill-sock/fill-sock.md)?
+
 You are not sure who placed these objects near you or why.
 
 But you have a growing sense that these mundane objects are vital to your survival.
