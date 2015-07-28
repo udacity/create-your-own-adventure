@@ -2,4 +2,4 @@ Obracasz rożowy, plastikowy gwizdek. Jest gładki, bardzo dobrze wykonany, nie 
 
 [Postanawiasz zagwizdać jeszcze raz](zagwizdaj/zagwizdaj.md)
 
-[Chowasz gwizdek spowrotem do kieszeni](gwizdekdokieszeni/gwizdekdokieszeni.md)
+[Chowasz gwizdek z powrotem do kieszeni](gwizdekdokieszeni/gwizdekdokieszeni.md)
