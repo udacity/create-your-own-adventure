@@ -9,7 +9,8 @@ Man sollte ...
 
 ... nach etwas Eßbarem suchen, denn so allmählich macht sich [Hunger](../../../hunger/hunger.md) bemerkbar.
 
-... ein sicheres Lager aufbauen, denn wer weiß schon welche [Gefahren](../../../gefahr/gefahr.md) auf einer Insel lauern.
+... ein sicheres Lager aufbauen, denn wer weiß schon welche [Gefahren](../../../gefahr/gefahr.md) auf einer 
+    Insel lauern.
 
 ... sich erst einmal auf der [Insel](../../../insel/insel.md) umschauen.
 
