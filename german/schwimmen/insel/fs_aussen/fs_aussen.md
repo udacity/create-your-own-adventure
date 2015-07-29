@@ -5,7 +5,8 @@ diese Erscheinung nur eine Vorderseite, aber keine Seitenwände hat, denn unmitt
 ein paar Meter in den Wald hineinschauen ohne die Seite oder gar die Rückwand des Aufzugs sehen zu können.
 
 Vorsichtig berührst du den Rahmen der linken Schiebetür: er ist solide und fühlt sich kühl und glattpoliert an. 
-Als du deine Hand wieder zurückziehst, streifst du unabsichtlich den Zweig eines mittelhohen Strauchs - oder genauer gesagt: gleitet deine Hand vollkommen berührungslos durch eben diesen Zweig samt seiner Blätter hindurch...
+Als du deine Hand wieder zurückziehst, streifst du unabsichtlich den Zweig eines mittelhohen Strauchs - oder 
+genauer gesagt: gleitet deine Hand vollkommen berührungslos durch eben diesen Zweig samt seiner Blätter hindurch...
 
 Offenbar ist dieser Strauch, ja ist der ganze Waldsaum nicht real, sonder eine Art Projektion.
 
