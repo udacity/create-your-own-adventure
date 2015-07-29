@@ -1,0 +1,1 @@
+Felveszed a par malyva zoknit. Hu de jo puha belul!
