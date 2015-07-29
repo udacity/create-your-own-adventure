@@ -2,7 +2,7 @@ Bir sabah, duvarları hatmi şekerleriyle kaplı ilginç bir odada uyandınız.
 
 Sanki rahatsız ve kısıtlayıcı bir ceket giyiyordunuz.
 
-Ceketinizi yirtmaya basliyorsunuz ve yere bir cakmak, catal ve ip dusuyor.
+Ceketinizi yirtmaya basliyorsunuz ve yere bir cakmak, kasik, catal ve ip dusuyor.
 
 Izlendiginize dair supheleriniz var.
 
