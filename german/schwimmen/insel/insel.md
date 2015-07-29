@@ -6,7 +6,7 @@ gekräuselte Wasserfläche. Eine sanfte, warme Brise weht, die Wellen spielen um
 und die Natur erscheint ruhig und friedlich. 
 Du wirst mit einem Mal ganz schläfrig, und die Augenlieder werden schwer, als hinter dir plötzlich 
 jemand hüstelt:
-"Ahm, Verzeihung, aber wir warten schon eine geraume Weile auf Sie!". Du springst ruckartige auf, fährst herum 
+"Ahm, Verzeihung, aber wir warten schon eine geraume Weile auf Sie!". Du springst ruckartig auf, fährst herum 
 und bist schlagartig hellwach. Dort, unmittelbar am Waldrand, hat sich die Tür eines Fahrstuhls geöffnet (richtig, ein Fahrstuhl!) und direkt davor steht ein distinguiert aussehender, vornehm gekleideter und schon etwas älterer Herr. 
 Er lächelt dich etwas verlegen an und streckt auffordernd den Arm aus: "Kommen Sie, kommen Sie nur! Sie werden 
 sehnsüchtig erwartet".
