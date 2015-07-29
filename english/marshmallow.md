@@ -398,4 +398,4 @@ Do you:
 
 [Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
 
-[Stop, hammertime!](hammertime/hammertime.md)
+[Stop, hammertime!](.hammertime/hammertime.md)
