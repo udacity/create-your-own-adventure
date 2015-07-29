@@ -2,8 +2,8 @@ Der freundliche Herr läßt dir den Vortritt, und nacheinander betretet ihr die 
 
 Es ist ein unauffälliger, ganz gewöhnlicher Fahrstuhl. Die Wände sind mit polierten Aluminiumpaneelen 
 verkleidet, die Decke besteht aus einer schachbrettartig gekachelten Fläche von grauen und weißen Lochplatten, 
-und der Boden ist mit hellgrau-weiße gemustertem PVC ausgelegt. Aus einem in die Wand eingelassenen Lautsprecher 
-spielt leise die übliche belanglose aber beruhigende Fahrstuhlmusik.
+und der Boden ist mit hellgrau-weiß gemustertem PVC ausgelegt. Aus einem in die Wand eingelassenen Lautsprecher 
+spielt leise die übliche belanglose, aber beruhigende Fahrstuhlmusik.
 
 In Brusthöhe neben dem rechten Schiebetürflügel ist ein Bedienpaneel mit drei schwarzen 
 Druckknöpfen angebracht. Sie sind beschriftet mit:
