@@ -397,3 +397,5 @@ Do you:
 [Thank Mr. Skeltal](2spooky/2spooky.md)
 
 [Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
+
+[Draw a trapezoid](trapezoid/trapezoid.md)
