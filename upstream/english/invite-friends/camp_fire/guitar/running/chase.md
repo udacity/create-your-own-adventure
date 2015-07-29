@@ -1,0 +1,1 @@
+Yelling "STOP!", you sprint out the door after the man (or is it a woman?) that's running away.
