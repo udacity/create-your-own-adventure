@@ -18,3 +18,8 @@ great if they had not traded Wiggins. That was a dumb move. Warriors win in 5.
 The Warriors won in 6. Lebron was great, but the Warriors prevailed!
 
 And Dwyane Wade slept like a baby.
+
+A baby that was thinking about the boom/bust nature of the NBA draft. Why did
+anyone think Anthony Bennett was deserving of the number 1 pick? But you could
+argue the Cavs were geniuses to pick him because one year later it netted
+LeBron. So weird.
