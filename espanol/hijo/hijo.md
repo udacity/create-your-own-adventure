@@ -4,6 +4,8 @@ Quizás, pero de seguro no traería el mejor resultado.
 
 Casualmente apareció el hijo en aquel mismo momento.
 
+No sabía muy bien qué hacer, finalmente...
+
 [Ordena al hijo ocultarse en las mazmorras](mazmorra/mazmorra.md)
 
 [Ordena al hijo preparse para el combate](preparar/preparar.md)
