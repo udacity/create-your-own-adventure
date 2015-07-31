@@ -14,4 +14,4 @@ Bottom of the 11th 2 outs, Toronto is winning 2 to 1.  The alien appears and off
 
 [Choose the Atlanta ticket](../../find-a-toilet.md)
 
-[Choose the Toronto ticket](../../../../private-party-island/island.txt)
+[Choose the Toronto ticket](../../../../private-party-island/island.md)
