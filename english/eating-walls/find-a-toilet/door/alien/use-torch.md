@@ -10,8 +10,9 @@ An echo-ess voice says, "Be it 1992 then..."
 
 You're teleported to Atlanta-Fulton County Stadium in Atlanta, Georgia on Saturday, October 24, 1992.
 
-Bottom of the 11th 2 outs, Toronto is winning 2 to 1.  The alien appears and offers you a choice to have a ticket with a placed bet for Toronto to win or Atlanta to win.
+Bottom of the 11th 2 outs, Toronto is winning 2 to 1.  The alien appears and offers you a choice to
+have a ticket with a placed bet for Toronto to win or Atlanta to win.
 
 [Choose the Atlanta ticket](../../find-a-toilet.md)
 
-[Choose the Toronto ticket](../../../../private-party-island/island.md)
+[Choose the Toronto ticket](../../../../private-party-island/island.txt)
