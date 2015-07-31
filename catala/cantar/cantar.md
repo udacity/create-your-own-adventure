@@ -5,3 +5,5 @@ prop del teu cap, deu ser això el que t'ha fet somniar amb les parets de sucre.
 I ara... què vols fer?
 
 [Tasto una llaminadura](tastar/tastar.md)
+
+[Surto de la tenda](sortir_tenda/sortir_tenda.md)
