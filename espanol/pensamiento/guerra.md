@@ -5,4 +5,4 @@ Será que hoy es el día, aquel día en el que nos preguntamos ¿por que?
 
 Tras terminar con sus lamentaciones:
 
-[Una reflexión de gran importancia le asaltó](espanol/pensamiento/estoicismo/estoicismo.md)
+[Una reflexión de gran importancia le asaltó](estoicismo/estoicismo.md)
