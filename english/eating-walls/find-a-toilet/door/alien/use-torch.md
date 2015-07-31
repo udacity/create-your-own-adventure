@@ -15,4 +15,4 @@ have a ticket with a placed bet for Toronto to win or Atlanta to win.
 
 [Choose the Atlanta ticket](../../find-a-toilet.md)
 
-[Choose the Toronto ticket](../../../../private-party-island/island.txt)
+[Choose the Toronto ticket](../../../../private-party-island/island.md)
