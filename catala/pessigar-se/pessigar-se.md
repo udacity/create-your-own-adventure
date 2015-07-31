@@ -6,4 +6,4 @@ Què fas?
 
 [treus el mòbil per fer una foto als canaris i enviar-la als teus amics](foto/foto.md)
 
-[Et desmaies, no soportes els canaris... sobretot els roses...](dormir/dormir.md)
+[Et desmaies, no soportes els canaris... sobretot els roses...](../dormir/dormir.md)
