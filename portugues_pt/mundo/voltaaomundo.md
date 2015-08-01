@@ -1,5 +1,8 @@
 Conhecer os 5 continentes
 
-Primeiro começava por visitar todos os países da europa.
+Primeiro comeï¿½ava por visitar todos os paï¿½ses da europa.
 
-E porque não, em seguida, fazer a Route 66 e ir de uma ponta à outra dos Estados Unidos? Passando pelo Canadá, claro!
+E porque nï¿½o, em seguida, fazer a Route 66 e ir de uma ponta ï¿½ outra dos Estados Unidos? Passando pelo Canadï¿½, claro!
+
+Depois... AmÃ©rica Latina. MÃºsica, sabores, natureza! Tanto para experimentar e descobrir. O perigo seria a
+tentaÃ§Ã£o de ficar por lÃ¡ :)
