@@ -401,3 +401,5 @@ Do you:
 [Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
 
 [Stop, hammertime!](hammertime/hammertime.md)
+
+[Analise the compisition of the marshmallow](analize/analysis.md)
