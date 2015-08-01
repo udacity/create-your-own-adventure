@@ -402,4 +402,4 @@ Do you:
 
 [Stop, hammertime!](hammertime/hammertime.md)
 
-[Analise the compisition of the marshmallow](analize/analysis.md)
+[Analyze the composition of the marshmallow](analyze/analysis.md)
