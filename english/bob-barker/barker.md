@@ -18,6 +18,8 @@ The flaming hot marshmallows are gesturing suggestively at the doors while swayi
 
 "Which door is the door for you, the blue door, or the red door?", he asks.
 
+"Before you decide, Remember help control the pet population. Have your pet spayed or neutered.", he announced.
+
 You hesitate just a moment before replying...
 
 [The blue door](1970s/1970s.md)
