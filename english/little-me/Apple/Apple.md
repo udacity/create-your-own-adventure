@@ -1,14 +1,9 @@
 Thank you so much.
-Now that I am full I can rewinde the time.
+Now that I am full I can rewind the time.
 
 Do you like to see my powers?
 
-You Choose Say To:
-
-
-[Yes Local](https://github.com/Arsacues/create-your-own-adventure/blob/LittleMe/english/little-me/little-me.md)
-
-[No Local](https://github.com/Arsacues/create-your-own-adventure/tree/master/english)
+You Choosed To Say:
 
 [Yes](https://github.com/udacity/create-your-own-adventure/tree/master/english/little-me/little-me.md)
 
