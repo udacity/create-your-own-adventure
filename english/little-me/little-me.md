@@ -4,6 +4,6 @@ Please Feed Me!
 
 You Choose To:
 
-[Feed him Apple](../little-me/Apple)
+[Feed him Apple](../little-me/Apple/Apple.md)
 
-[Feed him Candy](../little-me/Candy)
+[Feed him Candy](../little-me/Candy/Candy.md)
