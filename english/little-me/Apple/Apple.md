@@ -6,9 +6,9 @@ Do you like to see my powers?
 You Choose Say To:
 
 
-[Yes Local](https://github.com/Arsacues/create-your-own-adventure/tree/master/english/little-me/)
+[Yes Local](https://github.com/Arsacues/create-your-own-adventure/tree/english/little-me/)
 
-[No Local](https://github.com/Arsacues/create-your-own-adventure/tree/master/english/)
+[No Local](https://github.com/Arsacues/create-your-own-adventure/master/english/)
 
 [Yes](https://github.com/udacity/create-your-own-adventure/tree/master/english/little-me/)
 
