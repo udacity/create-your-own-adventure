@@ -12,7 +12,7 @@ usually take intoxicants, what's happening...?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
-Grave danger.
+Grave danger. Oh No!
 
 *(Is there another kind?)*
 
@@ -407,5 +407,7 @@ Do you:
 [Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
 
 [Stop, hammertime!](hammertime/hammertime.md)
+
+[Analyze the composition of the marshmallow](analyze/analysis.md)
 
 [Oops! this story ain't ending..](unending-story/unending-story.md)
