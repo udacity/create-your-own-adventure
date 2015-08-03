@@ -12,7 +12,7 @@ usually take intoxicants, what's happening...?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
-Grave danger.
+Grave danger. Oh No!
 
 *(Is there another kind?)*
 
