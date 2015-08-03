@@ -11,3 +11,5 @@ You mustled up some courage, remembered the few French phrases you know, went up
 She walks towards a local train into the city.  Do you?
 
 [Follow her on the train?](city-train/city-train.md)
+
+[Walk toward the taxi stand, instead](taxi-trouble/taxi-trouble.md)
