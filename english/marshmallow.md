@@ -30,9 +30,7 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 and a pair of brightly coloured chequered pants.
 
-[Check the left pants pocket](./look-in-pants-pocket/inleftpocket.md)
-
-[Check the right pants pocket](./look-in-pants-pocket/inrightpocket.md)
+[Search pockets](./look-in-pants-pocket/search-pockets.md)
 
 [You decide to bite the marshmallow wall](./bite-the-marshmallow/tasty-marshmallow.md)
 
