@@ -1,7 +1,9 @@
-You start walking towards the taxi-stand and begin to formulate a plan to save your homeland from sinister marshmallow encroachment.
-Surely the French will be able to assist you?
+You start walking towards the taxi-stand and begin formulating a plan to save your homeland from sinister marshmallow encroachment.
+
 Suddenly you realize you are being followed by someone in the marshmallow mafia!!!
+
 He must have overheard your conversation with the beautiful French woman.
+
 [Do you confront him?](marshmallow-mafia/mafia.md)
 
 or
