@@ -1,4 +1,5 @@
-You start walking towards the taxi-stand and begin formulating a plan to save your homeland from sinister marshmallow encroachment.
+You start walking towards the taxi-stand and begin formulating a plan
+to save your homeland from sinister marshmallow encroachment.
 
 Suddenly you realize you are being followed by someone in the marshmallow mafia!!!
 
