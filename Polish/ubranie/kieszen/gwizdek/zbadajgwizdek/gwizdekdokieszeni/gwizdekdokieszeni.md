@@ -1,1 +1,0 @@
-Wrzucasz gwizdek do kieszeni i po chwili szłyszysz jakby trzasnął o beton.
