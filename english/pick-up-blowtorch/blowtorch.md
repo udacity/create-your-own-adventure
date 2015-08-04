@@ -21,4 +21,6 @@ Turning up your blowtorch, you make a mental note not to cross the streams and y
 into the room screaming.
 
 You're not sure if you've got enough graham cracker and chocolate for this, but at least you're 
-bringing the camp fire... 
+bringing the camp fire...
+
+Where did that "slumber" come from? Next thing I'll hear is "fee fi fo fum". My God what have I done. 
