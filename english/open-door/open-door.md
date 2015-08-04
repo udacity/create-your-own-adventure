@@ -6,3 +6,7 @@ outside the room you see...
 
 That you are about to be crushed by a giant corn. :)
 
+     or 
+
+[The nose wheel light of a 747 that is landing directly in front of you](../airplane-princess/slide.md)
+
