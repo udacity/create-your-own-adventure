@@ -1,1 +1,0 @@
-End of adventure. Bye!

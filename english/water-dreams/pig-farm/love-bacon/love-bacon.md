@@ -1,3 +1,0 @@
-You take a moment to reflect and realize your psychological state is 
-more fragile than you thought possible for a pig. You decide to search
-for a fellow pig that you can commiserate with...
