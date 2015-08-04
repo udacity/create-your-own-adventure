@@ -7,4 +7,4 @@ You Choosed To Say:
 
 [Yes](../little-me.md)
 
-[No](../../call-scotty/call-scotty.md)
+[No](../../coffee.md)
