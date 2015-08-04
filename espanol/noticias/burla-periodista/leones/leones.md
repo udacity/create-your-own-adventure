@@ -6,4 +6,4 @@ chasquir sus dedos.
 Y después:
 
 
-[Se abalanzó](../leones/lanzaronPeriodista.md)
+[Se abalanzó](../leones//lanzaleones/lanzaronPeriodista.md)
