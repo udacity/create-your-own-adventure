@@ -400,6 +400,8 @@ Do you:
 
 [Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
 
+[Draw a trapezoid](trapezoid/trapezoid.md)
+
 [Stop, hammertime!](hammertime/hammertime.md)
 
 [Analyze the composition of the marshmallow](analyze/analysis.md)
