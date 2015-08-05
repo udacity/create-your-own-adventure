@@ -12,7 +12,7 @@ usually take intoxicants, what's happening...?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
-Grave danger.
+Grave danger. Oh No!
 
 *(Is there another kind?)*
 
@@ -27,6 +27,8 @@ These marshmallows are numerous and they look so delicious.
 You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
+
+[You decide to bite the marshmallow wall](./bite-the-marshmallow/tasty-marshmallow.md)
 
 You are feeling very anxious at this point.
 
@@ -399,3 +401,11 @@ Do you:
 [Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
 
 [Draw a trapezoid](trapezoid/trapezoid.md)
+
+[Stop, hammertime!](hammertime/hammertime.md)
+
+[Analyze the composition of the marshmallow](analyze/analysis.md)
+
+[Watch Barcelona game](watch-barca/watch-barca.md) 
+
+[Oops! this story ain't ending..](unending-story/unending-story.md)

@@ -106,3 +106,5 @@ Ako govorite srpski [klikni ovde](serbian/start.md)
 If you speak Urdu [click here](urdu/urdu-news.md)
 
 Ako govorite Bosanski jezik/If You speak Bosnian language [kliknite ovdje/click here](Bosnian/Bosnian_story.md)
+
+Nếu bạn nói tiếng Việt, [nhấn vào link này](vietnamese/kechuyen.md).
