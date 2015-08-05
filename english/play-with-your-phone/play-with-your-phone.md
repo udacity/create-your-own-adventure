@@ -1,1 +1,1 @@
-You pull out your phone from the pocket. You open the web browser and run into this strange website recording an adventure exactly about you. 
+[play with your phone](pull-out-phone/pull-out-phone.md)
