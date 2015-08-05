@@ -1,3 +1,8 @@
+MINE MINE MINE
+
+yooohooo
+
+
 # Collaborative Create-Your-Own-Adventure
 
 This is a create-your-own-adventure story where at each step, the reader chooses
