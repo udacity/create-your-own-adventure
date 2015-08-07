@@ -1,4 +1,4 @@
-Olá, 
+Olá,
 
 Isto de criar uma história com base na partilha de ideias de multiplas pessoas não relacionadas
 pode ser muito interessante... Então vamos lá!
