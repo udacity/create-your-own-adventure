@@ -8,5 +8,5 @@ d'abeille) et me lance a la decouverte de la foret.
 De nombreux insectes se regalent sur moi. Soudain j'entends un grognement a quelques pas derriere
 les arbres. C'est assez inquietant.
 
-Devrais-je prendre mes jambes a mon coup?
+Devrais-je prendre mes jambes a mon cou?
 ou bien [m'approcher pour savoir ce qui m'attend dans la futaie?] (https://github.com/jeromecholewa/create-your-own-adventure/blob/jerome/french/dessine/miel/forest/approcher.md)
