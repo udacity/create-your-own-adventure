@@ -20,6 +20,8 @@ For it is where your power truly lies....
 Time is running out, and you need to act fast before the marshmallow explodes. The fate of the free world rests on your
 shoulders...
 
+Do you know what else rests on your shoulders?  That's right!  Your sweet sweet mullet.
+
 Do you:
 
 [Stick the fork in the wall?](stickfork/stickforkinwall.md)
