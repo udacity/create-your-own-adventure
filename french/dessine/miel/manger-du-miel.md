@@ -6,7 +6,7 @@ Si proche de cette cascade de miel, je distingue par transparence l'autre cote d
 Il semble qu'il y ait une foret a l'exterieur. Je decide de traverser cette paroi de nectar
 d'abeille) et me lance a la decouverte de la foret.
 De nombreux insectes se regalent sur moi. Soudain j'entends un grognement a quelques pas derriere
-les arbres. C'est assez inquietant.
+les arbres. C'est assez inquietant. Que faire?
 
 Devrais-je prendre mes jambes a mon cou?
 ou bien [m'approcher pour savoir ce qui m'attend dans la futaie?] (https://github.com/jeromecholewa/create-your-own-adventure/blob/jerome/french/dessine/miel/forest/approcher.md)
