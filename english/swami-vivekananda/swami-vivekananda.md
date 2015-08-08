@@ -13,5 +13,7 @@ But, whatever you do, be curious...
 
 But, whatever you do, do things that you're afraid of...
 
+Do what you love.
+
 [OK, now back to the issue at hand-- I just woke up in a marshmallow house.](../marshmallow.md)
 

@@ -60,6 +60,10 @@ You hear a small bird sound in the distance.
 
 But it sounds like it might be coming out of speakers.
 
+Something lightly brushes the back of your neck, sending a chill down your spine! 
+
+Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
+
 When you look away, a marshmallow hand attempts to grab the lighter.
 
 But you are too quick for the marshmallow!
