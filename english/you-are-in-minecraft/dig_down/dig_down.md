@@ -23,3 +23,5 @@ Behind you a single path...
 Do you go [left?](goleft/goleft.md)
 
 Or maybe go [right?](goright/goright.md) 
+
+Or [dig yourself out and return to collecting wood?](../gather_wood/focus_on_gathering_wood/focus_on_gathering_wood.md]]
