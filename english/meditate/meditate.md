@@ -4,6 +4,10 @@ So you begin to meditate for 30 minutes and when you finish, you feel more refre
 
 The vision of dancing women flying from cloud to cloud are magical.
 
+You decide to meditate more.  You meditate for 60 minutes and when you finish you feel agitated.
+
+Now the dancing women have been replaced by clowns.
+
 Clearing your mind and observing your thought, now your are more focused and ready to take on the day.
 
 Meditation also develops positive emotion and helps to see the world in different perspective.
