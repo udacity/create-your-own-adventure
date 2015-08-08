@@ -1,5 +1,5 @@
 Do not mistake my yawn.
-It is a scream for coffee.
+It is a silent scream for coffee.
 
 though
 you might wanna see wonderful dream 
@@ -12,6 +12,8 @@ or have just few sips and get energy
 The bitter-sweet flavor of roasted coffee beans invigorates your soul.
 
 You feel like a new person after a cup of coffee.
+
+Nothing like a cup of coffee to start your day when you wake up.
 
 Can you feel the caffeine rush inside of you?
 

@@ -2,6 +2,8 @@
 
 One morning, you wake up in a strange room with marshmallows for walls.
 
+A sound from a Hitchcock movie fills the room, then quickly fades away.
+
 Thinking back, there are no memories to suggest that this should have been
 
 anything but an ordinary morning. You didn't go out last night, you don't
@@ -10,11 +12,11 @@ usually take intoxicants, what's happening...?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
-Grave danger.
+Grave danger. Oh No!
 
 *(Is there another kind?)*
 
-The type of mortal danger that so often accompanies confectionary inspired interior design.
+The type of extreme mortal danger that so often accompanies confectionary inspired interior design.
 Quickly surveying your immediate surrounds, you notice a garishly dressed, 
 vacant eyed young man lounging on a nearby sofa.
 
@@ -26,9 +28,17 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
+[You decide to bite the marshmallow wall](./bite-the-marshmallow/tasty-marshmallow.md)
+
 You are feeling very anxious at this point.
 
+This is because you do not like leather for ethical reasons.
+
 You begin to breakout of the jacket and find a lighter, a fork, and rope.
+
+You also find a new packet of double chocolate caramel Tim Tams inside a pink sock.
+
+Do you want to [try to fill the remaining space in the sock with marshmallows](./fill-sock/fill-sock.md)?
 
 You are not sure who placed these objects near you or why.
 
@@ -37,6 +47,10 @@ But you have a growing sense that these mundane objects are vital to your surviv
 You decide to try to light a fire to melt some of the marshmallows so you look for some kindling.
 
 You have the suspicion that you are being closely watched.
+
+[Of course, it's that man on the sofa, go talk to him again.](./movie-ripoffs/zoolander/zoolander.md)
+
+[Wait, I'm in front of a mirror... Am I? Let's see...](./mirror/enter-mirror.md)
 
 You see a polar bear searching for food.
 
@@ -76,11 +90,25 @@ You pick up the fork and wrap it in rope to fashion a crappy wand.
 
 Pointing it at the door, eyes closed, "Alohomora..."
 
+Nothing seems to be happening.
+
+Sheepishly you look down on the crappy wand in your hand.
+ 
+You must be doing something wrong, you drink a beer and think about it, then Ah-ha!
+
+You notice your pants are now glowing, so you must have been holding the wand upside down.
+
 Do you:
 
-[Grab some coffee?] (coffee/coffee.md)
+[Pick up giant blowtorch](pick-up-blowtorch/blowtorch.md)
 
-[Call the GhostBusters] (ghostbusters/ghostbusters.md)
+[Go eat some rainbows](eat-rainbows/rainbows.md)
+
+[Admire your glowing pants](glowing-pants/glowing-pants.md)
+
+[Grab some coffee?](coffee/coffee.md)
+
+[Call the GhostBusters](ghostbusters/ghostbusters.md)
 
 [Talk to Bob Barker](bob-barker/barker.md)
 
@@ -280,10 +308,10 @@ Do you:
 
 [Make a Marshmallow cake](https://www.youtube.com/watch?v=3l1SY3QREv4)
 
-[Realize that you are Batman and have the Utility Belt on you. Yeah!!!](https://youtu.be/YpIQQeL2ZYk?t=22s)
+[I'm batman](I'm-batman/batman.md)
 
 [You realize you are in NeverLand and you are
- never going come... so you sing the Tinker Bell song] (https://youtu.be/Sopngy6uucw)
+ never going come... so you sing the Tinker Bell song](https://youtu.be/Sopngy6uucw)
 
 [You decide to become a marshmallow yourself.](becomemarshmallow/becomemarshmallow.md)
 
@@ -322,3 +350,62 @@ Do you:
 [Smart Ape roasting a marshmellow](https://www.youtube.com/watch?v=_ZEBrHe4hVs)
 
 [Bruce Wayne is BATS !!](batman/batman.md)
+
+[Use your chance, master self-control](self-control/self-control.md)
+
+[Have a Pip-Boy](pipboy/pipboy.md)
+
+[Call upon one of your past lives as avatar](avatar/air.md)
+
+[Play some GTA5](play-gta5/play-gta5.md)
+
+[Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
+
+[Search for gluten](search-for-gluten/search-for-gluten.md)
+
+[Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
+
+[go afk and report the jungler?](https://www.youtube.com/watch?v=jdg6cnE6IyM)
+
+[Leap on the Polar bear and charge](polar-bear-attack/polar-bear-attack.md)
+
+[Commit suicide](commit-suicide/suicide.md)
+
+[Make an appointment with the dentist](dentist/ouch.md)
+
+[Create an artificial intelligence to help you escape](robot-rap-battle/robot-rap-battle.md)
+
+[You Google what to do](https://www.google.co.in/)
+
+[Abdul kalam quotes on overcoming fear](apj/apj.md)
+[If you want something done right, you have to do it yourself.](untrustworthy/untrustworthy.md)
+
+[There's no such thing as a free lunch.](free-lunch/free-lunch.md)
+
+[Follow the dog...](play-with-dog/dog.md)
+
+[What is LOVE ?](love/love.md)
+
+[Got to Singapore](singapore/singapore.md)
+
+[Talk to Finn](talk-to-finn/finn.md)
+
+[Play Guitar](guitar/guitar.md)
+
+[Rinse the marshmallow under the tap then eat it](dysentry/dysentry.md)
+
+[Wake up!](wake-up/wake-up.md)
+
+[Thank Mr. Skeltal](2spooky/2spooky.md)
+
+[Utilize your wand once again...](utilize-wand/fork-rope-wand.md)
+
+[Draw a trapezoid](trapezoid/trapezoid.md)
+
+[Stop, hammertime!](hammertime/hammertime.md)
+
+[Analyze the composition of the marshmallow](analyze/analysis.md)
+
+[Watch Barcelona game](watch-barca/watch-barca.md) 
+
+[Oops! this story ain't ending..](unending-story/unending-story.md)

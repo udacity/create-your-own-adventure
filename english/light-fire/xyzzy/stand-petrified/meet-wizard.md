@@ -13,4 +13,6 @@ She points a long finger at the spot between your eyes.
 
 "Before you choose, you must know that this will entail travel through time and space
 to Berlin in the year 1898. Ponder carefully your future."
+
+How will you choose?
  

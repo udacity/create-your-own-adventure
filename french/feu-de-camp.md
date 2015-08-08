@@ -1,5 +1,7 @@
 Par un beau matin, vous vous réveillez dans une pièce étrange aux murs en pain d'épice.
 
+On aurait pû faire que les murs soient fait en pâte de guimave, mais ce sont des murs français. ;)
+
 Que faites-vous ?
 
 [Je me rendors](dormir/reve-etrange.md)

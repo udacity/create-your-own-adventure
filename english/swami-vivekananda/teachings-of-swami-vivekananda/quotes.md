@@ -39,3 +39,5 @@ Infinite faith and strength are the only conditions of success.
 
 
 [Read More](http://www.awakeningindia.org/life/Teachings.aspx)
+
+[OK, this was interesting, but something's weird about this place... is that marshmallow?](../../marshmallow.md)

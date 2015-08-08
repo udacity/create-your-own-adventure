@@ -11,3 +11,7 @@ Repeat You launch Siri
  Siri: Ok. How can I help you?
 
 Until battery dies…
+
+Do you:
+
+[Wait](../ghostbusters/ghostbusters.md)

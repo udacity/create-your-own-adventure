@@ -8,7 +8,7 @@
 
 [다시 잔다](sleep/marshmallow.md)?
 
-[이건 아니다 싶어 영어 버션으로 간다](../english/marshmallow.md)?
+[이건 아니다 싶어 영어 버전으로 간다](../english/marshmallow.md)?
 
 [어쩔줄 모르고 그냥 운다](cry/cry.md)?
 
@@ -21,3 +21,11 @@
 [집에 가고싶어 밖으로 나간다](explore-outside/explore-outside.md)?
 
 [벽에서 마시멜로를 한 움큼 떼어내어 축구를 한다](soccer/soccer.md)?
+
+[마쉬멜로라면 핫초코지~! 핫초코를 사러 나간다.](coco/coco.md)
+
+[다시잔다](marshmallow.md)
+
+[큰소리로 엄마를 부른다](call-mom/call-mom.md)
+
+[책을 읽는다] (read/read.md)?

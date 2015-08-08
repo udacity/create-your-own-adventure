@@ -11,3 +11,8 @@ You have accidently entered into Kafka's world that has been redesigned
 by Murakami... you cannot escape it!
 
 [Life in the real world](problems/realproblems.md).
+
+You try to take off the oculus gear again to no avail.  
+You faintly hear Sonny and Cher's "I Got You Babe" in the background. 
+After scanning the room you see Hansel smoking his joint. 
+He's in the exact same position as he was yesterday.

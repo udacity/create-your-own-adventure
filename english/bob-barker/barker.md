@@ -1,8 +1,10 @@
 The door thuds open and the light coming from within the room in front of you blinds you momentarily.
 
-When your vision clears, standing before you is Bob Barker in all his glory.  
+When your vision clears, standing before you is Bob Barker in all his glory.
 
-He doesn't look a day past 50.  Like all of the greats he doesn't age in your mind.  
+You stare at him in awe.
+
+He doesn't look a day past 50.  Like all of the greats he doesn't age in your mind.
 
 He is flanked by two of the hottest...marshmallows that you have ever seen.
 
@@ -12,7 +14,11 @@ Bob with a gleam in his eye, looks at you and says, "Come on down you're the nex
 
 You step into the room and walk up to Bob.  Behind him are two large doors.
 
+The flaming hot marshmallows are gesturing suggestively at the doors while swaying their flaming hips.
+
 "Which door is the door for you, the blue door, or the red door?", he asks.
+
+"Before you decide, Remember help control the pet population. Have your pet spayed or neutered.", he announced.
 
 You hesitate just a moment before replying...
 

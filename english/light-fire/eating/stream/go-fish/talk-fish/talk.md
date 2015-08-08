@@ -4,4 +4,4 @@ A lot of things are on your mind. It's been a busy day so far!
 
 What do you talk about with the fish?
 
-[Talk about the weather] (weather/weather.md)
+[Talk about the weather](weather/weather.md)

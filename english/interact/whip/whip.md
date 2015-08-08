@@ -20,8 +20,8 @@ And it looks like you made them all angry!
 
 Do you:
 
-[Lay down and play dead] (/english/macgyver/toss-lighter/Dead/Play_dead.md)
+[Lay down and play dead](/english/macgyver/toss-lighter/Dead/Play_dead.md)
 
-[Pick up the lighter] (/english/lighter/grab-lighter.md)
+[Pick up the lighter](/english/lighter/grab-lighter.md)
 
-[Decide not to eat spicy foods before bed] (spicy/spicy-foods.md)
+[Decide not to eat spicy foods before bed](spicy/spicy-foods.md)

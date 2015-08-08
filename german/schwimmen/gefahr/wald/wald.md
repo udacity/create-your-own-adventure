@@ -5,6 +5,6 @@ Es ist schwül und Sie hören fremdartige Geräusche tropischer Tiere.
 Plötzlich knackt es dicht neben Ihnen im Unterholz. 
 Ein Leopard blickt sprungbereit in Ihre Augen. 
 
-[Wegrennen] (flucht/flucht.md)
+[Wegrennen](flucht/flucht.md)
 
-[Auf einen Baum klettern] (klettern/klettern.md)
+[Auf einen Baum klettern](klettern/klettern.md)

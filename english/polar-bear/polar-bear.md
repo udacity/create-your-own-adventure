@@ -25,6 +25,11 @@ the walruses quickly help the situation by using their tusks to pierce any
 marshmellows and create a rip in the fabric of reality.. you jump on the 
 walruses back..
 
+While riding the walrus you quickly pull the pin from the hand grenade you’ve been clenching.
+
+You then toss the grenade in the general direction of the polar bear. 
+
+The grenade explodes and causes the bear to lose a layer of skin.
 
 Now you decide to:
 

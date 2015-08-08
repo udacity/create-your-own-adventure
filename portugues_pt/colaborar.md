@@ -1,4 +1,4 @@
-Olá, 
+Olá,
 
 Isto de criar uma história com base na partilha de ideias de multiplas pessoas não relacionadas
 pode ser muito interessante... Então vamos lá!
@@ -13,3 +13,5 @@ Eu quero é praia! Vou para umas [ilhas tropicais](praias/solemar.md)
 Contribuía para [obras de caridade](caridade/caridade.md)
 
 Compraria [componentes eletronicos](componentes/componentes.md)
+
+Usava um repositorio privado.
