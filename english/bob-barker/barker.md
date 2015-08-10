@@ -28,4 +28,4 @@ You hesitate just a moment before replying...
 
 [Grab some coffee?](../coffee/coffee.md)
 
-[Can a phone a friend?](phone-a-friend/phone-a-friend.md)
+[Can I phone a friend?](phone-a-friend/phone-a-friend.md)
