@@ -23,6 +23,7 @@ vacant eyed young man lounging on a nearby sofa.
 [Interrogate the man for clues](./movie-ripoffs/zoolander/zoolander.md)  
 
 These marshmallows are numerous and they look so delicious.
+... despite the feeling they're somehow judging you for only wearing one sock.
 
 You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
 
