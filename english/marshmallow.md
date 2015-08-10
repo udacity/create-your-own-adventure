@@ -22,7 +22,8 @@ vacant eyed young man lounging on a nearby sofa.
 
 [Interrogate the man for clues](./movie-ripoffs/zoolander/zoolander.md)  
 
-These marshmallows are numerous and they look so delicious, despite the feeling they're somehow judging you for only wearing one sock.
+These marshmallows are numerous and they look so delicious.
+... despite the feeling they're somehow judging you for only wearing one sock.
 
 You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
 
@@ -44,7 +45,7 @@ You are not sure who placed these objects near you or why.
 
 But you have a growing sense that these mundane objects are vital to your survival.
 
-You decide to try to light a fire to melt some of the more judgmental marshmallows so you look for some kindling.
+You decide to try to light a fire to melt some of the marshmallows so you look for some kindling.
 
 You have the suspicion that you are being closely watched.
 
