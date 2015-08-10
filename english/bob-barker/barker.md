@@ -27,3 +27,5 @@ You hesitate just a moment before replying...
 [The red door](2050s/2050s.md)
 
 [Grab some coffee?](../coffee/coffee.md)
+
+[Can I phone a friend?](phone-a-friend/phone-a-friend.md)
