@@ -18,7 +18,7 @@ Grave danger. Oh No!
 
 The type of extreme mortal danger that so often accompanies confectionary inspired interior design.
 Quickly surveying your immediate surrounds, you notice a garishly dressed, 
-vacant eyed young man lounging on a nearby sofa.
+vacant-eyed young man lounging on a nearby sofa.
 
 [Interrogate the man for clues](./movie-ripoffs/zoolander/zoolander.md)  
 
