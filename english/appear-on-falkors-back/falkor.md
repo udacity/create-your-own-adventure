@@ -7,4 +7,6 @@ Just click on the link.
 
 [Pinch yourself](../pinch/pinch.md)
 
+[Yell of exhilaration](../yearg/yearg.md)
+
 [Make a Marshmallow Cake](https://www.youtube.com/watch?v=3l1SY3QREv4)
