@@ -169,6 +169,8 @@ Do you:
 
 [Light a fire?](light-fire/fire.md)
 
+[Hungry Kya?](hungry/hungry.md)
+
 [Offer to get the narrator a ladder, so they can get off your back?](can-i-get-you-a-ladder/can-i-get-you-a-ladder.md)
 
 [dig a hole with your bare hands?](hands/hands.md)
