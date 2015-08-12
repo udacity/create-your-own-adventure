@@ -1,0 +1,1 @@
+You open the web browser, and run into a strange site that describes perfectly about your adventure. The website's name is GitHub.
