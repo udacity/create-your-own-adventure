@@ -8,4 +8,4 @@ But I know what you're wondering. If Bruch Wayne is the Bat, then who is Bruce W
 
 ...IT'S JOHN CENA!!!
 
-but you wonder does it end [here?](../../movie-ripoffs/selfaware/selfaware.md)
+but you wonder does it end [here?](../movie-ripoffs/selfaware/selfaware.md)
