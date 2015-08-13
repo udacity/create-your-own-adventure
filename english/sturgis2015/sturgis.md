@@ -16,5 +16,5 @@ handle ONE MILLION bikers????  Let's find out!
 
 [Bike Shows](https://www.youtube.com/watch?v=BCHi9_hrtJI)
 
-[People Downtown](SturgisPhoto.jpg)
+[People Downtown](http://www.rickbird.com/downloads/SturgisPhoto.jpg)
 
