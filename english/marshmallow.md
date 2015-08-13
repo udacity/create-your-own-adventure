@@ -420,3 +420,6 @@ Do you:
 [Code](code/code.md)
 
 [Play on miniclip!] (papa-louie/papa-louie.md)
+
+[Visit Sturgis 2015!](sturgis2015/sturgis.md)
+
