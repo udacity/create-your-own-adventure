@@ -45,3 +45,5 @@ Do you:
 [checkout Susans website](http://www.susanjustin.com/wpsj)
 
 [Remember the advice your mother gave you:](../advice_from_mother/advice_from_mother.md)
+
+[Succumb] (../madness/cthulhu.md) to the madness.
