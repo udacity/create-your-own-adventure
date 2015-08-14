@@ -2,6 +2,8 @@
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
+தமிழ் வணக்கம்! To see Tamil Proverb about Friendship [go here](Tamil/Thirukural.md)
+
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
 यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।](nepali/about_nepal.md)
