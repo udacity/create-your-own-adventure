@@ -425,3 +425,5 @@ Do you:
 
 [Visit Sturgis 2015!](sturgis2015/sturgis.md)
 
+[Attack marshmallow pikachu!](pikachu/pokeball.md)
+
