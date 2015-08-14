@@ -418,3 +418,10 @@ Do you:
 [Oops! this story ain't ending..](unending-story/unending-story.md)
 
 [Code](code/code.md)
+
+[Screaming goat is screaming](https://youtu.be/kh6c0SOfkH4)
+
+[Play on miniclip!] (papa-louie/papa-louie.md)
+
+[Visit Sturgis 2015!](sturgis2015/sturgis.md)
+
