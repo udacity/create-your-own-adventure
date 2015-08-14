@@ -22,4 +22,7 @@ I must resolve this marshmallow dream.... i'm sweating!!
 I must get revenge from pikachu as well but maybe later....
 I am going to continue this battle in the real world, buying a gameboy!
 
-[buy a gameboy] (../buy-gameboy/buy-gameboy.md)
+
+[buy a gameboy](../buy-gameboy/buy-gameboy.md)
+
+
