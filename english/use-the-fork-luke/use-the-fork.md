@@ -42,11 +42,33 @@ Just before you step through the door, you think to yourself...
 
 WHO APPROVED THIS MERGE?!?!
 
+Suddenly the door creeks open to a bright blinding light, from which the silhouette
+of a tall figure appears to be approaching. As the figure approaches, you start to 
+realize the being is unlike any other, it walks in a strange jittery waddle. All 
+this freaks you out, but you feel paralyzed, unable to move, a force grips you as 
+the figure inches closer to you. You begin to realize that the the being is none 
+other than Man-Bear-Pig!
 
+You scream out of fright, and notice the reflection of the hippy holding a large 
+a blue fork in the mirror next to you, even though there is no one else in the room!
+He gestures for you to reach towards the mirror! 
 
-
+[Reach towards the mirror...](../virtualreality/oculus.md)
 
 [Step through the door...](../marshmallow.md)
 
 [Look in the mirror...](../it-was-me/it-was-me.md)
 
+
+Suddenly the door creeks open to a bright blinding light, from which the silhouette 
+of a tall figure appears to be approaching. As the figure approaches, you start to 
+realize the being is unlike any other, it walks in a strange jittery waddle. All 
+this freaks you out, but you feel paralyzed, unable to move, a force grips you as 
+the figure inches closer to you. You begin to realize that the the being is none 
+other than Man-Bear-Pig!
+
+You scream out of fright, and notice the reflection of the hippy holding a large a 
+blue fork in the mirror next to you, even though there is no one else in the room! 
+He gestures for you to reach towards the mirror!
+
+[Reach towards the mirror...](../virtualreality/oculus.md)
