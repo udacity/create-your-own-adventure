@@ -9,3 +9,5 @@
 [اريد ان اتعلم المزيد](learn/learn.md)
 
 [اريد ان احلم](dream/dream.md)
+
+(passion/passion.md) [اريد ان اجد شغفي في الحياه]
