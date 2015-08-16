@@ -5,3 +5,5 @@ Okulda en nefret ettiğin şey tahta tırnakla çizildiğinde çıkan sesti. Şi
 Ne yapacaksın? 
 
 [Metali Çek](metali-cek/metali-cek.md)
+
+[Kus](kus/kus.md)
