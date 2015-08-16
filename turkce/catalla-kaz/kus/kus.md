@@ -10,4 +10,4 @@ Bir yol bulup ilerlemek de bir seçenekti.
 
 Ne yapacaksın?
 
-[Duvarları yeme başla?](../turkce/duvarlari-ye/duvarlari-ye.md)
+[Duvarları yeme başla?](https://github.com/udacity/create-your-own-adventure/blob/master/turkce/duvarlari-ye/duvarlari-ye.md)
