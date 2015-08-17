@@ -54,6 +54,9 @@ Ihi, mormai Ginel, cu gura cascata si cu ochii fixati undeva, adanc.
 
 Haide, ia si tu o gura, ca imi esti simpatic.
 
-Pai, se puse pe ganduri Ginel, [sa beau](potiune_fermecata/beau/beau.md) sau... 
+Pai, se puse pe ganduri Ginel, [sa beau](potiune_fermecata/beau/beau.md)
+
+sau...
+
 [sa nu beau](potiune_fermecata/nu_beau/nu_beau.md)?
 
