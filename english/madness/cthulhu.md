@@ -6,8 +6,8 @@ Cthulhu, the eldritch terror, emerges through the haze.
 Your brain spasms in abject horror. He says nothing, but your
 choice is clear. Do you:
 
-[Writhe] (writhe.md) in agony for ten thousand millenia
+[Writhe] (writhe/writhe.md) in agony for ten thousand millenia
 
-Accept instant death at the hands of the [Yog-Sothoth] (yog-sothoth.md)
+Accept instant death at the hands of the [Yog-Sothoth] (yogsothoth/yog-sothoth.md)
 
-[Boil] (boil.md) your own flesh with the heat of one million suns
+[Boil] (boil/boil.md) your own flesh with the heat of one million suns
