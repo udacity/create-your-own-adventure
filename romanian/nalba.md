@@ -38,3 +38,25 @@ Aparu, [Zana Albastra](zana_albastra/cum_arata_zana.md):
 
 - Dragii mei, nu mai beti ceai de nalbe! Am nevoie de toate nalbele de 
 aici pentru o [potiune fermecata](potiune_fermecata/potiune.md).
+
+Sigur, Zana albastra, spuse Ginel.
+Si ii dadu zanei nalbele, iar zana se puse pe treaba, sa faca potiunea cea fermecata...
+
+Plictisita, Gina pleca sa-si cumpere Orbit.
+
+Ginel continua sa se holbeze la zana cand, dintr-odata, puhhh! Un nor rosu
+cuprinse zana de la genunchi pana peste cap, asa incat inca i se mai vedeau
+pantofi albastrii...
+
+Bun, bun, buuun! zise zana. Stiam eu ca ma pricep la "d-astea" :-D
+
+Ihi, mormai Ginel, cu gura cascata si cu ochii fixati undeva, adanc.
+
+Haide, ia si tu o gura, ca imi esti simpatic.
+
+Pai, se puse pe ganduri Ginel, [sa beau](potiune_fermecata/beau/beau.md)
+
+sau...
+
+[sa nu beau](potiune_fermecata/nu_beau/nu_beau.md)?
+
