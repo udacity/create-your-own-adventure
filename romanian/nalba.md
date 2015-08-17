@@ -56,3 +56,4 @@ Haide, ia si tu o gura, ca imi esti simpatic.
 
 Pai, se puse pe ganduri Ginel, [sa beau](potiune_fermecata/beau/beau.md) sau... 
 [sa nu beau](potiune_fermecata/nu_beau/nu_beau.md)?
+
