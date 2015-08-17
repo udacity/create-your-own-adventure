@@ -1,5 +1,7 @@
 Upon closer inspection, one of the marshmallows is making bird sounds.
 
+A Marshmallow Peep!
+
 The twittering sounds like a muffled, frantic, "Help me, help me!" 
 
 You chuckle to yourself thinking, "Wizards always try to play god". 
