@@ -9,6 +9,6 @@
 
 מה עכשיו?
 
-[תתקשר לאסתי גינזבורג](esti/esti.md) 
+[תתקשר לאסתי גינזבורג](hebrew/esti/esti.md) 
 
-[תתקשר לסוכנות מזראטי](maserati/maserati.md)
+[תתקשר לסוכנות מזראטי](hebrew/maserati/maserati.md)
