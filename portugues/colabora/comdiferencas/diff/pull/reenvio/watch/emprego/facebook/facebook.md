@@ -1,1 +1,2 @@
-O Facebook aceita o convite e também inclui e Udacity no projeto e juntos vocês disponibilizam um excelente curso sobre Git/GitHub!
+O Facebook aceita o convite e também inclui a Udacity no projeto.
+Juntos vocês disponibilizam um excelente curso sobre Git/GitHub!
