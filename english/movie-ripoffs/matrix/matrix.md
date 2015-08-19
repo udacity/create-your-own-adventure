@@ -35,3 +35,5 @@ gooey liquid smashes Morpheus across the room.  Choose the next spell:
 ["Woah" just to see what happens](../selfaware/selfaware.md)
 
 ["Valar Morghulis"](../../valarmorghulis/valarmorghulis.md)
+
+["Mop the floor with him" to summon your bristly army](../fantasia/fantasia.md)
