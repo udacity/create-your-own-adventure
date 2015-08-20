@@ -16,3 +16,5 @@ Wait a minute....how did you end up in this car?  You must be hallucinating
 [You open the door and there is a man sitting on your couch](../movie-ripoffs/zoolander/zoolander.md)
 
 [Ask the driver "Where are we going?!"](ricky/ricky.md)
+
+[Procrastinate with social media](lamping.md)
