@@ -405,6 +405,8 @@ Do you:
 
 [Play Guitar](guitar/guitar.md)
 
+[Contemplate the meaning of life](meaning/meaning.md)
+
 [Rinse the marshmallow under the tap then eat it](dysentry/dysentry.md)
 
 [Wake up!](wake-up/wake-up.md)
