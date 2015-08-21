@@ -7,4 +7,4 @@ wall, to floor, to ceiling, and back again. Finally, before you become sick from
 bouncing around you bounce right through one of the marshmallow walls to find yourself right
 back at the beginning.
 
-[Beginning] (../../marshmallow.md)
+[Beginning] (../marshmallow.md)
