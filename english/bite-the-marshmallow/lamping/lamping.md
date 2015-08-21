@@ -1,2 +1,2 @@
-As you begin to scroll through your feed on IG and using your 
+As you begin scrolling through your feed on IG and using your 
 super-retweeting abilities, the realities of the universe fade...
