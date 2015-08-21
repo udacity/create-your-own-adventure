@@ -17,4 +17,4 @@ Wait a minute....how did you end up in this car?  You must be hallucinating
 
 [Ask the driver "Where are we going?!"](ricky/ricky.md)
 
-[Procrastinate with social media](lamping.md)
+[Procrastinate with social media](lamping/lamping.md)
