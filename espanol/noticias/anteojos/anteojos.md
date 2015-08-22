@@ -1,4 +1,4 @@
-Una vez que mencione que necesita anteojos, el periodista, indignado, replica que ha tenido problema para ver sin ellos.
+Una vez que mencione que necessita anteojos el periodista dice que nunca ha tenido problema sin ellos.
 
 ensequida:
 
