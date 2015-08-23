@@ -17,3 +17,5 @@ Do you:
 [Soar through the air?](../soar/soar.md)
 
 [Plummet like a rock?](../plummet/plummet.md)
+
+[Dance, dance for elevation?](../hammertime/hammertime.md)
