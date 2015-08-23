@@ -111,7 +111,8 @@ You notice your pants are now glowing, so you must have been holding the wand up
 
 Suddenly, you become aware of the need to take a leak. You look around for a restroom.
 
-You can't hold it. You wonder, Are glowing pants waterproof? You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)  
+You can't hold it. You wonder, Are glowing pants waterproof? 
+You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)  
 
 
 Do you:
