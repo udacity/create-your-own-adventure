@@ -109,6 +109,11 @@ You must be doing something wrong, you drink a beer and think about it, then Ah-
 
 You notice your pants are now glowing, so you must have been holding the wand upside down.
 
+Suddenly, you become aware of the need to take a leak. You look around for a restroom.
+
+You can't hold it. You wonder, Are glowing pants waterproof? You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)  
+
+
 Do you:
 
 [Pick up giant blowtorch](pick-up-blowtorch/blowtorch.md)
