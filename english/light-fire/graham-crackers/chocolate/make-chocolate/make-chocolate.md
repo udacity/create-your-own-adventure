@@ -18,4 +18,4 @@ You are eaten by a grue.
 
 You die...
 
-[What is a grue?](../../../grue/grue.md)
+[What is a grue?](../../../../grue/grue.md)
