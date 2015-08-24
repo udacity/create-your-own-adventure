@@ -4,6 +4,8 @@ On aurait pû faire que les murs soient fait en pâte de guimave, mais ce sont des
 
 Que faites-vous ?
 
+[J'appel au secours](appel-au-secours/appeler-au-secours.md)
+
 [Je me rendors](dormir/reve-etrange.md)
 
 [Je cherche une sortie](sortie/chercher-la-sortie.md)
