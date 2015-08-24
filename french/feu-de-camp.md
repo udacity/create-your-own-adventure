@@ -1,6 +1,6 @@
-Par un beau matin, vous vous réveillez dans une pièce étrange aux murs en pain d'épice.
+Par un beau matin, vous vous rÃ©veillez dans une piÃ¨ce Ã©trange aux murs en pain d'Ã©pice.
 
-On aurait pû faire que les murs soient fait en pâte de guimave, mais ce sont des murs français. ;)
+On aurait pÃ» faire que les murs soient fait en pÃ¢te de guimave, mais ce sont des murs franÃ§ais. ;)
 
 Que faites-vous ?
 
@@ -16,10 +16,10 @@ Que faites-vous ?
 
 [J'appelle mon prof de musique](telephone/prof_musique.md)
 
-[Je dessine une porte avec un syphon de crème chantilly qui traine](dessine/porte.md)
+[Je dessine une porte avec un syphon de crÃ¨me chantilly qui traine](dessine/porte.md)
 
 [Je ne parle pas francais](../english/marshmallow.md)
 
-[J'appelle ma mère immédiatement](appel-maman/appeler-maman.md)
-
 [J'appel au secours](appel-au-secours/appeler-au-secours.md)
+
+[J'appelle ma mÃ¨re immÃ©diatement](appel-maman/appeler-maman.md)
