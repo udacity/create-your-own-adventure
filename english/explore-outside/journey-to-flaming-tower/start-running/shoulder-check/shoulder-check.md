@@ -6,4 +6,4 @@ gingerbread fly past you as your shoulder shatters the cookie creature. Its head
 whirls through the air, a frown on its face.
 
 Its last words before it breaks upon the rock-candy ground are, "I can't catch
-you, I'm the Gingerbread Man.
+you, I'm the Gingerbread Man."
