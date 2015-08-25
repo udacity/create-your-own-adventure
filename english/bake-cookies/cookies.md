@@ -16,3 +16,5 @@ Do you:
 [Make coffee first?](../coffee/coffee.md)
 
 [Breathe?](../yoga/breathe/breathe.md)
+
+[Want to get high?](../weed/weed.md)
