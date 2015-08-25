@@ -26,3 +26,9 @@ bringing the camp fire...
 Where did that "slumber" come from? 
 Next thing I'll hear is "fee fi fo fum".
 My God what have I done.
+
+Do you:
+
+[Suddenly stop running](stop-running/apologize.md)
+
+[Change your mind and run back the other way](../marshmallow.md)
