@@ -1,6 +1,8 @@
 You recently read that meditation helps you feel more awake, relieves stress, and helps you prepare for the day ahead.
 
-So you begin to meditate for 30 minutes and when you finish, you feel more refreshed than ever.
+You decide to whip out your iPhone 4s (yes, it's probably about time that you upgrade your phone) and open the Headspace meditation app.
+
+After getting comfortable and settled, you begin to meditate for 30 minutes and when you finish, you feel more refreshed than ever.
 
 The vision of dancing women flying from cloud to cloud are magical.
 
@@ -12,13 +14,15 @@ Clearing your mind and observing your thought, now your are more focused and rea
 
 Meditation also develops positive emotion and helps to see the world in different perspective.
 
-Daily meditation practice helps in long time. 
+Daily meditation practice helps in long time.
 
 And you feel like you need to do something, but what ...
 
-Answer: sit, stare, fill your consciousness with Git 
+Answer: sit, stare, fill your consciousness with Git
 
 Afterwards, you decide to:
+
+[try shrooms](../shrooms/never-again.md)
 
 [dance with joy](../dance/dance.md)
 
