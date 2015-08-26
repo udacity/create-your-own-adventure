@@ -428,7 +428,7 @@ Do you:
 
 [Stop, hammertime!](hammertime/hammertime.md)
 
-[Analyze the composition of the marshmallow](analyze/analysis.md)
+[Analyze the composition of the marshmallow](analyze/analysis.md) 
 
 [Watch Barcelona game](watch-barca/watch-barca.md)
 
