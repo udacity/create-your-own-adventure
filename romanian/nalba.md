@@ -60,3 +60,5 @@ sau...
 
 [sa nu beau](potiune_fermecata/nu_beau/nu_beau.md)?
 
+Bineinteles ca o sa bea. Ginel stia ca asta inseamna sa fii mafiot la urma urmei (bautura si femei).
+

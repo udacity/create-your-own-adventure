@@ -19,3 +19,5 @@ Wait a minute....how did you end up in this car?  You must be hallucinating
 
 Magically, the car pulls up in front of your dentist's office.
 [You get out and go into the office.](dentist/dentist-office.md)
+
+[Procrastinate with social media](../lamping/lamping.md)
