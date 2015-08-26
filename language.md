@@ -114,3 +114,5 @@ Ako govorite Bosanski jezik/If You speak Bosnian language [kliknite ovdje/click 
 Nếu bạn nói tiếng Việt, [nhấn vào link này](vietnamese/kechuyen.md).
 
 Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
+
+ئەگەر ئۇيغۇرچە سۆزلىسىڭىز، [بۇ يەرگە كىرىڭ](uyghurish/uyghurish-story.md)
