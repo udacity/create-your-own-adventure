@@ -5,14 +5,12 @@ You also notice that there is a giant graham cracker and Hershey's chocolate bar
 "Let's do this thing," you say to yourself as you turn on the blowtorch.
 
 As you carve though the walls like a hot knife through butter, 
-
 you throw an enormous slab of marshmallow on a graham cracker.
 
 You're actually enjoying this, you think to yourself.
 
 Eventually, you're supporting (and eating) a 25 lbs smores in one hand, 
 burning your way to freedom with the other when
-
 you break into the next cavern only to see a 200 ft Stay Puft Marmallow Man turn who rumbles:
 
 "Who disturbs my slumber?" 
