@@ -1,4 +1,4 @@
-Una vez que mencione que necessita anteojos el periodista dice que nunca ha tenido problema sin ellos.
+Una vez que mencione que necesita anteojos el periodista dice que nunca ha tenido problema sin ellos, ya que su defecto de visión es muy leve
 
 Sin embargo, inmediatamente despues se tropieza con un cubito de hielo que claramente no vio, asi que
 Beatito
