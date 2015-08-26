@@ -18,6 +18,8 @@ Grave danger. Oh No!
 
 *(Is there another kind?)*
 
+I actually used to know a guy named Dave Granger. We sure had some good times! Anyway, the possibility of danger lurks.
+
 The type of extreme mortal danger that so often accompanies confectionary inspired interior design.
 Quickly surveying your immediate surrounds, you notice a garishly dressed, 
 vacant-eyed young man lounging on a nearby sofa.
