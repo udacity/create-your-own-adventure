@@ -53,7 +53,7 @@ But you have a growing sense that these mundane objects are vital to your surviv
 
 You decide to try to light a fire to melt some of the marshmallows so you look for some kindling.
 
-You have the suspicion that you are being closely watched.
+[You have the suspicion that you are being closely watched.](./watched/watched.md)
 
 [Of course, it's that man on the sofa; go talk to him again.](./movie-ripoffs/zoolander/zoolander.md)
 
