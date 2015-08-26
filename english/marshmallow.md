@@ -445,4 +445,6 @@ Do you:
 
 [Bounce](bounce/bounce.md)
 
+[Play some DotA 2](play-dota2/play-dota2.md)
+
 [See if there is a Udacity course on the subject](udacity/udacity.md)
