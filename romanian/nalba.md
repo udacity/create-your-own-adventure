@@ -3,6 +3,9 @@ Ce faci?
 
 [Te apuci sa faci un foc](foc/faci-foc.md)
 
+[Inapoi la somn!!!](somn/inapoi_la_somn.md)
+
+
 Cand ii gata focu o suni pe Ginuta. Abea astepti sa-i dai si ei nalbe.
 Sti tu ca ii plac mult de tot nalbele. Asa ca atunci cand ajunge
 Va dati impreuna capat pana ramaneti fara... pat.
