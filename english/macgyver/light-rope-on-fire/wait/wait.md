@@ -19,4 +19,4 @@ Do you:
 
 [Aim for a soft landing on the forest floor](../../../find-exit/into-forest/forest.md)
 
-[place the fork in your teeth and grab for the highest branches!](../../../forest-canopy.md)
+[Place the fork in your teeth and grab for the highest branches!](../../../forest-canopy.md)
