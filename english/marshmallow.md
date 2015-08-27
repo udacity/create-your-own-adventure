@@ -352,7 +352,7 @@ Do you:
 [The inception protocol](dream_in_dream/inception.md)
 
 [Choose the blue pill or the red pill?](choose-pill/choose-pill.md)
-
+ 
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
  
 [You take the red pill](red-pill/red-pill.md)
@@ -428,9 +428,9 @@ Do you:
 
 [Stop, hammertime!](hammertime/hammertime.md)
 
-[Analyze the composition of the marshmallow](analyze/analysis.md)
+[Analyze the composition of the marshmallow](analyze/analysis.md) 
 
-[Watch Barcelona game](watch-barca/watch-barca.md)
+[Watch Barcelona game](watch-barca/watch-barca.md) 
 
 [Oops! this story ain't ending..](unending-story/unending-story.md)
 
