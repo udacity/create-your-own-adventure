@@ -26,6 +26,12 @@ vacant-eyed young man lounging on a nearby sofa.
 
 [Pinch yourself to see if this is a dream.](./is-this-a-dream/is-this-a-dream.md)
 
+You recall what a man said to you once: "Live as one of them, Kal-El, to discover
+where your strength and your power are needed. Always hold in your heart the
+pride of your special heritage. They can be a great people, Kal-El; they wish to
+be. They only lack the light to show the way. For this reason above all, their
+capacity for good, I have sent them you... my only son."
+
 [Remember that you are superman.](./remember-you-are-superman/remember-you-are-superman.md)
 
 [Interrogate the man for clues.](./movie-ripoffs/zoolander/zoolander.md)  
