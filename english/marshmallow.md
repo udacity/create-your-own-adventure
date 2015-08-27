@@ -350,8 +350,8 @@ Do you:
 [After breakfast you lookup triathlon](triathlon/triathlon.md)
 
 [The inception protocol](dream_in_dream/inception.md)
-
-[Choose the blue pill or the red pill?](choose-pill/choose-pill.md)
+ 
+[Choose the blue pill or the red pill?](choose-pill/choose-pill.md) 
  
 [Pull out your proton pack!](ghost-buster/ghost-busted.md) 
  
