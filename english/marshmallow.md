@@ -355,8 +355,8 @@ Do you:
 
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
  
-[You take the red pill](red-pill/red-pill.md)
-
+[You take the red pill](red-pill/red-pill.md) 
+ 
 [Twas the Night Before Christmas](night-night/tale.md)
 
 [heck Reddit for any useful information.](reddit/ask-reddit.md)
