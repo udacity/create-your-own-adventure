@@ -354,7 +354,7 @@ Do you:
 [Choose the blue pill or the red pill?](choose-pill/choose-pill.md)
 
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
- 
+
 [You take the red pill](red-pill/red-pill.md)
 
 [Twas the Night Before Christmas](night-night/tale.md)
@@ -430,7 +430,7 @@ Do you:
 
 [Analyze the composition of the marshmallow](analyze/analysis.md)
 
-[Watch Barcelona game](watch-barca/watch-barca.md) 
+[Watch Barcelona game](watch-barca/watch-barca.md)
 
 [Oops! this story ain't ending..](unending-story/unending-story.md)
 
