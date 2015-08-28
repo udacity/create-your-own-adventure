@@ -69,6 +69,8 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 
 You see a polar bear searching for food.
 
+[Whilst cycling backwards.](./cycling-backwards/cycling-backwards.md)
+
 "Well- OK," you admit to yourself, "perhaps I do indulge in the occasional intoxicant!"
 
 You hear a small bird sound in the distance.
