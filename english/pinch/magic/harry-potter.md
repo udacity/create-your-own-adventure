@@ -3,3 +3,5 @@ Hogwarts School of Witchcraft and Wizadry.
 
 You try to remember some magic from the harry potter books 
 that you have read so many times by now.
+
+[try apparating](../../movie-ripoffs/hogwarts/hogwarts.md)
