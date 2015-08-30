@@ -126,6 +126,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 Do you:
 
+[Feel a sudden urge to dance](https://youtu.be/dQw4w9WgXcQ)
+
 [Make changes on GitHub to revise this crazy story](make_changes_GitHub/make_changes_GitHub.md)
 
 [Pick up giant blowtorch](pick-up-blowtorch/blowtorch.md)
