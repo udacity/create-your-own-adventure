@@ -16,3 +16,5 @@ Què fas?
 [Et pessigues el braç](pessigar-se/pessigar-se.md)
 
 [T'aixeques del llit](aixecar/aixecar.md)
+
+[Comences a menjar sucre desesperadament](menjar/menjar.md)
