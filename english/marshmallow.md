@@ -1,4 +1,4 @@
-[Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
+﻿[Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
 
 One morning, you wake up in a strange room with marshmallows for walls.
 
@@ -462,3 +462,6 @@ Do you:
 [See if there is a Udacity course on the subject](udacity/udacity.md)
 
 Click [here](young/young.md) to listen to music.
+
+Why are there so many links what happened to writing a story?
+
