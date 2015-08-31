@@ -32,3 +32,4 @@
 
 [Начинайте танцевать от радости.](dance/dance.md)
 
+[Вспомните интересную шутку](Holms-Watson/Holmes-Watson.md)
