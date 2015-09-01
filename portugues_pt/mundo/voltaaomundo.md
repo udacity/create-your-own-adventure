@@ -11,4 +11,4 @@ O que seria este algo faltando?
 
 [Invertar](inventar/inventar.md) algo que mudasse a vida de todos para melhor!
 
-[Fundava uma nova Startup](startup/startup.md)
+[Fundava uma nova Startup](startup/startup.mdown)
