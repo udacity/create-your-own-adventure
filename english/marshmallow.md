@@ -43,6 +43,8 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
+You don't own any uncomfortable and restrictive leather jackets... How did you end up sleeping in one?
+
 [You decide to bite the marshmallow wall.](./bite-the-marshmallow/tasty-marshmallow.md)
 
 You are feeling very anxious at this point.
