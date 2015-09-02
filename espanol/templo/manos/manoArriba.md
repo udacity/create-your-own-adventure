@@ -1,1 +1,1 @@
-"Levantando su mano gritó herejes"
+"Levantando su mano gritó herejes" y hubo un terremoto
