@@ -4,4 +4,6 @@ Oops! I mean your soul.
 
 Want to know about Yoga lifestyle? Click [here](../lifestyle/yoga_lifestyle.md)
 
-Most people have discovered that exercising, whether it’s going for a walk or doing a vigorous yoga class, can lift their mood.
+Most people have discovered that exercising,
+whether it’s going for a walk or doing a vigorous yoga class, 
+can lift their mood.
