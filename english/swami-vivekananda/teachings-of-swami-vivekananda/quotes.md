@@ -55,8 +55,8 @@ not even the thunderbolts of heaven -- but stand up and work!
    There is no other teacher but your own soul.
 
 10. Like me or Hate me,both are in my favor,
-	If you like me I am in your Heart,
-	If you hate me I am in your mind. 
+	  If you like me I am in your Heart,
+	  If you hate me I am in your mind. 
 
 11. BY the study of different religions we find that in essence they are one. 
 
@@ -73,6 +73,7 @@ not even the thunderbolts of heaven -- but stand up and work!
 
 
 [Read More](http://www.awakeningindia.org/life/Teachings.aspx)
+
 [Read More](http://rishikajain.com/2014/01/11/top-ten-famous-quotes-of-swami-vivekananda/)
 
 [OK, this was interesting, but something's weird about this place... is that marshmallow?](../../marshmallow.md)
