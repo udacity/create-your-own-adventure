@@ -466,3 +466,5 @@ Do you:
 [See if there is a Udacity course on the subject](udacity/udacity.md)
 
 Click [here](young/young.md) to listen to music.
+
+[Consult Flann O'Brien](flann-o-brien/truth-is-odd.md)
