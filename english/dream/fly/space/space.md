@@ -15,8 +15,8 @@ your wallet on the sly. Of all the...!
 
 Do you:
 
-[Show these aliens who they're messing with](english/appear-on-falkors-back/falkor.md)
+[Show these aliens who they're messing with](../../../../appear-on-falkors-back/falkor.md)
 
-[Remember that you're Batman](english/I'm-batman/batman.md)
+[Remember that you're Batman](../../../../I'm-batman/batman.md)
 
-[Tell your mother](english/tell-mother/tell-mother.md)
+[Tell your mother](../../../../tell-mother/tell-mother.md)
