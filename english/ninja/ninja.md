@@ -1,5 +1,3 @@
-[from buy-gameboy](./english/buy-gameboy/buy-gameboy.md)
-
 my game
 Boy or I'll hoes you
 Life is tough
