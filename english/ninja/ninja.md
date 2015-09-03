@@ -1,4 +1,4 @@
-[../buy-gameboy/buy-gameboy.md](gameboy)
+[english/buy-gameboy/buy-gameboy.md](gameboy)
 
 my game
 Boy or I'll hoes you
