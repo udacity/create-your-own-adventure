@@ -1,0 +1,1 @@
+But the bakery is far away, and you can't find a taxi. So you hop on your bike.
