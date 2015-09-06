@@ -5,6 +5,6 @@ I am in this dream... what is most important?!
 
 Do you:
 
-[Get distracted with thoughts of pleasant childhood memories.](../../ghostbusters/ghostbusters.md)
+[Get distracted with thoughts of pleasant childhood memories?](../../ghostbusters/ghostbusters.md)
 
-[Return to a yoga practice to center yourself.](../../yoga/yoga.md)
+[Return to a yoga practice to center yourself?](../../yoga/yoga.md)
