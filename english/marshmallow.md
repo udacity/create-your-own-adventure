@@ -131,6 +131,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 
 Do you:
+
+
 [Sit back a listen to your favourite White Stripes track](listen_white_stripes/listen_white_stripes.md)
 
 [Feel a sudden urge to dance](https://youtu.be/dQw4w9WgXcQ)
