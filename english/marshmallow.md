@@ -117,6 +117,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Nothing seems to be happening.
 
+You pause for a second, awaiting a spectacular sight.
+
 Sheepishly you look down on the crappy wand in your hand.
  
 You must be doing something wrong. You drink a beer and think about it, then Ah-ha!
@@ -129,6 +131,9 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 
 Do you:
+
+
+[Sit back a listen to your favourite White Stripes track](listen_white_stripes/listen_white_stripes.md)
 
 [Feel a sudden urge to dance](https://youtu.be/dQw4w9WgXcQ)
 
