@@ -9,3 +9,7 @@
 [اريد ان اتعلم المزيد](learn/learn.md)
 
 [اريد ان احلم](dream/dream.md)
+
+[وظيفة](Job/Job.md)
+
+[أريد أن أحصل على Nanodegree](https://www.udacity.com/nanodegree)

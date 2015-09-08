@@ -21,3 +21,5 @@ Werden Sie:
 [Sie beschliessen fortan keinen Alkohol mehr zu trinken.](Alkohol/alkohol.md)
 
 [Versuchen, mit Ihrer Kleidung das Loch zu stopfen](Stopfen/stopfen.md)
+
+[Durchlöcherte Bootwand einfach wegschneiden](wegschneiden/wegschneiden.md)

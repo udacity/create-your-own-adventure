@@ -4,12 +4,12 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 *(Must be a Tuesday.)*
 
+For a second, you decide whether or not to just [go back to sleep](go-back-to-sleep/go-back-to-sleep.md)
+
 A sound from a Hitchcock movie fills the room, then quickly fades away.
 
 Thinking back, there are no memories to suggest that this should have been
-
 anything but an ordinary morning. You didn't go out last night, you don't
-
 usually take intoxicants, what's happening...?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
@@ -18,15 +18,23 @@ Grave danger. Oh No!
 
 *(Is there another kind?)*
 
+I actually used to know a guy named Dave Granger. We sure had some good times! Anyway, the possibility of danger lurks.
+
 The type of extreme mortal danger that so often accompanies confectionary inspired interior design.
 Quickly surveying your immediate surrounds, you notice a garishly dressed, 
 vacant-eyed young man lounging on a nearby sofa.
 
-[pinch yourself to see if this is a dream](./is-this-a-dream/is-this-a-dream.md)
+[Pinch yourself to see if this is a dream.](./is-this-a-dream/is-this-a-dream.md)
 
-[remember that you are superman](./remember-you-are-superman/remember-you-are-superman.md)
+You recall what a man said to you once: "Live as one of them, Kal-El, to discover
+where your strength and your power are needed. Always hold in your heart the
+pride of your special heritage. They can be a great people, Kal-El; they wish to
+be. They only lack the light to show the way. For this reason above all, their
+capacity for good, I have sent them you... my only son."
 
-[Interrogate the man for clues](./movie-ripoffs/zoolander/zoolander.md)  
+[Remember that you are superman.](./remember-you-are-superman/remember-you-are-superman.md)
+
+[Interrogate the man for clues.](./movie-ripoffs/zoolander/zoolander.md)  
 
 These marshmallows are numerous and they look so delicious.
 ... despite the feeling they're somehow judging you for only wearing one sock.
@@ -35,13 +43,15 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
-[You decide to bite the marshmallow wall](./bite-the-marshmallow/tasty-marshmallow.md)
+You don't own any uncomfortable and restrictive leather jackets... How did you end up sleeping in one?
+
+[You decide to bite the marshmallow wall.](./bite-the-marshmallow/tasty-marshmallow.md)
 
 You are feeling very anxious at this point.
 
 This is because you do not like leather for ethical reasons.
 
-You begin to breakout of the jacket and find a lighter, a fork, and rope.
+You begin to break out of the jacket and find a lighter, a fork, and rope.
 
 You also find a new packet of double chocolate caramel Tim Tams inside a pink sock.
 
@@ -53,15 +63,17 @@ But you have a growing sense that these mundane objects are vital to your surviv
 
 You decide to try to light a fire to melt some of the marshmallows so you look for some kindling.
 
-You have the suspicion that you are being closely watched.
+[You have the suspicion that you are being closely watched.](./watched/watched.md)
 
-[Of course, it's that man on the sofa, go talk to him again.](./movie-ripoffs/zoolander/zoolander.md)
+[Of course, it's that man on the sofa; go talk to him again.](./movie-ripoffs/zoolander/zoolander.md)
 
 [Wait, I'm in front of a mirror... Am I? Let's see...](./mirror/enter-mirror.md)
 
 You see a polar bear searching for food.
 
-"Well- OK" you admit to yourself, "Perhaps I do indulge in the occasional intoxicant!"
+[Whilst cycling backwards.](./cycling-backwards/cycling-backwards.md)
+
+"Well- OK," you admit to yourself, "perhaps I do indulge in the occasional intoxicant!"
 
 You hear a small bird sound in the distance.
 
@@ -83,7 +95,9 @@ Marshmallows are going to rule the world!
 
 Long live marshmallows!
 
-Hold the image of the marshmallow and..
+For a few moments you think to yourself, with all these marshmallows, you have some rice krispy squres.
+
+Hold the image of the marshmallow and...
 
 Sing softly the song of it's people as you...
 
@@ -103,13 +117,27 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Nothing seems to be happening.
 
+You pause for a second, awaiting a spectacular sight.
+
 Sheepishly you look down on the crappy wand in your hand.
  
-You must be doing something wrong, you drink a beer and think about it, then Ah-ha!
+You must be doing something wrong. You drink a beer and think about it, then Ah-ha!
 
 You notice your pants are now glowing, so you must have been holding the wand upside down.
 
+Suddenly, you become aware of the need to take a leak.
+You can't hold it. You wonder, Are glowing pants waterproof? 
+You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)  
+
+
 Do you:
+
+
+[Sit back a listen to your favourite White Stripes track](listen_white_stripes/listen_white_stripes.md)
+
+[Feel a sudden urge to dance](https://youtu.be/dQw4w9WgXcQ)
+
+[Make changes on GitHub to revise this crazy story](make_changes_GitHub/make_changes_GitHub.md)
 
 [Pick up giant blowtorch](pick-up-blowtorch/blowtorch.md)
 
@@ -161,13 +189,13 @@ Do you:
 
 [Grab the lighter first?](lighter/grab-lighter.md)
 
-[make a swing with rope and jacket](enjoy-DreamRide/ride.md)
+[Make a swing with rope and jacket](enjoy-DreamRide/ride.md)
 
 [Start eating the walls?](eating-walls/eating-marshmallows.md)
 
-[give the marshmallow to the polar bear?](polar-bear/polar-bear.md)
+[Give the marshmallow to the polar bear?](polar-bear/polar-bear.md)
 
-[realize you are in Minecraft](you-are-in-minecraft/minecraft.md)
+[Realize you are in Minecraft](you-are-in-minecraft/minecraft.md)
 
 [Try to pull a MacGyver with the lighter, fork and rope?](macgyver/macgyver.md)
 
@@ -179,7 +207,7 @@ Do you:
 
 [Offer to get the narrator a ladder, so they can get off your back?](can-i-get-you-a-ladder/can-i-get-you-a-ladder.md)
 
-[dig a hole with your bare hands?](hands/hands.md)
+[Dig a hole with your bare hands?](hands/hands.md)
 
 [Go back to sleep?](sleep/marshmallow.md)
 
@@ -213,7 +241,7 @@ Do you:
 
 [Go meditate and ponder about your next step?](meditate/meditate.md)
 
-[U will scream out of fear?](scream/scream.md)
+[Scream out of fear?](scream/scream.md)
 
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
 
@@ -239,13 +267,13 @@ Do you:
 
 [Remember that pill you took](adipose/adipose.md)
 
-[light up the wall](light-up/light-up.md)
+[Light up the wall](light-up/light-up.md)
 
-[hide the lighter fork and rope in your pocket](hide/hide-chk.md)
+[Hide the lighter fork and rope in your pocket](hide/hide-chk.md)
 
-[make a necklace out of the marshmallows](necklace/necklace.md)
+[Make a necklace out of the marshmallows](necklace/necklace.md)
 
-[light up the wall 2](light-up2/light-up2.md)
+[Light up the wall 2](light-up2/light-up2.md)
 
 [Switch on your laptop and..](netflix/netflix.md)
 
@@ -321,7 +349,7 @@ Do you:
 
 [Make a Marshmallow cake](https://www.youtube.com/watch?v=3l1SY3QREv4)
 
-[I'm batman](I'm-batman/batman.md)
+[I'm Batman](I'm-batman/batman.md)
 
 [You realize you are in NeverLand and you are
  never going come... so you sing the Tinker Bell song](https://youtu.be/Sopngy6uucw)
@@ -350,7 +378,7 @@ Do you:
  
 [Twas the Night Before Christmas](night-night/tale.md)
 
-[heck Reddit for any useful information.](reddit/ask-reddit.md)
+[Check Reddit for any useful information.](reddit/ask-reddit.md)
 
 [Watch Up](watch-movie/Up.md)
 
@@ -378,7 +406,7 @@ Do you:
 
 [Ask a question on Quora?](ask-on-quora/ask-on-quora.md)
 
-[go afk and report the jungler?](https://www.youtube.com/watch?v=jdg6cnE6IyM)
+[Go afk and report the jungler?](https://www.youtube.com/watch?v=jdg6cnE6IyM)
 
 [Leap on the Polar bear and charge](polar-bear-attack/polar-bear-attack.md)
 
@@ -391,6 +419,7 @@ Do you:
 [You Google what to do](https://www.google.co.in/)
 
 [Abdul kalam quotes on overcoming fear](apj/apj.md)
+
 [If you want something done right, you have to do it yourself.](untrustworthy/untrustworthy.md)
 
 [There's no such thing as a free lunch.](free-lunch/free-lunch.md)
@@ -404,6 +433,8 @@ Do you:
 [Talk to Finn](talk-to-finn/finn.md)
 
 [Play Guitar](guitar/guitar.md)
+
+[Contemplate the meaning of life](meaning/meaning.md)
 
 [Rinse the marshmallow under the tap then eat it](dysentry/dysentry.md)
 
@@ -437,4 +468,15 @@ Do you:
 
 [Bounce](bounce/bounce.md)
 
+[Play some DotA 2](play-dota2/play-dota2.md)
+
 [See if there is a Udacity course on the subject](udacity/udacity.md)
+
+Click [here](young/young.md) to listen to music.
+
+[Consult Flann O'Brien](flann-o-brien/truth-is-odd.md)
+
+[It's time to take a vacation] (licked-cat/vacation.md)
+
+
+[present-tense](present-tense/present-tense.md)

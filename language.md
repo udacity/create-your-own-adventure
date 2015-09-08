@@ -2,9 +2,13 @@
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
+If you speak Telugu, మీరు తెలుగులొ మాట్లాడుతార [ఇక్కడ నొక్కండి](telugu/telangana-telugu/Telanganatelugu.md).
+
 If you understand Tamil, தமிழ் வணக்கம் [இங்கே அழுத்தவும்](Tamil/Thirukural.md)
 
 தமிழ் வணக்கம்! To view Tamil Proverb about Friendship [Click Here](Tamil/Thirukural.md)
+
+தமிழ் வணக்கம்!To view ponmozhigal [Click Here](Tamil/Vivekanandha/ponmozhigal.md)
 
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
@@ -114,3 +118,5 @@ Ako govorite Bosanski jezik/If You speak Bosnian language [kliknite ovdje/click 
 Nếu bạn nói tiếng Việt, [nhấn vào link này](vietnamese/kechuyen.md).
 
 Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
+
+ئەگەر ئۇيغۇرچە سۆزلىسىڭىز، [بۇ يەرگە كىرىڭ](uyghurish/uyghurish-story.md)

@@ -55,3 +55,5 @@ el Consejero:
 [Y vino un ejercito](ejercito/ejercito.md)
 
 [Un ejercito de angeles para ayudar a los guerreros.](angeles/angeles.md)
+
+[En el rincón donde dormía, el beatito...](beatito/beatito.md)
