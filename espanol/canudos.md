@@ -58,4 +58,4 @@ el Consejero:
 
 [En el rincón donde dormía, el beatito...](beatito/beatito.md)
 
-[Se disculpó con Beatito y abandonó la sala para ocupar su lugar junto al emperador en el recibimiento](recibimiento/recibimiento.md)
+[Ocupó su lugar junto al emperador en el recibimiento](recibimiento/recibimiento.md)
