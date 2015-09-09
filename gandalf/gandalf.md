@@ -1,0 +1,6 @@
+Suddenly, you hear a music behind you and feel a presence.
+
+You turn around...
+
+
+What you see [is](https://www.youtube.com/watch?v=Sagg08DrO5U)...
