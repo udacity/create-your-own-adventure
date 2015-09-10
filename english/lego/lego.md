@@ -30,4 +30,6 @@ or
 
 [Ponder](../ponder/ponder-about-life.md)
 
-or [Kick the man](../kicktheman/kick-the-man.md)
+or
+
+[Kick the man](../kicktheman/kicktheman.md)
