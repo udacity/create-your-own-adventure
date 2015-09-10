@@ -5,3 +5,4 @@ You try to remember some magic from the harry potter books
 that you have read so many times by now.
 
 [try apparating](../../movie-ripoffs/hogwarts/hogwarts.md)
+[try to escape by burning down the marshmallow walls](../../movie-ripoffs/hogwarts/burn-walls.md)
