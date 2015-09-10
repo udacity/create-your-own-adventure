@@ -39,6 +39,8 @@ capacity for good, I have sent them you... my only son."
 These marshmallows are numerous and they look so delicious.
 ... despite the feeling they're somehow judging you for only wearing one sock.
 
+[Turn one of the marshmallows into gold.](./alchemy/alchemy.md)
+
 You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
