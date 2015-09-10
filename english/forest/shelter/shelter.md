@@ -3,4 +3,4 @@ You break down some branches and make a frame. You put your parachute over the t
 You see a flash of lightning a clap of thunder. Suddenly you are in the middle of a monsoon.
 The wind blows away your parachute like a dry leaf and buckets of water rain down on you.
 Shivering in the dark wetness you can't believe this is happening.
-Suddenly - [you wake up!](../../wake-up.md)
+Suddenly - [you wake up!](../../wake-up/wake-up.md)
