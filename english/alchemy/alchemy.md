@@ -11,6 +11,8 @@ Time passes, and the coin solidifies as it cools.
 
 You gain 1 gold coin.
 
+[Congratulations!](../marshmallow.md)
+
 You decide to play it safe and repeat the process a few times. Who knows how many coins
 the high-score currently is or how many you will need on your adventure?
 
@@ -25,7 +27,4 @@ You slip the ring over your finger and ...
 
 [A polar bear suddenly appears and charges towards you](../polar-bear-attack/polar-bear-attack.md)
 
-[you close you eyes and recite Buzz Lightyear's "To infinity and beyond!"](my-story/my-story.md)
-
-[Congratulations!](../marshmallow.md)
-
+[you close you eyes and recite Buzz Lightyear's "To infinity and beyond!"](../my-story/my-story.md)
