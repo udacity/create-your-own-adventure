@@ -11,4 +11,20 @@ Time passes, and the coin solidifies as it cools.
 
 You gain 1 gold coin.
 
+You decide to play it safe and repeat the process a few times. Who knows how many coins
+the high-score currently is or how many you will need on your adventure?
+
+The creation process gets quicker and quicker each time you practice the ancient art of
+alchemy. Your skills improve. However, on the fifth run, the coin has an air anomaly
+in its centre.
+
+You hold the malformed coin up to to light and study it moving backwards and
+forwards - studying its imperfection - a ring like shape.
+
+You slip the ring over your finger and ...
+
+[A polar bear suddenly appears and charges towards you](../polar-bear-attack/polar-bear-attack.md)
+
+[you close you eyes and recite Buzz Lightyear's "To infinity and beyond!"](../my-story/my-story.md)
+
 [Congratulations!](../marshmallow.md)
