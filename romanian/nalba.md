@@ -5,7 +5,7 @@ Ce faci?
 
 -[Te apuci sa faci un foc](foc/faci-foc.md)
 
--[Il chemi pe Ginel](ginel/ginel.md)
+-[Il chemi pe Ginel](Ginel/ginel.md)
 
 Cand ii gata focu o suni pe Ginuta. Abea astepti sa-i dai si ei nalbe.
 Sti tu ca ii plac mult de tot nalbele. Asa ca atunci cand ajunge
