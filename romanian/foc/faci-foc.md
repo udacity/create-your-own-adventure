@@ -1,2 +1,2 @@
-Faci focul si te pui sa manci nalebele.
+Faci focul si te pui sa manci nalbele.
 Dupa care:
