@@ -1,8 +1,11 @@
 Te trezesti intr-o dimineatza si patul este facut din nalbe. 
 Ce faci?
-[Te culci la loc](somn/somn.md)
-[Te apuci sa faci un foc](foc/faci-foc.md)
-[Il chemi pe Ginel](ginel/ginel.md)
+
+-[Te culci la loc](somn/somn.md)
+
+-[Te apuci sa faci un foc](foc/faci-foc.md)
+
+-[Il chemi pe Ginel](ginel/ginel.md)
 
 Cand ii gata focu o suni pe Ginuta. Abea astepti sa-i dai si ei nalbe.
 Sti tu ca ii plac mult de tot nalbele. Asa ca atunci cand ajunge
