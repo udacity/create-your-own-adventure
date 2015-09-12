@@ -1,0 +1,1 @@
+If you [eat too much mashmallows](https://github.com/udacity/create-your-own-adventure/blob/master/english/eating-walls/eating-marshmallows.md), you will gain weight. Therefore, be sure to go for a run and do some exercise, lose some calories and then [eat](https://github.com/udacity/create-your-own-adventure/blob/master/english/eating-walls/eating-marshmallows.md) again.
