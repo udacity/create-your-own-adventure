@@ -6,3 +6,6 @@ outside the room you see...
 
 That you are about to be crushed by a giant corn. :)
 
+You avoid the giant corn by leaping out of the way and landing in 
+a field of potatoes.
+
