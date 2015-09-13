@@ -16,6 +16,6 @@ Who is on the other side, you cannot tell; but, for now, what will you do?
 
 Go up or go down?
 
-Go [up](./up-or-down/go-up.md)?
+Go [up](./up-or-down/go-up/go-up.md)?
 
-Or go [down](./up-or-down/go-down.md)?
+Or go [down](./up-or-down/go-down/go-down.md)?
