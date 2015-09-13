@@ -14,4 +14,4 @@ and there is a tiny camera looking at you from above.
 
 Who is on the other side, you cannot tell; but, for now, what will you do?
 
-Go up or go down?
+Go [up](./up-or-down/go-up.md) or go [down](./up-or-down/go-down.md)?
