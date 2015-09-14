@@ -15,11 +15,10 @@ You decide to play it safe and repeat the process a few times. Who knows how man
 the high-score currently is or how many you will need on your adventure?
 
 The creation process gets quicker and quicker each time you practice the ancient art of
-alchemy. Your skills improve. However, on the fifth run, the coin has an air anomaly
-in its centre.
+alchemy. Your skills improve. However, on the fifth run, the molten metal moves  to the edges of the mold as if blown by air.
 
-You hold the malformed coin up to to light and study it moving backwards and
-forwards - studying its imperfection - a ring like shape.
+You hold the malformed coin up to to light and study it, moving backwards and
+forwards. You realize that what appeared to be an imperfection is actually a pleasing ring-like shape.
 
 You slip the ring over your finger and ...
 
