@@ -19,3 +19,8 @@ vendedor de dragones del pueblo.
                              __) \  \\___(_   __/.__,'
                           ,((,-,__\  '", __\_/. __,'
                                        '"./_._._-'
+
+
+Pero no sabía controlarlo, así que:
+
+[lo mató](muerte-dragon.md)
