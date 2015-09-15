@@ -20,3 +20,5 @@ this realization, then you go:
 [tell papa-louie and he says...](../papa-louie/papa-louie.md)
 
 Bruce Wayne: It's not who I am underneath, but what I do that defines me.
+
+Commissioner Gordon: He's the hero Gotham deserves but not the one that it needs right now.

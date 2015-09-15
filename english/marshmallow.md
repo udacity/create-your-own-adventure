@@ -8,6 +8,8 @@ For a second, you decide whether or not to just [go back to sleep](go-back-to-sl
 
 A sound from a Hitchcock movie fills the room, then quickly fades away.
 
+Was it the sound of a cry from the shower?
+
 Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
@@ -84,6 +86,9 @@ But it sounds like it might be coming out of speakers.
 Something lightly brushes the back of your neck, sending a chill down your spine! 
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
+
+Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air 
+for alien life forms.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
 
@@ -487,3 +492,5 @@ Click [here](young/young.md) to listen to music.
 [Think about happy thoughts while spinning around in circles](my-story/my-story.md)
 
 [Story of DKER](DKER/DKER.md)
+
+If you eat a lot, you should also [exercise](exercise/exercise.md)
