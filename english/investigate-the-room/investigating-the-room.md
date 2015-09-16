@@ -1,0 +1,3 @@
+You said to yourself, "This is a strange room, I should put on my Sherlock Holmes hat and investigate why I am here."
+
+As you were inspecting around you found out...

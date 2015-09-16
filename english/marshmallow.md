@@ -494,3 +494,5 @@ Click [here](young/young.md) to listen to music.
 [Story of DKER](DKER/DKER.md)
 
 If you eat a lot, you should also [exercise](exercise/exercise.md)
+
+Investigate the strange room. Click [here](investigate-the-room/investigating-the-room.md)
