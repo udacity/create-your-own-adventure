@@ -8,10 +8,16 @@ Oh no! You are made of marshmallow!
 
 This sudden revelation has now complicated the matter.
 
-You hate marshmallows but can you really hate yourself?  
+You hate marshmallows but can you really hate yourself?
+
+No ... no, this just isn't possible ...
+
+You're supposed to get married tomorrow!  
 
 The next logical step then is to: 
 
 [Begin to eat!](../light-fire/eating/inside.md)
 
 [Build a fire](../light-fire/fire.md)
+
+[Cast a spell](../magic/magic.md)
