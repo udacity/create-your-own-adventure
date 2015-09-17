@@ -4,6 +4,8 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 *(Must be a Tuesday.)*
 
+Gee Whiz! You decide to share your story in the [Acts of Kindness](kindness/acts-of-kindness.md) page.
+
 For a second, you decide whether or not to just [go back to sleep](go-back-to-sleep/go-back-to-sleep.md)
 
 A sound from a Hitchcock movie fills the room, then quickly fades away.
