@@ -1,0 +1,1 @@
+Você é um programador ou um saco de batatas?
