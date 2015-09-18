@@ -39,4 +39,4 @@ Do you:
 
 [Sit down to meditate](sit-down-to-meditate/sit-down-to-meditate.md)
 
-[Wish for ice cream](./make-another-wish/ice-cream.md)
+[Wish for ice cream](./ice-cream.md)
