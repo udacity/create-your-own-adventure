@@ -14,4 +14,4 @@
 
 [أريد أن أحصل على Nanodegree](https://www.udacity.com/nanodegree)
 
-[التطبيق لمزيد الإستفادة](practice.md)
+[التطبيق لمزيد الإستفادة](practice/practice.md)
