@@ -13,3 +13,5 @@
 [وظيفة](Job/Job.md)
 
 [أريد أن أحصل على Nanodegree](https://www.udacity.com/nanodegree)
+
+[التطبيق لمزيد الإستفادة](practice.md)
