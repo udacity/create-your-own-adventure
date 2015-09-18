@@ -1,13 +1,35 @@
-Вы проснулись в комнате со стенами сделанными из зефира.
+﻿Вы просыпаетесь в комнате со стенами из зефира.
+
+Солнце светит и вы видите в окне цветы, цветущие в саду.
+
+Тихая музыка в джазовом стиле слышна, наверно она знакомая?
 
 Ваши действия:
 
-[Вы начнете есть стены?](eating-walls/eating-marshmallows.md)
+[Начнёте есть стены.](eating-walls/eating-marshmallows.md)
 
-[Вы разведете костер?](light-fire/fire.md)
+[Разведёте костер.](light-fire/fire.md)
 
-[Попытаетесь проснуться?](awaken/awaken.md)
+[Попытаетесь проснуться.](awaken/awaken.md)
 
-[Вернётесь ко сну?](sleep/zefir.md)
+[Вернётесь ко сну.](sleep/zefir.md)
 
-[Звоните в ЖЭК.](buildings-dep/buildings-dep.md)
+[Пойдёте варить кофе.](awaken/stand-up/coffee/coffee.md)
+
+[Позвоните в ЖЭК.](buildings-dep/buildings-dep.md)
+
+[Закроете глаза.](close-eyes/close-eyes.md)
+
+[Откроете зефирный магазин.](shop/shop.md)
+
+[Пойдёте в сад.](garden/garden.md)
+
+[Позовёте друзей.](invite-friends/invite.md)
+
+[Позвоните маме.](call-mom/call-mom.md)
+
+[Поставите запятую после "цветы".] (comma/comma.md)
+
+[Начинайте танцевать от радости.](dance/dance.md)
+
+[Вспомните интересную шутку](Holms-Watson/Holmes-Watson.md)

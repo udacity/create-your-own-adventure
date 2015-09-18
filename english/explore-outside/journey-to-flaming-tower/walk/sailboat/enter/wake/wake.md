@@ -7,3 +7,4 @@ was silent up to that point, asks  you to help him with a great
 problem that is troubling his people. You:
 
 [Decide to help](./decide-to-help/decide-to-help.md)
+[Pretend you didn't hear)(./decide-to-help/decide-to-help.md)

@@ -5,3 +5,11 @@
 [Приготовить кофе?](coffee/coffee.md)
 
 [Раскрасить зефир вареньем?](confiture/confiture.md)
+
+[Ущипнуть себя?](pinch/pinch.md)
+
+[Включить телевизор?](tv/tv.md)
+
+[Включить приятную музыку](music/music.md)
+
+[Позвонить маме?](callmum/callmum.md)

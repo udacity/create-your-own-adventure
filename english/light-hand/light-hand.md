@@ -11,3 +11,5 @@ The immediate danger dealt with, do you:
 [Reach your arm into one of the walls to find out how thick it is?](reach-arm-in-wall/reach-arm-in-wall.md)
 
 [Examine the animate marshmallow?](../stay-with-animate-marshmallow/stay.md)
+
+[Break it down?](../dance/dance.md)

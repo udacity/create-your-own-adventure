@@ -1,0 +1,2 @@
+Dar STAR no repositório demonstra gratidão ao responsável pelo projeto ao torná-lo mais popular 
+dentro dos rankings no Github. Onde você pode pesquisar por novos projetos interessantes dentro do Github?

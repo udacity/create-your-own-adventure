@@ -1,5 +1,5 @@
 You now have a small gathering of your closest friends inside
-your marshmallow room. Excitement is in the air!
+your cozy marshmallow room. Excitement is in the air!
 
 Do you:
 
@@ -11,4 +11,12 @@ Do you:
 
 [Start a party?](kick_out_the_jams/jamming.md)
 
-[Bring some chocolate and graham crackers to make s'mores?] (smores/with_friends.md)
+[Bring some chocolate and graham crackers to make s'mores?](smores/with_friends.md)
+
+[Start an extreme marshmallow mosh pit](mosh_pit/mosh_pit.md)
+
+[sing karaoke?](../karaoke/karaoke/sing.md)
+
+[don't sing karaoke?](../karaoke/nope.md)
+
+[do a flip](flip/flip.md)

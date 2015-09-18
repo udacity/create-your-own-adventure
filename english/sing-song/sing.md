@@ -1,5 +1,7 @@
 You then realize that you are bored. After a few minutes, you start to sing a song, just to entertain yourself. 
 
+You need a beat and some background music.  So you decide to launch spotify!
+
 Eventually you realize this is not very adventurous and decide to: 
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)

@@ -17,3 +17,43 @@ el Consejero:
 [Mandó a Beatito a buscar al cocinero](cocinero/cocinero.md)
 
 [Clavó sus ojos directamente sobre el Beatito...](rebelion/inicio-rebelion.md)
+
+[Y entonces compró un dragon](dragon/dragon.md)
+
+[¿Qué suerte tendrá su hijo en la batalla?](hijo/hijo.md)
+
+[Ordenó a Beatito a buscar al capitán Hernández en las Barracas.](barracas/capitan.md)
+
+[Empezó a correr hacia las montañas.](montanas/montanas.md)
+
+[El capitán se prepara para la batalla.](heroe/heroe.md)
+
+[Una bruja entró en el salón](bruja/bruja.md)
+
+[Subió a la torre](torre/torre.md)
+
+[Ordenó buscar al Capitán Trueno](capitan/trueno.md)
+
+[Empezó con el ritual de bienvenida para el ejército](ritual/ritual.md)
+
+[Propone reconfigurar la máquina del tiempo](maquina/maquina.md)
+
+[Saco la guitarra y empezo a bailar en una pata](bailar/bailar.md)
+
+[Un perro llego corriendo y se puso a bailar con él, pero en 2 patas](perro/perro.md)
+
+[Termina el baile y piden calcetines para la cena](calcetines/calcetines.md)
+
+[Acaban tan llenos, que ruedan por las escaleras.](rodar/rodar.md)
+
+[La exageración y la indigestión](exageracion/exageracion.md)
+
+[Empieza a gritar como un poseso](poseso/poseso.md)
+
+[Se arrodilla y...](rogando/rogando.md)
+
+[Y vino un ejercito](ejercito/ejercito.md)
+
+[Un ejercito de angeles para ayudar a los guerreros.](angeles/angeles.md)
+
+[En el rincón donde dormía, el beatito...](beatito/beatito.md)

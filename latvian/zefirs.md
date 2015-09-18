@@ -12,4 +12,6 @@ Vai Tu:
 
 [Sagrāb šķiltavas pirmais?](./grab-lighter/grab-lighter.md)
 
+[Sniedz roku Zefīra kungam?](./sniegt_roku/sniegt_roku.md)
+
 

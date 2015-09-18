@@ -15,3 +15,5 @@ What do you do now:
 [Defend your mallows and attack them!](attack/attack.md)
 
 [Do yoga](../../yoga/yoga.md)
+
+[Use Wikipedia](../../wikipedia/wiki.md)

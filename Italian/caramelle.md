@@ -1,8 +1,12 @@
 Una mattina, ti svegli in una strana stanza.
-Che stai facendo?
+Che fai?
 
 [Torno a dormire](domire/sogno-strano.md)
 
-[Cerco l'uscita](scapare/cercare-uscita.md)
+[Cerco l'uscita](scappare/cercare-uscita.md)
 
 [Apro la finestra](finestra/apri.md)
+
+[Mi guardo intorno](guardare/guarda.md)
+
+[Mi conto le dita per vedere se sono veramente sveglio](verifica/verifica.md)

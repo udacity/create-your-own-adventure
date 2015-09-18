@@ -9,6 +9,10 @@ U denkt
 
 ... in het [bos](bos/donker-bos.md) daarginds is vast koeler.
 
+... niet naar het bos! U heeft het gevoel dat daar iets niet pluis is... 
+    u keert uw rug naar het bos en nu ziet u een hek. Daar [klimt u overheen](over-het-hek/hek.md).
+
+... of u kijkt even op uw iphone of u een [mailtje heeft](check-mail/mail.md)
 
 
 [Google translate NL](https://translate.google.com/#nl/en/)

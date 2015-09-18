@@ -1,7 +1,11 @@
-Egy szep reggel meztelenul ebredsz egy malyvacukor agyban, malyvacukor szobaban.
+Egy szép reggel meztelenül ébredsz egy mályvacukor ágyban, mályvacukor szobában.
 
-Mit csinalsz ?
+Mit csinálsz?
 
 [visszaalszol](alvas/alom.md)
 
-[felveszel egy par malyva zoknit] (zokni/zokni.md)
+[felveszel egy par malyva zoknit](zokni/zokni.md)
+
+[lezuhanyzol](zuhanyzas/zuhanyzas.md)
+
+[megreggelizel](reggeli/reggeli.md)

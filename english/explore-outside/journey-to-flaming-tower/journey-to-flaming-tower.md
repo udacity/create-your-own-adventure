@@ -17,3 +17,7 @@ Do you:
 [Head home!](home/home.md)
 
 [Take your cellphone out, call Tank and ask for the nearest exit out of the Matrix.](exit/exit.md)
+
+[Think about how your towel could have been useful.](towel/towel.md)
+
+[Turn around and go back](../explore-outside.md)

@@ -8,3 +8,5 @@ Do you:
 [Stand there like a goon](Stand/Stand_like_goon.md)
 
 [Run full sprint into the new room](Sprint/Sprint.md)
+
+[Play dead](Dead/Play_dead.md)

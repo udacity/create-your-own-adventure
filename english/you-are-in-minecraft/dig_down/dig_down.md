@@ -12,8 +12,16 @@ The cave is covered in darkness...
 
 You decide to use your lighter.
 
+Your eyes struggle to adjust to the sudden brightness. Once they do...
+
 The cave lights up a little and you can somewhat see where you are.
 
 Ahead of you lie two diverging tunnels, one goes to your left and the other one to your right.
 
 Behind you a single path...
+
+Do you go [left?](goleft/goleft.md)
+
+Or maybe go [right?](goright/goright.md) 
+
+Or [dig yourself out and return to collecting wood?](../gather_wood/focus_on_gathering_wood/focus_on_gathering_wood.md)

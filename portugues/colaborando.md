@@ -8,3 +8,9 @@ Você:
 [Não é um programador e decide enviar uma revisão do aplicativo para o desenvolvedor?](revisa/revisar.md)
 
 [Git o quê?](git/oque.md)
+
+[Procura um amigo que sabe de tecnologia](amigo/tecnologia.md)
+
+[Cria um aplicativo melhor](cria/melhor.md)
+
+[Levanta-se a vai buscar o spray mata insetos](spray/matainsetos.md)

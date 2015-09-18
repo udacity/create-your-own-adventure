@@ -8,3 +8,5 @@ What do you do?
 [Do nothing, you look at your shoes](nothing/nothing.md)?
 
 [Look for the child's parents](find-parents/find-parents.md)?
+
+[You follow the child, they usually are up to something interesting.](follow/follow.md)

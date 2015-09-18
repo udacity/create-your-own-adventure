@@ -1,4 +1,4 @@
-Você encontra os dois commits que são o divisores de água entre o aparecimento do bug que tanto lhe incomoda. 
+Você encontra os dois commits que são o divisores de água entre o aparecimento do bug que tanto lhe incomoda.
 Você então:
 
 [Encontra as alteracoes atraves de um **git diff**?](diff/diff.md)
@@ -7,3 +7,4 @@ Você então:
 
 [Senta, chora e tenta outra alternativa?](../colaborar.md)
 
+[Desiste e vai pra praia tomar uma cerveja](../../revisa/desiste/desistir.md)
