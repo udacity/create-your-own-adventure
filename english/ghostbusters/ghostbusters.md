@@ -1,4 +1,4 @@
-You vaguely remember something from your childhood, something about marshmellows
+You vaguely remember something from your childhood, something about marshmallows
 
 and a strange tune begins forming in your mind...
 
@@ -10,19 +10,19 @@ and a strange tune begins forming in your mind...
 
 "GHOSTBUSTERS!"
 
-You immediately look around and notice a marshmellow phone.  You pick it up and dial the Ghostbusters.
+You immediately look around and notice a marshmallow phone.  You pick it up and dial the Ghostbusters.
 
 The air is suddenly filled with the sounds of blaring sirens as the Ghostbuster mobile 
 
-smashes through the marshmellow wall beside you barely missing you.
+smashes through the marshmallow wall beside you barely missing you.
 
-The marshmellow wall oozes down to close off the  hole that the Ghostbuster mobile made 
+The marshmallow wall oozes down to close off the  hole that the Ghostbuster mobile made 
 
 as it made its entrance.  Out pop the four ghostbusters from your childhood youth.  
 
 Dr. Egon Spengler pulls out his doo-hickey which starts emitting a strange noise.
 
-"I'm detecting an epic amount of paranormal activity from these marshmellow walls!"
+"I'm detecting an epic amount of paranormal activity from these marshmallow walls!"
 
 Dr. Peter Venkman looks at the other 3 as they all nod to each other.
 
@@ -30,7 +30,7 @@ All four of them pull out their proton packs and begin blasting the walls all ar
 
 with their proton streams.  Pockets of sunlight and the outside world reveal themselves as the 
 
-marshmellow walls begin melting away into a puddle.
+marshmallow walls begin melting away into a puddle.
 
 "This is a piece of cake compared to Mr. Stay Puff" yells Dr. Ray Stantz.
 
