@@ -41,4 +41,6 @@ After having your coffee do you want to:
 
 [Go for a run?](Run/run.md)
 
+[Play Chess?](chess/chess.md)
+
 .
