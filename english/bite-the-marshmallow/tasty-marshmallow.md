@@ -7,7 +7,9 @@ thought marshmallows, so white, so innocent, could cause such
 excruciating pain! But come to think of it, you've never gone
 to the dentist about that root canal he recommended almost a
 year ago, and perhaps you should have gone back instead of
-trying to save a few bucks...(hundreds of bucks actually!)
+trying to save a few bucks...
+
+hundreds of bucks actually!
 
 Wait a minute....how did you end up in this car?  You must be hallucinating 
 
