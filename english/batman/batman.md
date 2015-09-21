@@ -22,3 +22,5 @@ this realization, then you go:
 Bruce Wayne: It's not who I am underneath, but what I do that defines me.
 
 Commissioner Gordon: He's the hero Gotham deserves but not the one that it needs right now.
+
+and then he dies
