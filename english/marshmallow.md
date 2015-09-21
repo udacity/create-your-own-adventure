@@ -57,6 +57,8 @@ You are feeling very anxious at this point.
 
 This is because you do not like leather for ethical reasons.
 
+[Ethical reason? Seriously?](./ethical-reason/ethical-reason.md)
+
 You begin to break out of the jacket and find a lighter, a fork, and rope.
 
 You also find a new packet of double chocolate caramel Tim Tams inside a pink sock.
