@@ -25,3 +25,5 @@ Que faites-vous ?
 [J'appelle ma mère immédiatement](appel-maman/appeler-maman.md)
 
 [Je demande de l'aide a Google](google/google.md)
+
+[J'appelle le génie](appelle-genie/appelle-genie.md)
