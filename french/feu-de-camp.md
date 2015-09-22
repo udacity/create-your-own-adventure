@@ -26,4 +26,4 @@ Que faites-vous ?
 
 [Je demande de l'aide a Google](google/google.md)
 
-[J'appelle le genie](appelle-genie/appelle-genie.md)
+[J'appelle le génie](appelle-genie/appelle-genie.md)
