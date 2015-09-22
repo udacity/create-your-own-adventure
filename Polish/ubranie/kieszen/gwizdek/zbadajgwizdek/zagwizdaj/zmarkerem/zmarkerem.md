@@ -1,1 +1,0 @@
-Marker wydaje się chętni do wykorzystania jak twoja ręka zbliża się do tablicy.

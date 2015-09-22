@@ -1,1 +1,0 @@
-Life is definitely good!
