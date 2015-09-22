@@ -1,1 +1,0 @@
-Empezando un escándalo, entonces el consejero fue corriendo hacia donde estaba el alcalde del pueblo.
