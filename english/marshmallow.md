@@ -503,4 +503,4 @@ If you eat a lot, you should also [exercise](exercise/exercise.md)
 
 [Buy a 1st class ticket and fly to Las Vegas NV; what happens in Vegas stays in Vegas](vegas/fear-loathing-las-vegas.md)
 
-[Make marshmallow masala chai](chai/marshmallow-masala-chai.md)
+[Make marshmallow masala chai](chai/make-marshmallow-masala-chai.md)
