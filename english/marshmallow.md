@@ -501,4 +501,4 @@ Click [here](young/young.md) to listen to music.
 
 If you eat a lot, you should also [exercise](exercise/exercise.md)
 
-[Buy a first-class ticket and fly to Las Vegas NV, because what happens in Vegas stays in Vegas](vegas/fear-loathing-las-vegas.md)
+[Buy a 1st class ticket and fly to Las Vegas NV; what happens in Vegas stays in Vegas](vegas/fear-loathing-las-vegas.md)
