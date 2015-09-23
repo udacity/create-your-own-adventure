@@ -21,3 +21,5 @@
 [Παίρνεις το πιρούνι](take_the_fork/take-the-fork.md)
 
 [Προσφέρεις στο ζαχαρωτό τσιγάρο](offer_marshmallow_a_cigar/offer_marshmallow_a_cigar.md)
+
+[Αρπάζεις το σκοινί](use_rope/use_the_rope.md)
