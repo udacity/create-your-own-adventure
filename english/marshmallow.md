@@ -16,6 +16,8 @@ Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
 
+Maybe this is a dream?
+
 But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger. Oh No!
