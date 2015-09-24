@@ -4,6 +4,8 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 *(Must be a Tuesday.)*
 
+Gee Whiz! You decide to share your story in the [Acts of Kindness](kindness/acts-of-kindness.md) page.
+
 For a second, you decide whether or not to just [go back to sleep](go-back-to-sleep/go-back-to-sleep.md)
 
 A sound from a Hitchcock movie fills the room, then quickly fades away.
@@ -13,6 +15,8 @@ Was it the sound of a cry from the shower?
 Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
+
+Maybe this is a dream?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
@@ -55,6 +59,8 @@ You are feeling very anxious at this point.
 
 This is because you do not like leather for ethical reasons.
 
+[Ethical reason? Seriously?](./ethical-reason/ethical-reason.md)
+
 You begin to break out of the jacket and find a lighter, a fork, and rope.
 
 You also find a new packet of double chocolate caramel Tim Tams inside a pink sock.
@@ -74,6 +80,8 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 [Wait, I'm in front of a mirror... Am I? Let's see...](./mirror/enter-mirror.md)
 
 You see a polar bear searching for food.
+
+[A Shotgun appears!](./shotgun/shotgun.md)
 
 [Whilst cycling backwards.](./cycling-backwards/cycling-backwards.md)
 
@@ -138,6 +146,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 
 Do you:
+
+[Realize you are in the ...](in-matrix/matrix.md)
 
 [Turn off all the lights](lightsoff/lightsoff.md)
 
@@ -494,3 +504,7 @@ Click [here](young/young.md) to listen to music.
 [Story of DKER](DKER/DKER.md)
 
 If you eat a lot, you should also [exercise](exercise/exercise.md)
+
+[Buy a 1st class ticket and fly to Las Vegas NV; what happens in Vegas stays in Vegas](vegas/fear-loathing-las-vegas.md)
+
+[Make marshmallow masala chai](chai/make-marshmallow-masala-chai.md)
