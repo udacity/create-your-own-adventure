@@ -43,4 +43,6 @@ After having your coffee do you want to:
 
 [Play Chess?](chess/chess.md)
 
+[Procrastinate?](procrastinate/procrastinate.md)
+
 .
