@@ -16,3 +16,5 @@ have a ticket with a placed bet for Toronto to win or Atlanta to win.
 [Choose the Atlanta ticket](../../find-a-toilet.md)
 
 [Choose the Toronto ticket](../../../../private-party-island/island.md)
+
+[You don't care about the offer of the alien and just enjoy the show](dont-care/dont-care.md)
