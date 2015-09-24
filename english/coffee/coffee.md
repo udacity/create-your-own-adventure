@@ -41,4 +41,5 @@ After having your coffee do you want to:
 
 [Go for a run?](Run/run.md)
 
+[Procrastinate?](procrastinate/procrastinate.md)
 .
