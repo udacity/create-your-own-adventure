@@ -509,4 +509,4 @@ If you eat a lot, you should also [exercise](exercise/exercise.md)
 
 [Make marshmallow masala chai](chai/make-marshmallow-masala-chai.md)
 
-This miracle man (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
+This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
