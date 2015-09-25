@@ -10,7 +10,13 @@ eyes to see that you are back in your room.
 You immediately run into your bathroom and had the greatest pee session ever.
 Everything was alright in the world.
 
-
-
-
 Thank goodness for GitHub! 
+
+But wait, you're an elite software engineer. The comforts of your home don't keep you entertained for long. You're  
+bored. You start thinking of the marshmallow adventure again. You long for that adrenaline rush and using your
+skills to get out of trouble. You look for the wormhole. It's still there.
+
+[Go back to marshmallow land](../../../marshmallow.md)
+
+[Create a new wormhole to go to Cooper Station](cooper-station/cooper-station.md)
+
