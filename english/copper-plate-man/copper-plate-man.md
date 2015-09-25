@@ -1,1 +1,5 @@
-Did you know the copper plate man can read your mind without anyone uttering a word? Remarkably, he will have answers to those questions as well without ever speaking a word. Hard to believe? [Here is his story] (http://www.jameskelleher.com/index.php/journal/copperplateman.html)
+The copper plate man can read your mind and answers your questions without ever speaking a word.
+
+Hard to believe? 
+
+[Read on] (http://www.jameskelleher.com/index.php/journal/copperplateman.html)
