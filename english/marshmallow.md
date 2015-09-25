@@ -4,13 +4,19 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 *(Must be a Tuesday.)*
 
+Gee Whiz! You decide to share your story in the [Acts of Kindness](kindness/acts-of-kindness.md) page.
+
 For a second, you decide whether or not to just [go back to sleep](go-back-to-sleep/go-back-to-sleep.md)
 
 A sound from a Hitchcock movie fills the room, then quickly fades away.
 
+Was it the sound of a cry from the shower?
+
 Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
+
+Maybe this is a dream?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
@@ -39,6 +45,8 @@ capacity for good, I have sent them you... my only son."
 These marshmallows are numerous and they look so delicious.
 ... despite the feeling they're somehow judging you for only wearing one sock.
 
+[Turn one of the marshmallows into gold.](./alchemy/alchemy.md)
+
 You reach out to grab a handful of the marshmallow wall, but you can't seem to take the handful away from the wall.
 
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
@@ -50,6 +58,8 @@ You don't own any uncomfortable and restrictive leather jackets... How did you e
 You are feeling very anxious at this point.
 
 This is because you do not like leather for ethical reasons.
+
+[Ethical reason? Seriously?](./ethical-reason/ethical-reason.md)
 
 You begin to break out of the jacket and find a lighter, a fork, and rope.
 
@@ -71,6 +81,8 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 
 You see a polar bear searching for food.
 
+[A Shotgun appears!](./shotgun/shotgun.md)
+
 [Whilst cycling backwards.](./cycling-backwards/cycling-backwards.md)
 
 "Well- OK," you admit to yourself, "perhaps I do indulge in the occasional intoxicant!"
@@ -82,6 +94,9 @@ But it sounds like it might be coming out of speakers.
 Something lightly brushes the back of your neck, sending a chill down your spine! 
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
+
+Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air 
+for alien life forms.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
 
@@ -117,6 +132,8 @@ Pointing it at the door, eyes closed, "Alohomora..."
 
 Nothing seems to be happening.
 
+You pause for a second, awaiting a spectacular sight.
+
 Sheepishly you look down on the crappy wand in your hand.
  
 You must be doing something wrong. You drink a beer and think about it, then Ah-ha!
@@ -129,6 +146,12 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 
 Do you:
+
+[Realize you are in the ...](in-matrix/matrix.md)
+
+[Turn off all the lights](lightsoff/lightsoff.md)
+
+[Sit back a listen to your favourite White Stripes track](listen_white_stripes/listen_white_stripes.md)
 
 [Feel a sudden urge to dance](https://youtu.be/dQw4w9WgXcQ)
 
@@ -474,3 +497,16 @@ Click [here](young/young.md) to listen to music.
 [It's time to take a vacation] (licked-cat/vacation.md)
 
 
+[present-tense](present-tense/present-tense.md)
+
+[Think about happy thoughts while spinning around in circles](my-story/my-story.md)
+
+[Story of DKER](DKER/DKER.md)
+
+If you eat a lot, you should also [exercise](exercise/exercise.md)
+
+[Buy a 1st class ticket and fly to Las Vegas NV; what happens in Vegas stays in Vegas](vegas/fear-loathing-las-vegas.md)
+
+[Make marshmallow masala chai](chai/make-marshmallow-masala-chai.md)
+
+This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
