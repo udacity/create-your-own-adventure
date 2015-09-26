@@ -16,6 +16,8 @@ You step into the room and walk up to Bob.  Behind him are two large doors.
 
 The flaming hot marshmallows are gesturing suggestively at the doors while swaying their flaming hips.
 
+They grin with barely hidden glee.
+
 "Which door is the door for you, the blue door, or the red door?", he asks.
 
 "Before you decide, Remember help control the pet population. Have your pet spayed or neutered.", he announced.

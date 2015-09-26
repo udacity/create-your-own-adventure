@@ -121,4 +121,8 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 
 ئەگەر ئۇيغۇرچە سۆزلىسىڭىز، [بۇ يەرگە كىرىڭ](uyghurish/uyghurish-story.md)
 
+<<<<<<< HEAD
 Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
+=======
+Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
+>>>>>>> upstream/master

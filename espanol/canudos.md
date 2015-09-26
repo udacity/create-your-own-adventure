@@ -2,6 +2,8 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero: 
 
+[Sintió como la comida le subía por el exófago](comida/comida.md)
+
 [Mandó a congregar a Canudos entero al templo.](templo/templo.md)
 
 [Se arrodilló y se echó a rezar mientras Beatito salía por la puerta.](rezando/rezando.md)
@@ -57,3 +59,5 @@ el Consejero:
 [Un ejercito de angeles para ayudar a los guerreros.](angeles/angeles.md)
 
 [En el rincón donde dormía, el beatito...](beatito/beatito.md)
+
+[Ocupó su lugar junto al emperador en el recibimiento](recibimiento/recibimiento.md)

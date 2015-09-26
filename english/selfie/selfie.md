@@ -15,3 +15,5 @@ The next logical step then is to:
 [Begin to eat!](../light-fire/eating/inside.md)
 
 [Build a fire](../light-fire/fire.md)
+
+[Cast a spell](../magic/magic.md)
