@@ -59,3 +59,5 @@ el Consejero:
 [Un ejercito de angeles para ayudar a los guerreros.](angeles/angeles.md)
 
 [En el rincón donde dormía, el beatito...](beatito/beatito.md)
+
+[Ocupó su lugar junto al emperador en el recibimiento](recibimiento/recibimiento.md)

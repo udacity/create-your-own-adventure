@@ -25,3 +25,5 @@ Then after you explore the website, you learn a few neat tricks.
 [Play minecraft](../you-are-in-minecraft/minecraft.md)
 
 [Play Skyrim](../fus-roh-dah/fus-roh-dah.md)
+
+[Learn Calculus](https://en.wikipedia.org/wiki/Calculus)
