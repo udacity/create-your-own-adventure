@@ -27,3 +27,5 @@ Que faites-vous ?
 [Je demande de l'aide à Google](google/google.md)
 
 [J'appelle le genie](appelle-genie/appelle-genie.md)
+
+[Je fonce dans le mur pour le défoncer](frapper-le-mur.md)
