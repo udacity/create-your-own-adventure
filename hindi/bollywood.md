@@ -1,6 +1,4 @@
-﻿Art of Living [Know More](art-of-living/art-of-living.md)
-
-चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
+﻿चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
 
 बॉलीवुड में आपका स्वागत है !
 
@@ -17,3 +15,5 @@ Amithab, [go here](actor3/amithab.md)
 
 दीपिका पादुकोन  के लिए
 [ यहाँ  ](./actor5/deepika.md)
+
+Art of Living [Know More](art-of-living/art-of-living.md)
