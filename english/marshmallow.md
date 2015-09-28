@@ -104,6 +104,10 @@ But you are too quick for the marshmallow!
 
 The realization suddenly dawns upon you the marshmallow is self aware!
 
+You try to bury your contribution because you are slightly
+
+Embarrassed by the exercise.
+
 If you don't do something quickly, this marshmallow belly will digest you!
 
 Marshmallows are going to rule the world!
