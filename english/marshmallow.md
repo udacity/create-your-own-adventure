@@ -513,4 +513,4 @@ If you eat a lot, you should also [exercise](exercise/exercise.md)
 This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
 You decide that you do not want to visit the miracle man. [You check your 
-phone to find something else to do](../check-phone/check-phone.md).
+phone to find something else to do](check-phone/check-phone.md).
