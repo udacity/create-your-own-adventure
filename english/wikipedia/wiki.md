@@ -1,5 +1,7 @@
 You enter a world called 'Wikipedia.'
 
+One of the greatest knowledge sites ever !
+
 It is mesmerizing.
 
 It is transcendental.
