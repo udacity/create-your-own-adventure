@@ -1,4 +1,4 @@
-"Mmmmm... these marshmallows are soooo good" 
+"Mmmmm... these marshmallows are soooo good. They would be delicious with a cup of coffee." 
 
 You close your eyes.
 
