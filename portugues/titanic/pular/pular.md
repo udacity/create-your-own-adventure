@@ -5,6 +5,6 @@ Ele é pesado demais.
 Você e o computador comecam a afundar o pedaco de madeira. 
 Você agora precisa escolher o seu futuro
 
-[Deixar o computador boiar à deriva fazedo disso seu sacrífico](boiar/computador.md)
+[Deixar o computador boiar à deriva fazedo disso seu sacrífico](boiar/computador/computador.md)
 
-[Deixar o computador pra trás e boiar a deriva](boiar/voce.md)
+[Deixar o computador pra trás e boiar a deriva](boiar/voce/voce.md)
