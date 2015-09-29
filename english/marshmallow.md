@@ -498,6 +498,8 @@ Click [here](young/young.md) to listen to music.
 
 [Consult Flann O'Brien](flann-o-brien/truth-is-odd.md)
 
+[Attack it with a lightsaber](lightsaber/lightsaber.md)
+
 [It's time to take a vacation] (licked-cat/vacation.md)
 
 And then you realize that Burning Man is over, so no real vacations :(
