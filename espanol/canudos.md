@@ -57,3 +57,5 @@ el Consejero:
 [Un ejercito de angeles para ayudar a los guerreros.](angeles/angeles.md)
 
 [En el rincón donde dormía, el beatito...](beatito/beatito.md)
+
+[Llamo a su comandante en jefe..](comandante/comandante.md)
