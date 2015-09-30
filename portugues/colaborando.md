@@ -12,3 +12,7 @@ Você:
 [Procura um amigo que sabe de tecnologia](amigo/tecnologia.md)
 
 [Cria um aplicativo melhor](cria/melhor.md)
+
+[Levanta-se a vai buscar o spray mata insetos](spray/matainsetos.md)
+
+[Mas esse navio não pode ter bugs!](titanic/iceberg.md)

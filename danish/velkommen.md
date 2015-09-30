@@ -7,3 +7,5 @@ Gammel Nok bliver i sin seng.
 Vælger du at:
 
 [Spørge "Well Gynter! How goes it with the snitting?"](snitting/snitting.md)
+
+[Prøver at lette stemningen](synging/synging.md)
