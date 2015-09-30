@@ -8,6 +8,8 @@ Você é despedido por que não entregou o código.
 
 Você vai dar uma volta pela praia, e você vê algo que parece o seu portátil.
 
-Vendo mais de perto, é mesmo o seu portátil. Você leva para casa e como é um Thinkpad você consegue recuperar [seus dados](https://www.youtube.com/watch?v=3KXx-Kys-Fk)
+Vendo mais de perto, é mesmo o seu portátil. 
+
+Você leva até casa, como é um Thinkpad você consegue recuperar [seus dados](https://www.youtube.com/watch?v=3KXx-Kys-Fk)
 
 Você toma uma decisão.
