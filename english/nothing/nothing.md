@@ -11,4 +11,4 @@ As he injects the flourescent green fluid into you, he says,
 
 His voice fades away as you drift into unconsciousness.
 
-[Wake Up](wake-up/wake-up-again/wake-up-again.md)
+[Wake Up](.wake-up/wake-up-again/wake-up-again.md)
