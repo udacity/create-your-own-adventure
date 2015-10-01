@@ -49,3 +49,5 @@ Do you:
 [Succumb] (../madness/cthulhu.md) to the madness.
 
 [Goto] (../goto/goto.md) google.
+
+[raidersfile] (../Raiders/LetsgoRaiders.md) Raiders.
