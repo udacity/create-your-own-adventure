@@ -8,4 +8,4 @@
 
 [תזיין את אחותך](sister/your-sister.md)
 
-[אתה קורא את מה שכתוב, יוצא מההלם, ומפחש אופציה שפויה](sane-option/fresh-start.md)
+[אתה קורא את מה שכתוב, יוצא מההלם, ומחפש אופציה שפויה](sane-option/fresh-start.md)
