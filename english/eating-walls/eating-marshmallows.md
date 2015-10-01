@@ -50,4 +50,4 @@ Do you:
 
 [Goto] (../goto/goto.md) google.
 
-[raidersfile] (../Raiders/LetsGoRaiders.md) Raiders.
+[raidersfile] (../Raiders/LetsgoRaiders.md) Raiders.
