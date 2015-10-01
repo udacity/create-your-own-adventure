@@ -10,10 +10,10 @@ You notice that he is hiding something behind his back.
 
 Do you:
 
-[Kick the Doctor](.kicktheman/kicktheman.md)
+[Kick the Doctor](./kicktheman/kicktheman.md)
 
-[Charge for the lights, turn them off](.lightsoff/lightsoff.md)
+[Charge for the lights, turn them off](./lightsoff/lightsoff.md)
 
-[Realize you are Batman](.I'm-batman/batman.md)
+[Realize you are Batman](./I'm-batman/batman.md)
 
-[Do Nothing](.nothing/nothing.md)
+[Do Nothing](./nothing/nothing.md)
