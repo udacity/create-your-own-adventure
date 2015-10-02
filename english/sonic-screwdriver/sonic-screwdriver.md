@@ -5,7 +5,6 @@ You return to the Tardis, flip some levers and hear that familiar whirling sound
 When you open the door back in Londo you realize that you left your trusty sidekick behind. 
 
 Do you:
-
-[Answer the sudden knock at the door?](.../knock/answer.md)
+[Answer the sudden knock at the door?](../knock/answer.md)
 
 [Go back and find the impossible girl?](../impossible-girl/impossible.md)
