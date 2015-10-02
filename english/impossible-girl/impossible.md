@@ -36,6 +36,7 @@ THUD... THUD... THUD...
 
 Do you:
 
-[Ignore the noise and taste a bit of the marshmallow wall you just noticed to your right.](../eating-walls/eating-marshmallows.md)
+[Ignore the noise and taste a bit of the marshmallow wall you just noticed to your right.]
+(../eating-walls/eating-marshmallows.md)
 
 [Investigate further...](../knock/answer.md)
