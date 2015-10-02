@@ -153,6 +153,8 @@ Do you:
 
 [Realize you are in the ...](in-matrix/matrix.md)
 
+[Realize you better call Saul](better-call-saul/saul.md)
+
 [Turn off all the lights](lightsoff/lightsoff.md)
 
 [Sit back a listen to your favourite White Stripes track](listen_white_stripes/listen_white_stripes.md)
