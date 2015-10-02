@@ -8,3 +8,5 @@ Inciampi in una bottiglia rotta a metà, e ci sono vetri ovunque.
 [Ti arrabbi perchè il tappeto è sporco](arrabbi/arrabbi.md)
 
 [Approfitti del vetro più tagliente per farti la barba](barba/barba.md)
+
+[Fra i vetri rotti scopri un oggetto](scopri-oggetto/scopri-oggetto.md)

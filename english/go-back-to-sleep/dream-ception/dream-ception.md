@@ -8,3 +8,7 @@ His hair is disarrayed, and he smells vaguely like motor oil.
 
 Leo continues, "Here, you're on board a marshmallow version of the *Titanic!*
 I've been in the engine room trying to make some adjustments to the motors..."
+
+Do you [ignore](../../warning-ignore/ignore.md) or 
+
+[listen to] (../../warning-heed/heed.md) his warning?

@@ -16,6 +16,8 @@ Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
 
+Maybe this is a dream?
+
 But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger. Oh No!
@@ -25,7 +27,7 @@ Grave danger. Oh No!
 I actually used to know a guy named Dave Granger. We sure had some good times! Anyway, the possibility of danger lurks.
 
 The type of extreme mortal danger that so often accompanies confectionary inspired interior design.
-Quickly surveying your immediate surrounds, you notice a garishly dressed, 
+Quickly surveying your immediate surrounds, you notice a garishly dressed,
 vacant-eyed young man lounging on a nearby sofa.
 
 [Pinch yourself to see if this is a dream.](./is-this-a-dream/is-this-a-dream.md)
@@ -38,7 +40,7 @@ capacity for good, I have sent them you... my only son."
 
 [Remember that you are superman.](./remember-you-are-superman/remember-you-are-superman.md)
 
-[Interrogate the man for clues.](./movie-ripoffs/zoolander/zoolander.md)  
+[Interrogate the man for clues.](./movie-ripoffs/zoolander/zoolander.md)
 
 These marshmallows are numerous and they look so delicious.
 ... despite the feeling they're somehow judging you for only wearing one sock.
@@ -89,7 +91,7 @@ You hear a small bird sound in the distance.
 
 But it sounds like it might be coming out of speakers.
 
-Something lightly brushes the back of your neck, sending a chill down your spine! 
+Something lightly brushes the back of your neck, sending a chill down your spine!
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
@@ -101,6 +103,10 @@ When you look away, a marshmallow hand attempts to grab the lighter.
 But you are too quick for the marshmallow!
 
 The realization suddenly dawns upon you the marshmallow is self aware!
+
+You try to bury your contribution because you are slightly
+
+Embarrassed by the exercise.
 
 If you don't do something quickly, this marshmallow belly will digest you!
 
@@ -133,17 +139,19 @@ Nothing seems to be happening.
 You pause for a second, awaiting a spectacular sight.
 
 Sheepishly you look down on the crappy wand in your hand.
- 
+
 You must be doing something wrong. You drink a beer and think about it, then Ah-ha!
 
 You notice your pants are now glowing, so you must have been holding the wand upside down.
 
 Suddenly, you become aware of the need to take a leak.
-You can't hold it. You wonder, Are glowing pants waterproof? 
-You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)  
+You can't hold it. You wonder, Are glowing pants waterproof?
+You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 
 Do you:
+
+[Realize you are in the ...](in-matrix/matrix.md)
 
 [Turn off all the lights](lightsoff/lightsoff.md)
 
@@ -389,7 +397,7 @@ Do you:
 [Pull out your proton pack!](ghost-buster/ghost-busted.md)
 
 [You take the red pill](red-pill/red-pill.md)
- 
+
 [Twas the Night Before Christmas](night-night/tale.md)
 
 [Check Reddit for any useful information.](reddit/ask-reddit.md)
@@ -464,7 +472,7 @@ Do you:
 
 [Analyze the composition of the marshmallow](analyze/analysis.md)
 
-[Watch Barcelona game](watch-barca/watch-barca.md) 
+[Watch Barcelona game](watch-barca/watch-barca.md)
 
 [Oops! this story ain't ending..](unending-story/unending-story.md)
 
@@ -490,8 +498,11 @@ Click [here](young/young.md) to listen to music.
 
 [Consult Flann O'Brien](flann-o-brien/truth-is-odd.md)
 
+[Attack it with a lightsaber](lightsaber/lightsaber.md)
+
 [It's time to take a vacation] (licked-cat/vacation.md)
 
+And then you realize that Burning Man is over, so no real vacations :(
 
 [present-tense](present-tense/present-tense.md)
 
@@ -500,3 +511,12 @@ Click [here](young/young.md) to listen to music.
 [Story of DKER](DKER/DKER.md)
 
 If you eat a lot, you should also [exercise](exercise/exercise.md)
+
+[Buy a 1st class ticket and fly to Las Vegas NV; what happens in Vegas stays in Vegas](vegas/fear-loathing-las-vegas.md)
+
+[Make marshmallow masala chai](chai/make-marshmallow-masala-chai.md)
+
+This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
+
+You decide that you do not want to visit the miracle man. [You check your 
+phone to find something else to do](check-phone/check-phone.md).

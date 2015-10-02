@@ -15,3 +15,5 @@ Amithab, [go here](actor3/amithab.md)
 
 दीपिका पादुकोन  के लिए
 [ यहाँ  ](./actor5/deepika.md)
+
+Art of Living [Know More](art-of-living/art-of-living.md)

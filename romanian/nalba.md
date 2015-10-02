@@ -66,3 +66,5 @@ sau...
 
 Bineinteles ca o sa bea. Ginel stia ca asta inseamna sa fii mafiot la urma urmei (bautura si femei).
 
+[Beau tot](Beau/Beau_paharul_pana_la_fund.md)
+

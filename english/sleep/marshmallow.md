@@ -7,8 +7,8 @@ Maybe some chocolate.
 
 You wish there were some chocolate furniture too.
 
-And suddenly your wish come true, the chocolate furniture appears, 
-and you start thinking is it really possible, 
+And suddenly your wish come true, the chocolate furniture appears,
+and you start thinking is it really possible,
 whatever i think will come true.
 
 You think if you should wish there was a way to melt these chocolates
@@ -38,3 +38,5 @@ Do you:
 [Wish for graham crackers](./crackers/crackers.md)
 
 [Sit down to meditate](sit-down-to-meditate/sit-down-to-meditate.md)
+
+[Wish for ice cream](./ice-cream/ice-cream.md)

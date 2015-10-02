@@ -9,3 +9,6 @@ diamond-shaped main island, commonly referred to as Singapore Island
 in English and Pulau Ujong in Malay, and more than 60 
 significantly smaller islets; also, land reclamation has been used 
 to expand Singapore's land area, which is highly urbanised.
+
+As the plane doors open, you are hit by a wave of hot air.
+It is 31 degrees outside right now. A typical day in Singapore.
