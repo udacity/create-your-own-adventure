@@ -6,4 +6,6 @@ When you open the door back in Londo you realize that you left your trusty sidek
 
 Do you:
 
+[Answer the sudden knock at the door?](.../knock/answer.md)
+
 [Go back and find the impossible girl?](../impossible-girl/impossible.md)
