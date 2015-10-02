@@ -1,0 +1,1 @@
+By landing in the field of potatoes, you came across a skillet with fries.
