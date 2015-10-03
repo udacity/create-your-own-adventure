@@ -27,9 +27,9 @@ of skill or readiness again...
 
 You decide to do the unthinkable...
 
-[Try out Karaoke](../karaoke/none.md)
+[Try out Karaoke](../karaoke/nope.md)
 
-No way man! I don't have the guts to follow my dreams like that!
+No way! I don't have the guts to follow my dreams like that!
 
 Knees weak, arms spaghetti, vomit on spaghetti already
 
