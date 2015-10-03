@@ -13,5 +13,6 @@ certainly not made of bees). But there is also a small part of you that feels
 the pull of the badgers soft voice, his calm but engaging eyes.
 
 Do you:
-* [rebel against the absurdity of it all?] (rebel/rebel.md)
-* [let your mind surrender] (surrender/surrender.md)
+[rebel against the absurdity of it all?] (rebel/rebel.md)
+
+[let your mind surrender] (surrender/surrender.md)
