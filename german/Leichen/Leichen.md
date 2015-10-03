@@ -11,7 +11,8 @@ Was tun Sie?
 
 Ich halte nach etwas [Ausschau](Ausschau/Ausschau.md), an dass ich mich klammern könnte.
 
-All meine Kraft geht in meine zunehmend panischen [Schwimmbewegungen](Schwimmbewegungen/Schwimmbewegungen.md). Ich versuche mit letzter Kraft den Strand zu erreichen.
+All meine Kraft geht in meine zunehmend panischen [Schwimmbewegungen](Schwimmbewegungen/Schwimmbewegungen.md).
+Ich versuche mit letzter Kraft den Strand zu erreichen.
 
 Meine Kleidung hindert mich absolut am Schwimmen.
 Die Kälte des Wassers macht meine Bewegungen steif,
