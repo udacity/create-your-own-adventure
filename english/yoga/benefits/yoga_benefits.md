@@ -15,3 +15,4 @@ Here we provide a list of benefits:
 5. Increase hipster status
 6. Weight reduction
 7. Protection from injury
+9. Increases happiness
