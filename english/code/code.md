@@ -5,3 +5,6 @@ Your pants stop glowing, but then the marshmallow-walled room starts glowing,
 slowly getting brighter and brighter.
 
 You continue coding.
+
+one day i got bored with the stuff so i created an algorithm to add some color
+and randomness.
