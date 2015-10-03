@@ -13,4 +13,7 @@ Ich halte nach etwas [Ausschau](Ausschau/Ausschau.md), an dass ich mich klammern
 
 All meine Kraft geht in meine zunehmend panischen [Schwimmbewegungen](Schwimmbewegungen/Schwimmbewegungen.md). Ich versuche mit letzter Kraft den Strand zu erreichen.
 
-Meine Kleidung hindert mich absolut am Schwimmen. Die Kälte des Wassers macht meine Bewegungen steif, die vollgesogene [Kleidung](Kleidung/Kleidung.md) macht sie träge. Irgendwie muss ich versuchen sie los zu werden!
+Meine Kleidung hindert mich absolut am Schwimmen.
+Die Kälte des Wassers macht meine Bewegungen steif,
+die vollgesogene [Kleidung](Kleidung/Kleidung.md) macht sie träge.
+Irgendwie muss ich versuchen sie los zu werden!
