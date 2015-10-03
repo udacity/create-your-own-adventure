@@ -29,7 +29,7 @@ You decide to do the unthinkable...
 
 [Try out Karaoke](../karaoke/nome.md)
 
-No way man!
+No way man! I don't have the guts to follow my dreams like that!
 
 Knees weak, arms spaghetti, vomit on spaghetti already
 
