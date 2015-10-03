@@ -9,7 +9,7 @@ Schnell, aber unbemerkt versuchen Sie an Land zu kommen, aber es scheint nicht n
 
 Was tun Sie?
 
-Ich halte nach etwas (Ausschau)[Ausschau/Ausschau.md], an dass ich mich klammern könnte.
+Ich halte nach etwas [Ausschau](Ausschau/Ausschau.md), an dass ich mich klammern könnte.
 
 All meine Kraft geht in meine zunehmend panischen [Schwimmbewegungen](Schwimmbewegungen/Schwimmbewegungen.md). Ich versuche mit letzter Kraft den Strand zu erreichen.
 
