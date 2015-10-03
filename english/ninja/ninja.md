@@ -27,7 +27,7 @@ of skill or readiness again...
 
 You decide to do the unthinkable...
 
-[Try out Karaoke](../karaoke/nome.md)
+[Try out Karaoke](../karaoke/none.md)
 
 No way man! I don't have the guts to follow my dreams like that!
 
