@@ -6,4 +6,5 @@ mr. skeltal is nice!
 
 hahahaha
 
-[Go back to sleep.](../sleep/marshmallow.md)
+Have a laugh reading [this](./ghostbusters.md),
+or [go back to sleep](../sleep/marshmallow.md)
