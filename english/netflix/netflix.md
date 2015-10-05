@@ -4,11 +4,11 @@ networks in the marshmallow.
 
 What do you do?
 
-Especially since house of cards season 3 just became available. 
+Especially since house of cards season 3 just became available.
 
 You search for the tech support number.
 
-No answer, so you swith to HBO 
+No answer, so you switch to HBO
 
 But, since it was Lent I decided to
 
