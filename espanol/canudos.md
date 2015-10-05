@@ -2,6 +2,8 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero: 
 
+[Sintió como la comida le subía por el exófago](comida/comida.md)
+
 [Mandó a congregar a Canudos entero al templo.](templo/templo.md)
 
 [Se arrodilló y se echó a rezar mientras Beatito salía por la puerta.](rezando/rezando.md)
@@ -58,4 +60,12 @@ el Consejero:
 
 [En el rincón donde dormía, el beatito...](beatito/beatito.md)
 
+<<<<<<< HEAD
 [Llamo a su comandante en jefe..](comandante/comandante.md)
+=======
+[Ocupó su lugar junto al emperador en el recibimiento](recibimiento/recibimiento.md)
+
+[Le dice a Beatito, el momento ha llegado, La Nueva Dimensión](dimension/dimension.md)
+
+
+>>>>>>> 043f5db0795e6d306861c84019b61f900f970fee

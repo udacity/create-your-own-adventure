@@ -1,21 +1,13 @@
 Do not mistake my yawn.
 It is a silent scream for coffee.
 
-though
-you might wanna see wonderful dream 
-that's why i don't fully agree 
-but if you are out of bed then
-Drink some coffee and relax yourself a little bit.
-
-or have just few sips and get energy
-
 The bitter-sweet flavor of roasted coffee beans invigorates your soul.
 
-You feel like a new person after a cup of coffee.
+You feel like a new person. Like you have been reborn.
 
 Nothing like a cup of coffee to start your day when you wake up.
 
-Can you feel the caffeine rush inside of you?
+Can you feel the caffeine rush inside of you? It's taking hold, controlling you. You're so high.
 
 After having your coffee do you want to:
 
@@ -40,5 +32,9 @@ After having your coffee do you want to:
 [Book a Flight to Paris?](Paris/fly-to-paris.md)
 
 [Go for a run?](Run/run.md)
+
+[Play Chess?](chess/chess.md)
+
+[Procrastinate?](procrastinate/procrastinate.md)
 
 .

@@ -1,5 +1,7 @@
 You enter a world called 'Wikipedia.'
 
+One of the greatest knowledge sites ever !
+
 It is mesmerizing.
 
 It is transcendental.
@@ -25,3 +27,5 @@ Then after you explore the website, you learn a few neat tricks.
 [Play minecraft](../you-are-in-minecraft/minecraft.md)
 
 [Play Skyrim](../fus-roh-dah/fus-roh-dah.md)
+
+[Learn Calculus](https://en.wikipedia.org/wiki/Calculus)

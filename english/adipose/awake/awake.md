@@ -10,3 +10,5 @@ will be a pleasent dream or a hellish nightmare, but
 anything is better then your eternal loneliness, so 
 you move on to the white dwarf two parsecs over. Then,
 you died in your dreams.
+
+Just adding a line this time.
