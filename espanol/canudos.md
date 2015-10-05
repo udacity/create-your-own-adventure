@@ -60,6 +60,8 @@ el Consejero:
 
 [En el rincón donde dormía, el beatito...](beatito/beatito.md)
 
+[Llamo a su comandante en jefe..](comandante/comandante.md)
+
 [Ocupó su lugar junto al emperador en el recibimiento](recibimiento/recibimiento.md)
 
 [Le dice a Beatito, el momento ha llegado, La Nueva Dimensión](dimension/dimension.md)
