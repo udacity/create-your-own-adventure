@@ -11,6 +11,8 @@ Afterwards, you decide to:
 
 [swim](../dream/swim/swim.md)
 
+[code](../dream/code/code.md)
+
 [dance](../dance/dance.md)
 
 [karaoke](../karaoke/nope.md)
