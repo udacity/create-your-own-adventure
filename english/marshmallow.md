@@ -1,3 +1,5 @@
+[Some inspirational Lines](the-nights/the-nights.md)
+
 [Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
 
 One morning, you wake up in a strange room with marshmallows for walls.
