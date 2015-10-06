@@ -532,3 +532,5 @@ phone to find something else to do](check-phone/check-phone.md).
 And you plug-in to [play some music](play-music/playmusic.md).
 
 The next thing you know, you're up all night in Croatia mixing a new playlist
+
+You remember the story of a [robot](happy-robot/happy-robot.md).
