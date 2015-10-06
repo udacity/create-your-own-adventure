@@ -1,0 +1,1 @@
+after checking the playlist, the next mission popped up
