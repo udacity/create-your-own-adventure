@@ -4,6 +4,9 @@ for the eating! However, you can see the exit slowly but surely
 start to get shrouded by flames.
 
 Do you:
+
 Eat the golden brown marshmellow walls
+
 or
+
 Escape the house like a sane individual!
