@@ -17,3 +17,5 @@ Amithab, [go here](actor3/amithab.md)
 [ यहाँ  ](./actor5/deepika.md)
 
 Art of Living [Know More](art-of-living/art-of-living.md)
+
+[Sunny Deol](sunny_deol/sunny.md)
