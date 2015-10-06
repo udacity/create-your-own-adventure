@@ -6,5 +6,5 @@ from deep in your sleep,
 
 Do you:
 
-wake up hurriedly and run out of the house or
+[wake up hurriedly and run out of the house](../burn-down-the-house/escape-house.md) or
 [continue to enjoy the dream you were having of your crush](../burn-down-the-house/house-burn.md)
