@@ -534,3 +534,5 @@ And you plug-in to [play some music](play-music/playmusic.md).
 The next thing you know, you're up all night in Croatia mixing a new playlist
 
 You remember the story of a [robot](happy-robot/happy-robot.md).
+
+You go ahead and decide that this would be a good time to play some golf [who-I-golf-with] (Golf)
