@@ -19,3 +19,5 @@ Do you:
 [Plummet like a rock?](../plummet/plummet.md)
 
 [Dance, dance for elevation?](../hammertime/hammertime.md)
+
+[Summon dragons!](../dragons/fire-everywhere.md)
