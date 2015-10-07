@@ -21,4 +21,4 @@ Do you:
 
 [do a flip](flip/flip.md)
 
-[eat breakfast?](breakfast/breakfast.md)
+[eat breakfast?](../breakfast/breakfast.md)
