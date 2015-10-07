@@ -14,6 +14,10 @@ A sound from a Hitchcock movie fills the room, then quickly fades away.
 
 Was it the sound of a cry from the shower?
 
+It sounded like it could have been a [heffalump](heffalump/heffalump.md)
+
+No... perhaps not.
+
 Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
