@@ -4,7 +4,7 @@ On aurait pû faire que les murs soient fait en pâte de guimave, mais ce sont d
 
 Que faites-vous ?
 
-[J'appel au secours](appel-au-secours/appeler-au-secours.md)
+[J'appelle au secours](appel-au-secours/appeler-au-secours.md)
 
 [Je me rendors](dormir/reve-etrange.md)
 
@@ -20,10 +20,12 @@ Que faites-vous ?
 
 [Je dessine une porte avec un syphon de crème chantilly qui traine](dessine/porte.md)
 
-[Je ne parle pas francais](../english/marshmallow.md)
+[I don't speak French](../english/marshmallow.md)
 
 [J'appelle ma mère immédiatement](appel-maman/appeler-maman.md)
 
-[Je demande de l'aide a Google](google/google.md)
+[Je demande de l'aide à Google](google/google.md)
 
 [J'appelle le genie](appelle-genie/appelle-genie.md)
+
+[Je fonce dans le mur pour le défoncer](frapper-le-mur.md)
