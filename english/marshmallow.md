@@ -140,7 +140,7 @@ I felt a sudden ease of mind.
 
 "But first I must remember the magic spell needed to open the enchanted door!"
 Where is Hermione Granger when you need her? Where I ask you?
-Oh, I know. Click [here]<english/hermioneHere.md>
+Oh, I know. Click [here](./hermione/hermioneHere.md)
 
 You pick up the fork and wrap it in rope to fashion a crappy wand.
 
