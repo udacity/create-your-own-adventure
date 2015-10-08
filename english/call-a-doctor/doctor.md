@@ -5,7 +5,7 @@ color, not like the institutionalized white you remember from movies.
 
 [The doctor](https://www.youtube.com/watch?v=WsGDvMqcP94) enters.
 
-["Let me outta here, Doc!!!"](let-me-out/let-me-out.md)
+["Let me outta here, Doc!!!"](../let-me-out/let-me-out.md)
 
 ["I'm uber hungry, Doc."](hungry/hungry.md)
 
