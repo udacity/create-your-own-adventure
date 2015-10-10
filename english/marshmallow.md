@@ -547,4 +547,7 @@ The next thing you know, you're up all night in Croatia mixing a new playlist
 
 You remember the story of a [robot](happy-robot/happy-robot.md).
 
-Wondering how you got here, you feel a strange tingling in your hands, almost as if they are responding to your new surroundings. You feel an urge to gesture forward, and as you do a large pink marshmallow shoots out of your hand into the wall before you. [Explore your new marshmallow powers.](marshmallow-wizard/marshmallow-wizard.md)
+Wondering how you got here, you feel a strange tingling in your hands, almost as if
+they are responding to your new surroundings. You feel an urge to gesture forward, 
+and as you do a large pink marshmallow shoots out of your hand into the wall before you. 
+[Explore your new marshmallow powers.](marshmallow-wizard/marshmallow-wizard.md)
