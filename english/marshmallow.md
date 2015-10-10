@@ -546,3 +546,5 @@ And you plug-in to [play some music](play-music/playmusic.md).
 The next thing you know, you're up all night in Croatia mixing a new playlist
 
 You remember the story of a [robot](happy-robot/happy-robot.md).
+
+You go to the robot shelter and get a robot that pours your favorite [wine] (wine/wine.md) in a decanter.
