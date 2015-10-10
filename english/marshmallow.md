@@ -6,7 +6,9 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 *(Must be a Tuesday.)*
 
-Or a Wednesday...Thursday...maybe even a Friday.  Ok, maybe Saturday too.
+Or a Wednesday...Thursday...maybe even a Friday.
+
+Ok, we have to consider Saturday too.
 
 Gee Whiz! You decide to share your story in the [Acts of Kindness](kindness/acts-of-kindness.md) page.
 
