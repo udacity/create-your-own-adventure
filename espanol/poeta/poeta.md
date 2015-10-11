@@ -1,0 +1,1 @@
+Y al observar a su alrededor, el intrigado hombre penso que los hechos ocurridos darian fruto a una hermosa historia.  Pero, para recodar a su hermana, insistió en que tenia que ser un poema.
