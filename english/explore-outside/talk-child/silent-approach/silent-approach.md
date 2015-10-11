@@ -7,4 +7,4 @@ You have now reached the child. What do you do?
 
 [Talk to the child anyway](../talk-more/talk-more.md)
 
-[Run away!](/run-away/run-away.md)
+[Run away!](../run-away/run-away.md)
