@@ -14,6 +14,9 @@ And you don't have to go to the library.
 
 [Behold!](http://en.wikipedia.org)
 
+You may also like it's sister site, wikiyoyage (https://www.wikivoyage.org) 
+with more detailed information on travel destinations.
+
 You are so impressed with Wikipedia, you decide that you might even like to 
 [donate](http://wikimediafoundation.org/wiki/Support_Wikipedia/en) some money to help keep Wikipedia running.
 
