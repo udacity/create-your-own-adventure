@@ -2,6 +2,8 @@
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
+Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
+
 If you speak Telugu, మీరు తెలుగులొ మాట్లాడుతార [ఇక్కడ నొక్కండి](telugu/telangana-telugu/Telanganatelugu.md).
 
 If you understand Tamil, தமிழ் வணக்கம் [இங்கே அழுத்தவும்](Tamil/Thirukural.md)
