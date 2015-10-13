@@ -36,4 +36,4 @@
 
 [Откроете дверь, в нее настойчиво стучат.](rat-rat/rat-rat.md)
 
-[Поздравлю деда.] (grandad/grandad.md)
+[Поздравлю деда.](grandad/grandad.md)
