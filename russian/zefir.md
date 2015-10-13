@@ -35,3 +35,5 @@
 [Вспомните интересную шутку](Holms-Watson/Holmes-Watson.md)
 
 [Откроете дверь, в нее настойчиво стучат.](rat-rat/rat-rat.md)
+
+[Поздравлю деда.] (grandad/grandad.md)
