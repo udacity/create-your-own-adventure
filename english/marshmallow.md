@@ -111,7 +111,7 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
-Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air 
+Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
 for alien life forms.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
@@ -538,8 +538,7 @@ If you eat a lot, you should also [exercise](exercise/exercise.md)
 
 This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
-You decide that you do not want to visit the miracle man. [You check your 
-phone to find something else to do](check-phone/check-phone.md).
+You decide that you do not want to visit the miracle man. [You check your phone to find something else to do](check-phone/check-phone.md).
 
 And you plug-in to [play some music](play-music/playmusic.md).
 
@@ -547,7 +546,6 @@ The next thing you know, you're up all night in Croatia mixing a new playlist
 
 You remember the story of a [robot](happy-robot/happy-robot.md).
 
-Wondering how you got here, you feel a strange tingling in your hands, almost as if
-they are responding to your new surroundings. You feel an urge to gesture forward, 
-and as you do a large pink marshmallow shoots out of your hand into the wall before you. 
-[Explore your new marshmallow powers.](marshmallow-wizard/marshmallow-wizard.md)
+Wondering how you got here, you feel a strange tingling in your hands, almost as if they are responding to your new surroundings. You feel an urge to gesture forward, and as you do a large pink marshmallow shoots out of your hand into the wall before you. [Explore your new marshmallow powers.](marshmallow-wizard/marshmallow-wizard.md)
+
+Something still seems strange.  [You pinch yourself again to see if you are dreaming.](pinch/pinch.md)
