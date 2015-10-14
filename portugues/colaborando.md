@@ -31,4 +31,5 @@ Mas te bateu uma fome danada e você não tem nada na geladeira e nenhum tostão
 
 Vende seu PC?
 [SIM](venda/sim.md)
-[NÃO](venda/nao.md)
+
+[NÃO](nvenda/nao.md)
