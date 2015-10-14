@@ -27,3 +27,4 @@ O Git te parece ser util, mas como você ainda não vive no século XXI, você e
 
 
 
+Mas te bateu uma fome danada e você não tem nada na geladeira e nenhum tostão.
