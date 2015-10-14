@@ -551,3 +551,5 @@ Wondering how you got here, you feel a strange tingling in your hands, almost as
 they are responding to your new surroundings. You feel an urge to gesture forward, 
 and as you do a large pink marshmallow shoots out of your hand into the wall before you. 
 [Explore your new marshmallow powers.](marshmallow-wizard/marshmallow-wizard.md)
+
+[The evil and heroic marshmallow](the-slayer/marshmallow-slayer.md)
