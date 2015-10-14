@@ -66,4 +66,6 @@ el Consejero:
 
 [Le dice a Beatito, el momento ha llegado, La Nueva Dimensión](dimension/dimension.md)
 
+[Intenta recordar el nombre del general del ejercito](general/general.md)
+
 
