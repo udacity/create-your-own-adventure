@@ -17,4 +17,4 @@ Where do you go?
 
 [Space?](./space/space.md)
 
-[Back inside and wait to wake up](../sleep/marshmallow.md)
+[Back inside and wait to wake up](../../sleep/marshmallow.md)
