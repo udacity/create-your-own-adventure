@@ -24,11 +24,13 @@ No... perhaps not.
 
 I think it was an [animal](animal/animal.md).
 
-Thinking back, there are no [memories](memories/memories.md) to suggest that this should have been
+Thinking back, there are no memories memories/memories.md to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
 
 Maybe this is a dream?
+
+Or a [memory](memories/memories.md)?
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
