@@ -24,7 +24,7 @@ No... perhaps not.
 
 I think it was an [animal](animal/animal.md).
 
-Thinking back, there are no memories memories/memories.md to suggest that this should have been
+Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
 
