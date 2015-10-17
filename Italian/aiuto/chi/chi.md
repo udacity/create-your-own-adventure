@@ -2,4 +2,4 @@ Sono il supporto tecnico della tua mente. Faccio parte di un programma speciale 
 
 segreti della mente umana.
 
-Mi sà tanto che devo smettere di bere, [Buonanotte!](..\caramelle.md)
+Mi sà tanto che devo smettere di bere, [Buonanotte!](../../caramelle.md)

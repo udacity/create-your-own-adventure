@@ -2,4 +2,4 @@ Perchè hai deciso di sottoporti ad un nuovo esperimento segreto che cerca di sv
 
 La tua mente non è ancora pronta, devi cercare di riaddomentarti.
 
-[Ti riaddormenti](..\..\caramelle.md)
+[Ti riaddormenti](../../caramelle.md)
