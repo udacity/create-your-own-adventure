@@ -10,3 +10,5 @@ Che fai?
 [Mi guardo intorno](guardare/guarda.md)
 
 [Mi conto le dita per vedere se sono veramente sveglio](verifica/verifica.md)
+
+[Cerco aiuto ulrando c'è qualcuno?](aiuto/aiuto.md)
