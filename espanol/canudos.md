@@ -68,4 +68,6 @@ el Consejero:
 
 [Intenta recordar el nombre del general del ejercito](general/general.md)
 
+[Y de repente se acordo y sintion miedo...](kraken/kraken.md)
+
 
