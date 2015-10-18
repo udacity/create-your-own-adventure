@@ -8,4 +8,4 @@ As start taking a step back as you throw another punch.
 
 Suddenly you hear footsteps behind you and before you could turn around,
 
-[Something hard hit your head](../../../../marshmallow.md)
+[Something hard hits your head](../../../../../marshmallow.md)

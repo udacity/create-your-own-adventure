@@ -9,7 +9,7 @@ You open your mouth to form words...but all that comes out is :
 
 and the strange thing in front of you also start to screams,
 
-soon it tunrs into screaming competition. But you realize
+soon it turns into screaming competition. But you realize
  you are now very closer to that strange thing.
  
  Do you : 
