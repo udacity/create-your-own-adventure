@@ -31,7 +31,8 @@ from an early version of the story.  Here are some examples of  appropriate chan
 * Add a new option to an existing choice point, and link that option to an
   existing "page".
 * Add a new option to an existing choice point, create a new "page" for that
-  option, and add a sentence or two to the new "page".
+  option, and add a sentence or two to the new "page". (Be sure to leave a blank
+  line at the end of your page so that others may add some options or new lines.)
 * Add a couple of options to a current dead-end "page", and add a "page" or link
   to an existing "page" for each option.
 
@@ -68,6 +69,14 @@ will be difficult to read in the browser or on the command line, and changes
 will be harder to review.
 
 ### Blank Lines Between Options
+
+Insert blank lines between different options so that the options will be
+visually separated.
+
+### Blank Line at the End of a New Page
+
+Insert a blank line at the end of any new page so that options may be added,
+or additions made to the story.
 
 Insert blank lines between different options so that the options will be
 visually separated.
