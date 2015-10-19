@@ -78,9 +78,6 @@ visually separated.
 Insert a blank line at the end of any new page so that options may be added,
 or additions made to the story.
 
-Insert blank lines between different options so that the options will be
-visually separated.
-
 ### Avoid Using Markdown Features
 
 Other than links, please only use plain text in your story and not the other
