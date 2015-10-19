@@ -142,7 +142,8 @@ A soft echo of a torrent is fading from far...
 
 I felt a sudden ease of mind.
 
-"Ok", I said to myself, "I need to get out of here"
+"Ok", I said to myself, "I need to get 
+[out of here](outta-here/outta-here.md)"
 
 "But first I must remember the magic spell needed to open the enchanted door!"
 Where is Hermione Granger when you need her? Where I ask you?
