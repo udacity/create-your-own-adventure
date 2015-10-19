@@ -30,6 +30,8 @@ usually take intoxicants, what's happening...?
 
 Maybe this is a dream?
 
+Or a [memory](memories/memories.md)?
+
 But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger. Oh No!
