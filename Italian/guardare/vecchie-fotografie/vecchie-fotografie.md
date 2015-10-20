@@ -5,3 +5,7 @@ Sembrano fotografie scattate negli anni 50, almeno a giudicare dall'abbigliament
 
 Vi sono uomini e donne di diversa età, e in alcune immagini, inspiegabilmente, vi sono delle bruciature sul viso 
 di alcune persone.
+
+[Sfogli i libri, in cerca di qualche indizio](libri-francesi/libri-francesi.md)
+
+[Guarda il retro delle fotografie]
