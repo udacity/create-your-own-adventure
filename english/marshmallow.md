@@ -563,4 +563,5 @@ and as you do a large pink marshmallow shoots out of your hand into the wall bef
 
 [The evil and heroic marshmallow](the-slayer/marshmallow-slayer.md)
 
-All in a hard days work, do you play some [music](play-music/playmusic.md), or do you do the [robot](happy-robot/happy-robot.md)
+All in a hard days work, do you play some [music](play-music/playmusic.md), or do you do the
+[robot](happy-robot/happy-robot.md)
