@@ -539,6 +539,8 @@ And then you realize that Burning Man is over, so no real vacations :(
 
 If you eat a lot, you should also [exercise](exercise/exercise.md)
 
+A quick brown fox jumps over the lazy dog!
+
 [Buy a 1st class ticket and fly to Las Vegas NV; what happens in Vegas stays in Vegas](vegas/fear-loathing-las-vegas.md)
 
 [Make marshmallow masala chai](chai/make-marshmallow-masala-chai.md)
