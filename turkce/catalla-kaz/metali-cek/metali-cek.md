@@ -12,3 +12,5 @@ Bi taraf karanlık ama çakmakla ilerleyebilirsin.
 Diğer taraf ise uçurum fakat iple inebilirsin.
 
 Ne yapacaksın?
+
+[koridora-ilerle](metali-cek/koridora-ilerle/koridora-ilerle.md)
