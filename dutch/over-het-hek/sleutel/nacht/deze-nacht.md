@@ -4,6 +4,6 @@ Je beseft dat je droomt, alsof je in een slecht verhaal zit, en ziet dat alles v
 Een boom heet plotseling booom en benzinetankstation heet bedritanktontiats. 
 
 Maar zoals in alle dromen die van zichzelf bewust zijn 
-heb je de keuze om [wakker te worden](../dutch/welkom.md).
+heb je de keuze om [wakker te worden](../../../welkom.md).
 
-Of toch maar lekker [verder droooomen](../dutch/droom/droom.md).
+Of toch maar lekker [verder droooomen](../../../droom/droom.md).
