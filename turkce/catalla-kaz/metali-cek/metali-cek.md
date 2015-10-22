@@ -13,4 +13,4 @@ Diğer taraf ise uçurum fakat iple inebilirsin.
 
 Ne yapacaksın?
 
-[koridora-ilerle](metali-cek/koridora-ilerle/koridora-ilerle.md)
+[koridora-ilerle](koridora-ilerle/koridora-ilerle.md)
