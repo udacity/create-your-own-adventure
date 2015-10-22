@@ -1,1 +1,1 @@
-Ir jis skaniai uşmiega
+Ir jis skaniai uÅ¾miega
