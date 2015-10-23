@@ -13,4 +13,4 @@ Diğer taraf ise uçurum fakat iple inebilirsin.
 
 Ne yapacaksın?
 
-[İple in](https://github.com/fbxy/create-your-own-adventure/tree/master/turkce/catalla-kaz/metali-cek/iple-in/iple-in.md)
+[İple in](iple-in/iple-in.md)
