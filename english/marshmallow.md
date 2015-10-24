@@ -14,6 +14,8 @@ Gee Whiz! You decide to share your story in the [Acts of Kindness](kindness/acts
 
 For a second, you decide whether or not to just [go back to sleep](go-back-to-sleep/go-back-to-sleep.md)
 
+Then, you consider playing a [chess puzzle](chess/chess.md)
+
 A sound from a Hitchcock movie fills the room, then quickly fades away.
 
 Was it the sound of a cry from the shower?
