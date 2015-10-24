@@ -10,4 +10,13 @@ When you recover from the shock of your emotional 180 you find yourself alone.
 A pain shoots up your legs. You glance down to where your feet should be only to see a single gummy 
 flipper wrapped tightly in the ends of licorice whips.
 
-You are trapped. Your dream is going horribly wrong. You have been ensnared by... 
+You are trapped. Your dream is going horribly wrong. You have been ensnared by Ursula the sea witch!
+She is enormous, with a mouth large enough to eat you in three bites! Her licorice-whip hair is 
+wrapped around your flipper, and she begins to pull you towards her, reeling in the licorice like 
+fishing line.
+
+What to do!?
+
+[Attempt to chew through the licorice lines ensnaring you.](/english/dream/swim/swim-trap/chew.md)
+[Pinch yourself to see if this is a dream.](./is-this-a-dream/is-this-a-dream.md)
+[Remember that you are superman.](./remember-you-are-superman/remember-you-are-superman.md)
