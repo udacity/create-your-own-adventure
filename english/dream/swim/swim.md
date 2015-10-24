@@ -10,7 +10,10 @@ When you recover from the shock of your emotional 180 you find yourself alone.
 A pain shoots up your legs. You glance down to where your feet should be only to see a single gummy 
 flipper wrapped tightly in the ends of licorice whips.
 
-You are trapped. Your dream is going horribly wrong. You have been ensnared by Ursula the sea witch!
+You are trapped. Your dream is going horribly wrong. You have been ensnared by... 
+
+... Ursula the sea witch!
+
 She is enormous, with a mouth large enough to eat you in three bites! Her licorice-whip hair is 
 wrapped around your flipper, and she begins to pull you towards her, reeling in the licorice like 
 fishing line.
