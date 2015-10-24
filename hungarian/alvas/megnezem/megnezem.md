@@ -1,2 +1,2 @@
-Ezen felbuzdulva közelebb megyek megnézem.
+Ezen felbuzdulva közelebb megyek és megnézem.
 Közben belelépek egy mályvacukor pocsolyába.

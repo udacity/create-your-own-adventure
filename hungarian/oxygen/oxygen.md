@@ -1,1 +1,1 @@
-Ide fent nagyon konnyu hallucinalni [zuhanyzas](../zuhanyzas/zuhanyzas.md) elott 
+Idefent nagyon könnyű hallucinálni [zuhanyzas](../zuhanyzas/zuhanyzas.md) előtt 

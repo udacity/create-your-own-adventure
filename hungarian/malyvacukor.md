@@ -4,7 +4,7 @@ Mit csinálsz?
 
 [visszaalszol](alvas/alom.md)
 
-[felveszel egy par malyva zoknit](zokni/zokni.md)
+[felveszel egy pár mályva zoknit](zokni/zokni.md)
 
 [lezuhanyzol](zuhanyzas/zuhanyzas.md)
 
