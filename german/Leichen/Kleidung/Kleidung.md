@@ -5,3 +5,6 @@ Obwohl ihr jetzt geübt seit, macht euch eure liebgewonnene Designerjeans die gle
 Nach etlichen Schlucken Salzwasser habt ihr euch aber auch ihrer entledigt.
 
 Jetzt, da ihr euch frei im Wasser bewegen könnt, dringt das eigentliche Problem eure Aufmerksamkeit zurück.
+
+Ihr werdet immer kratloser und es werden immer größere Wellen.
+Lange haltet ihr das nicht mehr durch.
