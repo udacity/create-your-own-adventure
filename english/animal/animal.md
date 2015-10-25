@@ -4,3 +4,8 @@ Even if it really start to drop tears or weep blood, it's the same to me ... no 
 The hilarious thing is that i start thinking about making it my own meal.
 I remember my last meal, oh it was a dead dog 3 days ago.
 We are stepping to the verge of eating each other, human flesh oh what does it taste.
+
+Halfway eating, you notice that something is wrong. Where is the meatiness? The tinge
+of iron? Why is it so... sweet? 
+
+To your horror, your dog, your cat, and you yourself are [marshmallow.](english/marshmallow.md)
