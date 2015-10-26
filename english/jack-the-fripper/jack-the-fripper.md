@@ -4,7 +4,7 @@ Looking down you notice that not only do your pants glow but your platform shoes
 
 "Ester B. Oni knows that we're all too stupid and she's too smart to waste our time telling us what she's going to do.  Shut up and vote for her!" - a message from the Too Patrician To Be Dishin party. 
 
-"Vote for John Smith: Dumb but dependable and damn good looking" - furnished by the Oligarchs in a Pretend Democracy party.
+"Vote for John Smith-- dumb as a an Ivy League Legacy but dependable as a cast iron skillet and mighty easy on the eyes!" - furnished by the Oligarchs in a Pretend Democracy party.
 
 ...
 
