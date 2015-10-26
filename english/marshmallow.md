@@ -328,6 +328,8 @@ Do you:
 
 [Switch on your laptop and..](netflix/netflix.md)
 
+[Lion King ](no-worries/hakuna-matata.md)
+
 [Perform some magic](magic/magic.md)
 
 [Raise your self so high](khudi/buland_very_high.md)
