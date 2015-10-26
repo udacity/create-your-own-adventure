@@ -1,2 +1,2 @@
-Vous décidez de traquer les voix humaines. Mais d'ou viennent t'elles?
+Vous décidez de traquer les voix humaines. Mais d'oú viennent-elles?
 Vous vous faites discret, et vous rapprochez à pas de loup.
