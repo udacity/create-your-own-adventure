@@ -529,6 +529,8 @@ Click [here](young/young.md) to listen to music.
 
 [Attack it with a lightsaber](lightsaber/lightsaber.md)
 
+[Decide to browse Reddit instead](https://www.reddit.com/)
+
 [It's time to take a vacation] (licked-cat/vacation.md)
 
 And then you realize that Burning Man is over, so no real vacations :(
