@@ -167,7 +167,7 @@ You must be doing something wrong. You drink a beer and think about it, then Ah-
 
 You notice your pants are now glowing, so you must have been holding the wand upside down.
 
-Now is probably a swell time to appreciate just how snappy a dresser you really [are](jack-the-fripper/jack-the-fripper/.md)!
+Now is probably a swell time to appreciate just how snappy a dresser you really [are](jack-the-fripper/jack-the-fripper.md)!
 
 Suddenly, you become aware of the need to take a leak.
 You can't hold it. You wonder, Are glowing pants waterproof?
