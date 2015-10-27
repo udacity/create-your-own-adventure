@@ -74,4 +74,6 @@ el Consejero:
 
 [Vió de repente en el cielo una luz brillante que iluminó como un sol el campo de batalla..](cielo/cielo.md)
 
+[Levanta su mano derecha, con el indice señala al ejército enemigo y les dice a sus soldados...](soldados/soldados.md)
+
 
