@@ -2,4 +2,4 @@
 but end up buying chocolate because you had not enough money to buy marshmallow.
 or a pack of four donuts.
 
-You decide to [eat the chocolate anyway.](./youre-fine/youre-fine.md)
+You decide to [eat the chocolate anyway.](../youre-fine/youre-fine.md)
