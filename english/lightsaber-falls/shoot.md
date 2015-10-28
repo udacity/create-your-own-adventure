@@ -3,20 +3,19 @@ weapon behind and go with what you've got.
 
 As you clamber awkwardly out the other side of the goo, you hear a smug voice:
 
-"Koona t'chuta, Solo?
+"Koona t'chuta, Solo?"
 
 Agh. You knew you couldn't outrun him. You just didn't think he'd find you here.
 
-"Yes, Greedo. As a matter of fact, I'm trying to get out of this freaky marshmallow house. Tell Jabba I've got his
-"money.
+"Yes, Greedo. As a matter of fact, I'm trying to get out of this freaky marshmallow house. Tell Jabba I've got his money."
 
-"Soong peetch alay!
+"Soong peetch alay!"
 
 And then he says some stuff you don't understand without subtitles, but you get the gist of the message, so you reassure
 him: "Yeah, but this time I've got the money."
 
 He tries to bribe you, thinking you'd be desperate enough to hand him the payment (even if you really did have it) right
-here, outside a melting marshmallow mansion. You chuckle. "I don't have it with me. Tell Jabba - "
+here, outside a melting mansion. You chuckle patronizingly. "I don't have it with me. Tell Jabba - "
 
 But he cuts you off and insults you, and now you're seriously annoyed. Your left leg is still inside the collapsing
 candy house, for pete's sake! You're in a weird lunging position affording no mood to be humoring a third-rate galactic
