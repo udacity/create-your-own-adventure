@@ -515,6 +515,8 @@ Do you:
 
 [Attack marshmallow pikachu!](pikachu/pokeball.md)
 
+"I have problems with my sleep," you realise. "I'm going to [move to New York](new-york/new-york.md)."
+
 [Summon Dragons of the Khaleesi](dragons/fire-everywhere.md)
 
 [Bounce](bounce/bounce.md)
