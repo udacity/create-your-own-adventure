@@ -6,16 +6,16 @@ Beware, beware, be a very wary bear
 
 A Heffalump or Woozle is very confusel
 The Heffalump or woozle's very sly
-- sly - sly - sly
+sly, sly, sly
 
 They come in ones and twoosels
 But if they so choosels
 Before your eyes you'll see them multiply
-- ply - ply - ply 
+ply, ply, ply 
 
 They're extra-ordinary, so better be wary
 Because they come in every shape and size
-- size - size - size 
+size, size, size 
 
 If honey's what you covet you'll find that they love it
 Because they guzzle up the things you prize
@@ -28,7 +28,7 @@ Beware, beware, be a very wary bear
 
 They're extra-ordinary, so better be wary
 Because they come in every shape and size
-- size - size - size
+size, size, size
 
 If honey's what you covet you'll find that they love it
 Because they'll guzzle up the things you prize
