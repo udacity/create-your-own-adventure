@@ -119,7 +119,7 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
-Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air 
+Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
 for alien life forms.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
@@ -150,7 +150,7 @@ A soft echo of a torrent is fading from far...
 
 I felt a sudden ease of mind.
 
-"Ok", I said to myself, "I need to get 
+"Ok", I said to myself, "I need to get
 [out of here](outta-here/outta-here.md)"
 
 "But first I must remember the magic spell needed to open the enchanted door!"
@@ -555,7 +555,7 @@ A quick brown fox jumps over the lazy dog!
 
 This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
-You decide that you do not want to visit the miracle man. [You check your 
+You decide that you do not want to visit the miracle man. [You check your
 phone to find something else to do](check-phone/check-phone.md).
 
 And you plug-in to [play some music](play-music/playmusic.md).
@@ -565,8 +565,8 @@ The next thing you know, you're up all night in Croatia mixing a new playlist
 You remember the story of a [robot](happy-robot/happy-robot.md).
 
 Wondering how you got here, you feel a strange tingling in your hands, almost as if
-they are responding to your new surroundings. You feel an urge to gesture forward, 
-and as you do a large pink marshmallow shoots out of your hand into the wall before you. 
+they are responding to your new surroundings. You feel an urge to gesture forward,
+and as you do a large pink marshmallow shoots out of your hand into the wall before you.
 [Explore your new marshmallow powers.](marshmallow-wizard/marshmallow-wizard.md)
 
 [The evil and heroic marshmallow](the-slayer/marshmallow-slayer.md)
