@@ -80,6 +80,8 @@ Hvis du taler dansk, [tryk her](danish/velkommen.md)
 
 Ifall du pratar svenska, [tryck här](swedish/start.md)
 
+Hvis du snakker norsk, [trykk her](norwegian/start.md)
+
 Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
 
 Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
