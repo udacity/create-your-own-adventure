@@ -1,5 +1,5 @@
-They're black they're brown they're up they're down
-They're in they're out they're all about
+They're black they're brown they're up they're down  
+They're in they're out they're all about  
 They're far they're near they're gone they're here
 They're quick and slick, they're insincere
 Beware, beware, be a very wary bear
