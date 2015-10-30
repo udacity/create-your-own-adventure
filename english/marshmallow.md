@@ -71,6 +71,10 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You don't own any uncomfortable and restrictive leather jackets... How did you end up sleeping in one?
 
+An umbrella (closed) automagically appears in your left hand. You tentatively
+
+[poke the wall](./poke-the-wall/poke-the-wall.md) with it.
+
 [You decide to bite the marshmallow wall.](./bite-the-marshmallow/tasty-marshmallow.md)
 
 You are feeling very anxious at this point.
