@@ -4,6 +4,8 @@
 
 One morning, you wake up in a strange room with marshmallows for walls.
 
+Marshmallows smell funny. What is a marshmallow anyway?
+
 *(Must be a Tuesday.)*
 
 Or a Wednesday...Thursday...maybe even a Friday.
