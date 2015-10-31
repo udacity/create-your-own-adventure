@@ -1,1 +1,1 @@
-You calmly explain to the Chief Marshmallow that you come from the [land of Ice and Snow](../../norwegian/).
+You calmly explain to the Chief Marshmallow that you come from the [Land of Ice and Snow](../../norwegian/).
