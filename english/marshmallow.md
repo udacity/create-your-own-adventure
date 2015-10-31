@@ -581,4 +581,6 @@ and as you do a large pink marshmallow shoots out of your hand into the wall bef
 
 All in a hard days work, do you play some [music](play-music/playmusic.md).
 
+As you hold your pot of precious hunny, you begin to [hear an ominous voice...](ominous-voice/ominous-voice.md)
+
 Honesty in a hard way [Watch it](few-good-men/fgm.md)
