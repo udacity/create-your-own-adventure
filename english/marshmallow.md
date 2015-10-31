@@ -6,6 +6,8 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 Marshmallows smell funny. What is a marshmallow anyway?
 
+Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
+
 *(Must be a Tuesday.)*
 
 Or a Wednesday...Thursday...maybe even a Friday.
