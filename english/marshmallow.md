@@ -4,6 +4,10 @@
 
 One morning, you wake up in a strange room with marshmallows for walls.
 
+Marshmallows smell funny. What is a marshmallow anyway?
+
+Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
+
 *(Must be a Tuesday.)*
 
 Or a Wednesday...Thursday...maybe even a Friday.
@@ -71,6 +75,10 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You don't own any uncomfortable and restrictive leather jackets... How did you end up sleeping in one?
 
+An umbrella (closed) automagically appears in your left hand. You tentatively
+
+[poke the wall](./poke-the-wall/poke-the-wall.md) with it.
+
 [You decide to bite the marshmallow wall.](./bite-the-marshmallow/tasty-marshmallow.md)
 
 You are feeling very anxious at this point.
@@ -115,7 +123,7 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
-Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air 
+Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
 for alien life forms.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
@@ -146,7 +154,7 @@ A soft echo of a torrent is fading from far...
 
 I felt a sudden ease of mind.
 
-"Ok", I said to myself, "I need to get 
+"Ok", I said to myself, "I need to get
 [out of here](outta-here/outta-here.md)"
 
 "But first I must remember the magic spell needed to open the enchanted door!"
@@ -173,6 +181,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 
 Do you:
+
+[Watch the new Star Wars trailer](https://www.youtube.com/watch?v=sGbxmsDFVnE)
 
 [Live Tweet the situation](tweet-it/tweet-it.md)
 
@@ -327,6 +337,8 @@ Do you:
 [Light up the wall 2](light-up2/light-up2.md)
 
 [Switch on your laptop and..](netflix/netflix.md)
+
+[Lion King ](no-worries/hakuna-matata.md)
 
 [Perform some magic](magic/magic.md)
 
@@ -515,6 +527,8 @@ Do you:
 
 [Attack marshmallow pikachu!](pikachu/pokeball.md)
 
+"I have problems with my sleep," you realise. "I'm going to [move to New York](new-york/new-york.md)."
+
 [Summon Dragons of the Khaleesi](dragons/fire-everywhere.md)
 
 [Bounce](bounce/bounce.md)
@@ -549,7 +563,7 @@ A quick brown fox jumps over the lazy dog!
 
 This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
-You decide that you do not want to visit the miracle man. [You check your 
+You decide that you do not want to visit the miracle man. [You check your
 phone to find something else to do](check-phone/check-phone.md).
 
 And you plug-in to [play some music](play-music/playmusic.md).
@@ -559,10 +573,14 @@ The next thing you know, you're up all night in Croatia mixing a new playlist
 You remember the story of a [robot](happy-robot/happy-robot.md).
 
 Wondering how you got here, you feel a strange tingling in your hands, almost as if
-they are responding to your new surroundings. You feel an urge to gesture forward, 
-and as you do a large pink marshmallow shoots out of your hand into the wall before you. 
+they are responding to your new surroundings. You feel an urge to gesture forward,
+and as you do a large pink marshmallow shoots out of your hand into the wall before you.
 [Explore your new marshmallow powers.](marshmallow-wizard/marshmallow-wizard.md)
 
 [The evil and heroic marshmallow](the-slayer/marshmallow-slayer.md)
 
 All in a hard days work, do you play some [music](play-music/playmusic.md).
+
+As you hold your pot of precious hunny, you begin to [hear an ominous voice...](ominous-voice/ominous-voice.md)
+
+Honesty in a hard way [Watch it](few-good-men/fgm.md)
