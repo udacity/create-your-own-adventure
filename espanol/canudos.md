@@ -76,4 +76,5 @@ el Consejero:
 
 [Levanta su mano derecha, con el indice señala al ejército enemigo y les dice a sus soldados...](soldados/soldados.md)
 
+[Se dio cuenta de que su táctica había sido descubierta] (tactica/tactica.md)
 
