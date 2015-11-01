@@ -2,6 +2,8 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
+[Se dio cuenta de que su táctica había sido descubierta] (tactica/tactica.md)
+
 [Sintió como la comida le subía por el exófago](comida/comida.md)
 
 [Mandó a congregar a Canudos entero al templo.](templo/templo.md)
@@ -76,4 +78,4 @@ el Consejero:
 
 [Levanta su mano derecha, con el indice señala al ejército enemigo y les dice a sus soldados...](soldados/soldados.md)
 
-[Se dio cuenta de que su táctica había sido descubierta] (tactica/tactica.md)
+
