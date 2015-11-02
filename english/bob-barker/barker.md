@@ -33,3 +33,5 @@ You hesitate just a moment before replying...
 [Grab some coffee?](../coffee/coffee.md)
 
 [Can I phone a friend?](phone-a-friend/phone-a-friend.md)
+
+[Attack and eat one of the marshmallows](eat-marshmallow/hot.md)
