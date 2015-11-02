@@ -6,7 +6,8 @@ Heat it for 30 minutes.
 Add it to your cookie dough and bake them.
 See you - Love Pink Unicorn
 
-Then you wonder why you're taking advice from a Love Pink Unicorn (after all, these are known to be the most untrustworthy breed of unicorn, far worse, even, than the Grim Charcoal Unicorns of Strawgoh).
+Then you wonder why you're taking advice from a Love Pink Unicorn (after all, these are known to be
+the most untrustworthy breed of unicorn, far worse, even, than the Grim Charcoal Unicorns of Strawgoh).
 
 You decide to take a new path. Do you:
 
