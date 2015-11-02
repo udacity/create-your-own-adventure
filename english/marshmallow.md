@@ -588,3 +588,5 @@ As you hold your pot of precious hunny, you begin to [hear an ominous voice...](
 Honesty in a hard way [Watch it](few-good-men/fgm.md)
 
 Maybe, just maybe, your not here, and this [isn't happening](https://www.youtube.com/watch?v=lAF8D0ugyVk)
+
+But the call of of nature wasn't going away so you push open the toilet door and go in..
