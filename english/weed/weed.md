@@ -9,7 +9,11 @@ See you - Love Pink Unicorn
 Then you wonder why you're taking advice from a Love Pink Unicorn (after all, these are known to be the most untrustworthy breed of unicorn, far worse, even, than the Grim Charcoal Unicorns of Strawgoh).
 
 You decide to take a new path. Do you:
+
 Take a vow of [sobriety]?(../shrooms/never-again.md)
+
 Decide to go to [sleep] instead?(../sleep/marshmallow.md)
+
 Opt for a [chemical-free nirvana]?(../sleep/sit-down-to-meditate.md)
+
 Go [back to the room]?(../marshmallow.md)
