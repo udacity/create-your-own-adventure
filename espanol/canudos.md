@@ -70,4 +70,11 @@ el Consejero:
 
 [Y de repente se acordo y sintion miedo...](kraken/kraken.md)
 
+[Organizó sus tropas y mandó a las mujeres y niños para sus casas](mujeres/mujeres.md)
+
+[Vió de repente en el cielo una luz brillante que iluminó como un sol el campo de batalla..](cielo/cielo.md)
+
+[Levanta su mano derecha, con el indice señala al ejército enemigo y les dice a sus soldados...](soldados/soldados.md)
+
+[Se dio cuenta de que su táctica había sido descubierta] (tactica/tactica.md)
 
