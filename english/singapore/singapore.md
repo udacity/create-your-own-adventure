@@ -12,3 +12,7 @@ to expand Singapore's land area, which is highly urbanised.
 
 As the plane doors open, you are hit by a wave of hot air.
 It is 31 degrees outside right now. A typical day in Singapore.
+
+You realize that 31 degrees is not really that hot.
+
+Do you chide yourself for whining?
