@@ -14,6 +14,8 @@ Or a Wednesday...Thursday...maybe even a Friday.
 
 Ok, we have to consider Saturday too.
 
+But not Monday; you never go out on a Sunday evening......[or do you](./or-do-you/or-do-you.md)?
+
 Gee Whiz! You decide to share your story in the [Acts of Kindness](kindness/acts-of-kindness.md) page.
 
 For a second, you decide whether or not to just [go back to sleep](go-back-to-sleep/go-back-to-sleep.md)
