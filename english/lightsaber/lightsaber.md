@@ -5,7 +5,6 @@ You now have a tasty snack and a way out of the house.
 But as you hurry to smoosh through the slowly closing hole in the wall, 
 the lightsaber clatters to the floor.
 
-[You leap out nimbly and gaze back at the weapon](https://github.com/LaGracia/create-your-own-adventure/blob/lightsaber-falls/english/lightsaber-falls/wampa.md).
+[You leap out nimbly and gaze back at the weapon](english/lightsaber/wampa.md).
 
-[You try to regain the weapon but only get coated 
-in a sticky glaze of whiteness](https://github.com/LaGracia/create-your-own-adventure/blob/lightsaber-falls/english/lightsaber-falls/shoot.md).
+[You try to regain the weapon but only get coated in a sticky glaze of whiteness](english/lightsaber/shoot.md).
