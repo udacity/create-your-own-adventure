@@ -17,3 +17,8 @@ You only open your eyes when your skin feels wet, sticky.
 Surprisingly (or maybe not), you are covered in honey.
 
 Your teacher, the badger, is gone.
+
+Do you:
+[Collect the honey?] (collect-honey/collect-honey.md)
+
+[Follow the badger?] (follow-badger/follow-badger.md)
