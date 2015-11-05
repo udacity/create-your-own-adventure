@@ -7,4 +7,4 @@ Do you want to:
 
 [Find the nearest bathroom](bathroom/bathroom.md)?
 
-[Go for a swim](cookie/Swim/swim.md)
+[Go for a swim](Swim/swim.md)
