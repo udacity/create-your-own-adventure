@@ -9,11 +9,17 @@ you are sad.
 
 "Close your eyes, and feel, see, those bees inside you."
 
-As he said that, a warm feeling started radiating from my
-core. I could feel the bees zooming through my body, and
-every single cell began to vibrate along with their buzz.
+As he says that, a warm feeling starts radiating from your
+core. You can feel the bees zooming through your body, and
+every single cell begins to vibrate along with their buzz.
 
-I only opened my eyes when my skin felt wet, sticky.
-Surprisingly (or maybe not), I was covered in honey.
+You only open your eyes when your skin feels wet, sticky.
+Surprisingly (or maybe not), you are covered in honey.
 
-My teacher, the badger, was gone.
+Your teacher, the badger, is gone.
+
+Do you:
+
+[Collect the honey?] (collect-honey/collect-honey.md)
+
+[Follow the badger?] (follow-badger/follow-badger.md)
