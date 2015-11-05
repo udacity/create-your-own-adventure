@@ -85,6 +85,8 @@ An umbrella (closed) automagically appears in your left hand. You tentatively
 
 You are feeling very anxious at this point.
 
+Goosebumps appear.
+
 This is because you do not like leather for ethical reasons.
 
 [Ethical reason? Seriously?](./ethical-reason/ethical-reason.md)
