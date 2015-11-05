@@ -18,5 +18,3 @@ Decide to go to [sleep] instead?(../sleep/marshmallow.md)
 Opt for a [chemical-free nirvana]?(../sleep/sit-down-to-meditate.md)
 
 Go [back to the room]?(../marshmallow.md)
-
-Walk [the streets of San Fransisco]?(../sanfran/sanfran.md)
