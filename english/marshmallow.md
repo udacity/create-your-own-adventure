@@ -89,6 +89,8 @@ Goosebumps appear.
 
 This is because you do not like leather for ethical reasons.
 
+Leather is all over [San Fransisco](sanfran/sanfran.md).
+
 [Ethical reason? Seriously?](./ethical-reason/ethical-reason.md)
 
 You begin to break out of the jacket and find a lighter, a fork, and rope.
@@ -595,5 +597,5 @@ Maybe, just maybe, your not here, and this [isn't happening](https://www.youtube
 
 But the call of of nature wasn't going away so you push open the toilet door and go in..
 
-Just then you recall the news story of what is causing the 
+Just then you recall the news story of what is causing the
 [strange noise] in toilet (http://nydn.us/1iLJF83) you look around..
