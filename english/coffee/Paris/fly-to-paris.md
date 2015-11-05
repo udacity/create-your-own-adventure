@@ -1,12 +1,12 @@
-You got off the AirFrance flight into Charles De Gaulle Airport. Everyone is speaking French around you.
+You get off the AirFrance flight into Charles De Gaulle Airport. Everyone is speaking French around you.
 
-You mustled up some courage, remembered the few French phrases you know, went up to a charming female blonde.
+You see a young woman, about 23-24 years old, standing in the corner. You decide to ask her for help.
 
-"Excusez-moi, mademoiselle, vous parlez anglais? Je suis perdu." You asked.
+"Excusez-moi, mademoiselle, Je suis un américain et Je suis perdu. Est-ce que vous pouvez m'aide?"
 
-"Mais, bien sur. Yes, I do speak English."
+"Mais, bien sur."
 
-"Excellet!" you exclaim.  You tell her everything you know so far and she suggests you follow her.
+"Merçi!" you exclaim.  You tell her everything you know so far and she suggests you follow her.
 
 She walks towards a local train into the city.  Do you?
 
