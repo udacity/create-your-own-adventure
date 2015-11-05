@@ -594,3 +594,6 @@ Honesty in a hard way [Watch it](few-good-men/fgm.md)
 Maybe, just maybe, your not here, and this [isn't happening](https://www.youtube.com/watch?v=lAF8D0ugyVk)
 
 But the call of of nature wasn't going away so you push open the toilet door and go in..
+
+Just then you recall the news story of what is causing the 
+[strange noise] in toilet (http://nydn.us/1iLJF83) you look around..
