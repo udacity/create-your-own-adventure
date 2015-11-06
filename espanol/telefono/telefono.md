@@ -1,2 +1,2 @@
-El Consejero toma rapidamente su teléfono inteligente y realiza una llamada que
-solo duró ocho segundos, diciendo: 
+El Consejero tomó rapidamente su teléfono inteligente y realizó una llamada que
+solo duró cinco segundos, diciendo: 
