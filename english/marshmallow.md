@@ -595,5 +595,7 @@ Maybe, just maybe, your not here, and this [isn't happening](https://www.youtube
 
 But the call of of nature wasn't going away so you push open the toilet door and go in..
 
-Just then you recall the news story of what is causing the 
+Just then you recall the news story of what is causing the
 [strange noise] in toilet (http://nydn.us/1iLJF83) you look around..
+
+...and you are horrified by what you [see](https://www.youtube.com/watch?v=BROWqjuTM0g)
