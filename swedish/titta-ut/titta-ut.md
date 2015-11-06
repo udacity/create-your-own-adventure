@@ -4,4 +4,4 @@ Det är fortfarande ganska mörkt ute och du känner dig helt utmattad efter nat
 
 Efter att ha övervägt din situation väljer du att
 
-[Gå och lägga dig och sova igen](../start.md)
+[lägga dig och sova igen](../start.md)
