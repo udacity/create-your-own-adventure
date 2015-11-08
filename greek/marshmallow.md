@@ -23,4 +23,3 @@
 [Προσφέρεις στο ζαχαρωτό τσιγάρο](offer_marshmallow_a_cigar/offer_marshmallow_a_cigar.md)
 
 Τελικά συνειδητοποιείς ότι ο Stay Puft Marshmallow Man από το Ghostbusters ήταν στη πραγματικότητα το 
-ζαχαρωτό και σε πιάνει τρόμος. ... 
