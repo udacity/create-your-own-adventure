@@ -1,0 +1,3 @@
+Suddenly it is over.  A profound weight lifts.  The anxiety you have felt for the last days gives way to a new feeling.  You allow yourself to feel hope. After all of this you are going to make it. You are going to get home and see the kids, your wife and lie on the lawn looking up at the sky. Looking up at the clouds which look like.... marshmellows. You have survived.  
+
+[Go outside.](explore-outside/outside.md)
