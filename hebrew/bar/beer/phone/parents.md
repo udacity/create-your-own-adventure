@@ -10,5 +10,4 @@
 
 מה תעשה ?
 
-תלך איתה ותעזוב את הבנות ?
-(goWithTheMom/mom.md)
+[תלך איתה ותעזוב את הבנות ?](goWithTheMom/mom.md)
