@@ -32,6 +32,8 @@ No... perhaps not.
 
 I think it was an [animal](animal/animal.md).
 
+Nope, it was [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) sobbing in despair.
+
 Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
@@ -88,6 +90,8 @@ You are feeling very anxious at this point.
 Goosebumps appear.
 
 This is because you do not like leather for ethical reasons.
+
+Leather is all over [San Fransisco](sanfran/sanfran.md).
 
 [Ethical reason? Seriously?](./ethical-reason/ethical-reason.md)
 
@@ -595,5 +599,11 @@ Maybe, just maybe, your not here, and this [isn't happening](https://www.youtube
 
 But the call of of nature wasn't going away so you push open the toilet door and go in..
 
-Just then you recall the news story of what is causing the 
+Just then you recall the news story of what is causing the
 [strange noise] in toilet (http://nydn.us/1iLJF83) you look around..
+
+...and you are horrified by what you [see](https://www.youtube.com/watch?v=BROWqjuTM0g)
+
+You escape into a [recording studio](more_cowbell/more_cowbell.md)
+
+And then you stumble upon something [completely different](http://www.atlasobscura.com/)

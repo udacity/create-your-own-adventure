@@ -1,0 +1,1 @@
+Jadna matorka bezi glavom bez obzira, dok on zadovoljno brsti ostale blagodeti pekare.
