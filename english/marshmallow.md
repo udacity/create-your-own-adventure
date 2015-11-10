@@ -174,7 +174,7 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 Do you:
 
-[Make Smoores](makesmoores/makesmoores.md)
+[Make some Smores](make-some-smores/make-some-smores.md)
 
 [Live Tweet the situation](tweet-it/tweet-it.md)
 
