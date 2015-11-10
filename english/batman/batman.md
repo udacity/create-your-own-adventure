@@ -6,6 +6,8 @@ click [here](https://en.wikipedia.org/wiki/Batman) and see it for yourself.
 
 Click [here](http://www.google.com) to visit Google.
 
+Click [here](http://www.imdb.com/title/tt0096895/) to visit IMDB.
+
 But I know what you're wondering. If Bruch Wayne is the Bat, then who is Bruce Wayne? Well it's obvious...
 
 ...IT'S JOHN CENA!!!
@@ -22,3 +24,6 @@ this realization, then you go:
 Bruce Wayne: It's not who I am underneath, but what I do that defines me.
 
 Commissioner Gordon: He's the hero Gotham deserves but not the one that it needs right now.
+
+Uncle Ben: With great power comes great responsibility.
+(Hey Uncle Ben was a character in Spiderman!!, doesn't belong here)

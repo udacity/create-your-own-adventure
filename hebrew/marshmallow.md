@@ -7,3 +7,5 @@
 [תזיין את בר רפאלי](bar/bar.md)
 
 [תזיין את אחותך](sister/your-sister.md)
+
+[אתה קורא את מה שכתוב, יוצא מההלם, ומחפש אופציה שפויה](sane-option/fresh-start.md)

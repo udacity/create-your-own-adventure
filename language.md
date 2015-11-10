@@ -2,6 +2,8 @@
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
+Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
+
 If you speak Telugu, మీరు తెలుగులొ మాట్లాడుతార [ఇక్కడ నొక్కండి](telugu/telangana-telugu/Telanganatelugu.md).
 
 If you understand Tamil, தமிழ் வணக்கம் [இங்கே அழுத்தவும்](Tamil/Thirukural.md)
@@ -78,6 +80,8 @@ Hvis du taler dansk, [tryk her](danish/velkommen.md)
 
 Ifall du pratar svenska, [tryck här](swedish/start.md)
 
+Hvis du snakker norsk, [trykk her](norwegian/start.md)
+
 Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
 
 Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
@@ -121,4 +125,6 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 
 ئەگەر ئۇيغۇرچە سۆزلىسىڭىز، [بۇ يەرگە كىرىڭ](uyghurish/uyghurish-story.md)
 
+Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
+=======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
