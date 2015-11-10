@@ -67,6 +67,11 @@ Please keep all lines to 120 characters or fewer.  Otherwise, the raw files
 will be difficult to read in the browser or on the command line, and changes
 will be harder to review.
 
+### A new story
+
+please give this story a new thought
+
+
 ### Blank Lines Between Options
 
 Insert blank lines between different options so that the options will be
