@@ -15,5 +15,6 @@ holding it in anymore.
 
 The man takes a long drag from his cigarette, 
 promptly turns you to face the open door, and 
-[shoves you through the door](lego-world/lego-world.md)
+shoves you through the door. 
  
+You wake up in bed having wet yourself. 
