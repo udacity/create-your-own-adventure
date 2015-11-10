@@ -7,6 +7,6 @@
 
 Τι κάνεις;
 
-[Αποφασίζεις να μοιραστείς αυτό που είδες με τους άλλους και μαζί να βρείτε μια λύση.](collaborate_to_take_it_down/collaborate_to_take_it_down.md)
+[Αποφασίζεις να μοιραστείς αυτό που είδες με τους άλλους.](collaborate_to_take_it_down/collaborate_to_take_it_down.md)
 
-[Από την παράνοιά σου, επιτίθεσαι και προσπαθείς να τους σκοτώσεις όλους.](kill_everyone_else/kill_everyone_else.md)
+[Από την παράνοιά σου, επιτίθεσαι σε όλους.](kill_everyone_else/kill_everyone_else.md)
