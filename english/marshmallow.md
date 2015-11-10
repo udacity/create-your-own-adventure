@@ -32,6 +32,8 @@ No... perhaps not.
 
 I think it was an [animal](animal/animal.md).
 
+Nope, it was [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) sobbing in despair.
+
 Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
 usually take intoxicants, what's happening...?
