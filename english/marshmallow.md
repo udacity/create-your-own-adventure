@@ -608,4 +608,4 @@ You escape into a [recording studio](more_cowbell/more_cowbell.md)
 
 And then you stumble upon something [completely different](http://www.atlasobscura.com/)
 
-A snarling ferret king who fixes you with a steely glare
+A snarling ferret king who fixes you with a [steely glare](../ferrets/Ferret.md)
