@@ -20,3 +20,5 @@ He's in the exact same position as he was yesterday.
 
 You walk up to Hansel and start to ask him what happened, but he does not answer. 
 It is then that you notice a yellow exclamation point above his head!
+
+I was sure he went to a denial state. I only had one choice... shake him. Shake Hansel, shake!
