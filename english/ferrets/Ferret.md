@@ -1,0 +1,1 @@
+The evil ferret king laughed as he fed you to his hordes of squealling ferret babies.
