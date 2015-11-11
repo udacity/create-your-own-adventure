@@ -607,3 +607,5 @@ Just then you recall the news story of what is causing the
 You escape into a [recording studio](more_cowbell/more_cowbell.md)
 
 And then you stumble upon something [completely different](http://www.atlasobscura.com/)
+
+It certainly was different, I need to relax now, ah [this](https://www.youtube.com/watch?v=Ua2HPQUKJao)
