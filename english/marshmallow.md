@@ -608,4 +608,6 @@ Just then you recall the news story of what is causing the
 
 You escape into a [recording studio](more_cowbell/more_cowbell.md)
 
+Now for some [music](https://www.youtube.com/watch?v=Ua2HPQUKJao)
+
 And then you stumble upon something [completely different](http://www.atlasobscura.com/)
