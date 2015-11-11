@@ -14,6 +14,8 @@ Or a Wednesday...Thursday...maybe even a Friday.
 
 Ok, we have to consider Saturday too.
 
+Alice doesn't live here anymore, [or does she?](scarab/goddess.md)
+
 But not Monday; you never go out on a Sunday evening......[or do you](./or-do-you/or-do-you.md)?
 
 Gee Whiz! You decide to share your story in the [Acts of Kindness](kindness/acts-of-kindness.md) page.
@@ -605,5 +607,7 @@ Just then you recall the news story of what is causing the
 ...and you are horrified by what you [see](https://www.youtube.com/watch?v=BROWqjuTM0g)
 
 You escape into a [recording studio](more_cowbell/more_cowbell.md)
+
+Now for some [music](https://www.youtube.com/watch?v=Ua2HPQUKJao)
 
 And then you stumble upon something [completely different](http://www.atlasobscura.com/)
