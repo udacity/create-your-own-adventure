@@ -192,6 +192,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 Do you:
 
+[Make some Smores](make-some-smores/make-some-smores.md)
+
 [Watch the new Star Wars trailer](https://www.youtube.com/watch?v=sGbxmsDFVnE)
 
 [Live Tweet the situation](tweet-it/tweet-it.md)
