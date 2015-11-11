@@ -605,5 +605,7 @@ Just then you recall the news story of what is causing the
 ...and you are horrified by what you [see](https://www.youtube.com/watch?v=BROWqjuTM0g)
 
 You escape into a [recording studio](more_cowbell/more_cowbell.md)
+
 Now for some [music](https://www.youtube.com/watch?v=Ua2HPQUKJao)
+
 And then you stumble upon something [completely different](http://www.atlasobscura.com/)
