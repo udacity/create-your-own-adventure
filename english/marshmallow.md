@@ -565,6 +565,8 @@ And then you realize that Burning Man is over, so no real vacations :(
 
 [Story of DKER](DKER/DKER.md)
 
+[Get your prostate checked](prostate/prostate.md)
+
 If you eat a lot, you should also [exercise](exercise/exercise.md)
 
 A quick brown fox jumps over the lazy dog!
