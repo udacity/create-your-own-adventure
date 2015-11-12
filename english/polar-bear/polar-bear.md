@@ -39,4 +39,4 @@ Now you decide to:
 
 [and ride through the worm whole](worm_hole/worm_hole.md)
 
-[Run](../run.md)
+[Run](../run/run.md)
