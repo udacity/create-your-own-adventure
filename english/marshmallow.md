@@ -10,7 +10,7 @@ Unexpectedly, the Chief Marshmallow demands to see your [references](references/
 
 *(Must be a Tuesday.)*
 
-Or a Wednesday...Thursday...maybe even a Friday.
+Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
 
 Ok, we have to consider Saturday too.
 
