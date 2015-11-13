@@ -8,4 +8,4 @@ but don’t isolate yourself as you let someone go and heal from the loss.
 
 There is no use moping around wondering the ifs, buts, could've, would've,
 and should'ves. Time goes on and drags you with it. Whether you are in or
-out of love, make the best of now while being aware of the worst of before.
+out of love, make the best of now while being aware of the worst of [before](english/love/again/again.md).
