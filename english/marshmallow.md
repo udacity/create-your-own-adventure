@@ -44,6 +44,9 @@ Maybe this is a dream?
 
 Or a [memory](memories/memories.md)?
 
+Maybe it's a dream within a dream? Maybe dreaming and reality are one and the
+same. Maybe reality is an oxymoron when considering multiple dimensions.
+
 But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger. Oh No!
