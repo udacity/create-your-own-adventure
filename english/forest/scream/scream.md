@@ -19,3 +19,5 @@ What will you do?
 [Throw nearby twigs and crap at it](throw/throw.md)
 
 [Play dead](dead/dead.md)
+
+[Run towards the tiger](run/run.md)
