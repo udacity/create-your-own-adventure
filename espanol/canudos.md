@@ -79,3 +79,5 @@ el Consejero:
 [Se dio cuenta de que su táctica había sido descubierta] (tactica/tactica.md)
 
 [Enseguida agarró el teléfono y realizó una llamada] (telefono/telefono.md)
+
+[La conversacion era irrelevante] (dolor/dolor.md)
