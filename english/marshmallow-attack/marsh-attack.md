@@ -6,7 +6,9 @@ reaches for the lighter you quickly jab the fork into the
 
 white fluffy hand. The marshmallow pulls back its hand and
 
-a giant gaping mouth appears and starts to scream.
+a giant gaping mouth appears and starts to scream.  The 
+
+scream starts to melt your face.
 
 Do you
 
