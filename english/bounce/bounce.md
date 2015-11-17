@@ -4,7 +4,6 @@ BOUNCE!
 
 straight across the room to bounce off the far marshmallow wall. You continue to bounce from
 wall, to floor, to ceiling, and back again. Finally, before you become sick from all the 
-bouncing around you bounce right through one of the marshmallow walls to find yourself right
-back at the beginning.
+bouncing around you bounce right through one of the marshmallow walls to find yourself out of the marshmellow dungeon.
 
-[Beginning] (../marshmallow.md)
+[Relax] (../relax/relax.md)
