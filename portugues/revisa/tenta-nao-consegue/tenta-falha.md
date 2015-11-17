@@ -1,4 +1,4 @@
--Você envia uma resposta ao desenvolvedor, dizendo que não conseguiu reproduzir o bug.
+Você envia uma resposta ao desenvolvedor, dizendo que não conseguiu reproduzir o bug.
 
 O desenvolvedor:
 
