@@ -9,4 +9,4 @@ What do you do next?
 
 [Go back to the previous room](../../../../../marshmallow.md)
 
-[Yell at bear to come back](get-eaten.md)
+[Yell at bear to come back](yell-at-bear/get-eaten.md)
