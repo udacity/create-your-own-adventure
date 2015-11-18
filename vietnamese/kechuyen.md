@@ -10,6 +10,6 @@ Tôi không thích nghe truyện ma, tôi thích du lịch
 
 Tôi cũng thích truyện cười, nhưng ngoài ra tôi thích ẩm thực
 
-Tôi biết Tiền Giang rất đẹp, Quê tôi thì ở Đà Nẵng
+Tôi biết Tiền Giang rất đẹp, Quê tôi thì ở [Đà Nẵng](DaNang/DaNang.md)
 
-Nhưng hiện tại thì tôi rời xa Đà Nẵng từ nhỏ và đang sống ở Sài Gòn
+Nhưng hiện tại thì tôi rời xa Đà Nẵng từ nhỏ và đang sống ở [Sài Gòn](SaiGon/SaiGon.md)
