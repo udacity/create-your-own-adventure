@@ -2,7 +2,8 @@ As you open the door, a cold hand is placed on your shoulder.
 
 In that very moment your watch sings: 12 o'clock midnight. 
 
-You jump back as you see dark black eyes.
+You jump back as you see dark black eyes...lifeless,black
+eyes, like a doll's eyes.
 
 Do you:
 
