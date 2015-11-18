@@ -10,7 +10,7 @@ Unexpectedly, the Chief Marshmallow demands to see your [references](references/
 
 *(Must be a Tuesday.)*
 
-Or a Wednesday...Thursday...maybe even a Friday.
+Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
 
 Ok, we have to consider Saturday too.
 
@@ -28,6 +28,8 @@ A sound from a Hitchcock movie fills the room, then quickly fades away.
 
 Was it the sound of a cry from the shower?
 
+Was it the sound of birds?
+
 It sounded like it could have been a [heffalump](heffalump/heffalump.md)
 
 No... perhaps not.
@@ -43,6 +45,9 @@ usually take intoxicants, what's happening...?
 Maybe this is a dream?
 
 Or a [memory](memories/memories.md)?
+
+Maybe it's a dream within a dream? Maybe dreaming and reality are one and the
+same. Maybe reality is an oxymoron when considering multiple dimensions.
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
@@ -614,4 +619,9 @@ Now for some [music](https://www.youtube.com/watch?v=Ua2HPQUKJao)
 
 And then you stumble upon something [completely different](http://www.atlasobscura.com/)
 
+After the stumble you trip over a plant [guess what the plant is?](real-marsh-mallow/real-marsh-mallows.md)
+
+[What about skydiving](skydiving/skydiving.md)
+
 You decide to [take a shortcut](new_movie/new_movie.md) on the way to the movie...
+
