@@ -6,9 +6,9 @@ Que cua ban o dau? Hay cho minh biet ve que cua ban ! Que minh o [Tien Giang](ti
 
 Rồi từ Tiên Giang tôi bay ra Thủ đô [Hà Lội](haloi/khongvoiduocdau.md)
 
-Tôi không thích nghe truyện ma, tôi thích du lịch
+Tôi không thích nghe truyện ma, tôi thích [du lịch](https://www.youtube.com/watch?v=p4VKcCphblI)
 
-Tôi cũng thích truyện cười, nhưng ngoài ra tôi thích ẩm thực
+Tôi cũng thích truyện cười, nhưng ngoài ra tôi thích [ẩm thực](https://www.youtube.com/watch?v=CbJwYw2vLIg)
 
 Tôi biết Tiền Giang rất đẹp, Quê tôi thì ở [Đà Nẵng](DaNang/DaNang.md)
 
