@@ -623,5 +623,5 @@ After the stumble you trip over a plant [guess what the plant is?](real-marsh-ma
 
 [What about skydiving](skydiving/skydiving.md)
 
-You decide to [take a shortcut](new_movie/new_movie.md) on the way to the movie...
+You decide to [take a shortcut](new-movie/new_movie.md) on the way to the movie...
 
