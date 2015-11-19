@@ -10,6 +10,8 @@
 
 Ваши действия:
 
+[Уснуть назад](sleep/sleep.md)
+
 [Поразмышляете о причинах вашей неожиданной смерти и природе сознания.](thinking-about/thinking.md)
 
 [Начнёте есть стены.](eating-walls/eating-marshmallows.md)
