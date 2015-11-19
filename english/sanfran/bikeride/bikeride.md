@@ -6,3 +6,4 @@ and I snap a few pictures.
 
 Then I realize that biking has made me slightly hungry. Shall I purchase 
 a [burrito](burrito/burrito.md)?
+Or should I continue riding?
