@@ -8,7 +8,7 @@ Marshmallows smell funny. What is a marshmallow anyway?
 
 Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
 
-The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E) and be aware that your favorite NBA team is never safe; so tell Commissioner Silver to bring the Sonics back.
+The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E)
 
 *(Must be a Tuesday.)*
 
