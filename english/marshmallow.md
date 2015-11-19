@@ -8,6 +8,8 @@ Marshmallows smell funny. What is a marshmallow anyway?
 
 Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
 
+The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E)
+
 *(Must be a Tuesday.)*
 
 Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
