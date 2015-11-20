@@ -36,6 +36,8 @@
 
 [Позвоните маме.](call-mom/call-mom.md)
 
+[Позвоните охотникам за привидениями.](call-ghostbusters/ghostbusters.md)
+
 [Поставите запятую после "цветы".] (comma/comma.md)
 
 [Начинайте танцевать от радости.](dance/dance.md)
