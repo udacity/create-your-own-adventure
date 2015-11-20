@@ -17,11 +17,11 @@ But then the following freezes you.
 > I’m still turning my stick.
 > He’s already eaten six.
 
-More of this [marshmellow madness](http://www.poetryfoundation.org/poem/241898) every where you go!
+More of this [marshmallow madness](http://www.poetryfoundation.org/poem/241898) every where you go!
 
 But you got somewhere to be, friends to meet, a movie to catch, and this shortcut no longer feels like a good idea.
 
-The marshmellow mystery is going to have to wait. WHO has eaten six? Is there something significant about the number?
+The marshmallow mystery is going to have to wait. WHO has eaten six? Is there something significant about the number?
 
 Clues, clues, everywhere clues that don't connect!
 
