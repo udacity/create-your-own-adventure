@@ -6,6 +6,6 @@ Maintenat que vous etes dehors, quoi faire?
 
 [Je sens des fleurs](sentir/fleurs.md)
 
-[Je rencontre docteur Who](rencontre/who.md)
-
 [Il fait froid. Je rentre](../feu-de-camp.md)
+
+[Je rencontre docteur Who](rencontre/who.md)
