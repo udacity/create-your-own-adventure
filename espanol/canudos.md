@@ -81,3 +81,5 @@ el Consejero:
 [Enseguida agarró el teléfono y realizó una llamada] (telefono/telefono.md)
 
 [La conversacion era irrelevante] (dolor/dolor.md)
+
+[Abrió los ojos. ¿Era todo una cruel pesadilla?](pesadilla/pesadilla.md)

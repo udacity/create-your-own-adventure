@@ -10,6 +10,8 @@
 
 Ваши действия:
 
+[Открыть окно](window/window.md)
+
 [Поразмышляете о причинах вашей неожиданной смерти и природе сознания.](thinking-about/thinking.md)
 
 [Начнёте есть стены.](eating-walls/eating-marshmallows.md)
@@ -33,6 +35,8 @@
 [Позовёте друзей.](invite-friends/invite.md)
 
 [Позвоните маме.](call-mom/call-mom.md)
+
+[Позвоните охотникам за привидениями.](call-ghostbusters/ghostbusters.md)
 
 [Поставите запятую после "цветы".] (comma/comma.md)
 
