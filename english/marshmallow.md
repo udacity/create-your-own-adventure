@@ -632,3 +632,4 @@ After the stumble you trip over a plant [guess what the plant is?](real-marsh-ma
 
 You decide to [take a shortcut](new-movie/new-movie.md) on the way to the movie...
 
+Instead of going to the movies, you decide to [solve the gase crisis](plow/plow.md) instead.
