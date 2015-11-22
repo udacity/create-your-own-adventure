@@ -48,6 +48,8 @@ Maybe this is a dream?
 
 Or a [memory](memories/memories.md)?
 
+Or is it just boring old [real-life](real-life/real-life.md)?
+
 Maybe it's a dream within a dream? Maybe dreaming and reality are one and the
 same. Maybe reality is an oxymoron when considering multiple dimensions.
 
@@ -629,4 +631,3 @@ After the stumble you trip over a plant [guess what the plant is?](real-marsh-ma
 *Story intensifies!*
 
 You decide to [take a shortcut](new-movie/new-movie.md) on the way to the movie...
-
