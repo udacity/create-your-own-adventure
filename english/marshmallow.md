@@ -635,3 +635,7 @@ You decide to [take a shortcut](new-movie/new-movie.md) on the way to the movie.
 Instead of going to the movies, you decide to [solve the gase crisis](plow/plow.md) instead.
 
 You made it through the day and are starting to get sleepy... [Time to fall asleep](marshmallow.md)
+
+You wake up in front of a computer screen. You begin reading
+the text of a markdown file called marshmallow.md. As you read
+you realize that the story is about you!
