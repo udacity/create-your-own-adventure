@@ -641,3 +641,5 @@ You made it through the day and are starting to get sleepy... [Time to fall asle
 You wake up in front of a computer screen. You begin reading
 the text of a markdown file called marshmallow.md. As you read
 you realize that the story is about you!
+
+You have been working too hard for too long, time to go to the [mountains] (https://github.com/Grobyo/create-your-own-adventure/tree/Andy-English/english/get-outside) 
