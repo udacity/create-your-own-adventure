@@ -83,3 +83,5 @@ el Consejero:
 [La conversacion era irrelevante] (dolor/dolor.md)
 
 [Abrió los ojos. ¿Era todo una cruel pesadilla?](pesadilla/pesadilla.md)
+
+[Como siempre, aquel terrible dia terminó y otro lo sucedió](termino/termino.md)
