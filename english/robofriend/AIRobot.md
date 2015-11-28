@@ -1,1 +1,1 @@
-You've been thinking of adopting one of those new AI robofriends. Yes, that's right. I know you've been lonely of late. [Here's an early present then.](../AIattacks.md)
+You've been thinking of adopting one of those new AI robofriends. Yes, that's right. I know you've been lonely of late. [Here's an early present then.](create-your-own-adventure/english/robofriend/AIattacks.md)
