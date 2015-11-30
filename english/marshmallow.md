@@ -643,3 +643,5 @@ the text of a markdown file called marshmallow.md. As you read
 you realize that the story is about you!
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
+
+Suddenly you feel a strong craving for [something.](craving/craving.md)
