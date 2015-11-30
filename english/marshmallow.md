@@ -644,4 +644,4 @@ you realize that the story is about you!
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
-When I code over my weekend, I feel that this becomes my [whole life]. (code-my-life/code-my-life.md)
+When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
