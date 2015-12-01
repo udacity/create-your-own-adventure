@@ -207,6 +207,8 @@ Do you:
 
 [Watch the new Star Wars trailer](https://www.youtube.com/watch?v=sGbxmsDFVnE)
 
+[Watch the second new Star Wars trailer](https://www.youtube.com/watch?v=ngElkyQ6Rhs)
+
 [Live Tweet the situation](tweet-it/tweet-it.md)
 
 [Blackout and wake up in a strange place without knowing how](33hours/wakingup.md)
