@@ -12,3 +12,7 @@ After one hour perusing pictures of glorious triathlon victories, you realize
 the true key to success is all in your tri-suit.
 You head over to [Amazon](http://www.amazon.com) to spend the rest of your day
 reading reviews.
+
+Okay, now you realize that this is going to cost you some real money.  You
+have to get some serious gear to compete.  You can't just use an old bike 
+and any pair of sneakers.  You need to put together a budget.

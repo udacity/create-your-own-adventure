@@ -1,3 +1,5 @@
+[I am the one who knocks](say-my-name/say-my-name.md)
+
 [The Secret to Life...Seriously](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [Some inspirational Lines](the-nights/the-nights.md)
@@ -204,6 +206,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 Do you:
 
 [Watch the new Star Wars trailer](https://www.youtube.com/watch?v=sGbxmsDFVnE)
+
+[Watch the second new Star Wars trailer](https://www.youtube.com/watch?v=ngElkyQ6Rhs)
 
 [Live Tweet the situation](tweet-it/tweet-it.md)
 
@@ -644,4 +648,7 @@ you realize that the story is about you!
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
+When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
+
 Suddenly you feel a strong craving for [something.](craving/craving.md)
+
