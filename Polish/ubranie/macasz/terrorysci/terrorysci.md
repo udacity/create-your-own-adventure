@@ -4,4 +4,5 @@ Bandyci nie mają broni palnej, posługują się wyimaginowanymi pistoletami stw
 Jeden z nich podchodzi do ciebie i celuje w twoją głowę.
 
 [Wbijasz mu łyżkę w oko](lyzka/lyzka.md)
+
 [Zsikujesz się ze strachu](siku/siku.md)
