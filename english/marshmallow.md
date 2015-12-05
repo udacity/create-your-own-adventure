@@ -652,4 +652,16 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
+
 After reading through everything everyone else wrote, you realize you are breaking the 4th wall and simultaneously wonder how Twitch ever beat Pokemon with this madness.  You make no new decisions, yet.
+
+Despite the little conundrum that you resolved, you realize that it's now 
+Friday, December 4th.  
+
+"Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
+
+With that new revelation in mind, you quickly make like David Hasselhoff
+and wiggle your wrist to show off a nice particular watch that even listens
+to you when you speak to it.  
+
+["Ahem!"](my-adventure/my-adventure.md)
