@@ -652,3 +652,4 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
+After reading through everything everyone else wrote, you realize you are breaking the 4th wall and simultaneously wonder how Twitch ever beat Pokemon with this madness.  You make no knew decisions, yet.
