@@ -17,3 +17,4 @@ Who will answer the call?
   - Martian Manhunter?
   - Cyborg?
   - Shazam?
+  - [Spiderman](./spiderman/spiderman.md)?
