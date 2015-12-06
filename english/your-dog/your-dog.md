@@ -4,4 +4,4 @@ Then your dog speaks to you and says ["follow me ..."](../play-with-dog/dog.md)
 
 Or is it a dream?  Dogs don't speak English afterall.  You have a couple of choices.  You can ["follow him"](../play-with-dog.md),
 
-or you can ["crawl back under the covers"](crawl-under-covers/covers.md).
+Or you can ["crawl back under the covers"](crawl-under-covers/covers.md).
