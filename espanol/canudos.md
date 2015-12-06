@@ -87,3 +87,5 @@ el Consejero:
 [Como siempre, aquel terrible dia terminó y otro lo sucedió](termino/termino.md)
 
 [Saco de su bolsillo un extraño artefacto y se lo dio a Beatito](artefacto/artefacto.md)
+
+Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)
