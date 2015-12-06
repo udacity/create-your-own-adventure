@@ -79,6 +79,8 @@ capacity for good, I have sent them you... my only son."
 
 [Remember that you are superman.](./remember-you-are-superman/remember-you-are-superman.md)
 
+Call in the [Justice League!](./justice-league/justice-league.md)
+
 [Interrogate the man for clues.](./movie-ripoffs/zoolander/zoolander.md)
 
 [That sure sounds familiar...](./sounds-familiar/sounds-familiar.md)
