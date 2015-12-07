@@ -7,3 +7,6 @@ you point your rope and fork wand to the door and firmly encant "Alohomora!"
     fills your nostrels and makes you gag.
 
         The door jars opens with a creak as the locking mechanism breaks.
+
+
+        I cannot be happier that this github lesson is OVER!!!
