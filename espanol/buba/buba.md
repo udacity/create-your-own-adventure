@@ -1,5 +1,4 @@
-De pronto aparecio un perro negro. Se detuvo en la puerta y los miro atentamente. Ellos pudieron ver el nombre 
-en la placa de su collar: Buba
-
+Suddenly, a black dog appeared. He looked at them attentively. They could see his name
+in the tag on his neck: it was Buba
 
 
