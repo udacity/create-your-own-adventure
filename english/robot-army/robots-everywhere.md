@@ -7,3 +7,11 @@ minions and summon them with haste.
 
 Done, you sit down and relax as your [minions](https://www.youtube.com/watch?v=IS0-MVYAVZs) cut the
 marshmallow into conveniently sized pieces for a party you've decided to hold.
+
+Do you now:
+
+[Have a marshmallow eating contest?](marshmallow-eating-contest/marshmallow-eating-contest.md)
+
+or
+
+[Practice your breathing?](../yoga/yoga.md)

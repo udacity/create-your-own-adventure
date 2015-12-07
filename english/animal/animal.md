@@ -1,4 +1,5 @@
 My worst fears have come true.  My cat is crying out for food.
+The screams are the worst sound I’ve ever heard in my life.
 
 Even if it really start to drop tears or weep blood, it's the same to me ... no food.
 The hilarious thing is that i start thinking about making it my own meal.
