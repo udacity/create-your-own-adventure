@@ -664,3 +664,5 @@ and wiggle your wrist to show off a nice particular watch that even listens
 to you when you speak to it.  
 
 ["Ahem!"](my-adventure/my-adventure.md)
+
+So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
