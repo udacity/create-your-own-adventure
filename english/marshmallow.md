@@ -427,6 +427,8 @@ Do you:
 
 [Become the One?](matrix/matrix.md)
 
+[Melt all the marshmallows to make s'mores?](meltmarshmallows/meltmarshmallows.md)
+
 [Want to cook boneless pork shoulder roast?](pork/roast.md)
 
 [Take a selfie?](selfie/selfie.md)
