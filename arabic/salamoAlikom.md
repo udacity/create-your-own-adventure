@@ -15,3 +15,7 @@
 [وظيفة](Job/Job.md)
 
 [أريد أن أحصل على Nanodegree](https://www.udacity.com/nanodegree)
+
+ [online](earn/learn.md) عايز اعرف اسماء مواقع  كورسات  
+
+ [freelancer](earn/learn.md) عايز اعرف اسماء مواقع  كورسات فرى لانس
