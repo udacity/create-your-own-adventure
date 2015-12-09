@@ -35,3 +35,5 @@
 [벽으로 돌진한다](rush/rush.md)
 
 [볼을 꼬집어 본다](pinch/pinch.md)
+
+[스파이더맨을 부른다](call/spiderman.md) 
