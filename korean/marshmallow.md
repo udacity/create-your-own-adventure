@@ -33,3 +33,5 @@
 [책을 읽는다] (read/read.md)?
 
 [벽으로 돌진한다](rush/rush.md)
+
+[볼을 꼬집어 본다](pinch/pinch.md)
