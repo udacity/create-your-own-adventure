@@ -4,4 +4,4 @@
 
 [מתחיל לאכול את הקירות](eating_marshmelow/eating.md)
 
-[בורח מהבית](run2street/run2dstreet.md)
+[בורח מהבית](run2street/run2street.md)
