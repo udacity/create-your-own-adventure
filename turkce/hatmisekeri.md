@@ -6,7 +6,9 @@ Ceketinizi yirtmaya basliyorsunuz ve yere bir cakmak, catal ve ip dusuyor.
 
 Izlendiginize dair supheleriniz var.
 
-Etrafiniza bakarken, hatmi sekerinden bir el cakmagi almaya tesebbus ediyor.
+Tavana baktiginizda sanki kucuk bir degisim goruyorsunuz.
+
+Kafanizdan kendi kendinize uydurdugunuzu dusunmeye baslarken, hatmi sekerinden bir el cakmagi almaya tesebbus ediyor.
 
 Birden hatmi sekerinin canlandigini anliyorsunuz.
 
