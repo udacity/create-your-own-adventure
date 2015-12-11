@@ -83,3 +83,9 @@ el Consejero:
 [La conversacion era irrelevante] (dolor/dolor.md)
 
 [Abrió los ojos. ¿Era todo una cruel pesadilla?](pesadilla/pesadilla.md)
+
+[Como siempre, aquel terrible dia terminó y otro lo sucedió](termino/termino.md)
+
+[Saco de su bolsillo un extraño artefacto y se lo dio a Beatito](artefacto/artefacto.md)
+
+Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)

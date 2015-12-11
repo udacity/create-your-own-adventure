@@ -1,3 +1,7 @@
+Another visitor! [Stay a while...](impossible-adventure/start/start.md)
+
+[I am the one who knocks](say-my-name/say-my-name.md)
+
 [The Secret to Life...Seriously](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [Some inspirational Lines](the-nights/the-nights.md)
@@ -76,6 +80,8 @@ be. They only lack the light to show the way. For this reason above all, their
 capacity for good, I have sent them you... my only son."
 
 [Remember that you are superman.](./remember-you-are-superman/remember-you-are-superman.md)
+
+Call in the [Justice League!](./justice-league/justice-league.md)
 
 [Interrogate the man for clues.](./movie-ripoffs/zoolander/zoolander.md)
 
@@ -204,6 +210,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 Do you:
 
 [Watch the new Star Wars trailer](https://www.youtube.com/watch?v=sGbxmsDFVnE)
+
+[Watch the second new Star Wars trailer](https://www.youtube.com/watch?v=ngElkyQ6Rhs)
 
 [Live Tweet the situation](tweet-it/tweet-it.md)
 
@@ -420,6 +428,8 @@ Do you:
 [Summon the magical snuffbox](snuffbox/snuffbox.md)
 
 [Become the One?](matrix/matrix.md)
+
+[Melt all the marshmallows to make s'mores?](meltmarshmallows/meltmarshmallows.md)
 
 [Want to cook boneless pork shoulder roast?](pork/roast.md)
 
@@ -644,4 +654,23 @@ you realize that the story is about you!
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
+<<<<<<< HEAD
 You must be lonely. [Want a friend?](robofriend/AIRobot.md)
+=======
+When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
+
+Suddenly you feel a strong craving for [something.](craving/craving.md)
+
+Despite the little conundrum that you resolved, you realize that it's now 
+Friday, December 4th.  
+
+"Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
+
+With that new revelation in mind, you quickly make like David Hasselhoff
+and wiggle your wrist to show off a nice particular watch that even listens
+to you when you speak to it.  
+
+["Ahem!"](my-adventure/my-adventure.md)
+
+So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
+>>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
