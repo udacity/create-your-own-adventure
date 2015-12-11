@@ -1,1 +1,0 @@
-Empiezas a gritar y gritar pero nadie te escucha. Todos estan ocupados adentro. Estas desesperado.
