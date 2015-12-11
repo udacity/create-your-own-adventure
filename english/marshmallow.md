@@ -1,4 +1,4 @@
-Another visitor! [Stay a while...](impossible-adventure/start.md)
+Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 [I am the one who knocks](say-my-name/say-my-name.md)
 
