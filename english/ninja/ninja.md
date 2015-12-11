@@ -16,7 +16,7 @@ You'll get what you ask for
 I'm like a wild animal in the corner
 Waiting for the break of dawn
 Trying to get through the night
-Just a man with the will to survive
+Just a man with the will to [survive](../pinch.md)
 
 
 After that episode,
