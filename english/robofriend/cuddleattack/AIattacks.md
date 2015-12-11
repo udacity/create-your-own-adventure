@@ -6,4 +6,4 @@ It begins a countdown to activate:
 5 - 4 - 3 - 2 - 1 ....
 AND YOU'VE BEEN CUDDLE-ATTACKED BY YOUR CloneFriend! *hugs* 
 
-You'll never be alone again. [(If that doesn't scare you, better go back)](english/marshmallow.md)
+You'll never be alone again. [(If that doesn't scare you, better go back)](../../marshmallow.md)
