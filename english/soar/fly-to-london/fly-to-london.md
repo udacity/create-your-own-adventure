@@ -2,6 +2,8 @@ You fly all the way to London, which is quite a distance.
 
 So you decide to take a break and sit down on Big Ben.
 
+Hey look! It's the Parliment!
+
 Just then, you realize that you have forgotten your pint.
 
 You choose to:

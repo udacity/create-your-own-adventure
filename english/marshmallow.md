@@ -1,3 +1,5 @@
+Another visitor! [Stay a while...](impossible-adventure/start/start.md)
+
 [I am the one who knocks](say-my-name/say-my-name.md)
 
 [The Secret to Life...Seriously](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -206,6 +208,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 
 Do you:
+
+[Listen to Tales of the Inexpressable (By Shpongle)](https://www.youtube.com/watch?v=6WTxC8wnXQo)
 
 [Watch the new Star Wars trailer](https://www.youtube.com/watch?v=sGbxmsDFVnE)
 
@@ -652,6 +656,9 @@ you realize that the story is about you!
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
+<<<<<<< HEAD
+You must be lonely. [Want a friend?](robofriend/AIRobot.md)
+=======
 When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
@@ -668,3 +675,4 @@ to you when you speak to it.
 ["Ahem!"](my-adventure/my-adventure.md)
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
+>>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
