@@ -90,4 +90,5 @@ el Consejero:
 
 Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)
 
-Al despertar y enfocar la vista vió lo que había sucedido tras la explosión [que pasó?](explosion/explosion.md)
+Al despertar y enfocar la vista vió lo que había sucedido tras la 
+explosión [que pasó?](explosion/explosion.md)
