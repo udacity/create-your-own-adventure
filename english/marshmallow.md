@@ -1,28 +1,50 @@
+Another visitor! [Stay a while...](impossible-adventure/start/start.md)
+
+[I am the one who knocks](say-my-name/say-my-name.md)
+
+[The Secret to Life...Seriously](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 [Some inspirational Lines](the-nights/the-nights.md)
 
 [Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
 
 One morning, you wake up in a strange room with marshmallows for walls.
 
+Marshmallows smell funny. What is a marshmallow anyway?
+
+Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
+
+The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E)
+
 *(Must be a Tuesday.)*
 
-Or a Wednesday...Thursday...maybe even a Friday.
+Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
 
 Ok, we have to consider Saturday too.
+
+Alice doesn't live here anymore, [or does she?](scarab/goddess.md)
+
+But not Monday; you never go out on a Sunday evening......[or do you](./or-do-you/or-do-you.md)?
 
 Gee Whiz! You decide to share your story in the [Acts of Kindness](kindness/acts-of-kindness.md) page.
 
 For a second, you decide whether or not to just [go back to sleep](go-back-to-sleep/go-back-to-sleep.md)
 
+Then, you consider playing a [chess puzzle](chess/chess.md)
+
 A sound from a Hitchcock movie fills the room, then quickly fades away.
 
 Was it the sound of a cry from the shower?
+
+Was it the sound of birds?
 
 It sounded like it could have been a [heffalump](heffalump/heffalump.md)
 
 No... perhaps not.
 
 I think it was an [animal](animal/animal.md).
+
+Nope, it was [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) sobbing in despair.
 
 Thinking back, there are no memories to suggest that this should have been
 anything but an ordinary morning. You didn't go out last night, you don't
@@ -31,6 +53,11 @@ usually take intoxicants, what's happening...?
 Maybe this is a dream?
 
 Or a [memory](memories/memories.md)?
+
+Or is it just boring old [real-life](real-life/real-life.md)?
+
+Maybe it's a dream within a dream? Maybe dreaming and reality are one and the
+same. Maybe reality is an oxymoron when considering multiple dimensions.
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
@@ -54,6 +81,8 @@ capacity for good, I have sent them you... my only son."
 
 [Remember that you are superman.](./remember-you-are-superman/remember-you-are-superman.md)
 
+Call in the [Justice League!](./justice-league/justice-league.md)
+
 [Interrogate the man for clues.](./movie-ripoffs/zoolander/zoolander.md)
 
 [That sure sounds familiar...](./sounds-familiar/sounds-familiar.md)
@@ -69,11 +98,19 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You don't own any uncomfortable and restrictive leather jackets... How did you end up sleeping in one?
 
+An umbrella (closed) automagically appears in your left hand. You tentatively
+
+[poke the wall](./poke-the-wall/poke-the-wall.md) with it.
+
 [You decide to bite the marshmallow wall.](./bite-the-marshmallow/tasty-marshmallow.md)
 
 You are feeling very anxious at this point.
 
+Goosebumps appear.
+
 This is because you do not like leather for ethical reasons.
+
+Leather is all over [San Fransisco](sanfran/sanfran.md).
 
 [Ethical reason? Seriously?](./ethical-reason/ethical-reason.md)
 
@@ -113,7 +150,7 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
-Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air 
+Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
 for alien life forms.
 
 When you look away, a marshmallow hand attempts to grab the lighter.
@@ -144,7 +181,7 @@ A soft echo of a torrent is fading from far...
 
 I felt a sudden ease of mind.
 
-"Ok", I said to myself, "I need to get 
+"Ok", I said to myself, "I need to get
 [out of here](outta-here/outta-here.md)"
 
 "But first I must remember the magic spell needed to open the enchanted door!"
@@ -171,6 +208,12 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 
 Do you:
+
+[Listen to Tales of the Inexpressable (By Shpongle)](https://www.youtube.com/watch?v=6WTxC8wnXQo)
+
+[Watch the new Star Wars trailer](https://www.youtube.com/watch?v=sGbxmsDFVnE)
+
+[Watch the second new Star Wars trailer](https://www.youtube.com/watch?v=ngElkyQ6Rhs)
 
 [Live Tweet the situation](tweet-it/tweet-it.md)
 
@@ -326,6 +369,8 @@ Do you:
 
 [Switch on your laptop and..](netflix/netflix.md)
 
+[Lion King ](no-worries/hakuna-matata.md)
+
 [Perform some magic](magic/magic.md)
 
 [Raise your self so high](khudi/buland_very_high.md)
@@ -385,6 +430,8 @@ Do you:
 [Summon the magical snuffbox](snuffbox/snuffbox.md)
 
 [Become the One?](matrix/matrix.md)
+
+[Melt all the marshmallows to make s'mores?](meltmarshmallows/meltmarshmallows.md)
 
 [Want to cook boneless pork shoulder roast?](pork/roast.md)
 
@@ -513,6 +560,8 @@ Do you:
 
 [Attack marshmallow pikachu!](pikachu/pokeball.md)
 
+"I have problems with my sleep," you realise. "I'm going to [move to New York](new-york/new-york.md)."
+
 [Summon Dragons of the Khaleesi](dragons/fire-everywhere.md)
 
 [Bounce](bounce/bounce.md)
@@ -527,6 +576,8 @@ Click [here](young/young.md) to listen to music.
 
 [Attack it with a lightsaber](lightsaber/lightsaber.md)
 
+[Decide to browse Reddit instead](https://www.reddit.com/)
+
 [It's time to take a vacation] (licked-cat/vacation.md)
 
 And then you realize that Burning Man is over, so no real vacations :(
@@ -536,6 +587,8 @@ And then you realize that Burning Man is over, so no real vacations :(
 [Think about happy thoughts while spinning around in circles](my-story/my-story.md)
 
 [Story of DKER](DKER/DKER.md)
+
+[Get your prostate checked](prostate/prostate.md)
 
 If you eat a lot, you should also [exercise](exercise/exercise.md)
 
@@ -547,7 +600,7 @@ A quick brown fox jumps over the lazy dog!
 
 This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
-You decide that you do not want to visit the miracle man. [You check your 
+You decide that you do not want to visit the miracle man. [You check your
 phone to find something else to do](check-phone/check-phone.md).
 
 And you plug-in to [play some music](play-music/playmusic.md).
@@ -557,8 +610,69 @@ The next thing you know, you're up all night in Croatia mixing a new playlist
 You remember the story of a [robot](happy-robot/happy-robot.md).
 
 Wondering how you got here, you feel a strange tingling in your hands, almost as if
-they are responding to your new surroundings. You feel an urge to gesture forward, 
-and as you do a large pink marshmallow shoots out of your hand into the wall before you. 
+they are responding to your new surroundings. You feel an urge to gesture forward,
+and as you do a large pink marshmallow shoots out of your hand into the wall before you.
 [Explore your new marshmallow powers.](marshmallow-wizard/marshmallow-wizard.md)
 
 [The evil and heroic marshmallow](the-slayer/marshmallow-slayer.md)
+
+All in a hard days work, do you play some [music](play-music/playmusic.md).
+
+As you hold your pot of precious hunny, you begin to [hear an ominous voice...](ominous-voice/ominous-voice.md)
+
+Honesty in a hard way [Watch it](few-good-men/fgm.md)
+
+Maybe, just maybe, your not here, and this [isn't happening](https://www.youtube.com/watch?v=lAF8D0ugyVk)
+
+But the call of of nature wasn't going away so you push open the toilet door and go in..
+
+Just then you recall the news story of what is causing the
+[strange noise] in toilet (http://nydn.us/1iLJF83) you look around..
+
+...and you are horrified by what you [see](https://www.youtube.com/watch?v=BROWqjuTM0g)
+
+You escape into a [recording studio](more_cowbell/more_cowbell.md)
+
+Now for some [music](https://www.youtube.com/watch?v=Ua2HPQUKJao)
+
+And then you stumble upon something [completely different](http://www.atlasobscura.com/)
+
+After the stumble you trip over a plant [guess what the plant is?](real-marsh-mallow/real-marsh-mallows.md)
+
+
+[What about skydiving](skydiving/skydiving.md)
+
+*Story intensifies!*
+
+You decide to [take a shortcut](new-movie/new-movie.md) on the way to the movie...
+
+Instead of going to the movies, you decide to [solve the gase crisis](plow/plow.md) instead.
+
+You made it through the day and are starting to get sleepy... [Time to fall asleep](marshmallow.md)
+
+You wake up in front of a computer screen. You begin reading
+the text of a markdown file called marshmallow.md. As you read
+you realize that the story is about you!
+
+This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
+
+<<<<<<< HEAD
+You must be lonely. [Want a friend?](robofriend/AIRobot.md)
+=======
+When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
+
+Suddenly you feel a strong craving for [something.](craving/craving.md)
+
+Despite the little conundrum that you resolved, you realize that it's now 
+Friday, December 4th.  
+
+"Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
+
+With that new revelation in mind, you quickly make like David Hasselhoff
+and wiggle your wrist to show off a nice particular watch that even listens
+to you when you speak to it.  
+
+["Ahem!"](my-adventure/my-adventure.md)
+
+So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
+>>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156

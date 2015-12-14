@@ -10,3 +10,5 @@ Just click on the link.
 [Yell of exhilaration](../yearg/yearg.md)
 
 [Make a Marshmallow Cake](https://www.youtube.com/watch?v=3l1SY3QREv4)
+
+[Declare your allegiance to your favorite team](../nfl-chiefs/nfl-chiefs.md)

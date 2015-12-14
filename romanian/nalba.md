@@ -68,3 +68,8 @@ Bineinteles ca o sa bea. Ginel stia ca asta inseamna sa fii mafiot la urma urmei
 
 [Beau tot](Beau/Beau_paharul_pana_la_fund.md)
 
+Subit se simtea usor si isi imagina ca zboara - buna [potiunea](potiune_fermecata/potiune.md) asta, gandi el.
+
+Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
+
+[crocobalaurului](padurea_violet/croco/croco.md).

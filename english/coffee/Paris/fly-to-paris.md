@@ -2,11 +2,11 @@ You got off the AirFrance flight into Charles De Gaulle Airport. Everyone is spe
 
 You mustled up some courage, remembered the few French phrases you know, went up to a charming female blonde.
 
-"Excusez-moi, mademoiselle, vous parlez anglais? Je suis perdu." You asked.
+"Excusez-moi, mademoiselle, vous parlez anglais? Je suis perdu. Est-ce que vous pouvez aide-moi?" You asked.
 
 "Mais, bien sur. Yes, I do speak English."
 
-"Excellet!" you exclaim.  You tell her everything you know so far and she suggests you follow her.
+"Excellent!" you exclaim.  You tell her everything you know so far and she suggests you follow her.
 
 She walks towards a local train into the city.  Do you?
 

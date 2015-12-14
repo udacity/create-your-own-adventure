@@ -4,6 +4,8 @@ millions on that is quite nice, really!...
 
 So you head off to galaxy far, far away....
 
+...with a Babel fish stuck in your ear.
+
 You eventually reach a solar system with a planet that has intelligent life.
 
 While you are there, they explain that dreams are actually the real Universe 

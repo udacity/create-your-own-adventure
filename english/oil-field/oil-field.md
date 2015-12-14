@@ -5,3 +5,5 @@ oil fields are present.  Note: if oil is found in adjacent nodes, it is the same
 field and should not be counted again.
 
 Wait...you seem to remember something about a marshmallow.  Mmm...marshmallows...
+
+But, wait.  What is better than a marshmellow?  An oil field on beautiful sand dunes filled with treasure!!

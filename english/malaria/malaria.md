@@ -7,6 +7,8 @@ marshmallow. You flail and trash but to no avail. You cannot draw breath.
 You are suffocating! It starts getting dark to your eyes. 
 There is no water near.
 
+You start to [scream](scream/scream.md)
+
 You jump up from the reverie and find yourself by a forest road with a 
 bottle of pills by your side. You see a jeep crashed into the trees some 
 distance away. The sound of distant gunfire reaches your ears and it dawns

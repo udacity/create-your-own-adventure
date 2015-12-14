@@ -4,6 +4,8 @@ When your vision clears, standing before you is Bob Barker in all his glory.
 
 You stare at him in awe.
 
+The Barker beauties are nowhere to be found; you collapse for a moment in dispair.
+
 He doesn't look a day past 50.  Like all of the greats he doesn't age in your mind.
 
 He is flanked by two of the hottest...marshmallows that you have ever seen.
@@ -31,3 +33,5 @@ You hesitate just a moment before replying...
 [Grab some coffee?](../coffee/coffee.md)
 
 [Can I phone a friend?](phone-a-friend/phone-a-friend.md)
+
+[Attack and eat one of the marshmallows](eat-marshmallow/hot.md)

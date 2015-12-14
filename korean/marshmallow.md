@@ -31,3 +31,7 @@
 [큰소리로 엄마를 부른다](call-mom/call-mom.md)
 
 [책을 읽는다] (read/read.md)?
+
+[벽으로 돌진한다](rush/rush.md)
+
+[볼을 꼬집어 본다](pinch/pinch.md)
