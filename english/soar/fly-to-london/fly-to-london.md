@@ -1,5 +1,7 @@
 You fly all the way to London, which is quite a distance.
 
+You have never been to this city before and feel overwhelmed.
+
 So you decide to take a break and sit down on Big Ben.
 
 Hey look! It's the Parliment!
