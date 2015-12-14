@@ -1,3 +1,0 @@
-Vous appelez à l'aide, mais personne ne vous entends...
-
-[Je revois mes autres options](../feu-de-camp.md)

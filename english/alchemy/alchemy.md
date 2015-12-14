@@ -11,6 +11,9 @@ Time passes, and the coin solidifies as it cools.
 
 You gain 1 gold coin.
 
+You are extremely excited that your craft of alchemy is not a myth and you know you will be
+a billionaire if you keep trying.
+
 You decide to play it safe and repeat the process a few times. Who knows how many coins
 the high-score currently is or how many you will need on your adventure?
 
