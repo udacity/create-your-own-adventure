@@ -8,3 +8,4 @@ Voldemort hates smores -- knowledge is power
 
 You are now in the Kings Landing, looking at the Mad King on the Iron throne.
 I am coming for you mad king. For I am the mother of dragons
+What is dead may never die!
