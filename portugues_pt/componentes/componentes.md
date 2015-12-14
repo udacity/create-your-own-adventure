@@ -1,1 +1,0 @@
-Compraria muitos componentes para fazer muitos robôs.
