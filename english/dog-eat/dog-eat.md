@@ -9,10 +9,10 @@ Great! You're free!
 
 Now, you're faced with a choice. 
 
-Do you stop, and (get his majestic beard cleaned?)[]
+Do you stop, and (get his majestic beard cleaned?)[..beard-groom.md].
 
-Do you (keep going)[], and hope that he won't decide to take a nap? 
+Do you (keep going)[../nap.md], and hope that he won't decide to take a nap? 
 
 Or
 
-Do you head to the shops to fetch some (graham crackers and chocolate?)[]
+Do you head to the shops to fetch some (graham crackers and chocolate?)[../insulin.md]
