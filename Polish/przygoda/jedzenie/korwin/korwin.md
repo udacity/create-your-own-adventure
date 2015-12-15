@@ -4,6 +4,6 @@ Wygrałeś
 Niedługo koronacja Korwina na krula wszechświata.
 Jaki prezent podarujesz swojemu monarsze?
 
-[Złoty rewolwer](prezent/rewolwer.md)
+[Złoty rewolwer](rewolwer/rewolwer.md)
 
-[Złoty krawat](prezent/krawat.md)
+[Złoty krawat](krawat/krawat.md)
