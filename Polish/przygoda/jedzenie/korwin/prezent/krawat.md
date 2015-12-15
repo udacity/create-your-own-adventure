@@ -1,1 +1,1 @@
-Prezent nie przypadł do gustu suwerenowi. Popadasz w niełaskę.
+Prezent nie przypadł do gustu suwerenowi. Odzyskujesz przytomność w celi.
