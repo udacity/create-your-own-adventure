@@ -9,8 +9,8 @@ You decide it's probably best not to risk petting her, seeing as she's made out 
 
 You decide you want to name her. Do you call her:
 
-[Alba](../Alba/alba.md)?
+[Alba](./Alba/alba.md)?
 
-[Betsy](../Betsy/betsy.md)?
+[Betsy](./Betsy/betsy.md)?
 
-[Charlene](../Charlene/charlene.md)?
+[Charlene](./Charlene/charlene.md)?
