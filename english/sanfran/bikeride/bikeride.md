@@ -10,6 +10,6 @@ Or should I continue riding?
 
 Let's ride to the wonderful intersection of Haight and Fillmore.
 
-Go to Bean There Cafe for some [Ginger Peachy Keen](bikeride.md).
+Go to Bean There Cafe for some [Ginger Peachy Keen](ginger-peachy-keen.md).
 
 Go to Cafe Europa for some pork schnitzel
