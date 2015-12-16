@@ -8,4 +8,8 @@ Then I realize that biking has made me slightly hungry. Shall I purchase
 a [burrito](burrito/burrito.md)?
 Or should I continue riding?
 
+Let's ride to the wonderful intersection of Haight and Fillmore.
+
+Go to Bean There Cafe for some [Ginger Peachy Keen](bikeride.md).
+
 Go to Cafe Europa for some pork schnitzel
