@@ -1,0 +1,1 @@
+You want to get the queen so you move the horse onto f5.

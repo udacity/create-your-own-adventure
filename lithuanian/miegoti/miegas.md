@@ -1,1 +1,0 @@
-Ir jis skaniai užmiega

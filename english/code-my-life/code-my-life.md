@@ -1,1 +1,0 @@
-As you have read this far, you are of the same kind.
