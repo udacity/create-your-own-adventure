@@ -1,1 +1,0 @@
-Kimész a konyhába, megpróbálod elfelejteni a sok cukrot, és csinálsz egy kolbászos rántottát.
