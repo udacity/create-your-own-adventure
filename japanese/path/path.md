@@ -2,6 +2,6 @@
 
 あなたは：
 
-[庭師の作業を見る](/gardener/garnder.md)
+[庭師の作業を見る](gardener/gardener.md)
 
-[小道を進む](/rabbit/rabbit.md)
+[小道を進む](rabbit/rabbit.md)
