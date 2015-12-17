@@ -1,3 +1,7 @@
+You are are man (or woman) for all seasons but need help in choosing
+your travel destinations.. Of course we are happy to help you with these
+[suggestions](travel-destinations/travel-destinations.md)
+
 Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 [I am the one who knocks](say-my-name/say-my-name.md)
@@ -676,3 +680,6 @@ to you when you speak to it.
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
 >>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
+
+["Train Ride!"] (train-ride/train-ride.md)
+
