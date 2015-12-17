@@ -9,3 +9,5 @@ When you look back, you see nothing...
 [Go back](../../fire/die/die.md)
 
 [Go to that dark place](dream/dream.md)
+
+[Strike Match](match/match.md)
