@@ -48,6 +48,8 @@ Si ii dadu zanei nalbele, iar zana se puse pe treaba, sa faca potiunea cea ferme
 
 Plictisita, Gina pleca sa-si cumpere Orbit.
 
+Si merse, merse, cale lunga pana la [magazinul cel mare](magazin/oferta-speciala.md).
+
 Ginel continua sa se holbeze la zana cand, dintr-odata, puhhh! Un nor rosu
 cuprinse zana de la genunchi pana peste cap, asa incat inca i se mai vedeau
 pantofi albastrii...
