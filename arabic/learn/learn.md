@@ -19,15 +19,15 @@ freelancing اشهر مواقع العمل الحر
 
 ولكن قبل ذلك، عليك أن تحدد ماذا تريد أن تتعلم:
 
-- [البرمجة](whattolearn/programming.md)
+- [البرمجة](whattolearn/programming/programming.md)
 
-- [الرسم](whattolearn/drawing.md)
+- [الرسم](whattolearn/drawing/drawing.md)
 
-- [التصوير](whattolearn/photography.md)
+- [التصوير](whattolearn/photography/photography.md)
 
-- [الطهي](whattolearn/cooking.md)
+- [الطهي](whattolearn/cooking/cooking.md)
 
-- [أخرى](whattolearn/other.md)
+- [أخرى](whattolearn/other/other.md)
 
 
 
