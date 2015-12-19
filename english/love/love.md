@@ -14,3 +14,5 @@ Of course, there is no substitute for the experince of it. It must be
 lived in order to be understood. All the words there are in the world 
 cannot make you understand the feeling of it. Anyways, [here's 
 something comepletely different.](../marshmallow.md)
+
+If all else fails, you could [try this.](english/read-a-book/read-a-book.md)
