@@ -17,4 +17,18 @@ freelancing اشهر مواقع العمل الحر
 
 -[freelancer](https://www.freelancer.com/)
 
+ولكن قبل ذلك، عليك أن تحدد ماذا تريد أن تتعلم:
+
+- [البرمجة](whattolearn/programming)
+
+- [الرسم](whattolearn/drawing)
+
+- [التصوير](whattolearn/photography)
+
+- [الطهي](whattolearn/cooking)
+
+- [أخرى](whattolearn/other)
+
+
+
 
