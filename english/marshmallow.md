@@ -1,3 +1,6 @@
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+and search for your [destiny](destiny/destiny.md).
+
 You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
 [suggestions](travel-destinations/travel-destinations.md)
