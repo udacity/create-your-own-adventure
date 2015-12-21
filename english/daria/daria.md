@@ -1,0 +1,1 @@
+You decide you need to laugh.  Do you [watch Daria](https://www.youtube.com/watch?v=2UstSviOcyE) or do you [watch Will and Grace](https://www.youtube.com/watch?v=dtX6xXbegdY&list=PLbYaOVNThENwXit5Vg0xZGKlwbjBGUJa2)
