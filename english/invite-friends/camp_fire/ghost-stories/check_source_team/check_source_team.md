@@ -4,3 +4,7 @@ grandmother who had been watching tv is missing.
 
 You think to yourself: "Grandmother, no! What should I do now!?"
 
+Do you:
+
+[Grab your late grandfathers (God rest his soul) sturdy battle axe](grab-battle-axe/grab-battle-axe.md)
+
