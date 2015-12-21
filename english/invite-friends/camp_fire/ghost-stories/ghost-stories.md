@@ -8,3 +8,5 @@ Do you:
 [Become the hero and tell everyone that you are going to see where the scream comes from](check_source/check_source.md)
 
 [Scare yourself to death and ask someone to go check where the scream came from](scared/scared.md)
+
+[Suggest to your friends that you had better go to the next room together to find out what happened](check_source_team/check_source.md)
