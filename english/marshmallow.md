@@ -684,3 +684,5 @@ So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyAr
 ["Train Ride!"] (train-ride/train-ride.md)
 
 I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/star-wars.md)
+
+"What's a Heffelump?" asked Sheffield inquisitively.
