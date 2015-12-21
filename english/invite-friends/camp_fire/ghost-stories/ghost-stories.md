@@ -9,4 +9,5 @@ Do you:
 
 [Scare yourself to death and ask someone to go check where the scream came from](scared/scared.md)
 
-[Suggest to your friends that you had better go to the next room together to find out what happened](check_source_team/check_source_team.md)
+[Suggest to your friends to go investigate together to see what happened](check_source_team/check_source_team.md)
+
