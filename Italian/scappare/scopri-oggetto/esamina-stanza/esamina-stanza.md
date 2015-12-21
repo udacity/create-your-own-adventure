@@ -5,4 +5,4 @@ Vicino al letto noti una scrivania di legno con alcuni fogli sparsi su di essa.
 
 [Osservi il resto della stanza](controlla-stanza/controlla-stanza.md)
 
-[Esamini le pareti in cerca di passaggi] (./passaggi_stanza/passaggi-stanza.md)
+[Esamini le pareti in cerca di passaggi] (../passaggi_stanza/passaggi-stanza.md)
