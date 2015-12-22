@@ -643,7 +643,9 @@ And then you stumble upon something [completely different](http://www.atlasobscu
 
 After the stumble you trip over a plant [guess what the plant is?](real-marsh-mallow/real-marsh-mallows.md)
 
-The plant lands in a puddle of water that's rushing into the room that you're standing in.  [You think really hard about what's going on...](climatechange/climatechange.md)
+The plant lands in a puddle of water that's rushing into the room that you're standing in.
+
+[You think really hard about what's going on...](climatechange/climatechange.md)
 
 [What about skydiving](skydiving/skydiving.md)
 
