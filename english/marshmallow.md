@@ -18,6 +18,12 @@ Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 One morning, you wake up in a strange room with marshmallows for walls.
 
+Any sounds around you seem muted and far away. Then you realize: your ears are
+clogged up with marshmallows. Gingerly you pick at them to gently pull them
+out and hold them in your hands. They are smudged with a little bit of yellow
+and you briefly ponder if marshmallows would be the the perfect tip for q-tips.
+You bend closer and sniff at them.
+
 Marshmallows smell funny. What is a marshmallow anyway?
 
 Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
@@ -673,14 +679,14 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
-Despite the little conundrum that you resolved, you realize that it's now 
-Friday, December 4th.  
+Despite the little conundrum that you resolved, you realize that it's now
+Friday, December 4th.
 
 "Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
 
 With that new revelation in mind, you quickly make like David Hasselhoff
 and wiggle your wrist to show off a nice particular watch that even listens
-to you when you speak to it.  
+to you when you speak to it.
 
 ["Ahem!"](my-adventure/my-adventure.md)
 
