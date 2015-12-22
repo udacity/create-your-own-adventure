@@ -68,7 +68,7 @@ Euskalduna bazara, joan [hona](basque/gaztelua.md).
 
 And if you like [Thai food](Thai/Cuisine/TomYumKung.md)
 
-Maligayang Bati! [Philippines](Philippines/salamat.md)
+Kung Pinoy ka, click mo to -> [Philippines](Philippines/salamat.md)
 
 אם אתה מדבר עברית, [לחץ כאן](hebrew/marshmallow.md).
 
