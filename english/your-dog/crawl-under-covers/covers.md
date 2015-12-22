@@ -1,0 +1,1 @@
+Ahhh, this bed feels so cozy and warm.
