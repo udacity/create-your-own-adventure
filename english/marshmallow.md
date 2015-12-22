@@ -643,6 +643,9 @@ And then you stumble upon something [completely different](http://www.atlasobscu
 
 After the stumble you trip over a plant [guess what the plant is?](real-marsh-mallow/real-marsh-mallows.md)
 
+The plant lands in a puddle of water that's rushing into the room that you're standing in.
+
+[You think really hard about what's going on...](climatechange/climatechange.md)
 
 [What about skydiving](skydiving/skydiving.md)
 
@@ -660,26 +663,24 @@ you realize that the story is about you!
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
-<<<<<<< HEAD
 You must be lonely. [Want a friend?](robofriend/AIRobot.md)
-=======
+
 When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
-Despite the little conundrum that you resolved, you realize that it's now 
-Friday, December 4th.  
+Despite the little conundrum that you resolved, you realize that it's now
+Friday, December 4th.
 
 "Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
 
 With that new revelation in mind, you quickly make like David Hasselhoff
 and wiggle your wrist to show off a nice particular watch that even listens
-to you when you speak to it.  
+to you when you speak to it.
 
 ["Ahem!"](my-adventure/my-adventure.md)
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
->>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
 
 ["Train Ride!"] (train-ride/train-ride.md)
 
