@@ -10,7 +10,7 @@ el Consejero:
 
 [Llegó el periodista miope con noticias importantes.](noticias/noticias.md)
 
-[Suddenly realized he was far from home and doesn't know how to speak Spanish.](../TheEpicSax/111_TheEpicSaxGuyArrives.md)
+[Suddenly realized he was far from home and doesn't know how to speak Spanish.](../English/TheEpicSax/111_TheEpicSaxGuyArrives.md)
 
 [Se dirigió a la muralla exterior del pueblo.](muralla/muralla.md)
 
