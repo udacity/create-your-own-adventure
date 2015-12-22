@@ -108,7 +108,7 @@ click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
 Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 
-നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ, 
+നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ,
 [ഇവിടെ ക്ലിക്ക് ചെയ്യുക](Malayalam/malayalam.md)
 
 [ئەگەر کوردی ئەزانیت کلیک بکە](kurdish/kurdi.md)
@@ -126,5 +126,7 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 ئەگەر ئۇيغۇرچە سۆزلىسىڭىز، [بۇ يەرگە كىرىڭ](uyghurish/uyghurish-story.md)
 
 Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
+
+Егер қазақша түсіне аласыз [click мына жерге](kazakh/anaumynau.md) қара.
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
