@@ -1,3 +1,11 @@
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+
+and search for your [destiny](destiny/destiny.md).
+
+You are are man (or woman) for all seasons but need help in choosing
+your travel destinations.. Of course we are happy to help you with these
+[suggestions](travel-destinations/travel-destinations.md)
+
 Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 [I am the one who knocks](say-my-name/say-my-name.md)
@@ -568,6 +576,8 @@ Do you:
 
 [Play some DotA 2](play-dota2/play-dota2.md)
 
+[Play some Geometry Dash](play-geometrydash/play-geometrydash.md)
+
 [See if there is a Udacity course on the subject](udacity/udacity.md)
 
 Click [here](young/young.md) to listen to music.
@@ -676,3 +686,9 @@ to you when you speak to it.
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
 >>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
+
+["Train Ride!"] (train-ride/train-ride.md)
+
+I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/star-wars.md)
+
+"What's a Heffelump?" asked Sheffield inquisitively.

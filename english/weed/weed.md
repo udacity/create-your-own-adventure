@@ -1,3 +1,4 @@
+THESE ARE THE INSTRUCTIONS FOR MAKING WEED OK!!!!!!!!! DONT TRY THIS AT HOME!! UNLESS YOUR IN CALIFORNIA!!
 well weed contains THC which will make you high.
 To get it out and add to your cookies, use a fat to extract it.
 Butter, Milk, cream can be used.
