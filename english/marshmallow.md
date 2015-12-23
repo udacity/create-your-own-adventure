@@ -24,6 +24,8 @@ Unexpectedly, the Chief Marshmallow demands to see your [references](references/
 
 The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E)
 
+After you have met the Chief Marshmallow's demands he tells you of the [White Rabbit](https://en.wikipedia.org/wiki/White_Rabbit)
+
 *(Must be a Tuesday.)*
 
 Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
