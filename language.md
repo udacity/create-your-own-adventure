@@ -52,6 +52,8 @@ Se fala Português_PT, [clique aqui](portugues_pt/colaborar.md).
 
 Ако говорите български, кликнете [тук](bulgarian/burning_room.md).
 
+If you speak Telugu, మీరు తెలుగులొ మాట్లాడుతార [ఇక్కడ నొక్కండి](telugu/telangana-telugu2/Telanganatelugu2.md)
+
 日本語を使う人は、[ここ](japanese/chasitsu.md)に行ってください。
 
 Jos puhut suomea, jatka [tänne](finnish/sauna.md)
