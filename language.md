@@ -128,6 +128,3 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
-^M
-If you speak Telugu, మీరు తెలుగులొ మాట్లాడుతార [ఇక్కడ నకిtt](telugu/telangana-telugu2/Telanganatelugu2.md)
-^M
