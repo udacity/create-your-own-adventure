@@ -694,3 +694,5 @@ I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/s
 "What's a Heffelump?" asked Sheffield inquisitively.
 
 "I dont't know! Why should I care?" replied Donald Trump.
+
+"Why should you care? Well what do you think of [this???](heffelump/heffelump.md)"
