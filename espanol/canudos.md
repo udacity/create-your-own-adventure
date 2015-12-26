@@ -97,3 +97,6 @@ Al despertar y enfocar la vista vió lo que había sucedido tras la
 explosión [que pasó?](explosion/explosion.md)
 
 Salió corriendo y no se lo vio nunca más en el reino
+
+Conectó su guitarra al amplificador y se puso a tocar una versión de "Siempre es lo mismo, nena", pero sin distorsión
+
