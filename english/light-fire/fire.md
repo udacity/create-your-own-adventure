@@ -15,6 +15,8 @@ walls for you to squeeze through.
 
 But then you notice a rat entering that opening too.
 
+The rat smiles and says, "Come on, let's go!"
+
 [Enter that opening](magic-world/alice.md)
 
 [Start screaming seeing the rat](fire/alone.md)
