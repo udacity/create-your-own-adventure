@@ -6,4 +6,4 @@ You want to [fight](../../../fight-out/fight-out.md) instead.
 
 You can't [remember](../../../memories/memories.md).
 
-You are dreaming, [wake up](../../../ground-hog/wakeup.md)!
+You are dreaming, [wake up](../../../../ground-hog/wakeup.md)!
