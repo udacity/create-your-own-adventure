@@ -4,4 +4,5 @@ in his hands he has two pills.
 Which will you choose?
 
 [Choose the blue pill](blue_pill/blue_pill.md)
+
 [Choose the red pill](red_pill/red_pill.md)  
