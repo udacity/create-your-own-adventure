@@ -6,5 +6,5 @@ I've been here before...
 
 Do you ever get [deja vu](wakeup.md) Mrs. Lancaster?.
 
-Mrs. Lancaster's reply, 'I don't know let me check with the kitchen.
+Mrs. Lancaster's reply, 'I don't know let me check with the [kitchen](kitchen/vegetables.md).
 
