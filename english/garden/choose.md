@@ -4,8 +4,8 @@ You can smell the damp earth and hear crickets in the distance.
 You bend over and inspect the plants. 
 You decide to choose:
 
-[Beans](beans.md).
+[Beans](beans/beans.md).
 
-[Carrots](carrots.md)
+[Carrots](carrots/carrots.md)
 
-[Tomatoes](tomatoes.md)
+[Tomatoes](tomatoes/tomatoes.md)
