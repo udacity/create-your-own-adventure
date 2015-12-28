@@ -2,7 +2,7 @@
 
 You go to the [garden](garden/choose.md).
 
-You want to [fight](./fight-out/fight-out.md) instead.
+You want to [fight](../../fight-out.md) instead.
 
 You can't [remember](english/memories/memories.md).
 
