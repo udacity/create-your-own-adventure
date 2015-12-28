@@ -6,3 +6,5 @@ Será que hoy es el día, aquel día en el que nos preguntamos ¿por que?
 Tras terminar con sus lamentaciones:
 
 [Una reflexión de gran importancia le asaltó](estoicismo/estoicismo.md)
+
+[Se sentÃ³ en el suelo y se puso a meditar](meditacion/meditar.md)

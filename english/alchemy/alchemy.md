@@ -35,3 +35,5 @@ You slip the ring over your finger and ...
 [quickly decide to take the ring off and try using its unknown powers later](../android-v6/use-android-v6.md)
 
 [Congratulations!](../marshmallow.md)
+
+[Transform!](../transform/transform.md)
