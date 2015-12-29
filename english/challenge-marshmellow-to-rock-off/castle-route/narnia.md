@@ -23,11 +23,12 @@ and suddenly, your rusty sword starts glowing as bright as your torch. The shado
 disgust under its dark hood as it scurries to the stairs and vanishes in the darkness. As you examine some
 cryptic language written on the hilt of the sword, you need to decide. 
 
-Will it be the ladder? or the Stairs? You notice both possible routes available to you.  The ladder is old
-and rickety, but looks stable enough to climb.  Descending the stairs are tiny hot-chocolate marshmallows 
-armed with steel toothpick swords.  They are taunting you, singing in unison some indecipherable marshmallow
-battle hymn.
-
+Will it be the ladder? or the Stairs? 
 Despite the fact that you were the tri-state bronze medallist in the Stairmaster competition, you question
-the power of your beefy legs.  Egad! The shadowy figure is upon you now.  You must quickly decide what to
+the power of your beefy legs.  Egads! The shadowy figure is upon you now.  You must quickly decide what to
 do.
+
+You examine both possible routes available to you.  The ladder looks old and rickety, but stable enough to 
+climb.  Descending the stairs are tiny hot-chocolate marshmallows armed with steel toothpick swords.  They
+are taunting you, singing in unison some indecipherable marshmallow battle hymn.
+
