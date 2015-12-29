@@ -8,3 +8,5 @@ Do you ever get [deja vu](wakeup.md) Mrs. Lancaster?.
 
 Mrs. Lancaster's reply, 'I don't know let me check with the kitchen.
 
+You go to the [kitchen](../../kitchen/vegetables.md).
+
