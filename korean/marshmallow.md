@@ -35,3 +35,5 @@
 [벽으로 돌진한다](rush/rush.md)
 
 [볼을 꼬집어 본다](pinch/pinch.md)
+
+라고 고민하지만 선택하기 위해서 [요가를 한다](yoga/yoga.md)
