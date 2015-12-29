@@ -22,6 +22,8 @@ Que faites-vous ?
 
 [Je ne parle pas francais](../english/marshmallow.md)
 
+[Je parle un peu arabe](../arabic/salamoAlikom.md)
+
 [J'appelle ma mère immédiatement](appel-maman/appeler-maman.md)
 
 [Je demande de l'aide a Google](google/google.md)
