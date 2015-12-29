@@ -701,6 +701,8 @@ there are two options you must choose from.
 
 You may either do [this](gtd/gtd.md),
 
- or [that](procrastinate/procrastinate.md). Thanks!
+ or [that](procrastinate/procrastinate.md). 
+ 
+ Thanks!
 
 
