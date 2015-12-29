@@ -705,4 +705,8 @@ You may either do [this](gtd/gtd.md),
  
  Thanks!
 
+So we only have four more days until the new year?
+Isn't it time to really get work done, then?
+
+
 
