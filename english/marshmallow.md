@@ -695,7 +695,12 @@ I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/s
 
 "I dont't know! Why should I care?" replied Donald Trump.
 
-When faced with a lot of work and impending deadlines in the (not so near) future,
-there are two options you must choose from. You may either do [this](gtd/gtd.md), or [that](procrastinate/procrastinate.md).
+When faced with a lot of work and impending deadlines 
+in the (not so near) future,
+there are two options you must choose from. 
+
+You may either do [this](gtd/gtd.md),
+
+ or [that](procrastinate/procrastinate.md).
 
 
