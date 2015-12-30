@@ -705,4 +705,6 @@ You may either do [this](gtd/gtd.md),
 
  This is one weird story. Did anybody read the whole page?
 
+ I sure did not. This is as weird as it gets.
+
 
