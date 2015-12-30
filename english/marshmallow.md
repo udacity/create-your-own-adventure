@@ -707,4 +707,5 @@ You may either do [this](gtd/gtd.md),
 
  I sure did not. This is as weird as it gets.
 
+[Get Crazy!](crazy/crazy.md)
 
