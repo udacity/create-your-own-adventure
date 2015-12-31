@@ -2,7 +2,7 @@
 
 [Fire Lord Ozai](http://avatar.wikia.com/wiki/Ozai) wanted to conquer the other nations and rule the world.
 
-The next step is other planets.
+The next step is other planets. To conqer new worlds and establish a galactic empire!
 
 
 
