@@ -716,6 +716,8 @@ Hasselhoff laughed a great jolly laugh and smashed Trump between his massive pec
 Trump fell to the ground unconscious. 
 On the ground next to Trump, Hasselhoff espied a mushroom and a red pill. 
 Eat one! He demanded.
+
 [Eat the red pills](redpill/redpill.md)
+
 [Eat the mushroom](mushroom/eat/eat_mushroom.md)
 
