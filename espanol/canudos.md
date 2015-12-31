@@ -100,4 +100,4 @@ Salió corriendo y no se lo vio nunca más en el reino
 
 Conectó su guitarra al amplificador y se puso a tocar una versión de "Siempre es lo mismo, nena", pero sin distorsión
 
-[Pero luego se quedo cansado y se fue a dormir](create-your-own-adventure/cansado/cansado.md)
+[Pero luego se quedo cansado y se fue a dormir](cansado/cansado.md)
