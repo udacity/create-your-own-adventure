@@ -2,8 +2,6 @@
 
 어떻게 할까요?
 
-벽을 먹는다.
-
 [벽을 먹는다](eating-walls/eating-marshmallows.md)?
 
 [불을 지핀다](light-fire/fire.md)?
