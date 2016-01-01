@@ -711,3 +711,13 @@ You may either do [this](gtd/gtd.md),
 
 [Get Crazy!](crazy/crazy.md)
 
+And then Donald Trump attempted to ride David Hasselhoff through the water. 
+Hasselhoff laughed a great jolly laugh and smashed Trump between his massive pectorals.
+Trump fell to the ground unconscious. 
+On the ground next to Trump, Hasselhoff espied a mushroom and a red pill. 
+Eat one! He demanded.
+
+[Eat the red pills](redpill/redpill.md)
+
+[Eat the mushroom](mushroom/eat/eat_mushroom.md)
+
