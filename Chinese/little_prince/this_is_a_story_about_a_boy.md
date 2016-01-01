@@ -1,1 +1,3 @@
-The Little Prince is a play based on the book of the same name by Antoine de Saint-Exupéry, adapted by Rick Cummins and John Scoullar before 2000. Rick Cummins wrote the music, and John Scoullar wrote the script and lyrics. There are several changes from the book, including the omission of the drunkard (tippler), switchman and merchant characters; the removal of a great deal of the narration from the aviator; significant changes to the rose scenes; and a large change in the order of events.
+The Little Prince is a play based on the book of the same name by Antoine de Saint-Exupéry, adapted by Rick Cummins and John Scoullar before 2000. 
+
+Rick Cummins wrote the music, and John Scoullar wrote the script and lyrics. 
