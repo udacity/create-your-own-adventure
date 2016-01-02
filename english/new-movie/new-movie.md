@@ -31,7 +31,7 @@ Do you:
 
 [run left?](../super-man/save-the-word.md)
 
-[run right?](../suprise/suprise.md)
+[run right?](../surprise!/suprise.md)
 
-[run straight?](../undending-story/undending-story.md)
+[run straight?](../unending-story/unending-story.md)
 
