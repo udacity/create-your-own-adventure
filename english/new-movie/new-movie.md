@@ -27,3 +27,11 @@ Clues, clues, everywhere clues that don't connect!
 
 Dammit! No way you're going to miss this movie, it's been years you've been waiting for it. Time to run!
 
+Do you:
+
+[run left?](../super-man/save-the-word.md)
+
+[run right?](../suprise/suprise.md)
+
+[run straight?](../undending-story/undending-story.md)
+
