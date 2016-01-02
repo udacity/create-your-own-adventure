@@ -19,4 +19,4 @@ tip of your tongue.
 
 "But if what you say is true, then you must have had
 a name before all of this. So what was your name?
-He answers [Bruce Wayne](../batman.md)"
+He answers [Bruce Wayne](../batman/batman.md)"
