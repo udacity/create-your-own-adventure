@@ -5,5 +5,5 @@ Cada cop estàs més enfonsat... de sobte mires a d'alt i veus
 uns peus que es belluguen amb impaciència... aquestes sabates 
 et sonen... Ets tu!
 Tanques els ulls de nou, amb força, i dessitges que tot el que 
-has vist sigui fruit de la teva imaginació. Mai tornaras a 
-dormir despres de menjar tant.
+has vist sigui fruit de la teva imaginació. 
+Mai tornaras a dormir despres de menjar tant.
