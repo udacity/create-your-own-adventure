@@ -18,4 +18,5 @@ However, there is still one more question lingering on the
 tip of your tongue.
 
 "But if what you say is true, then you must have had
-a name before all of this. So what was your [name](https://www.youtube.com/watch?v=Am4oKAmc2To)?"
+a name before all of this. So what was your name?
+He answers [Bruce Wayne](../batman.md)"
