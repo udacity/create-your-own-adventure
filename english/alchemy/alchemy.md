@@ -24,7 +24,7 @@ forwards - studying its imperfection - a ring like shape.
 Looking through the hole, the air shimmers, giving the other side a
 hazy appearance.
 The objects on the other side appear to be vacillating, as if they were
-breathing.
+breathing and beckoning you towards them.
 
 You slip the ring over your finger and ...
 
