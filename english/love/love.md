@@ -10,7 +10,7 @@ There is no use moping around wondering the ifs, buts, could've, would've,
 and should'ves. Time goes on and drags you with it. Whether you are in or
 out of love, make the best of now while being aware of the worst of before.
 
-Of course, there is no substitute for the experince of it. It must be
+Of course, there is no substitute for the experince of it, except maybe chocolate. It must be
 lived in order to be understood. All the words there are in the world 
 cannot make you understand the feeling of it. Anyways, [here's 
 something comepletely different.](../marshmallow.md)
