@@ -716,3 +716,5 @@ You may either do [this](gtd/gtd.md),
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
 [move to Boston](boston/boston.md)."
 
+Meanwhile, one college student in Houston scrolled to the very bottom of the page at 11 PM CST on Jan 2 2016, and created a simple link. 'I'm just here to learn.. lets ["get out of here quickly"](dansescape/dancEscape.md)
+
