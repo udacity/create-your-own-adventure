@@ -6,5 +6,5 @@ The finished trapezoid starts to glow and a hole appears
 
 Mystified, you enter the trapezoid
 
-[Upon entering the trapezoid ](batman/batman.md)
+[Upon entering the trapezoid ](../batman/batman.md)
 
