@@ -53,3 +53,5 @@
 [Почесать в подмышечной впадине.](scratch/scratch.md)
 
 [Пойду в другую комнату](next_room/next_room.md)
+
+[Позвонить корешу](call_friend/call_friend.md)
