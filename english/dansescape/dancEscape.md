@@ -1,0 +1,1 @@
+Dan's escape is quite simple. He puts together everything he learned in the course and quietly creates a link, file and other necessary components to a successful, if minor contribution to the 'story'. Dan's journey isn't supposed to end here. It's just beginning. He'll take what he learned about git and git hub and use them back in college.
