@@ -1,6 +1,6 @@
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+﻿This is a story to help search for your Git alter ego. You might [fight your way out of this](fight-out/fight-out.md)
 
-and search for your [destiny](destiny/destiny.md).
+or perhaps calm down and search for your [destiny](destiny/destiny.md)...
 
 You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
