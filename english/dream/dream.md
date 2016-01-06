@@ -5,7 +5,8 @@ You start to feel excted about the possibilities of this unique world.
 In your dream you remember all of your earlier dreams and then the dreams seem more real than reality. 
 You feel that there will be no consequence in your dream and you attempt to manipulate your dream away, but how...
 Afterwards, you decide to:
-[livethedream](../livethedream/livethedream.md)
+
+[livethedream](../dream/livethedream/livethedream.md)
 
 [scream](../scream/scream.md)
 
