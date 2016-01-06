@@ -154,7 +154,7 @@ You see a polar bear searching for food.
 
 "Well- OK," you admit to yourself, "perhaps I do indulge in the occasional intoxicant!"
 
-You hear a small bird sound in the distance.
+You hear a tweeting bird sound in the distance.
 
 But it sounds like it might be coming out of speakers.
 
