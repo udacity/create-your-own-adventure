@@ -716,3 +716,4 @@ You may either do [this](gtd/gtd.md),
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
 [move to Boston](boston/boston.md)."
 
+"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
