@@ -580,6 +580,8 @@ Do you:
 
 [Play some DotA 2](play-dota2/play-dota2.md)
 
+[Marvel at Dota 2 Top Plays](marvel-at-dota2-top-plays/marvel-at-top-plays.md)
+
 [Play some Geometry Dash](play-geometrydash/play-geometrydash.md)
 
 [See if there is a Udacity course on the subject](udacity/udacity.md)
