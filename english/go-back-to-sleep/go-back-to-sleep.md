@@ -12,3 +12,5 @@ When suddenly you are face to face with [Leonardo DiCaprio](./dream-ception/drea
 You want to say something to him but you draw a blank.
 
 The only movie you can think of that he was in is "Basketball Diaries".
+
+So you just smile and keep going.
