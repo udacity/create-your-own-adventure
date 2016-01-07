@@ -12,3 +12,5 @@ Che fai?
 [Mi conto le dita per vedere se sono veramente sveglio](verifica/verifica.md)
 
 [Cerco aiuto ulrando c'è qualcuno?](aiuto/aiuto.md)
+
+[Cerco qualcosa per fare colazione](https://www.youtube.com/watch?v=sN6opoE0iZk)
