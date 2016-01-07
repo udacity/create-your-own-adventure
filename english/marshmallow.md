@@ -715,4 +715,5 @@ You may either do [this](gtd/gtd.md),
 
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
 [move to Boston](boston/boston.md)."
+
 play some [football](play_football/play_football.md)
