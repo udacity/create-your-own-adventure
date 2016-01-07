@@ -4,6 +4,8 @@
 
 Що будете робити?
 
+[Використаю Силу](use-the-force/use-the-force.md)
+
 [Розженуся та спробую прорватися крізь одну з стін](break-through-wall/break-through-wall.md)
 
 [Спробую стіну на смак](eat-wall/eat-wall.md)
