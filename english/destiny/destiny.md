@@ -15,3 +15,5 @@ But you wake up and chose to find your way to know the [real life](../real-life/
 see destiny isn't so hard when you try for it.
 
 and now you will be the [protagonist of the story](../marshmallow.md)
+
+and I have [high hopes](../hope/hope.md) for you.
