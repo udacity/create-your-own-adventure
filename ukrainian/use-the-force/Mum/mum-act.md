@@ -2,4 +2,4 @@
 прибігла до вашої кімнати, облила водою, 
 ви прокинулися, вона запропонувала вам зифіру
 
-[Ви не відмовили](../marshmallow.md)
+[Ви не відмовили](https://github.com/mmisesin/create-your-own-adventure/blob/mmisesin_update/ukrainian/marshmallow.md)
