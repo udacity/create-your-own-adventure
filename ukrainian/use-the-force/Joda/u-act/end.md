@@ -1,2 +1,2 @@
 Ви пронесли Йоду 66 разів навколо кімнати. Він подякував та, сміючись вам в обличчя, щез.
-[Обрати іншого](ukrainian/use-the-force/use-the-force.md)
+[Обрати іншого](../ukrainian/use-the-force/use-the-force.md)
