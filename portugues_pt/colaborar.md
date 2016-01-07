@@ -15,3 +15,5 @@ Contribuía para [obras de caridade](caridade/caridade.md)
 Compraria [componentes eletronicos](componentes/componentes.md)
 
 Usava um repositorio privado.
+
+Saltava à corda e tirava umas [férias prolongadas](ferias/feriasprolongadas.md)
