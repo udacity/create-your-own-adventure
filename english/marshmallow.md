@@ -1,4 +1,4 @@
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+﻿This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
 and search for your [destiny](destiny/destiny.md).
 
@@ -716,3 +716,4 @@ You may either do [this](gtd/gtd.md),
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
 [move to Boston](boston/boston.md)."
 
+"yatta" (yatta/yatta.md)
