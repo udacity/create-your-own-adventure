@@ -59,6 +59,8 @@ He gestures for you to reach towards the mirror!
 
 [Look in the mirror...](../it-was-me/it-was-me.md)
 
+[Use the... knife...](../knife/knife.md)
+
 
 Suddenly the door creeks open to a bright blinding light, from which the silhouette 
 of a tall figure appears to be approaching. As the figure approaches, you start to 
