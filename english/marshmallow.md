@@ -1,6 +1,8 @@
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+﻿This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
 and search for your [destiny](destiny/destiny.md).
+
+Before we commence, perhaps you need a [warm-up?](warm-up/warm-up.md)
 
 You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
