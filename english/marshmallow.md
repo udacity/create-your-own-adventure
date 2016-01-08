@@ -1,6 +1,6 @@
-﻿This is a story to help search for your Git alter ego. You might [fight your way out of this](fight-out/fight-out.md)
+﻿This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
-or perhaps calm down and search for your [destiny](destiny/destiny.md)...
+and search for your [destiny](destiny/destiny.md).
 
 Before we commence, perhaps you need a [warm-up?](warm-up/warm-up.md)
 
