@@ -5,3 +5,4 @@
 Кого бы посетить?
 
 [Конечно, Кролика!](visit-rabbit/visit-rabbit.md)
+[У Совы давно не были. Побежали к ней!](visit-owl/visit-owl.md)
