@@ -73,7 +73,7 @@ Or is this just [fantasy](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)?
 Maybe it's a dream within a dream? Maybe dreaming and reality are one and the
 same. Maybe reality is an oxymoron when considering multiple dimensions.
 
-But it's probably not worth dwelling on that right now, you could be in danger.
+But it's probably not worth dwelling on that right now, you could be in [danger](https://www.youtube.com/watch?v=RRU3I_o1vLc).
 
 Grave danger. Oh No!
 
