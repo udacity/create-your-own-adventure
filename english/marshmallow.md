@@ -721,3 +721,5 @@ You may either do [this](gtd/gtd.md),
 "Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
 
 Yourself?
+
+You the one you love? You need to [find](find-love/find-love.md) it first.
