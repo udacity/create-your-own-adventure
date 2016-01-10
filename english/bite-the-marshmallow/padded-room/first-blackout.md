@@ -17,3 +17,4 @@ are white and spotlessly clean. The floor... well, you can't see the floor. In t
 distance you can hear a faint humming sound, but you appear to be all alone at the 
 moment. Well, now what? Perhaps you could [call out](call-out/calling.md)?
 
+You could also quietly [struggle](escape/escape.md) against your restraints.
