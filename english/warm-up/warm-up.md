@@ -2,6 +2,8 @@ Close and take a deep breath.
 
 Take another deep breath, then another.
 
+How relaxed you feel!
+
 When you're ready, open your eyes and consider:
 
 Have you been sitting down for a while? Then do [blood flow exercises.](Blood_flow/vigorous.md)
