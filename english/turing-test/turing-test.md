@@ -25,3 +25,7 @@ Do you:
 [Forget ELIZA, ask Siri](siri/ask_siri.md)
 
 [Wear the one ring and turn invisible](ring/one_ring.md)
+
+[Forget Siri, asks Cortana](Cortana/ask_Cortana.md)
+
+[If you really want to know something, ask OkGoogle](OkGoogle/ask_OkGoogle.md)
