@@ -723,3 +723,5 @@ You may either do [this](gtd/gtd.md),
 "Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
 
 Yourself?
+
+Instead of reading this entire story, you decide to go see the new star wars!
