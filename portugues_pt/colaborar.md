@@ -16,4 +16,5 @@ Compraria [componentes eletronicos](componentes/componentes.md)
 
 Usava um repositorio privado.
 
-Implementaria uma visâo de um mundo que na sua base aplicaria inteligentemente a ciência e a tecnologia com preocupação ambiental e humana, um mundo onde a guerra, a pobreza e a fome fossem memórias distantes
+Implementaria uma visão de um mundo que na sua base aplicaria inteligentemente a ciência e a tecnologia 
+com preocupação ambiental e humana, um mundo onde a guerra, a pobreza e a fome fossem memórias distantes
