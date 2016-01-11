@@ -3,6 +3,7 @@ As the marshmallow reaches to grab the fork and rope
  you notice something strange.
 The hand is moving slower than normal,
  as if it was in slo-mo.
+In fact, it is much, much slower than normal.
 You merely walk over it and grab
  your rope and fork before the 
 marshmallow can achieve your doom.
