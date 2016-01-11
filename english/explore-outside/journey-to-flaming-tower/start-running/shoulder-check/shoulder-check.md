@@ -10,4 +10,4 @@ you, I'm the Gingerbread Man."
 
 After the creature has been destroyed, you decide to
 
-[Head back towards the tower](../keep-running/keep-running.md) 
+[Head back towards the tower.](../keep-running/keep-running.md) 
