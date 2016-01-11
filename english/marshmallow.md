@@ -721,3 +721,6 @@ You may either do [this](gtd/gtd.md),
 "Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
 
 Yourself?
+
+Suddenly out of nowhere two red haired beings appeared out of nowhere. 
+Strangely similar to a show involving dragonballs and [super saiyans](saiyan/saiyan.md).
