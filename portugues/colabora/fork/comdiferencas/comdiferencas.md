@@ -5,6 +5,6 @@ Você então:
 
 [Nao sabe corrigir o bug, entao envia ao desenvolvedor as informacoes que conseguiu ate aqui?](../../../revisa/revisar.md)
 
-[Senta, chora e tenta outra alternativa?](../colaborar.md)
+[Senta, chora e tenta outra alternativa?](../../chora/chora.md)
 
 [Desiste e vai pra praia tomar uma cerveja](../../../revisa/desiste/desistir.md)
