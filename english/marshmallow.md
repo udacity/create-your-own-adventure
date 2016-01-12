@@ -1,4 +1,4 @@
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
@@ -685,7 +685,7 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
-Despite the little conundrum that you resolved, you realize that it's now
+Despite the little conundrum that you resolved, you realize that it's now 
 Friday, December 4th.  
 
 "Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
