@@ -1,4 +1,4 @@
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down
 
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
@@ -724,7 +724,7 @@ You may either do [this](gtd/gtd.md),
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim
 [move to Boston](boston/boston.md)."
 
-"Who will you [serve] (joshua_24_15/joshua_24_15.md)?"
+"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
 
 Yourself?
 
