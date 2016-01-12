@@ -1,0 +1,1 @@
+After doing outdoor yoga for the first time, you noticed how the stream of water reflect the way you move.
