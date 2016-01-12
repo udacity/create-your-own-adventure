@@ -707,7 +707,7 @@ I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/s
 
 "I dont't know! Why should I care?" replied Donald Trump.
 
-When faced with a lot of work and impending deadlines
+When faced with a lot of work and impending deadlines 
 in the (not so near) future,
 there are two options you must choose from.
 
@@ -722,7 +722,7 @@ You may either do [this](gtd/gtd.md),
 [Get Crazy!](crazy/crazy.md)
 
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim
-[move to Boston](boston/boston.md)." 
+[move to Boston](boston/boston.md)."
 
 "Who will you [serve] (joshua_24_15/joshua_24_15.md)?"
 
