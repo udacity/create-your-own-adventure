@@ -3,4 +3,4 @@ o novo trabalho, agora você deseja criar um grande projeto colaborativo no GitH
 
 [Você procura por amigos conhecidos para ajudar](procura-amigos/procura-amigos.md)
 
-[Você procura por desenvolvedores de renome no GitHub para ajudar]
+[Você procura por desenvolvedores de renome no GitHub para ajudar](procura-desenvolvedores/procura-desenvolvedores.md)
