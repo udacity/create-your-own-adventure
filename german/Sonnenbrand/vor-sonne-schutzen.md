@@ -5,3 +5,13 @@ als Sie besoffen am Pool in Mallorca eingeschlafen sind.
 Sie ziehen das nasse T-shirt aus und wickeln es zur Kühlung um den Kopf.
 
 Was werden Sie jetzt nun tun?
+
+... was zu Essen suchen, denn nach dem Sonnenbad hat man immer Hunger
+[Hunger](../schwimmen/hunger.md)
+
+
+... im leicht fiebrigen Zustand noch ein wenig
+[dösen](../schwimmen/insel/schlafen/schlafen.md)
+
+
+
