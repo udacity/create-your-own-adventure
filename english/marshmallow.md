@@ -1,6 +1,10 @@
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
+[play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
+
 and search for your [destiny](destiny/destiny.md).
+
+Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
 You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
@@ -716,3 +720,8 @@ You may either do [this](gtd/gtd.md),
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
 [move to Boston](boston/boston.md)."
 
+"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
+
+Yourself?
+
+Instead of reading this entire story, you decide to go see the new star wars!
