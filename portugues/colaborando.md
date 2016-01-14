@@ -13,6 +13,8 @@ Você:
 
 [Cria um aplicativo melhor](cria/melhor.md)
 
+[Procura um amigo geek e reinventa um app bem melhor!](amigo/incomodar/reinventar/reinventar-app.md)
+
 [Levanta-se a vai buscar o spray mata insetos](spray/matainsetos.md)
 
 [Mas esse navio não pode ter bugs!](titanic/iceberg.md)
