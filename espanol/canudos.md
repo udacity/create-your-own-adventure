@@ -102,3 +102,5 @@ Conectó su guitarra al amplificador y se puso a tocar una versión de "Siempre 
 
 [Así comenzó el cuento del cuco en el pueblo, para que los niños temieran a los dioses] (cuco/cuco.md)
 
+A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo] (miedo/miedo.md)
+
