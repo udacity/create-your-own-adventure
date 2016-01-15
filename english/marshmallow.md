@@ -6,7 +6,8 @@ and search for your [destiny](destiny/destiny.md).
 
 Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
-Are you a person for all seasons but need help in choosing a travel destinations.. Of course we are happy to help you with these
+Are you a person for all seasons but need help in choosing a travel 
+destinations.. Of course we are happy to help you with these
 [suggestions](travel-destinations/travel-destinations.md)
 
 Another visitor! [Stay a while...](impossible-adventure/start/start.md)
