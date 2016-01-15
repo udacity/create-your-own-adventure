@@ -1,0 +1,1 @@
+Hindi (Hindi: हिन्दी hindī), sometimes spelled हिंदी, also called Modern Standard Hindi (Hindi: मानक हिन्दी mānak hindī), is a standardised and Sanskritised register of the Hindustani language. Hindi is one of the many official [[official languages |language]] of the Union of India.
