@@ -44,7 +44,7 @@ and sparkle as your body and mind are sent reeling.
 
 You awaken to bluriness and a numbing headache as you wonder
 
-WHERE AM I ???
+WHERE AM I ??? You sense a cloaked figure with electric [blue eyes] (../goosebumps/goosebumps.md) appraoch you from the side.
 
 a voice calls out from your right
 
