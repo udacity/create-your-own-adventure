@@ -44,7 +44,7 @@ and sparkle as your body and mind are sent reeling.
 
 You awaken to bluriness and a numbing headache as you wonder
 
-WHERE AM I ??? 
+WHERE AM I ???
 
 a voice calls out from your right
 
