@@ -104,3 +104,4 @@ Conectó su guitarra al amplificador y se puso a tocar una versión de "Siempre 
 
 A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo] (miedo/miedo.md)
 
+[Puso su mano derecha en su frente y se teletransportó al centro del ejército enemigo](pelea_epica/pelea_epica.md)
