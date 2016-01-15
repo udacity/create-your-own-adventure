@@ -114,6 +114,10 @@ You also seem to be wearing an uncomfortable and restrictive jacket made of leat
 
 You don't own any uncomfortable and restrictive leather jackets... How did you end up sleeping in one?
 
+Suddenly, fuzzy memories of a tavern and an exotic woman...
+a house made of candy...
+closets full of umbrellas and leather.
+
 An umbrella (closed) automagically appears in your left hand. You tentatively
 
 [poke the wall](./poke-the-wall/poke-the-wall.md) with it.
@@ -725,3 +729,5 @@ You may either do [this](gtd/gtd.md),
 Yourself?
 
 Instead of reading this entire story, you decide to go see the new star wars!
+
+You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
