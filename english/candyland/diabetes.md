@@ -22,4 +22,4 @@ just realize you have diabetes.
 
 [Inspect The Melted Marshmallow](swim/swim.md)
 
-[Sign Up For Obamacare](obamamcare/signup.md)
+[Sign Up For Obamacare](obamacare/signup.md)
