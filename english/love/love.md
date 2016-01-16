@@ -17,4 +17,7 @@ something comepletely different.](../marshmallow.md)
 
 If all else fails, you could [try this.](../read-a-book/read-a-book.md)
 
-Love feels eternal but the pain it adds to your heart is painful [The Pain] (https://www.quora.com/What-is-it-like-when-you-feel-the-pain-of-loving-someone-when-its-one-sided) to see how people manage the pain
+Love feels eternal but the 
+pain it adds to your heart is painful 
+[The Pain] (https://www.quora.com/What-is-it-like-when-you-feel-the-pain-of-loving-someone-when-its-one-sided) 
+to see how people manage the pain
