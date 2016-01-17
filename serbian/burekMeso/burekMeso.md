@@ -1,1 +1,2 @@
 "Ne, samo burek" - uzvratio je, jedva čekajući da zagrize.
+I tada joj je ispao jogurt.
