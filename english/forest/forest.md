@@ -15,6 +15,12 @@ Suddenly it all comes back to you. The plane, the fight, panic, the pilot
 getting knocked out. There was only one option. You managed to grab a parachute
 and jumped into the unknown. You're lucky to have made it alive. But now what?
 
+Instinctively, you want to reach for your back pocket. You can't feel the
+reassuring thin rectangular shape pressing into you. But that's probably
+because the pain pulsing up your leg is hiding it. Then you remember what
+Caroline said. You're in the forest. There is no internet here. You are offline.
+Google can't help you right now. You are on your own.
+
 [Drag yourself further into the woods](drag/drag.md)
 
 [Try to gather materials for a signal fire](fire/fire.md)
