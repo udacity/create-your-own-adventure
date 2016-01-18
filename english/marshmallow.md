@@ -239,6 +239,8 @@ Do you:
 
 [Blackout and wake up in a strange place without knowing how](33hours/wakingup.md)
 
+Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
+
 [Realize you are in the ...](in-matrix/matrix.md)
 
 [Realize you better call Saul](better-call-saul/saul.md)
