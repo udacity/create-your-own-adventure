@@ -9,6 +9,7 @@ Tras terminar con sus lamentaciones:
 
 [Se sentÃ³ en el suelo y se puso a meditar](meditacion/meditar.md)
 
-Cuando volvió a mirar al cielo, se dio cuenta de que estaba cubierto de nubes. ¿Con tan malos auspicios comenzaría la batalla?
+Cuando volvió a mirar al cielo, se dio cuenta de que estaba cubierto de nubes.
+¿Con tan malos auspicios comenzaría la batalla?
 
 [No podía quedarse de brazos cruzados.](soluciones/soluciones.md)
