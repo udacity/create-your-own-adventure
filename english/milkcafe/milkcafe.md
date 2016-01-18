@@ -5,7 +5,7 @@ DEBUSSY CURRENTLY PLAYING: Pelléas et Mélisande
 
 MENU:
 
-* I'm feeling lucky milk
+* I'm feeling great milk
 * Chow mein milk
 * Humous milk
 * Thunder Storm milk
