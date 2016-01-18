@@ -9,9 +9,11 @@ MENU:
 * Chow mein milk
 * Humous milk
 * Thunder Storm milk
-* Bubble milk
+* Bubble Story milk
 * Rebound milk
 * Lancashire Hotpot milk
 * Chicken Curry milk
 * Strawberry milk
 * Double Chocolate Chip milk
+* Git milk
+* GitHub milk
