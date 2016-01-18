@@ -15,3 +15,4 @@ MENU:
 * Chicken Curry milk
 * Strawberry milk
 * Double Chocolate Chip milk
+* Grunt milk
