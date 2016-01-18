@@ -1,17 +1,17 @@
-WELCOME TO THE MILK CAFE!
+WELCOME TO THE MILK CAFE!\n
 
-DEBUSSY CURRENTLY PLAYING: Pelléas et Mélisande
+DEBUSSY CURRENTLY PLAYING: Pelléas et Mélisande\n
 
 
-MENU:
+MENU:\n
 
-I'm feeling lucky milk
-Chow mein milk
-Humous milk
-Thunder Storm milk
-Bubble milk
-Rebound milk
-Lancashire Hotpot milk
-Chicken Curry milk
-Strawberry milk
-Double Chocolate Chip milk
+I'm feeling lucky milk\n
+Chow mein milk\n
+Humous milk\n
+Thunder Storm milk\n
+Bubble milk\n
+Rebound milk\n
+Lancashire Hotpot milk\n
+Chicken Curry milk\n
+Strawberry milk\n
+Double Chocolate Chip milk\n
