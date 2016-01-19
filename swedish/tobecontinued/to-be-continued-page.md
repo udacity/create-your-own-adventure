@@ -7,4 +7,4 @@ let the last link point to this file.
 
 Or - feel free to not to end a link here.
 
-If you want to restart the reading, click [here](start.md)
+If you want to restart the reading, click [here](../start.md)
