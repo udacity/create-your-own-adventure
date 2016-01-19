@@ -13,3 +13,6 @@ But where am I? I do not know.
 [Wait, something's coming back to me!](../I'm-batman/batman.md)
 
 Amnesia can be freaking awesome sometimes :)
+
+Or it can be highly disturbing.
+
