@@ -1,0 +1,1 @@
+Você deciciu vender coco na praia, mas acabou descobrindo que o calor é insuportável.
