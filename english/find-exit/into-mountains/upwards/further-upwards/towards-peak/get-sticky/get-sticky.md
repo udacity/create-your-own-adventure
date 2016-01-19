@@ -1,0 +1,3 @@
+You quickly take your marshmallows and rub them all over your shoes...
+And then all over your knees, elbows, and hands.
+Now, you are truly ready for that 5.10c!
