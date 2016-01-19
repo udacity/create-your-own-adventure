@@ -24,3 +24,5 @@ You start becoming transcendent.
 [Set your mind free](../yoga/mind/yoga_mind.md)
 
 [Learn to breathe](../yoga/breathe/breathe.md)
+
+[Building the habit](../yoga/habit/yoga-habit.md)
