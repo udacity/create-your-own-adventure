@@ -1,0 +1,1 @@
+Invetaria uma forma onde todas as pessoas pudessem ter as mesmas oportunidades de trabalho e qualidade de vida!
