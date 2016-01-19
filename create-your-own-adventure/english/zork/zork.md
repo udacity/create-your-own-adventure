@@ -7,3 +7,5 @@ Not to be confused with Felonious Gru and his minions...
 [What's a grue?](../grue/grue.md)
 
 Very scary story for halloween
+
+Yes scary indeed.
