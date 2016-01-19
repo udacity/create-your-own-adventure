@@ -14,4 +14,4 @@ Du drar hårt och utan annan tanke än att bli fri. En skarp
 smärta säger dig att det är ditt eget skinn du sliter i, det du tror är 
 kuddens tyg är inte något annat än du själv. Du har inte en huvudkudde,
 du har ett kuddhuvud!
-[Vem skall väcka dig ur detta?](../to-be-continued-page.txt)
+[Vem skall väcka dig ur detta?](../tobecontinued/to-be-continued-page.md)
