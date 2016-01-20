@@ -9,6 +9,9 @@ Schnell, aber unbemerkt versuchen Sie an Land zu kommen, aber es scheint nicht n
 
 Was tun Sie?
 
+Ich suche verzweifelt (aber gründlich und systematisch) nach Anzeichen, die darauf hindeuten,
+dass ich mich in einer [Simulation](Simulation/Simulation.md) befinde.
+
 Ich halte nach etwas [Ausschau](Ausschau/Ausschau.md), an dass ich mich klammern könnte.
 
 All meine Kraft geht in meine zunehmend panischen [Schwimmbewegungen](Schwimmbewegungen/Schwimmbewegungen.md).

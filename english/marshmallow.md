@@ -1,6 +1,10 @@
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
+[play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
+
 and search for your [destiny](destiny/destiny.md).
+
+Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
 You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
@@ -109,6 +113,10 @@ You reach out to grab a handful of the marshmallow wall, but you can't seem to t
 You also seem to be wearing an uncomfortable and restrictive jacket made of leather...
 
 You don't own any uncomfortable and restrictive leather jackets... How did you end up sleeping in one?
+
+Suddenly, fuzzy memories of a tavern and an exotic woman...
+a house made of candy...
+closets full of umbrellas and leather.
 
 An umbrella (closed) automagically appears in your left hand. You tentatively
 
@@ -230,6 +238,8 @@ Do you:
 [Live Tweet the situation](tweet-it/tweet-it.md)
 
 [Blackout and wake up in a strange place without knowing how](33hours/wakingup.md)
+
+Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
 
 [Realize you are in the ...](in-matrix/matrix.md)
 
@@ -716,3 +726,12 @@ You may either do [this](gtd/gtd.md),
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
 [move to Boston](boston/boston.md)."
 
+"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
+
+Yourself?
+
+Instead of reading this entire story, you decide to go see the new star wars!
+
+You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
+
+[Do you have my stapler?](stapler/stapler.md)

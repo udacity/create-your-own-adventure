@@ -48,6 +48,10 @@ WHERE AM I ???
 
 a voice calls out from your right
 
+You sense a cloaked figure with 
+
+electric [blue eyes] (../goosebumps/goosebumps.md) approach.
+
 
 
 

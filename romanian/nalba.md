@@ -75,3 +75,5 @@ Subit se simtea usor si isi imagina ca zboara - buna [potiunea](potiune_fermecat
 Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
 
 [crocobalaurului](padurea_violet/croco/croco.md).
+
+Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.

@@ -11,6 +11,9 @@ trembling.
 
 The marshmallow returns from the corner and offers you a freshly rolled doobie.
 
+(Being as you are currently in Colorado, and thus this action
+is perfectly legal.)
+
 Do you:
 
 

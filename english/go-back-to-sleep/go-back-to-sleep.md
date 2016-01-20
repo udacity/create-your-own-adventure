@@ -8,3 +8,9 @@ You roll over, let your eyes close shut, and drift off into [dreamland](../dream
 You wonder, idly, what happens if you start dreaming from within a dream..
 
 When suddenly you are face to face with [Leonardo DiCaprio](./dream-ception/dream-ception.md)
+
+You want to say something to him but you draw a blank.
+
+The only movie you can think of that he was in is "Basketball Diaries".
+
+So you just smile and keep going.
