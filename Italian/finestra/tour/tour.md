@@ -2,7 +2,7 @@ Con le tue tecniche di manipolazione mentale e la bambola voodoo riesci a domare
 
 Ci salti su e vai alla scoperta di questo mondo fiabesco in cui sei capitato
 
-[Ti sembra solo un sogno](../../dormire/sogno-strano.md)
+[Ti sembra solo un sogno](../../domire/sogno-strano.md)
 
 [Ti avvicini per vederlo meglio](../../guardare/guarda.md)
  
