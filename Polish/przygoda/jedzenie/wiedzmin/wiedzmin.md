@@ -10,3 +10,9 @@ odwracasz się na pięcie i wchodzisz się do księgarni.
 Sprzedawca, cybernetyczny, zasuszony hipernerd wita cię tymi 
 słowami:
 
+
+[Lubię placki! Masz ochotę na placka?] (placki/placki.md)
+
+[Razem zmienimy Polskę!] (polska/polska.md)
+
+[Popuś to Ty?] (popus/popus.md)

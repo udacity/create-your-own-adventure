@@ -12,3 +12,5 @@ O que seria este algo faltando?
 [Invertar](inventar/inventar.md) algo que mudasse a vida de todos para melhor!
 
 [Fundava uma nova Startup](startup/startup.md)
+
+Mas não daria para fazer tudo isso. Teria que escolher.
