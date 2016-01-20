@@ -1,4 +1,4 @@
-If you chose this option because you misread it as "Cheese Puzzle" [don't be sad](.../CheesePuzzle.md)
+If you chose this option because you misread it as "Cheese Puzzle" [don't be sad](english/chess/CheesePuzzle.md)
 
 
 You decide to conquer up a chess puzzle.
