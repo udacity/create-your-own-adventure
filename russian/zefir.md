@@ -12,6 +12,8 @@
 
 [Открыть окно](window/window.md)
 
+[Задернуть занавеску](draw-curtain/drawing-curtain.md)
+
 [Поразмышляете о причинах вашей неожиданной смерти и природе сознания.](thinking-about/thinking.md)
 
 [Начнёте есть стены.](eating-walls/eating-marshmallows.md)
