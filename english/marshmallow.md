@@ -1,4 +1,4 @@
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down
 
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
@@ -71,6 +71,8 @@ Or is it just boring old [real-life](real-life/real-life.md)?
 Or [The Force](https://www.youtube.com/watch?v=cFn-NobVaoI&feature=youtu.be)!
 
 Or is this just [fantasy](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)?
+
+Caught in a landslide, no escape from reality...
 
 Maybe it's a dream within a dream? Maybe dreaming and reality are one and the
 same. Maybe reality is an oxymoron when considering multiple dimensions.
@@ -687,7 +689,7 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
-Despite the little conundrum that you resolved, you realize that it's now 
+Despite the little conundrum that you resolved, you realize that it's now
 Friday, December 4th.  
 
 "Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
@@ -709,9 +711,9 @@ I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/s
 
 "I dont't know! Why should I care?" replied Donald Trump.
 
-When faced with a lot of work and impending deadlines 
+When faced with a lot of work and impending deadlines
 in the (not so near) future,
-there are two options you must choose from. 
+there are two options you must choose from.
 
 You may either do [this](gtd/gtd.md),
 
@@ -723,10 +725,10 @@ You may either do [this](gtd/gtd.md),
 
 [Get Crazy!](crazy/crazy.md)
 
-"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
+"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim
 [move to Boston](boston/boston.md)."
 
-"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
+"Who will you [serve] (joshua_24_15/joshua_24_15.md)?"
 
 Yourself?
 
