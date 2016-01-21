@@ -1,3 +1,6 @@
+If you chose this option because you misread it as "Cheese Puzzle" [don't be sad](english/chess/CheesePuzzle.md)
+
+
 You decide to conquer up a chess puzzle.
 
 An image appears in your mind. White to move.
