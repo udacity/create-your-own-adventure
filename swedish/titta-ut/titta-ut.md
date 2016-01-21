@@ -6,3 +6,5 @@ Efter att ha övervägt din situation väljer du att
 
 [lägga dig och sova igen](../start.md)
 
+[göra dig en macka](macka/macka.md)
+
