@@ -735,3 +735,5 @@ Instead of reading this entire story, you decide to go see the new star wars!
 You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
 
 [Do you have my stapler?](stapler/stapler.md)
+
+[Build a car](build-a-car/build-a-car.md)
