@@ -9,4 +9,4 @@ help but think about everything you're leaving behind.
 
 [Time to find out what heaven is like](../../marshmallow.md)
 
-[Pray for help](/get-help/help.md)
+[Pray for help](/help.md)
