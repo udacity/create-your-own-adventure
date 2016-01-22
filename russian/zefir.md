@@ -53,3 +53,5 @@
 [Почесать в подмышечной впадине.](scratch/scratch.md)
 
 [Пойду в другую комнату](next_room/next_room.md)
+
+[Поговорю с соседями](speak_to_neighbor/speak_to_neighbor.md)
