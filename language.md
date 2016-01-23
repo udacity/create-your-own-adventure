@@ -89,7 +89,8 @@ Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
 Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 
 اگر به زبان فارسی صحبت می‌کنید، [به اینجا بروید](persian/otagheh-basteh.md)
-See [here](english/git-commands.md)
+
+See [here](english/git-commands.md) for git commands
 
 आप हिंदी बोलते हैं   ?,[go here](hindi/bollywood.md)
 
