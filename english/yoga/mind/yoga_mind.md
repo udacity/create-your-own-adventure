@@ -8,7 +8,8 @@ Most people have discovered that exercising can lift their mood.
 
 Meditation is simply training your mind to focus and concentrate
 
-However, you are now calm and just as you begin to meditate you notice you are suddenly in a strange room with marshmallows for walls.
+However, you are now calm and just as you begin to meditate you notice you
+are suddenly in a strange room with marshmallows for walls.
 
 Marshmallows smell funny. What is a marshmallow anyway?
 
