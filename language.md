@@ -90,6 +90,8 @@ Ak hovoríš po slovensky, [klikni sem](slovak/marsmelaci.md)
 
 اگر به زبان فارسی صحبت می‌کنید، [به اینجا بروید](persian/otagheh-basteh.md)
 
+See [here](git-commands/git-command.md) for git commands
+
 आप हिंदी बोलते हैं   ?,[go here](hindi/bollywood.md)
 
 ನೀವು ಕೆಚ್ಚೆದೆಯ ಕನ್ನಡಿಗರಾದರೆ, [ಇಲ್ಲಿ ಒತ್ತಿ](kannada/soochike.md).
