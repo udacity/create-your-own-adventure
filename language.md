@@ -130,3 +130,5 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
+
+See [here](git-commands/git_commands_list.md) for a list of git commands
