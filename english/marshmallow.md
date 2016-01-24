@@ -740,4 +740,4 @@ You decide that $1.5 billion is too much to pass up, so you buy a [Powerball tic
 
 What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
 
-The divergence is coming, survive or perish? (Divergence/Divergence.md)
+The divergence is coming, [survive] or perish? (Divergence/Divergence.md)
