@@ -11,3 +11,5 @@ I NEED HELP...
 
 I wonder what the cat would do if I gave it a hot dog. I know 
 what I would do. 
+
+Click [here](feed-cat-hot-dog/hot-dog.md) to feed your only hot dog to the cat.
