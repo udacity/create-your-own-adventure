@@ -739,3 +739,5 @@ You decide that $1.5 billion is too much to pass up, so you buy a [Powerball tic
 [Build a car](build-a-car/build-a-car.md)
 
 What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
+
+You find the courage to work on one of your [big projects...](https://www.youtube.com/watch?v=i84PRVPieeU&feature=youtu.be&t=1h34m31s)
