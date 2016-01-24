@@ -739,3 +739,5 @@ You decide that $1.5 billion is too much to pass up, so you buy a [Powerball tic
 [Build a car](build-a-car/build-a-car.md)
 
 What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
+
+The divergence is coming, survive or perish? (Divergence/Divergence.md)
