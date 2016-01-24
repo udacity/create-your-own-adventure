@@ -1,4 +1,4 @@
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+[This](this/new-story.md) is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
