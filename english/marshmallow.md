@@ -2,6 +2,8 @@ This is a story to look for your own, to [fight your way out of this](fight-out/
 
 Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
 
+Vist the master [liquid](liquid/liquid.md).
+
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
 and search for your [destiny](destiny/destiny.md).
@@ -737,3 +739,11 @@ Instead of reading this entire story, you decide to go see the new star wars!
 You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
 
 [Do you have my stapler?](stapler/stapler.md)
+
+[Build a car](build-a-car/build-a-car.md)
+
+What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
+
+The divergence is coming, [survive](divergence/divergence.md) or perish? 
+
+[Hear a roaring sound in the distance](https://youtu.be/d-sALU_hveA?t=33s)
