@@ -747,3 +747,5 @@ What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
 The divergence is coming, [survive](divergence/divergence.md) or perish? 
 
 [Hear a roaring sound in the distance](https://youtu.be/d-sALU_hveA?t=33s)
+
+You decide to work on one of your [big projects...](https://www.youtube.com/watch?v=i84PRVPieeU&t=1h34m31s)
