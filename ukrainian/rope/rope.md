@@ -1,1 +1,1 @@
-[Використати мотузку за призначенням](/ukrainian/rope/game-over/game-over.md).
+[Використати мотузку за призначенням](game-over/game-over.md).
