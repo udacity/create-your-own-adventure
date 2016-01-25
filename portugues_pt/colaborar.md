@@ -15,3 +15,5 @@ Contribuía para [obras de caridade](caridade/caridade.md)
 Compraria [componentes eletronicos](componentes/componentes.md)
 
 Usava um repositorio privado.
+
+Ia ao Japão driftar em Tsukuba.
