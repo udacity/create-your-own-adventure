@@ -1,5 +1,7 @@
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
+Vist the master [liquid](liquid/liquid.md).
+
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
 and search for your [destiny](destiny/destiny.md).
