@@ -9,5 +9,7 @@ We are stepping to the verge of eating each other, human flesh oh what does it t
 OMG WHAT SHOULD I DO??
 I NEED HELP...
 
-I wonder what the cat would do if I gave it a hot dog. I know 
-what I would do. 
+I wonder what the cat would do if I gave it a hot dog. I know
+what I would do.
+
+I would let the cat eat the hot dog, and then I would eat the [cat](cat.md)
