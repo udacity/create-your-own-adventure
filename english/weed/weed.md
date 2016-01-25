@@ -9,6 +9,7 @@ See you - Love Pink Unicorn
 
 Then you wonder why you're taking advice from a Love Pink Unicorn (after all, these are known to be
 the most untrustworthy breed of unicorn, far worse, even, than the Grim Charcoal Unicorns of Strawgoh).
+However, the Love Pink Unicorn brings happiness to everyone by handing out those yummy pot cookies.
 
 You decide to take a new path. Do you:
 
