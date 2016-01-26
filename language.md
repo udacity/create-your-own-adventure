@@ -1,4 +1,4 @@
-﻿If you speak English, [go here](english/marshmallow.md).
+If you speak English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
@@ -19,6 +19,8 @@ If you speak Punjabi, [go here](punjabi/punjabi.md).
 如果你说中文，[点击这里](Chinese/大话西游.md).
 
 如果你说中文而且想要了解一个新的世界，[请点击这里](Chinese/DesertHell/NewWorld.md).
+
+如果你說繁體中文，[點擊這裡](traditional-chinese/taiwan-number-one.md)
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
