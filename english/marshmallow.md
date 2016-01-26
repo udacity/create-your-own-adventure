@@ -1,5 +1,3 @@
-Before reading this story, you must watch [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to set the right mood.
-
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down
 
 Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md)
@@ -753,3 +751,5 @@ The divergence is coming, [survive](divergence/divergence.md) or perish?
 You decide to work on one of your [big projects...](https://www.youtube.com/watch?v=i84PRVPieeU&t=1h34m31s)
 
 "What a joke?", he said, after looking at the [news](joke/joke.md)
+
+Everyone stop. Now, watch [this](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in order to continue the story.
