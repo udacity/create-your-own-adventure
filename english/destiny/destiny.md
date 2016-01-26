@@ -19,3 +19,5 @@ and now you will be the [protagonist of the story](../marshmallow.md)
 and I have [high hopes](../hope/hope.md) for you.
 
 and you might be someone [who knocks](../say-my-name/say-my-name.md).
+
+or perhaps you are someone [who opens](https://www.biblegateway.com/passage/?search=Revelation+3%3A20).
