@@ -28,6 +28,6 @@ Do you:
 
 [Forget Siri, asks Cortana](Cortana/ask_Cortana.md)
 
-[If you really want to know something, ask OkGoogle](OkGoogle/ask_OkGoogle.md)
-
 [Ask Princess Nell to help you decide if the marshmallow is a just a machine](princessnell/princessnell.md)
+
+[If you really want to know something, ask OkGoogle](OkGoogle/ask_OkGoogle.md)
