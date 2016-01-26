@@ -9,7 +9,6 @@ It says "hello"
 "Hello, Mr Bird!", you say, and spot a collar with a tag on it.
 
 Upon inspecting the tag, you see it reads: "Nevermore". Turning over the tag, you see: "If found, please return to:
-
 Outis, 13 West Range, U. Virginia".
 
 Below this it reads, "Rub me three times".
