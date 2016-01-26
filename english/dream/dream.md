@@ -19,3 +19,5 @@ Afterwards, you decide to:
 [dance](../dance/dance.md)
 
 [karaoke](../karaoke/nope.md)
+
+[Drink a nice cup of tea](../tea/tea.md)
