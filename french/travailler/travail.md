@@ -1,0 +1,1 @@
+Aujourd'hui je travaille, mais pas demain, je mange des haricots.
