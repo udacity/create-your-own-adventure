@@ -19,8 +19,6 @@ Do you:
 
 [Go to the University of Virginia, to find Outis the owner?](uva/uva.md)
 
-[Rub the tag three times](../dragons/fire-everywhere.md)
-
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
 [Go exploring outside?](../explore-outside/explore-outside.md)
@@ -36,3 +34,5 @@ Do you:
 [sing-song "how do you do" back to the black bird](sing-greet/sing-greet.md)
 
 [teach the bird how to worship lord](worship/worship.md)
+
+[Rub the tag three times](../dragons/fire-everywhere.md)
