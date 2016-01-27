@@ -174,6 +174,10 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
+You hear a strange noise then turn and see a large, wooden door.
+
+You knock, hear nothing and decide to [enter](./strange-room/room.md).
+
 Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
 for alien life forms.
 
