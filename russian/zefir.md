@@ -10,6 +10,8 @@
 
 Ваши действия:
 
+[Импортозаместить тромбон на гусли](gusli/gusli.md)
+
 [Открыть окно](window/window.md)
 
 [Задернуть занавеску](draw-curtain/drawing-curtain.md)
