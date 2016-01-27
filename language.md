@@ -130,3 +130,5 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
+
+Continue your story in [sign language](sign_language/sign_language.md)
