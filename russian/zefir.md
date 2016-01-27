@@ -10,6 +10,8 @@
 
 Ваши действия:
 
+[Ненавижу зефир... Прочь из этой ужасной комнаты!](flowers/flowers.md)
+
 [Открыть окно](window/window.md)
 
 [Задернуть занавеску](draw-curtain/drawing-curtain.md)
