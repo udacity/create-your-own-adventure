@@ -35,3 +35,5 @@ Vende seu PC?
 [SIM](venda/sim.md)
 
 [NÃO](nvenda/nao.md)
+
+Um tijolo pesa 1 quilo mais meio tijolo. Quanto pesa 1 tijolo e meio?
