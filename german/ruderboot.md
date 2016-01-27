@@ -25,3 +25,5 @@ Werden Sie:
 [Durchlöcherte Bootwand einfach wegschneiden](wegschneiden/wegschneiden.md)
 
 [Sie spüren einen höllischen Schmerz im Gesicht](Sonnenbrand/vor-sonne-schutzen.md)
+
+[Kopfüber ins Wasser springen](Kopfsprung/Kopfsprung.md)
