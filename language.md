@@ -130,3 +130,4 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
+If you speak Gujarati, go [here](Gujarati/gujarati.md)
