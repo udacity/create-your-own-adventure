@@ -32,6 +32,10 @@ Unexpectedly, the Chief Marshmallow demands to see your [references](references/
 
 The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E)
 
+Do you:
+
+[Eat the walls](eat-walls/eating-marshmallows.md)
+
 *(Must be a Tuesday.)*
 
 Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
