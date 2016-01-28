@@ -747,3 +747,8 @@ What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
 The divergence is coming, [survive](divergence/divergence.md) or perish? 
 
 [Hear a roaring sound in the distance](https://youtu.be/d-sALU_hveA?t=33s)
+
+Having reached the bottom of your decision tree and 
+discovering all the other options vaguely unsatisfying, you decide to
+[read a romantic novel](sense-and-senility/sense-and-senility.md)
+
