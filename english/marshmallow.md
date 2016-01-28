@@ -761,3 +761,7 @@ Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
 Having reached the bottom of your decision tree and 
 discovering all the other options vaguely unsatisfying, you decide to
 [read a romantic novel](sense-and-senility/sense-and-senility.md)
+
+The [news](joke/joke.md) says it all my people!
+
+Bible says... As you sow, so shall you [reap](think/growrich.md)
