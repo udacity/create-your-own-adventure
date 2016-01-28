@@ -4,4 +4,4 @@ euta link halnu re ani...
 
 haha
 
-lata google ko [link] (www.google.com)
+lata google ko [link] (https://www.google.com)
