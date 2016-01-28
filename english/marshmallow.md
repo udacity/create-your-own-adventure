@@ -174,6 +174,10 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
+You hear a strange noise then turn and see a large, wooden door.
+
+You knock, hear nothing and decide to [enter](./strange-room/room.md).
+
 Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
 for alien life forms.
 
@@ -684,9 +688,10 @@ you realize that the story is about you!
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
-<<<<<<< HEAD
+[Call a random number](call-a-random-number/answer.md)
+
 You must be lonely. [Want a friend?](robofriend/AIRobot.md)
-=======
+
 When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
@@ -703,7 +708,6 @@ to you when you speak to it.
 ["Ahem!"](my-adventure/my-adventure.md)
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
->>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
 
 ["Train Ride!"] (train-ride/train-ride.md)
 
@@ -748,7 +752,12 @@ The divergence is coming, [survive](divergence/divergence.md) or perish?
 
 [Hear a roaring sound in the distance](https://youtu.be/d-sALU_hveA?t=33s)
 
+You decide to work on one of your [big projects...](https://www.youtube.com/watch?v=i84PRVPieeU&t=1h34m31s)
+
+"What a joke?", he said, after looking at the [news](joke/joke.md)
+
+Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
+
 Having reached the bottom of your decision tree and 
 discovering all the other options vaguely unsatisfying, you decide to
 [read a romantic novel](sense-and-senility/sense-and-senility.md)
-

@@ -11,6 +11,8 @@ It says "hello"
 Upon inspecting the tag, you see it reads: "Nevermore". Turning over the tag, you see: "If found, please return to:
 Outis, 13 West Range, U. Virginia".
 
+Below this it reads, "Rub me three times".
+
 "Well, Nevermore, shall we return you to your owner?"
 
 Do you:
@@ -32,3 +34,5 @@ Do you:
 [sing-song "how do you do" back to the black bird](sing-greet/sing-greet.md)
 
 [teach the bird how to worship lord](worship/worship.md)
+
+[Rub the tag three times](../dragons/fire-everywhere.md)

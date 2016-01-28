@@ -2,3 +2,5 @@
 Things that are offered for free always have a hidden cost.
 
 Sometimes somebody else pays that hidden cost, but usually it's you.
+
+Hey, all this talk about lunch makes me want to [bake cookies](../bake-cookies/cookies.md)
