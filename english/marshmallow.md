@@ -174,6 +174,10 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
+You hear a strange noise then turn and see a large, wooden door.
+
+You knock, hear nothing and decide to [enter](./strange-room/room.md).
+
 Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
 for alien life forms.
 
@@ -753,3 +757,5 @@ The divergence is coming, [survive](divergence/divergence.md) or perish?
 You decide to work on one of your [big projects...](https://www.youtube.com/watch?v=i84PRVPieeU&t=1h34m31s)
 
 "What a joke?", he said, after looking at the [news](joke/joke.md)
+
+Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...

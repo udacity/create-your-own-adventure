@@ -12,6 +12,8 @@
 
 [Импортозаместить тромбон на гусли](gusli/gusli.md)
 
+[Ненавижу зефир... Прочь из этой ужасной комнаты!](flowers/flowers.md)
+
 [Открыть окно](window/window.md)
 
 [Задернуть занавеску](draw-curtain/drawing-curtain.md)
