@@ -759,3 +759,7 @@ You decide to work on one of your [big projects...](https://www.youtube.com/watc
 "What a joke?", he said, after looking at the [news](joke/joke.md)
 
 Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
+
+The [news](joke/joke.md) says it all my people!
+
+Bible says... As you sow, so shall you [reap](think/growrich.md)
