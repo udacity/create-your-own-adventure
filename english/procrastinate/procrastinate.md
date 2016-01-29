@@ -11,3 +11,5 @@ do a search for "Wait but why".
 Read the articles on procrastination.
 
 Have (pseudo) fun in your Dark Playground!
+
+But [be careful](grue/grue.md)!
