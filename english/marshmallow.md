@@ -736,6 +736,8 @@ You may either do [this](gtd/gtd.md),
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
 [move to Boston](boston/boston.md)."
 
+Wait a second, I actually meant to say that [Camelot](camelot/camelot.md) is where I really want to go!
+
 "Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
 
 Yourself?
