@@ -14,7 +14,7 @@ Contribuía para [obras de caridade](caridade/caridade.md)
 
 Compraria [componentes eletronicos](componentes/componentes.md)
 
-Revolucionava o sistema de [ensino](ensino/alternativa.md)
+Revolucionava o sistema de [ensino](ensino/alternativo.md)
 
 Usava um repositorio privado.
 
