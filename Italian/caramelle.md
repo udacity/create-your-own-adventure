@@ -13,4 +13,7 @@ Che fai?
 
 [Cerco aiuto ulrando c'è qualcuno?](aiuto/aiuto.md)
 
+[Individuo la mia meta](scappare/cerca/cerca-scopa.md)
+
 [Cerco qualcosa per fare colazione](colazione/colazione.md)
+

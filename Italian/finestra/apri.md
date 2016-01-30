@@ -16,3 +16,5 @@ Come reagisci?
 [Torni a dormire](../caramelle.md)
 
 [Crei una bambola voodoo per addomesticarlo](tour/tour.md)
+
+[Ti accorgi che è lo stesso T-Rex con cui giocavi da bambino](bei-ricordi/bei-ricordi.md)
