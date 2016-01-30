@@ -1,5 +1,4 @@
-﻿En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
-
+En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
@@ -106,7 +105,3 @@ Conectó su guitarra al amplificador y se puso a tocar una versión de "Siempre 
 A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo] (miedo/miedo.md)
 
 [Puso su mano derecha en su frente y se teletransportó al centro del ejército enemigo](pelea_epica/pelea_epica.md)
-
-Lo que nadie sabía, es que el consejero era un versado maestro instruído en las nobles artes Jedi. 
-[Dark_side](dark_side/dark_side.md)
-[Light_side](light_side/light_side.md)
