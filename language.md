@@ -132,3 +132,5 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
 If you speak Gujarati, go [here](Gujarati/gujarati.md).
+
+Ако зборувате Македонски, [кликнете тука](Macedonian/Majka.md)
