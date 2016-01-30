@@ -736,6 +736,8 @@ You may either do [this](gtd/gtd.md),
 "I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
 [move to Boston](boston/boston.md)."
 
+Wait a second, I actually meant to say that [Camelot](camelot/camelot.md) is where I really want to go!
+
 "Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
 
 Yourself?
@@ -763,5 +765,10 @@ Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
 The [news](joke/joke.md) says it all my people!
 
 Bible says... As you sow, so shall you [reap](think/growrich.md)
+
+So shall you reap, and the [steelers](steelers/steelers.md) know that all too well!
+
+Until you realize that even marshmallows need [LOVE](https://www.youtube.com/watch?v=i5fZ__mnHbU).
+
 
 You look up and out to the ocean. In the distance you see a [mermaid](mermaid/mermaid.md)
