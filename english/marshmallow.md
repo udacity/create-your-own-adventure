@@ -763,3 +763,5 @@ Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
 The [news](joke/joke.md) says it all my people!
 
 Bible says... As you sow, so shall you [reap](think/growrich.md)
+
+You look up and out to the ocean. In the distance you see a [mermaid](mermaid/mermaid.md)
