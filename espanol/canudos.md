@@ -107,5 +107,7 @@ A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo]
 [Puso su mano derecha en su frente y se teletransportó al centro del ejército enemigo](pelea_epica/pelea_epica.md)
 
 Lo que nadie sabía, es que el consejero era un versado maestro instruído en las nobles artes Jedi. 
-[Dark_side](dark_side/dark_side.md)
-[Light_side](light_side/light_side.md)
+
+- [Dark_side](dark_side/dark_side.md)
+
+- [Light_side](light_side/light_side.md)
