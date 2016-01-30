@@ -14,6 +14,8 @@ Contribuía para [obras de caridade](caridade/caridade.md)
 
 Compraria [componentes eletronicos](componentes/componentes.md)
 
+Revolucionava o sistema de ensino[ensino](ensino/alternativa.md)
+
 Usava um repositorio privado.
 
 Ia ao Japão driftar em Tsukuba.
