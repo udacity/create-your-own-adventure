@@ -21,6 +21,8 @@ Dance Like MJ , live you life fully,
 
 Now you should dance at least an hour a day.
 
+And I mean.. get up at 5:20AM and start practicing if you have a job.
+
 Do you:
 
 [Light a fire?](../light-fire/fire.md)
@@ -39,5 +41,7 @@ it is a dancing cat
 [Want to read a story](../myStory/mayank.md)
 
 [Dance like it's 1999](https://www.youtube.com/watch?v=xWiUvn2KBu4)
+
+[Watch a Popping J Judge show](https://youtu.be/uPH8v8uMG-I?list=PL2Z_bne1R5AAVX9RIgMbYl71XjKFXLmb-)
 
 
