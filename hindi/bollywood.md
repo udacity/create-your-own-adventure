@@ -11,6 +11,8 @@ Salman,[go here](actor2/salman.md)
 
 Amithab, [go here](actor3/amithab.md)
 
+Hrithik Roshan, [यहाँ देखें](hrithik/hrithik.md)
+
 आमीर खान को तो भूल ही गए थे ये लोग | 
 [यहाँ दबाये  ](./actor4/aamir.md)
 
