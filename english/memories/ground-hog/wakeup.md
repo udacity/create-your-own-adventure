@@ -6,6 +6,12 @@ I've been here before...
 
 Do you ever get [deja vu](wakeup.md) Mrs. Lancaster?.
 
+Something is... strange, maybe, about the voice.
+
+[Give it some thought](all-wrong/all-wrong.md).
+
+Maybe just let it go.
+
 Mrs. Lancaster's reply, 'I don't know let me check with the kitchen.
 
 You go to the [kitchen](../../kitchen/vegetables.md).
