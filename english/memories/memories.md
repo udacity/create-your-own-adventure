@@ -4,6 +4,8 @@ Where do they come from?
 
 Why can I only remember the past and not the future?
 
+Why are my memories so fuzzy and unclear sometimes, but not others?
+
 The first thing I remember is the cold tile floor. 
 
 The last thing I remember is the dark moment as my eyelids fell as sleep came over me. 
