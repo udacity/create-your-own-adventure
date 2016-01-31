@@ -4,3 +4,5 @@
 1. ರೋಮಾಂಚನವೀ ಕನ್ನಡ! ಓದಲು, [ಇಲ್ಲಿ ಒತ್ತಿ](romaanchanavee_kannada/romaanchanavee_kannada.md).
 
 2. ಕನ್ನಡ ಕಲಿಯಲು [ಇಲ್ಲಿ](kannada_kali/kannada_kali.md).
+
+3. ಹಕ್ಕಿ ತಂದ ರಾಜ್ಯ! ಓದಲು, [ಇಲ್ಲಿ ಒತ್ತಿ](hakki_tanda_raajya/hakki_tanda_raajya.md).
