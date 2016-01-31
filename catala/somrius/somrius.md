@@ -4,6 +4,6 @@ El somni de la teva vida de trobar una casa de núvols de sucre, com el d'en Han
 
 Prens un bocí de núvol i recordes que vols volar. unes ales t'apareixen a l'esquena. Ara tens un dilema, què fas?
 
-[Continues menjant núvols de sucre](catala/menjar/menjar.md)
+[Continues menjant núvols de sucre](../menjar/menjar.md)
 
 [Surts per la finestra i alces el vol](icar/icar.md)
