@@ -19,3 +19,5 @@ Què fas?
 [T'aixeques del llit](aixecar/aixecar.md)
 
 [Comences a menjar sucre desesperadament](menjar/menjar.md)
+
+[somrius](somrius/somrius.md)
