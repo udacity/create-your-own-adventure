@@ -769,3 +769,6 @@ Bible says... As you sow, so shall you [reap](think/growrich.md)
 So shall you reap, and the [steelers](steelers/steelers.md) know that all too well!
 
 Until you realize that even marshmallows need [LOVE](https://www.youtube.com/watch?v=i5fZ__mnHbU).
+
+
+You look up and out to the ocean. In the distance you see a [mermaid](mermaid/mermaid.md)

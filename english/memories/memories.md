@@ -4,7 +4,8 @@ Where do they come from?
 
 Why can I only remember the past and not the future?
 
-Why are my memories so fuzzy and unclear sometimes, but not others?
+Why do my memories seem so inconsistent?
+And why are they so fuzzy and unclear sometimes?
 
 The first thing I remember is the cold tile floor. 
 
