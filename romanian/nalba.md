@@ -77,4 +77,5 @@ Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
 [crocobalaurului](padurea_violet/croco/croco.md).
 
 Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
+
 Crocobalaurul sari sa il atace, cand deodata Ginel deveni [invizibil](invizibil/invizibilitate.md) .
