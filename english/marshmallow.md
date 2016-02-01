@@ -772,3 +772,6 @@ Until you realize that even marshmallows need [LOVE](https://www.youtube.com/wat
 
 
 You look up and out to the ocean. In the distance you see a [mermaid](mermaid/mermaid.md)
+
+The mermaid above died, but [don't worry...](mermaid2/mermaid.md)
+
