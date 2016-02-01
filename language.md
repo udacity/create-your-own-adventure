@@ -128,7 +128,9 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 ئەگەر ئۇيغۇرچە سۆزلىسىڭىز، [بۇ يەرگە كىرىڭ](uyghurish/uyghurish-story.md)
 
 Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
-=======
+
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
 If you speak Gujarati, go [here](Gujarati/gujarati.md).
+
+As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md) 
