@@ -10,6 +10,8 @@ But where am I? I do not know.
 
 [Sit back down, to get no sleep?](../sleep/marshmallow.md)
 
+[I bet I could dance my memory back into place!](../dance-randomly/dance-randomly.md)
+
 [Wait, something's coming back to me!](../I'm-batman/batman.md)
 
 Amnesia can be freaking awesome sometimes :)
