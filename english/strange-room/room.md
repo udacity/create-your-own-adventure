@@ -4,3 +4,5 @@ It's obvious someone has been here recently but who?
 
 
 
+There is another door on the far side of the room, so perhaps they went out that way?
+
