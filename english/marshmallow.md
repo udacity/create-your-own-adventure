@@ -1,4 +1,6 @@
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to 
+
+[calm down](calmdown/calmdown.md) 
 
 Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
 
