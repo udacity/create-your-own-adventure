@@ -2,3 +2,7 @@
 
 אותה קלות ורואה שמבפנים בוקע אור חזק...
 
+[ממשיך לאכול] (keepEating/keepEating.md)
+
+[עובר דרך הדלת] (PassingThroughTheDoor/PassingThroughTheDoor.md)
+
