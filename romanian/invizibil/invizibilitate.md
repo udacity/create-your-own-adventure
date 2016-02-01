@@ -1,0 +1,1 @@
+Acum putea sa scape din ghearele crocobalaurului, gandi el!
