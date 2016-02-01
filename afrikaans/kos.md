@@ -1,4 +1,4 @@
-Jy voel honger. Jy besluit om iets eg Afrikaans te eet. Jy besluit om een van die volgended te eet
+Jy voel honger. Jy besluit om iets eg Afrikaans te eet. Jy besluit om een van die volgende te eet
 
 - [Beskuit] (./beskuit/beskuit.md)
 
