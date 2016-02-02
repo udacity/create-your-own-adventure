@@ -93,7 +93,7 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)
 
-Al despertar y enfocar la vista vió lo que había sucedido tras la 
+Al despertar y enfocar la vista vió lo que había sucedido tras la
 explosión [que pasó?](explosion/explosion.md)
 
 Salió corriendo y no se lo vio nunca más en el reino
@@ -105,3 +105,5 @@ Conectó su guitarra al amplificador y se puso a tocar una versión de "Siempre 
 A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo] (miedo/miedo.md)
 
 [Puso su mano derecha en su frente y se teletransportó al centro del ejército enemigo](pelea_epica/pelea_epica.md)
+
+La guerra es la paz. La libertad es la esclavitud. [La ignorancia es la fuerza] (granhermano/granhermano.md)
