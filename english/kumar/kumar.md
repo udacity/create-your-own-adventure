@@ -1,1 +1,1 @@
-to see google web site click [here] (www.google.com)
+for google web site click [here] (http://www.google.com)
