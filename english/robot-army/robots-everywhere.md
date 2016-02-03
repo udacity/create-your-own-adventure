@@ -3,7 +3,8 @@ You laugh to yourself megalomaniacally at the audacity of this marshmallow.
 It seriously does not know who it's messing with, what foolishness...
 
 Throwing the lighter, rope and fork at the marshmallow hand, you find the connection to your 
-minions and summon them with haste. Your minions run towards you with a fiery passion in their
+minions and summon them with haste.
+Your minions run towards you with a fiery passion in their
 eyes. It is in this moment you know that they truly care for you and would do anything for you.
 
 
