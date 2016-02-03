@@ -1,4 +1,4 @@
-Te trezesti intr-o dimineatza si patul este facut din nalbe. 
+Te trezesti intr-o dimineatza si patul este facut din nalbe.
 Ce faci?
 
 [Il chemi pe Ginel](Ginel/ginel.md)
@@ -28,19 +28,19 @@ Va tot intrebati cum de a reaparut patul de nalbe.
 
 [Cand deodata...](Ginel/ginel.md)
 
-Ginel cade pe ganduri, ca baba pe scanduri... Incearca sa-si aminteasca ce a fumat, 
+Ginel cade pe ganduri, ca baba pe scanduri... Incearca sa-si aminteasca ce a fumat,
 cat sa fi costat compania Ginutei, sau de ce nu a avut noroc in viata.
 Ginel nu coreleaza lipsa repetata de la scoala, cu lipsurile din prezent.
 Ginuta il priveste o vreme, asa cazut pe ganduri, apoi il intreaba:
  - Auzi, ai cumva un Orbit ?
 
--N-am, dar putem sa facem un [ceai de nalbe](ceai_de_nalbe/ceai_de_nalbe.md). Ar trebui sa 
-aiba gust bun, putem mari putin doza, doar avem un pat de nalbe, sa vedem ce se intampla. 
-Se pusera ei pe baut ceai de nalba cand deodata... 
+-N-am, dar putem sa facem un [ceai de nalbe](ceai_de_nalbe/ceai_de_nalbe.md). Ar trebui sa
+aiba gust bun, putem mari putin doza, doar avem un pat de nalbe, sa vedem ce se intampla.
+Se pusera ei pe baut ceai de nalba cand deodata...
 
 Aparu, [Zana Albastra](zana_albastra/cum_arata_zana.md):
 
-- Dragii mei, nu mai beti ceai de nalbe! Am nevoie de toate nalbele de 
+- Dragii mei, nu mai beti ceai de nalbe! Am nevoie de toate nalbele de
 aici pentru o [potiune fermecata](potiune_fermecata/potiune.md).
 
 Sigur, Zana albastra, spuse Ginel.
@@ -77,3 +77,5 @@ Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
 [crocobalaurului](padurea_violet/croco/croco.md).
 
 Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
+
+Crocobalaurul sari sa il atace, cand deodata Ginel deveni [invizibil](invizibil/invizibilitate.md) .
