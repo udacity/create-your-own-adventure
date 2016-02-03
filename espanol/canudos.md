@@ -111,3 +111,5 @@ Lo que nadie sabía, es que el consejero era un versado maestro instruído en la
 - [Dark_side](dark_side/dark_side.md)
 
 - [Light_side](light_side/light_side.md)
+
+y se dijo a si mismo al tomar una [decision](decision/decision.md)
