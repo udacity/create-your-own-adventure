@@ -2,6 +2,6 @@ I hear you
 I see you  
 I'm listening  
   
-Ask the neighbour a [question](ask-neighbour-question/ask-neighbor-question.md).
+Ask neighbour a [question](ask-neighbour-question/ask-neighbour-question.md).
 
-Run [home](../marshmallow.md).
+Run [home](../marshmallow.md) scared.
