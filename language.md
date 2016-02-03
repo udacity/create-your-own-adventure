@@ -135,3 +135,5 @@ As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
 If you speak Gujarati, go [here](Gujarati/gujarati.md).
+
+you want google click [here](telugu/nalgoda-telugu/telugu.md)
