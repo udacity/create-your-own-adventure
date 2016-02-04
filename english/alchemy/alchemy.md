@@ -37,3 +37,8 @@ You slip the ring over your finger and ...
 [Congratulations!](../marshmallow.md)
 
 [Transform!](../transform/transform.md)
+
+
+After a few transformations, each more random than the next, you find yourself sitting
+in the dirt in front of an octogonal building.   Two ancient porphory pilars frame
+the sides of a large doorway.  The [doors] {http://tarainperugia.blogspot.com/2011/06/lorenzo-ghiberti-and-baptistery-doors.html}   are a magnicient. 
