@@ -1,6 +1,8 @@
 It's glorious Spring! Here are some great [destinations](spring/spring.md):
 
 It's Summer! Time to explore these places:
+	[Spectre](spectre/spectre.md)
+	[Sweden](https://youtu.be/5KYm1UpXiq0?t=53s)
 
 Fall is a great season to take a vacation in any of these spots:
 [fall destinations](fall/fall.md)
