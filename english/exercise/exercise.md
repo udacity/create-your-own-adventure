@@ -10,3 +10,5 @@ What do you do? Do you:
 [Say, "Fuck it" and continue eating marshmallows](./fuck_it/fuck_it.md)
 
 [Burn off those calories by saving the world](../justice-league/justice-league.md)
+
+[Opt for liposuction surgery](./liposuction/liposuction.md)
