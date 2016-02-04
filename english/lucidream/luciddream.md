@@ -14,4 +14,6 @@ Yells and become super saiyan
 
 Flys to the moon
 
+Eat candy!
+
 [Turn into a potato](potato/potato.md)
