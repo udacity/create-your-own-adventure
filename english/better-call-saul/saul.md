@@ -2,7 +2,11 @@ You dial Sauls number...
 
 "Hi, its Saul Goodman!"
 
-"Saul, I'm really tired but I have so much to do. Can you help me?" you ask.
+"Wise cracking "lawyer" with questionable ethics?"
+
+"That's the one!"
+
+"Great. Saul, I'm really tired but I have so much to do. Can you help me?" you ask.
 
 "Sure," he says, "Just use the [Cinco Face Time Party Snoozer](https://www.youtube.com/watch?v=Tvu2ZI329V4)."
 
