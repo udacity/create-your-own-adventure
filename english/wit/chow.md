@@ -1,0 +1,1 @@
+What? You [ate everything](http://news.sportslogos.net/2016/02/02/maple-leafs-new-logo-takes-traditional-turn-for-centennial/)?
