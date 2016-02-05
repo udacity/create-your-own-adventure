@@ -111,3 +111,7 @@ Lo que nadie sabía, es que el consejero era un versado maestro instruído en la
 - [Dark_side](dark_side/dark_side.md)
 
 - [Light_side](light_side/light_side.md)
+
+No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran las siguientes características:
+
+- [Características](caracteristicas/caracteristicas.md)

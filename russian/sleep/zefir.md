@@ -8,3 +8,5 @@
 [Вы начнете есть стены?](../eating-walls/eating-marshmallows.md)
 
 [Вы идете чистить зубы](brushing/brushing.md)
+
+[Попробую отщипнуть кусочек зефирной стены](../nip-off/nip-off.md)
