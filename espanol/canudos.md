@@ -79,11 +79,11 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 [Levanta su mano derecha, con el indice señala al ejército enemigo y les dice a sus soldados...](soldados/soldados.md)
 
-[Se dio cuenta de que su táctica había sido descubierta] (tactica/tactica.md)
+[Se dio cuenta de que su táctica había sido descubierta](tactica/tactica.md)
 
-[Enseguida agarró el teléfono y realizó una llamada] (telefono/telefono.md)
+[Enseguida agarró el teléfono y realizó una llamada](telefono/telefono.md)
 
-[La conversacion era irrelevante] (dolor/dolor.md)
+[La conversacion era irrelevante](dolor/dolor.md)
 
 [Abrió los ojos. ¿Era todo una cruel pesadilla?](pesadilla/pesadilla.md)
 
@@ -100,9 +100,9 @@ Salió corriendo y no se lo vio nunca más en el reino
 
 Conectó su guitarra al amplificador y se puso a tocar una versión de "Siempre es lo mismo, nena", pero sin distorsión
 
-[Así comenzó el cuento del cuco en el pueblo, para que los niños temieran a los dioses] (cuco/cuco.md)
+[Así comenzó el cuento del cuco en el pueblo, para que los niños temieran a los dioses](cuco/cuco.md)
 
-A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo] (miedo/miedo.md)
+A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo](miedo/miedo.md)
 
 [Puso su mano derecha en su frente y se teletransportó al centro del ejército enemigo](pelea_epica/pelea_epica.md)
 
@@ -113,3 +113,8 @@ Lo que nadie sabía, es que el consejero era un versado maestro instruído en la
 - [Light_side](light_side/light_side.md)
 
 y se dijo a si mismo al tomar una [decisión](decision/decision.md)
+
+No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran las siguientes características:
+
+- [Características](caracteristicas/caracteristicas.md)
+

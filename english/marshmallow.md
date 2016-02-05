@@ -439,6 +439,8 @@ Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
 
 [Come to Nepal](nepal/nepal.md)
 
+[Order Pizza](order-pizza/order-pizza.md)
+
 [Summon your robot army](robot-army/robots-everywhere.md)
 
 [Oh dear! You ended up in Candyland!](candyland/diabetes.md)
