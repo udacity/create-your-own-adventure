@@ -4,4 +4,7 @@ situation reeks of deception, and you have a vague recollection that you've seen
 this opening before...while being chased by marshmallow men who were shooting
 lasers. As you approach the opening, you see that the slope is much steeper than
 it first appeared, and you can't see where it leads. Just then, you notice a
-big red button above the opening.
+big red button above the opening. While contemplating whether to push the button
+or not, a huge marshmallow boulder comes barreling down the slope!
+
+[You slam the button!](big-red-button/big-red-button.md)
