@@ -116,4 +116,5 @@ No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran l
 
 - [Características](caracteristicas/caracteristicas.md)
 
-Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla, la guerra no había hecho más que [comenzar](guerra/duracion.md).
+Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla,
+ la guerra no había hecho más que [comenzar](guerra/duracion.md).
