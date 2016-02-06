@@ -2,6 +2,8 @@
 
 You go to the [garden](../garden/choose.md).
 
+You ask which vegetables she [prefers](../kitchen/prefers.md).
+
 You want to [fight](../fight-out/fight-out.md) instead.
 
 You can't [remember](../memories/memories.md).
