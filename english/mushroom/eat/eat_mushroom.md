@@ -7,6 +7,7 @@ rich after they had ingested fly agaric.
 Anyways ...
 
 Do you:
+
 [Call Batman?](../../batman/batman.md)
 
 [Light a fire?](../../light-fire/fire.md)
