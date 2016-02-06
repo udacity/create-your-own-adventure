@@ -115,3 +115,5 @@ Lo que nadie sabía, es que el consejero era un versado maestro instruído en la
 No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran las siguientes características:
 
 - [Características](caracteristicas/caracteristicas.md)
+
+Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla, la guerra no había hecho más que [comenzar](guerra/duracion.md).
