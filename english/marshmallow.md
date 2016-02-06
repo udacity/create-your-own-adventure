@@ -785,4 +785,4 @@ The 3 Rules of Test Driven Development [Read the Rules](test-driven-development-
 
 [link to google website] (kumar/kumar.md)
 
-Hi i got this one for udacity team [confused](confused/confused.md)
+Hi i got this one for udacity team.
