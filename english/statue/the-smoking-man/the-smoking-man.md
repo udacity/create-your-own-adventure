@@ -12,4 +12,4 @@ a spork into an oddly disturbing, overflowing trash can.
 
 [You say, "Uh, no. It's dangerous out there, take this," and hand him a lighter.](../the-cake/dangerous/dangerous.md)
 
-[I don't want to go.](../dont-want-to/dont-want-to.md)
+[I don't want to go.](../dont-blink/dont-want-to/dont-want-to.md)
