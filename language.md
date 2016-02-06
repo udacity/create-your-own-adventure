@@ -137,3 +137,5 @@ Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 If you speak Gujarati, go [here](Gujarati/gujarati.md).
 
 If you want learn Telugu, click [here](Telugu/Telugu.md).
+
+Ако зборувате македонски, [кликнете тука](macedonian/macedonian.md).
