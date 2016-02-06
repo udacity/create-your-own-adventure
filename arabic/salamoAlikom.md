@@ -19,3 +19,5 @@
  [online](learn/learn.md) عايز اعرف اسماء مواقع  كورسات  
 
  [freelancer](learn/learn.md) عايز اعرف اسماء مواقع  كورسات فرى لانس
+ 
+ معلش بقي معرفتش اجيب حاجة فجبتلكم [جرجير](arugula/arugula.md)
