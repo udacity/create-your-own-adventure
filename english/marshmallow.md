@@ -694,9 +694,8 @@ This false egotism makes you forget [something important.](watch-star-wars/watch
 
 [Call a random number](call-a-random-number/answer.md)
 
-<<<<<<< HEAD
 You must be lonely. [Want a friend?](robofriend/AIRobot.md)
-=======
+
 When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
@@ -713,7 +712,6 @@ to you when you speak to it.
 ["Ahem!"](my-adventure/my-adventure.md)
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
->>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
 
 ["Train Ride!"] (train-ride/train-ride.md)
 
@@ -769,6 +767,10 @@ But there are [too many hurdles in your way](hurdles/hurdles.md).
 "What a joke?", he said, after looking at the [news](joke/joke.md)
 
 Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
+
+Having reached the bottom of your decision tree and 
+discovering all the other options vaguely unsatisfying, you decide to
+[read a romantic novel](sense-and-senility/sense-and-senility.md)
 
 The [news](joke/joke.md) says it all my people!
 
