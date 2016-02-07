@@ -7,3 +7,6 @@ Do you:
 [Keep running toward the tower](keep-running/keep-running.md)
 
 [Turn and confront the presence chasing after you](confront/confront.md)
+
+[Throw yourself backward to check your pursuer with your
+shoulder](shoulder-check/shoulder-check.md)

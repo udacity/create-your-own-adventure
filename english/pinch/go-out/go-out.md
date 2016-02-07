@@ -1,6 +1,6 @@
 You run outside of the room, still wearing the jacket.
 
-You see a rabbit jump into a hole!
+You see a rabbit.  Smiling, it says "Last one in tastes like chicken!" and jumps into a hole!
 
 Do you:
 

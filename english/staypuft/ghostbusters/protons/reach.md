@@ -10,3 +10,11 @@ Actually, all of New York has vanished, too. After a moment, you realise that it
 fact YOU who has vanished!
 
 You look around and see...
+
+[nothing...at first](nothing-at-first/dejavu.md)
+
+[that items appear to be oddly square](../../../you-are-in-minecraft/minecraft.md)
+
+[trees all around you](../../../find-exit/into-forest/forest.md)
+
+[a mountain in front of you](../../../find-exit/into-mountains/mountains.md)

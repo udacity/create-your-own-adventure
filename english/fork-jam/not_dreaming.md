@@ -8,4 +8,8 @@ Do you:
 
 [Drink from it?](./choco-chalice/choco-chalice.md)
 
+[Smash the altar](./altar-smash/altar-smash.md)
+
 [Go exploring outside?](../explore-outside/explore-outside.md)
+
+[Pray in the altar?](./altar-pray/altar-pray.md)

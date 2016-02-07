@@ -6,5 +6,5 @@ You cast a line, and you caught a fish! What do you want to do now?
 
 [Cook the fish](cook-fish/cook-fish.md)
 
-[Talk to to fish](talk-fish/talk.md)
+[Talk to the fish](talk-fish/talk.md)
 

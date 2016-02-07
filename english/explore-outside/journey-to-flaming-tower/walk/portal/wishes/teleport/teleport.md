@@ -4,3 +4,9 @@ except that you're 500 ft above it. As you fall, the flaming tower beneath you
 grows alarmingly fast.
 
 You:
+
+[Wish for a parachute](./wish-parachute/wish-parachute.md)
+
+[Wish for a hangglider](./wish-hangglider/wish-hangglider.md)
+
+[Scream at the top of your lungs](./scream/scream.md)

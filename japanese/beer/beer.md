@@ -3,3 +3,8 @@
 
 あなたは:
 
+[掛け軸を拝見する](../kakejiku/kakejiku.md)
+
+[ソフトドリンクに変更する](../softdrink/softdrink.md)
+
+[新年の抱負を語る](../newyear/newyear.md)

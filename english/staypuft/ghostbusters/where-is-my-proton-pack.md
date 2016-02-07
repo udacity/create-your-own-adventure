@@ -10,9 +10,9 @@ Just out of reach, you see a discarded proton pack.
 
 You try to pull yourself out of the sticky mass, but with a sinking feeling you realise you are stuck.
 
-You look up in time to see a taxi cab skidding toward you through the gloopy guck. You have seconds to act
+You look up in time to see a taxi cab skidding toward you through the gloopy guck. You have seconds to act.
 
-After so much excited you decide to:
+After so much excitement you decide to:
 
 [Close your eyes and think good thoughts](./wishful-thinking/hope.md)
 
@@ -23,3 +23,5 @@ After so much excited you decide to:
 [Look for a way out before anyone hands you a broom?](../../find-exit/leave.md)
 
 [Watch Ghostbusters and see if you're in the credits?](watch-ghostbusters/watch-ghostbusters.md)
+
+[Jump to another Bill Murray movie](billMurrayMovies/billMurrayMovies.md)
