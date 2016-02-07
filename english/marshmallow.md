@@ -762,6 +762,8 @@ The divergence is coming, [survive](divergence/divergence.md) or perish?
 
 You decide to work on one of your [big projects...](https://www.youtube.com/watch?v=i84PRVPieeU&t=1h34m31s)
 
+You start off strong...
+
 But there are [too many hurdles in your way](hurdles/hurdles.md).
 
 "What a joke?", he said, after looking at the [news](joke/joke.md)
