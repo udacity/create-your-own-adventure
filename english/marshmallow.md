@@ -792,3 +792,7 @@ The understanding of git [go here](Booyah/booyah.md)
 [link to google website] (kumar/kumar.md)
 
 Hi i got this one for udacity team.
+
+As the sand encompassed her toes and
+the ocean-spray breezed through her nose
+she froze...
