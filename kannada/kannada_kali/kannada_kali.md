@@ -1,1 +1,0 @@
-ಕನ್ನಡ ಕಲಿಯಲು [ಇದು](https://play.google.com/store/apps/details?id=com.pgjpb.learnkannada&hl=en)  ಒಳ್ಳೆಯ ಸಾಧನ.

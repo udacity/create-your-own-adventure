@@ -5,3 +5,5 @@ as you are tens-of-thousands of feet up in the clouds, just like Luke Skywalker.
 After many hours you are resigned to the fact that you will die here or will you?
 
 What do you do:
+
+[Continue waiting?](whistle-response.md)

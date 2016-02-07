@@ -1,1 +1,0 @@
-You come to while exiting your body. You see yourself lying on the marshmallow floor. You have taken an etherial "form".

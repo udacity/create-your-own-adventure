@@ -1,1 +1,0 @@
-I finally understand git and gitHub. I actually understand branches and merges.
