@@ -111,3 +111,10 @@ Lo que nadie sabía, es que el consejero era un versado maestro instruído en la
 - [Dark_side](dark_side/dark_side.md)
 
 - [Light_side](light_side/light_side.md)
+
+No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran las siguientes características:
+
+- [Características](caracteristicas/caracteristicas.md)
+
+Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla,
+ la guerra no había hecho más que [comenzar](guerra/duracion.md).

@@ -10,6 +10,8 @@ and search for your [destiny](destiny/destiny.md).
 
 Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
+After warming up, take a minute and reflect on your [love for udacity](love-udacity/love-udacity.md)
+
 You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
 [suggestions](travel-destinations/travel-destinations.md)
@@ -439,6 +441,8 @@ Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
 
 [Come to Nepal](nepal/nepal.md)
 
+[Order Pizza](order-pizza/order-pizza.md)
+
 [Summon your robot army](robot-army/robots-everywhere.md)
 
 [Oh dear! You ended up in Candyland!](candyland/diabetes.md)
@@ -777,6 +781,10 @@ The mermaid above died, but [don't worry...](mermaid2/mermaid.md)
 
 The 3 Rules of Test Driven Development [Read the Rules](test-driven-development-rules/AccordingToUncleBob.md)
 
+The understanding of git [go here](Booyah/booyah.md)
+
 [Link to Git Official Website] (git/git.md)
 
 [link to google website] (kumar/kumar.md)
+
+Hi i got this one for udacity team.

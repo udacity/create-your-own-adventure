@@ -5,6 +5,8 @@ Você:
 
 [Procura o repositório do aplicativo?](colabora/colaborar.md)
 
+[Começa a pensar como solucionar o bug e resolve olhar no codigo fonte](pesquisa/codFonte.md)
+
 [Não é um programador e decide enviar uma revisão do aplicativo para o desenvolvedor?](revisa/revisar.md)
 
 [Git o quê?](git/oque.md)
