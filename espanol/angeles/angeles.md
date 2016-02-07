@@ -6,4 +6,4 @@ han brindado. Betito se llenó de fuerzas también y animó a todos los guerrero
 
 La voz de un ángel te llama, pero estas distraído con la tecnología!
 
-El progreso no mide tiempo.
+El progreso no mide tiempo. Fin.
