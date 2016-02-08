@@ -10,6 +10,8 @@ and search for your [destiny](destiny/destiny.md).
 
 Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
+After warming up, take a minute and reflect on your [love for udacity](love-udacity/love-udacity.md)
+
 You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
 [suggestions](travel-destinations/travel-destinations.md)
@@ -760,6 +762,10 @@ The divergence is coming, [survive](divergence/divergence.md) or perish?
 
 You decide to work on one of your [big projects...](https://www.youtube.com/watch?v=i84PRVPieeU&t=1h34m31s)
 
+You start off strong...
+
+But there are [too many hurdles in your way](hurdles/hurdles.md).
+
 "What a joke?", he said, after looking at the [news](joke/joke.md)
 
 Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
@@ -779,6 +785,14 @@ The mermaid above died, but [don't worry...](mermaid2/mermaid.md)
 
 The 3 Rules of Test Driven Development [Read the Rules](test-driven-development-rules/AccordingToUncleBob.md)
 
+The understanding of git [go here](Booyah/booyah.md)
+
 [Link to Git Official Website] (git/git.md)
 
 [link to google website] (kumar/kumar.md)
+
+Hi i got this one for udacity team.
+
+As the sand encompassed her toes and
+the ocean-spray breezed through her nose
+she froze...
