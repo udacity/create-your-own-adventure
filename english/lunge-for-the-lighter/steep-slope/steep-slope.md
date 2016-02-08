@@ -15,7 +15,7 @@ lights with wires connecting each of them The second new opening reveals what ap
 same manner as the first, lined with pictures of various types of bird-like lizards wearing very ... um, unique
 clothing. You can just barely hear odd animalistic noises from some point far down the hallway.
 
-[Walk into the stone tunnel](stone-tunnel)
+[Walk into the stone tunnel](stone-tunnel/stone-tunnel.md)
 
-[Walk into the hallway](hallway)
+[Walk into the hallway](hallway/hallway.md)
 
