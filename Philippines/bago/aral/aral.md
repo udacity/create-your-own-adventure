@@ -1,0 +1,1 @@
+Kung gusto mo pa mag-aral. eh di bumalik ka sa Udacity at kunin lahat ng kursong gusto mo. Good luck sa iyo! 
