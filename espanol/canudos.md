@@ -93,7 +93,7 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)
 
-Al despertar y enfocar la vista vió lo que había sucedido tras la 
+Al despertar y enfocar la vista vió lo que había sucedido tras la
 explosión [que pasó?](explosion/explosion.md)
 
 Salió corriendo y no se lo vio nunca más en el reino
@@ -106,7 +106,7 @@ A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo]
 
 [Puso su mano derecha en su frente y se teletransportó al centro del ejército enemigo](pelea_epica/pelea_epica.md)
 
-Lo que nadie sabía, es que el consejero era un versado maestro instruído en las nobles artes Jedi. 
+Lo que nadie sabía, es que el consejero era un versado maestro instruído en las nobles artes Jedi.
 
 - [Dark_side](dark_side/dark_side.md)
 
@@ -118,3 +118,5 @@ No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran l
 
 Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla,
  la guerra no había hecho más que [comenzar](guerra/duracion.md).
+
+La guerra es la paz. La libertad es la esclavitud. [La ignorancia es la fuerza] (granhermano/granhermano.md)
