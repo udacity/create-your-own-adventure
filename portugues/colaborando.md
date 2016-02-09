@@ -11,6 +11,8 @@ Você:
 
 [Git o quê?](git/oque.md)
 
+[Procura o site da Udacity para aprender sobre Git e GitHub](udacity/udacity.md)
+
 [Procura um amigo que sabe de tecnologia](amigo/tecnologia.md)
 
 [Cria um aplicativo melhor](cria/melhor.md)
