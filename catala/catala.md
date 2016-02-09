@@ -21,3 +21,5 @@ Què fas?
 [Comences a menjar sucre desesperadament](menjar/menjar.md)
 
 [somrius](somrius/somrius.md)
+
+[Entres en pànic absolut](panic/panic.md)
