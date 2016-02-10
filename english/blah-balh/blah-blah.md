@@ -2,6 +2,8 @@ Say something, just talk, so everybody can listen to the voice you have to offer
 
 Be as smart as you can be in your voice so you don't sound stupid.
 
-And [sing](../singing/singing.md) if possible. Singing cheers people up.
+And sing if possible. Singing cheers people up.
+
+[Sing](../singing/singing.md)
 
 If no sing [go back](../marshmallow.md)
