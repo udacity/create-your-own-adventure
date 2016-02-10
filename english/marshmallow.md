@@ -770,6 +770,8 @@ But there are [too many hurdles in your way](hurdles/hurdles.md).
 
 Hmmm....I wonder what this [fortune cookie](fortune/fortune.md) says...
 
+It says you should [brew some beer](beer-brewer/beer-brewer.md).
+
 The [news](joke/joke.md) says it all my people!
 
 Bible says... As you sow, so shall you [reap](think/growrich.md)
@@ -795,6 +797,11 @@ Hi i got this one for udacity team.
 
 As the sand encompassed her toes and
 the ocean-spray breezed through her nose
+
 she froze...
+
+But the cold never bothered me anyway.
+
+Let it go, let it gooo...
 
 Do you want to build a [snowman?] (snowman/snowman.md)
