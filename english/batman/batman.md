@@ -27,3 +27,5 @@ Commissioner Gordon: He's the hero Gotham deserves but not the one that it needs
 
 Uncle Ben: With great power comes great responsibility.
 (Hey Uncle Ben was a character in Spiderman!!, doesn't belong here)
+
+The real hero is alfred the butler..
