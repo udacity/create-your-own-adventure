@@ -10,4 +10,4 @@ He instantly leaps to his feet and lets out a roar.
 
 Do you? 
 
-[Attack!](../attack/attack.md)
+[Attack!](./attack/attack.md)
