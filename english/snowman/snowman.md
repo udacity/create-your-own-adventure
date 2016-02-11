@@ -1,3 +1,3 @@
-[Yes] (olaf/olaf.md)
+[Yes] (../olaf/olaf.md)
 
-[No] (ice_monster/ice_monster.md)
+[No] (../ice_monster/ice_monster.md)
