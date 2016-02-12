@@ -7,3 +7,5 @@ Jedno nevšedné ráno sa zobudíš v divnej miestnosti, ktorá má steny z mars
 [Pokúsiš sa zachrániť rybku](zachrana/zachrana-rybky.md)
 
 [Siahneš opäť po fľaši](flasa/nikdy-viac.md)
+
+[Zjem ju s horčicou](horcica/hladam-horcicu.md)
