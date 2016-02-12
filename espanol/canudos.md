@@ -119,4 +119,8 @@ No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran l
 Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla,
  la guerra no había hecho más que [comenzar](guerra/duracion.md).
 
-La guerra es la paz. La libertad es la esclavitud. [La ignorancia es la fuerza] (granhermano/granhermano.md)
+"El que tenga rabo de paja ni que lo fajen chiquito",
+dijo el [curandero](curandero/curandero.md)...
+
+La guerra es la paz. La libertad es la esclavitud. [La ignorancia es la fuerza](granhermano/granhermano.md)
+

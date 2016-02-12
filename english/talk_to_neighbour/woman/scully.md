@@ -3,4 +3,6 @@
 
 [Go with Scully](go-with-scully/talk-aside.md)
 
+[Bored](bored/circus.md), you start to think of something else.
+
 [Drive away](hop-into-car/drive.md)

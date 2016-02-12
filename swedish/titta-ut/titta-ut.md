@@ -1,6 +1,7 @@
 När du tittar ut genom fönstret ser du att det regnar.
 
 Det är fortfarande ganska mörkt ute och du känner dig helt utmattad efter nattens mardrömmar.
+varför är det alltdi så mörkt i dtta landet?
 
 Efter att ha övervägt din situation väljer du att
 
