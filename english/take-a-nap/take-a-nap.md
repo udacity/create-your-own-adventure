@@ -1,0 +1,1 @@
+You wake up a few hours later, and note that there are now two malt balls.
