@@ -6,6 +6,8 @@
 
 [꼬치를 좀 달라고 부탁한다](smore-eating/delicious.md)
 
+[꼬치 만들기를 돕는다](smore-making/earn-money.md)
+
 [다시 잔다](../marshmallow.md)
 
 [공포를 느끼며 벽에 있는 구멍을 통해 나간다](../../explore-outside/explore-outside.md)
