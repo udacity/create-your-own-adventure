@@ -1,4 +1,4 @@
-Jednoho rána se vzbudíš v divné místnosti se zdmi z maršmelounů.
+Jednoho rána se vzbudíš v divné místnosti se zdmi z maršmelounů. Točí se ti hlava, a tvůj žaludek dává najevo svou nespokojenost. Včera jsi to s těma panákama patrně přehnal. 
 
 Co uděláš:
 
