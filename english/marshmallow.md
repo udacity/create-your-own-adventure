@@ -40,6 +40,8 @@ Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
 
 Ok, we have to consider Saturday too.
 
+[this crazy thought popped into your head](yellow-baby-buggy-bumpers/yellow-baby-buggy-bumpers.md)
+
 Alice doesn't live here anymore, [or does she?](scarab/goddess.md)
 
 But not Monday; you never go out on a Sunday evening......[or do you](./or-do-you/or-do-you.md)?
