@@ -6,6 +6,6 @@ After many hours you are resigned to the fact that you will die here or will you
 
 What do you do:
 
-[Let go.] (english/wake-up/wake-up.md)
+[Let go.](../../../../../wake-up/wake-up.md)
 
-[Continue the climb down] (english/strange-room/room.md) and bust through a door.
+[Continue the climb down](../../../../../strange-room/room.md) and bust through a door.
