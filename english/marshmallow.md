@@ -10,6 +10,8 @@ and search for your [destiny](destiny/destiny.md).
 
 Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
+or maybe [eat that delicious cucumber sandwich?](sandwich/sandwich.md)
+
 After warming up, take a minute and reflect on your [love for udacity](love-udacity/love-udacity.md)
 
 You are are man (or woman) for all seasons but need help in choosing
