@@ -8,4 +8,3 @@ Not so fast... Are you really lost?  Or are you in an episode of the TV show Los
 [Go toward a beach](meetKate/meetKate.md).
 
 [Go further into Jungle](runFromSmokeMonster/runFromSmokeMonster.md)
->>>>>>> master
