@@ -121,3 +121,5 @@ Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla,
 
 "El que tenga rabo de paja ni que lo fajen chiquito", 
 dijo el [curandero](curandero/curandero.md)...
+
+[Nadie sabiendo el secreto mejor guardado este epico personaje, "El gran mutante", se atrevio a lo que nadie se imaginó:](Mutantes/Mutantes.md)
