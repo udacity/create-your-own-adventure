@@ -1,7 +1,9 @@
-°Los soldados enemigos eran demasiados! 
+¬°Los soldados enemigos eran demasiados! 
 
-Tomaron la decisiÛn de bloquear la puerta con rocas, troncos y todos los objetos pesados que tenÌan a mano.
+Tomaron la decisi√≥n de bloquear la puerta con rocas, troncos y todos los objetos pesados que ten√≠an a mano.
 
-Al menos por el momento el ejÈrcito enemigo no podÌa entrar derribando la puerta con un ariete.
+Al menos por el momento el ej√©rcito enemigo no pod√≠a entrar derribando la puerta con un ariete.
 
-Ahora tenÌan tiempo para apostar arqueros en los muros y organizar la defensa.
+Ahora ten√≠an tiempo para apostar arqueros en los muros y organizar la defensa.
+
+Pero no sab√≠an qu√© hacer, as√≠ que lo buscaron en [google](www.google.com)
