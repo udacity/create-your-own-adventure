@@ -182,6 +182,8 @@ Startled, you immediately whirl around to see who (or what) touched you...but th
 
 You hear a strange noise then turn and see a large, wooden door.
 
+You turn for a third time and see a small, metal door.
+
 You knock, hear nothing and decide to [enter](./strange-room/room.md).
 
 Click [here](./sonic-screwdriver/sonic-screwdriver.md) to use your sonic screwdriver to scan the air
