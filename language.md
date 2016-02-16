@@ -141,3 +141,5 @@ If you want learn Telugu, click [here](Telugu/Telugu.md).
 If you want to know more about IoT, click [here](english/iot/intro.md).
 
 If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
+
+Jika kamu berbicara bahasa indonesia, [pergi kesini](indonesia/selamat_datang.md).
