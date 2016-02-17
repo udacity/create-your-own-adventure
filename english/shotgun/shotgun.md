@@ -3,3 +3,4 @@ over the marshmallow wall.
 Suddenly the brain matter starts to disintegrate the wall.
 You see sunlight peeking through.
 After a while the wall is gone and you are free. 
+You find you are on an island surrounded by a sea of hot chocolate.
