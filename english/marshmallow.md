@@ -232,7 +232,9 @@ You pause for a second, awaiting a spectacular sight.
 
 Sheepishly you look down on the crappy wand in your hand.
 
-You must be doing something wrong. You drink a [beer](drink-beer/drink-beer.md) and think about it, then Ah-ha!
+You must be doing something wrong. You drink a beer and think about it, then Ah-ha!
+
+so many [beer](drink-beer/drink-beer.md) options..
 
 You notice your pants are now glowing, so you must have been holding the wand upside down.
 
