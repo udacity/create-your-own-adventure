@@ -131,10 +131,10 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
+તમે ગુજરાતી બોલે તો, [અહીં](Gujarati/gujarati.md) ક્લિક કરો
+
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
-
-If you speak Gujarati, go [here](Gujarati/gujarati.md).
 
 If you want learn Telugu, click [here](Telugu/Telugu.md).
 
