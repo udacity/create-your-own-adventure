@@ -11,3 +11,5 @@ Você:
 [Não está com saco pra isso, e deixa pra lá](desiste/desistir.md)
 
 [Simplesmente desiste e baixa um app melhor](novo-app/novo-app.md)
+
+[Decide desenvolver seu próprio app](cria-proprio-app/cria-proprio-app.md)
