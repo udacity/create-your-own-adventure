@@ -16,3 +16,5 @@ what I would do.
 
 I'd eat it. Yup, I know it sounds disgusting but a dog is a dog and a cat is a cat.
 You know what I mean?
+
+Don't eat animals #GoVegan
