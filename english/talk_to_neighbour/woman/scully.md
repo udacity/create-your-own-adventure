@@ -6,3 +6,6 @@
 [Bored](bored/circus.md), you start to think of something else.
 
 [Drive away](hop-into-car/drive.md)
+
+[Say Hi to the Alien](say-hi/rare.md)
+
