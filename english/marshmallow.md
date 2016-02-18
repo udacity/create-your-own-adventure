@@ -1,3 +1,5 @@
+[Know about the life of this world](00-Life-of-this-world/Life of this world.md)
+
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
 Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
