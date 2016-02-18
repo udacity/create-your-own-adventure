@@ -1,0 +1,5 @@
+A critter approaches, wiggling its ears and sniffing, seeming to know that you have recently eaten a sandwich. Do you 
+
+[feed the critter](feed/feed.md) the other sandwich you had, hoping to make friends? Or
+
+[shoo the critter](shoo/shoo.md) to make it go away. It might have rabies, after all.  
