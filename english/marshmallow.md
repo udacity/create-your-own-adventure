@@ -1,3 +1,5 @@
+You decide the only way out is to climb, [climb][climb/climb.md] hard friend.
+
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
 
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
