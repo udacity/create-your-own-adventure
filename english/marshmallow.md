@@ -828,3 +828,5 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 [Paint It Black](paint-it-black/PaintItBlack.md)
 
 [Try to solve Rubik's Cube](rubik-cube/rubik-cube.md)
+
+[To Infinity and Beyond](math/math.md)
