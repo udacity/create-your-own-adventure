@@ -1,4 +1,4 @@
-You decide the only way out is to climb, [climb][climbing/climbing.md] hard friend.
+You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
 
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
 
