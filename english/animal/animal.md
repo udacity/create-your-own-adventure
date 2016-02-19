@@ -18,3 +18,5 @@ I'd eat it. Yup, I know it sounds disgusting but a dog is a dog and a cat is a c
 You know what I mean?
 
 Don't eat animals #GoVegan
+
+Don't be cruel.
