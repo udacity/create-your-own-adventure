@@ -141,3 +141,5 @@ If you want learn Telugu, click [here](Telugu/Telugu.md).
 If you want to know more about IoT, click [here](english/iot/intro.md).
 
 If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
+
+If you want to read about friendship quote, click [here](/english/friends/quote.md)
