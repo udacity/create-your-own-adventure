@@ -14,7 +14,7 @@ Drink some [bear](bear/bear.md)
 
 and search for your [destiny](destiny/destiny.md).
 
-[Hack the mainframe](hack-mainframe/hackmainframe.md)
+[Hack the mainframe](hack-mainframe/hack-mainframe.md)
 
 Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
