@@ -131,6 +131,9 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
+If you want to read about friends quote, [click here](english/friends/quote.md)
+
+
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
@@ -142,4 +145,3 @@ If you want to know more about IoT, click [here](english/iot/intro.md).
 
 If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 
-If you want to read about friends quote, click [here](english/friends/quote.md)
