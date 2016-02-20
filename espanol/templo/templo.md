@@ -7,3 +7,5 @@ Cuando de pronto...
 [Se oyó un grito que decía ](grito/grito.md)
 
 [Todos vieron cómo venía un ejercito](../ejercito/ejercito.md)
+
+[Empezaron a escuchar explosiones](../bombas/bombas.md)
