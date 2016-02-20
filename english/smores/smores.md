@@ -6,4 +6,6 @@ Do you:
 
 [Look it up on wikipedia?](../wikipedia/wiki.md)
 
+[Google it] (http://google.com)
+
 [Go back](../marshmallow.md)
