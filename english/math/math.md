@@ -1,4 +1,4 @@
-Hmm.. I'm thinking of an order of infinity between 12 and infinity.
+I'm thinking of an order of infinity between 12 and infinity.
 
 What order of infinity am I thinking of?
 
@@ -8,4 +8,4 @@ Do you:
 
 [Call your mother.](../tell-mother/tell-mother.md)
 
-[Go back.](../)
+[Wiki it.](../wikipedia/wiki.md)
