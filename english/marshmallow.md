@@ -281,6 +281,8 @@ Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
 
 [Go eat some rainbows](eat-rainbows/rainbows.md)
 
+[GO to eat some delicious tacos](eat-tacos/tacos.md)
+
 [Admire your glowing pants](glowing-pants/glowing-pants.md)
 
 [Grab some coffee?](coffee/coffee.md)
