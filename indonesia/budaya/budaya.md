@@ -1,0 +1,1 @@
+Jaipongan merupakan tarian tradisional yang berasal dari tanah Sunda.
