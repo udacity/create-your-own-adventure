@@ -14,6 +14,8 @@
 
 [وظيفة](Job/Job.md)
 
+[اقرأ](read/read.md)
+
 [أريد أن أحصل على Nanodegree](https://www.udacity.com/nanodegree)
 
  [online](learn/learn.md) عايز اعرف اسماء مواقع  كورسات  
