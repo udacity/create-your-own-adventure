@@ -648,6 +648,8 @@ A quick brown fox jumps over the lazy dog!
 
 [Make marshmallow masala chai](chai/make-marshmallow-masala-chai.md)
 
+[Watch a recording of an awesome jazz concert](https://www.youtube.com/watch?v=VMb3PX9gq78)
+
 This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
 You decide that you do not want to visit the miracle man. [You check your
