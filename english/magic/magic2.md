@@ -1,1 +1,1 @@
-Are you watching [ closely](magic.md) /
+Are you watching [ closely](magic.md) .
