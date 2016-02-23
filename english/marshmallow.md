@@ -1,8 +1,14 @@
+You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
+
+[Know about the life of this world](00-Life-of-this-world/Life of this world.md)
+
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
 Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
 
 Vist the master [liquid](liquid/liquid.md).
+
+Drink some [bear](bear/bear.md)
 
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
@@ -235,6 +241,8 @@ You pause for a second, awaiting a spectacular sight.
 Sheepishly you look down on the crappy wand in your hand.
 
 You must be doing something wrong. You drink a beer and think about it, then Ah-ha!
+
+so many [beer](drink-beer/drink-beer.md) options..
 
 You notice your pants are now glowing, so you must have been holding the wand upside down.
 
@@ -640,6 +648,8 @@ A quick brown fox jumps over the lazy dog!
 
 [Make marshmallow masala chai](chai/make-marshmallow-masala-chai.md)
 
+[Watch a recording of an awesome jazz concert](https://www.youtube.com/watch?v=VMb3PX9gq78)
+
 This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
 You decide that you do not want to visit the miracle man. [You check your
@@ -695,14 +705,15 @@ You made it through the day and are starting to get sleepy... [Time to fall asle
 You wake up in front of a computer screen. You begin reading
 the text of a markdown file called marshmallow.md. As you read
 you realize that the story is about you!
+[remember this story!](this-story-is-about-you/this-story-is-about-you.md)
 
 This false egotism makes you forget [something important.](watch-star-wars/watch-star-wars.md)
 
 [Call a random number](call-a-random-number/answer.md)
 
-<<<<<<< HEAD
+
 You must be lonely. [Want a friend?](robofriend/AIRobot.md)
-=======
+
 When I code over my weekend, I feel that this becomes my [whole life](code-my-life/code-my-life.md).
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
@@ -819,3 +830,9 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 [Paint It Black](paint-it-black/PaintItBlack.md)
 
 [Jump To Freedom](jump/jump.md)
+
+[Try to solve Rubik's Cube](rubik-cube/rubik-cube.md)
+
+[To Infinity and Beyond](math/math.md)
+
+[I hope you aren't using a poorly built crawler on this](./marshmallow.md)

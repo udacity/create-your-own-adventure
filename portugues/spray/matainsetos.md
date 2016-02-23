@@ -4,4 +4,6 @@ Você não faria mal a uma joaninha, faria?
 
 [Matar a joaninha](joaninha/matar/matar.md)
 
+[Comer a joaninha](joaninha/comer/comer.md)
+
 [Claro que não! Elas são adoráveis.](joaninha/liberar/liberar.md)
