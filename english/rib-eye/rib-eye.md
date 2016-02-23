@@ -14,7 +14,7 @@ or
 
 or
 
-[In Camelot] (../camelot.md)
+[In Camelot] (english/camelot.md)
 
 or
 
