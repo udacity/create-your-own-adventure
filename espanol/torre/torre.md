@@ -12,3 +12,5 @@ Entonces el consejero decidió:
 [Preparar su ejercito y ejecutar la estrategia establecida](estrategia/estrategia.md)
 
 [Huir de la escena](huida/huida.md)
+
+[Decidió enviar un mensaje a cada habitante de Canudos](miedo/miedo.md)
