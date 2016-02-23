@@ -14,7 +14,7 @@ or
 
 or
 
-[In Camelot] (english/camelot.md)
+[In Camelot] (https://github.com/itsmeava/create-your-own-adventure/blob/master/english/camelot/camelot.md)
 
 or
 
