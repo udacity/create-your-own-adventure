@@ -14,4 +14,8 @@ or
 
 or
 
+[In Camelot] (../camelot.md)
+
+or
+
 [Who cares, gimme Smores](../smores/smores.md)
