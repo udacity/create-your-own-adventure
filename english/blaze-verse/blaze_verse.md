@@ -845,4 +845,4 @@ Or...
 
 [Is it this one?](https://www.youtube.com/watch?v=tbSo7VmU7xo)
 
-Either way we are cool, [right](./blaze_verse.md)?
+Either way we are cool, [right?] (./blaze_verse.md)
