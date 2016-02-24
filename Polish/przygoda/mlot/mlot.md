@@ -1,14 +1,14 @@
-Trzymasz lœni¹cy m³ot z ptasiego mleczka, po chwili m³ot zaczyna siê rozpuszczaæ.
-Aby godziny pracy nie posz³y na marne probujesz wykorzystaæ m³ot i rozbiæ scianê....
-Jak mozna bylo sie domyslic z marnym skutkiem, teraz pozostaje jedynie wyci¹gn¹c wnioski ze swoich czynow.
-Oto¿ m³ot z ptasiego mleczka nie rozbije œciany z ptasiego mleczka.
+Trzymasz lÅ›niÄ…cy mÅ‚ot z ptasiego mleczka, po chwili mÅ‚ot zaczyna siÄ™ rozpuszczaÄ‡.
+Aby godziny pracy nie poszÅ‚y na marne probujesz wykorzystaÄ‡ mÅ‚ot i rozbiÄ‡ scianÄ™....
+Jak mozna bylo sie domyslic z marnym skutkiem, teraz pozostaje jedynie wyciÄ…gnÄ…c wnioski ze swoich czynow.
+OtoÅ¼ mÅ‚ot z ptasiego mleczka nie rozbije Å›ciany z ptasiego mleczka.
 
 Co robisz dalej?
 
-[Rozbijasz œciany si³¹ woli](../wola/wola.md)
+[Rozbijasz Å›ciany siÅ‚Ä… woli](../wola/wola.md)
 
-[Rozbijasz œciany si³¹ miêœni](../miesnie/miesnie.md)
+[Rozbijasz Å›ciany siÅ‚Ä… miÄ™Å›ni](../miesnie/miesnie.md)
 
-[Zaczynasz jeœæ ptasie mleczko](../jedzenie/jedzenie.md)
+[Zaczynasz jeÅ›Ä‡ ptasie mleczko](../jedzenie/jedzenie.md)
 
-[Szukasz rozwi¹zania u wujka Google](http://www.google.pl)
+[Szukasz rozwiÄ…zania u wujka Google](http://www.google.pl)
