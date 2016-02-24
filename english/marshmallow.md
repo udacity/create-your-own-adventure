@@ -650,6 +650,12 @@ A quick brown fox jumps over the lazy dog!
 
 [Watch a recording of an awesome jazz concert](https://www.youtube.com/watch?v=VMb3PX9gq78)
 
+whilst wandering through the vastness of this universe.
+
+[But what universe is this?](universe-test/blaze_verse.md)
+
+Either way we are cool, right?
+
 This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
 You decide that you do not want to visit the miracle man. [You check your
