@@ -1,4 +1,4 @@
-Zew przygody wzywa cię. Czujesz, że musisz się wydostać z tego pokoju. 
+Zew przygody wzywa cię. Czujesz, że musisz się wydostać z tego pokoju.
 Rozglądasz się po pokoju w poszukiwaniu wyjścia. Jednak wyjścia nie ma.
 
 Co robisz?
@@ -8,5 +8,7 @@ Co robisz?
 [Rozbijasz ściany siłą mięśni](miesnie/miesnie.md)
 
 [Zaczynasz jeść ptasie mleczko](jedzenie/jedzenie.md)
+
+[Skrobiesz ściany i lepisz młot](mlot/mlot.md)
 
 [Szukasz rozwiązania u wujka Google](http://www.google.pl)
