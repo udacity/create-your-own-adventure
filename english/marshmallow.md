@@ -834,3 +834,6 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 [To Infinity and Beyond](math/math.md)
 
 [I hope you aren't using a poorly built crawler on this](./marshmallow.md)
+
+[Read my story](magic2/magic2.md)
+
