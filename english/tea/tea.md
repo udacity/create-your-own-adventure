@@ -6,4 +6,4 @@ Now, you think to yourself...
 
 "What I need is a link." But, to where?
 
-But there is [nowhere](../dream/limbo/limbo.md) to go to.
+But there is [nowhere](../limbo/limbo.md) to go to.
