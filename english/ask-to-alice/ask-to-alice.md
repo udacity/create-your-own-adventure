@@ -16,3 +16,5 @@ Just click on the link.
 [The one that your mother gave you that doesn't do anything](./ask-to-alice.md)
 
 [The one with a transparent glowing scarab within it](../scarab/goddess.md)
+
+[The one that lets you speak Nintendo](../../japanese/beer/beer.md)
