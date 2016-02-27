@@ -1,4 +1,4 @@
-You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
+﻿You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
 
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
 
@@ -843,3 +843,4 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 
 [Read my story](magic2/magic2.md)
 
+Or...[meet my ex-girlfriend](myExGf/myExGf.md)
