@@ -1,4 +1,4 @@
-Vaporization is a phase transition from the liquid phase to vapor.
+Vaporization is  transition from the liquid phase to vapor phase.
 
 There are two types of vaporization
 
