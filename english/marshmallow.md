@@ -843,5 +843,5 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 
 [Read my story](magic2/magic2.md)
 
-[..and recall that Carl Johnson might be alive](carl/carl-johnson.md)
+[..and recall that Carl Johnson might be alive](Carl/carl-johnson.md)
 
