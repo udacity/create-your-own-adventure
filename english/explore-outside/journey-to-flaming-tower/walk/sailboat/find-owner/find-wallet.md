@@ -5,3 +5,5 @@ what do you do next?
 Do you:
 
 [Leave it and forget about it](../sailboat.md)
+
+[Examine wallet contents](./examine-wallet/wallet-contents.md)
