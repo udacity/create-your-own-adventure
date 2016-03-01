@@ -1,6 +1,6 @@
 El periodista queda rodeado por 4 expectaculares fieras 
-que podrían destrozrlo tan solo al escuchar a Beatito 
-chasquir sus dedos.
+que podrían destrozarlo tan solo al escuchar a Beatito 
+chasquir sus dedos, lo que sin duda éste está pensando.
 
 
 Y después:
