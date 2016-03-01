@@ -4,5 +4,6 @@ otros pensaron que los enemigos habian creado una nueva arma para confundirlos,
 cuando el capitán pudo percatarse se dió cuenta que tenia 2 opciones:
 
 [Entregar su vida a DIOS](opcion/oracion.md);
+
 [Enfrentarlo con sus soldados](opcion/miedo.md).
 
