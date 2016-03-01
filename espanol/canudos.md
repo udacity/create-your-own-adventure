@@ -124,3 +124,5 @@ dijo el [curandero](curandero/curandero.md)...
 
 Nadie sabiendo el secreto mejor guardado este epico personaje, "El gran mutante", 
 se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
+
+[Recordo que no tenia mas armas que su cuchillo. Pero pronto sacos su revolver con seis tiros, y le pego doce a Beatito](absurda/absurda.md)
