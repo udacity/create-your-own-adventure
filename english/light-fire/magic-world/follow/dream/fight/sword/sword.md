@@ -5,3 +5,5 @@ You try to fight, but you failed fencing in high school.
 You're dead. 
 
 The rat smirks as you sink into the unknown. 
+
+To respawn, click [here](respawn/respawned.md)
