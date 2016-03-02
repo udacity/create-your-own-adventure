@@ -1,1 +1,0 @@
-Je ligt in de struiken en kijkt rond. De takken prikken in je rug.

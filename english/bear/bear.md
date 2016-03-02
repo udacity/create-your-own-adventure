@@ -1,2 +1,0 @@
-Stella atroir.
-Taiwan bear.

@@ -1,1 +1,0 @@
-Hm... o sabor parece bem exótico!
