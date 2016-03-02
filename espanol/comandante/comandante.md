@@ -2,3 +2,4 @@ El comandante en jefe chuck norris, mas conocido como walker ranger de texas, es
 Al enterarse de dichos acontecimientos recomendo llamar al almirante tiger woods
 
 [Llamar al almirante..](almirante/almirante.md)
+[Llamar al coronel..](coronel/coronel.md)
