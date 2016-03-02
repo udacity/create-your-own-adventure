@@ -1,1 +1,0 @@
-Du klingelst das Glöckchen nochmals und der Wal muss plötzlich niesen.
