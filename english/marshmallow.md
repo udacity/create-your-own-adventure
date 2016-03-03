@@ -843,3 +843,4 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 
 [Read my story](magic2/magic2.md)
 
+I'm still done reading this, but I might have [come to the end](the-end/the-end.md)
