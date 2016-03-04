@@ -285,6 +285,8 @@ Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
 
 [Grab some coffee?](coffee/coffee.md)
 
+[Grab some wine?](wine/wine.md)
+
 [Call the GhostBusters](ghostbusters/ghostbusters.md)
 
 [Talk to Bob Barker](bob-barker/barker.md)
