@@ -1,0 +1,1 @@
+Beatito callo muerto, pero el consejero solo le revento la nariz. La poderosa luz del sol entraba por la ventana ilumunando el cuarto, pero el consejero casi se cae al no poder ver el cuerpo de su amigo imaginario en aquel cuarto oscuro.
