@@ -44,4 +44,4 @@ Um tijolo pesa 1 quilo mais meio tijolo. Quanto pesa 1 tijolo e meio?
 
 BR BR BR Hue hue hue!!!!
 
-Você é viciado em doces, não consegue pensar em uma resposta descente sem satisfazer sua quota diária de açúcar. Você procura a Chocolândia mais próxima de sua localização.
+Você é viciado em doces, não consegue pensar em uma resposta descente sem satisfazer sua quota diária de açúcar. 
