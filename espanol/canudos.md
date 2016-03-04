@@ -124,3 +124,5 @@ dijo el [curandero](curandero/curandero.md)...
 
 Nadie sabiendo el secreto mejor guardado este epico personaje, "El gran mutante", 
 se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
+
+[Hizo un breve movimiento para llamar a sus ayudantes y](ayudantes/ayudantes.md)

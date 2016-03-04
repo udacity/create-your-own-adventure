@@ -19,3 +19,8 @@ Revolucionava o sistema de [ensino](ensino/alternativo.md)
 Usava um repositorio privado.
 
 Ia ao Japão driftar em Tsukuba.
+
+
+Depois de muito sonhar apercebe-de de que (ainda) nâo ganhou o Euromilhões.
+
+Lembra-se que deixou a [chaleira a ferver água](chaleira/chaleira.md).
