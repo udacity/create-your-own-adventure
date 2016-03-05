@@ -5,8 +5,11 @@ Vorab tranken sie bereits 5 Bier.
 
 Was ist passiert?
 
-Ihr Schädel brummt - wenn das Wasser um Sie herum nicht ärgerlicher Weise Salzwasser wäre, würden sie sich einen großen Schluck davon gönnen.
-Die Sonne knallt herab. Panik macht sich in Ihnen breit und Sie versuchen sich mit allem, was sie auf dem Boot finden können, zu behelfen.
+Ihr Schädel brummt - wenn das Wasser um Sie herum nicht ärgerlicher Weise Salzwasser wäre, 
+würden sie sich einen großen Schluck davon gönnen.
+Die Sonne knallt herab. 
+Panik macht sich in Ihnen breit und Sie versuchen sich mit allem, 
+was sie auf dem Boot finden können, zu behelfen.
 
 [Sie finden eine Bierflasche](bierflasche/bierflasche.md)
 
