@@ -7,4 +7,4 @@
 
 [붙이 붙은 탑으로 가본다](../journey-to-flaming-tower/journey-to-flaming-tower.md)
 
-[초록 인간들한테 간다] (/approach-green-people/approached-green-people.md)
+[초록 인간들한테 간다] (approach-green-people/approached-green-people.md)
