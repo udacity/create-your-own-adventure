@@ -16,7 +16,7 @@ Compraria [componentes eletronicos](componentes/componentes.md)
 
 Revolucionava o sistema de [ensino](ensino/alternativo.md)
 
-Mandaria ladrilhar a rua toda pra [deixar a cidade mais bonita](mundo/ladrilhar.md)
+Mandaria ladrilhar a rua toda pra [deixar a cidade mais bonita](ladrilho/ladrilhar.md)
 
 Usava um repositorio privado.
 
