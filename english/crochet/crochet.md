@@ -1,3 +1,3 @@
-Crochet teddy bears are the cutest.  You should start working on one today.  
+Crochet teddy bears are the cutest. Start one today! :)
 
-Click here to [return to reality] (https://github.com/udacity/create-your-own-adventure/blob/master/english/marshmallow.md).
+Click here to [return to reality] (../marshmallow.md).
