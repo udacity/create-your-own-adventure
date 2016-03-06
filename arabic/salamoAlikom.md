@@ -23,4 +23,5 @@
  [freelancer](learn/learn.md) عايز اعرف اسماء مواقع  كورسات فرى لانس
 
 [قرار شجاع](tough-decision/tough-decision.md)
+
 عن الحضارة الإسلامية أتحدث [حضارتنا](civilization/civilization.md)
