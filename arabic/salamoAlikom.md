@@ -18,7 +18,7 @@
 
 [أريد أن أحصل على Nanodegree](https://www.udacity.com/nanodegree)
 
- [online](learn/learn.md) عايز اعرف اسماء مواقع  كورسات	
+ [online](learn/learn.md) عايز اعرف اسماء مواقع  كورسات  
 
  [freelancer](learn/learn.md) عايز اعرف اسماء مواقع  كورسات فرى لانس
 
