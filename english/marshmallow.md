@@ -265,6 +265,8 @@ Do you:
 
 Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
 
+Take out your [crochet project](crochet/crochet.md) instead and finish that teddy bear you've been working on.
+
 [Realize you are in the ...](in-matrix/matrix.md)
 
 [Realize you better call Saul](better-call-saul/saul.md)
