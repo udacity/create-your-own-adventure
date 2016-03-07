@@ -851,3 +851,4 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 
 [..and recall that Carl Johnson might be alive](Carl/carl-johnson.md)
 
+I find that the Pendragon fiction story book is good for boys. [more here](https://en.wikipedia.org/wiki/Pendragon:_Journal_of_an_Adventure_through_Time_and_Space)
