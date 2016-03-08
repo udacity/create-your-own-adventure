@@ -7,3 +7,5 @@ And sing if possible. Singing cheers people up.
 If no sing [go back](../marshmallow.md)
 
 [Sing](../singing/singing.md)
+
+[Say something, just talk](https://www.youtube.com/watch?v=XfWnITmT1Ws)
