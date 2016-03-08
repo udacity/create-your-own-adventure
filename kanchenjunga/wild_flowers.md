@@ -1,0 +1,1 @@
+This is a true story about 3 girls who were lost for 6 days in the coniferous forests in the valleys of Kanchenjunga.
