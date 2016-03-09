@@ -30,6 +30,8 @@
 
 [Разведёте костер.](light-fire/fire.md)
 
+[Включите вести недели](vesti-nedeli/vesti.md)
+
 [Попытаетесь проснуться.](awaken/awaken.md)
 
 [Вернётесь ко сну.](sleep/zefir.md)
