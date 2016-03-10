@@ -1,4 +1,4 @@
-Olá, 
+Olá,
 
 Isto de criar uma história com base na partilha de ideias de multiplas pessoas não relacionadas
 pode ser muito interessante... Então vamos lá!
@@ -14,4 +14,13 @@ Contribuía para [obras de caridade](caridade/caridade.md)
 
 Compraria [componentes eletronicos](componentes/componentes.md)
 
+Revolucionava o sistema de [ensino](ensino/alternativo.md)
+
 Usava um repositorio privado.
+
+Ia ao Japão driftar em Tsukuba.
+
+
+Depois de muito sonhar apercebe-de de que (ainda) nâo ganhou o Euromilhões.
+
+Lembra-se que deixou a [chaleira a ferver água](chaleira/chaleira.md).

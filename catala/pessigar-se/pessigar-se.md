@@ -5,3 +5,5 @@ Què fas?
 [Et menges un canari rosa per veure si té gust de núvol](menjar/menjar.md)
 
 [treus el mòbil per fer una foto als canaris i enviar-la als teus amics](foto/foto.md)
+
+[Et desmaies, no soportes els canaris... sobretot els roses...](../dormir/dormir.md)

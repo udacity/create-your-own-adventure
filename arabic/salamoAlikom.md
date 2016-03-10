@@ -9,3 +9,17 @@
 [اريد ان اتعلم المزيد](learn/learn.md)
 
 [اريد ان احلم](dream/dream.md)
+
+[ أريد أن آكل](http://www.otlob.com/ar)
+
+[وظيفة](Job/Job.md)
+
+[اقرأ](read/read.md)
+
+[أريد أن أحصل على Nanodegree](https://www.udacity.com/nanodegree)
+
+ [online](learn/learn.md) عايز اعرف اسماء مواقع  كورسات  
+
+ [freelancer](learn/learn.md) عايز اعرف اسماء مواقع  كورسات فرى لانس
+
+[قرار شجاع](tough-decision/tough-decision.md)

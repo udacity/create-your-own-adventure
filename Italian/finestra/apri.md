@@ -1,5 +1,9 @@
 
-Ti appare un paesaggio fiabesco
+Ti appare un paesaggio fiabesco,
+
+noti subito un tappeto volante che 
+
+staziona ad una ventina di metri da te
 
 e in lontananza sullo sfondo scorgi un gigantesco T-rex
 
@@ -11,3 +15,6 @@ Come reagisci?
 
 [Torni a dormire](../caramelle.md)
 
+[Crei una bambola voodoo per addomesticarlo](tour/tour.md)
+
+[Attiri il tappeto] (attira-il-tappeto/attira-il-tappeto.md)

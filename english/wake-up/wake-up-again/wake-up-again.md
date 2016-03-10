@@ -10,4 +10,6 @@ figured you’d be able to go back to sleep. But not back to the nightmare
 
 you just had, obviously.
 
-As your eyes droop and you started drifting back into the other world
+As your eyes droop and you started drifting back into the other world 
+
+[.. into another dream](dream2/dream2.md)

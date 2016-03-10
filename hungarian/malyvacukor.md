@@ -9,3 +9,5 @@ Mit csinálsz?
 [lezuhanyzol](zuhanyzas/zuhanyzas.md)
 
 [megreggelizel](reggeli/reggeli.md)
+
+Jól belerúgsz az [oxigén generátorba](oxygen/oxygen.md)

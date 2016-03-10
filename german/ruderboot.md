@@ -21,3 +21,11 @@ Werden Sie:
 [Sie beschliessen fortan keinen Alkohol mehr zu trinken.](Alkohol/alkohol.md)
 
 [Versuchen, mit Ihrer Kleidung das Loch zu stopfen](Stopfen/stopfen.md)
+
+[Durchlöcherte Bootwand einfach wegschneiden](wegschneiden/wegschneiden.md)
+
+[Handeln ist anstrengend. Warum nicht einfach abwarten was passiert?](abwarten/abwarten.md)
+
+[Sie spüren einen höllischen Schmerz im Gesicht](Sonnenbrand/vor-sonne-schutzen.md)
+
+[Kopfüber ins Wasser springen](Kopfsprung/Kopfsprung.md)

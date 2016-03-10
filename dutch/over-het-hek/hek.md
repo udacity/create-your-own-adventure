@@ -13,3 +13,7 @@ Je zoekt naar hulpmiddelen om los te komen in je zakken en ... wat vind je?
 [Wat onbekende paddestoelen; terwijl je verder droomt eet je ze op](hek.md)
 
 [Je autosleutel](sleutel/sleutel.md)
+
+[Een paar flippo's uit de jaren '90](flippo/flippo.md)
+
+[Een Zwitsers zakmes](zakmes/zakmes.md)

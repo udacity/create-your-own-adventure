@@ -6,6 +6,8 @@ and all muscle.
 As you stand there shaking in you boots the bear speaks and asks "You
 going to be in there long?
 
+I have to use it too. I can bear-ly hold it in!"
+
 Do you:
 
 [Try to distract the bear by pointing out an imaginary beehive behind him?](beehive/beehive.md)

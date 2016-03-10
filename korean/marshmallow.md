@@ -2,6 +2,8 @@
 
 어떻게 할까요?
 
+[국회로 간다](filibuster/filibuster.md)
+
 [벽을 먹는다](eating-walls/eating-marshmallows.md)?
 
 [불을 지핀다](light-fire/fire.md)?
@@ -29,3 +31,11 @@
 [큰소리로 엄마를 부른다](call-mom/call-mom.md)
 
 [책을 읽는다] (read/read.md)?
+
+[벽으로 돌진한다](rush/rush.md)
+
+[볼을 꼬집어 본다](pinch/pinch.md)
+
+라고 고민하지만 선택하기 위해서 [요가를 한다](yoga/yoga.md)
+
+[내가 나비인지 나비가 나인지 철학적인 고민을 한다](philosophy/philosophy.md)

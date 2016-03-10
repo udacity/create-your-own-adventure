@@ -5,3 +5,7 @@ Be as smart as you can be in your voice so you don't sound stupid.
 And sing if possible. Singing cheers people up.
 
 If no sing [go back](../marshmallow.md)
+
+[Sing](../singing/singing.md)
+
+[Say something, just talk](https://www.youtube.com/watch?v=XfWnITmT1Ws)

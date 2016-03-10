@@ -1,3 +1,5 @@
+You thought about what you can do with what you have now.
+
 You empty your pants pockets on the grass in front of you. A pocket knife, a
 block of magnesium, a flare, a first aid kit and a machete. Now that's good
 news!

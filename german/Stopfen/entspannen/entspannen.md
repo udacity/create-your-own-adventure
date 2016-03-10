@@ -17,3 +17,5 @@ Wo ist Ihr Kollege geblieben?
 Warum sind Sie allein auf dem Boot?
 
 Haben Sie schon etwas gefangen?
+
+Woher stammt die Brille in Ihrem Boot?

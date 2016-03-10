@@ -7,3 +7,5 @@ issue soit une porte en caramel avec une poignée de réglisse.
 [Vous tirez la porte](tirer-porte/tirer-porte.md)
 
 [Vous vous rendormez](../feu-de-camp.md)
+
+[Vous découvrez une trappe](trappe/trappe.md)

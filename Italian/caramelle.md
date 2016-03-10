@@ -10,3 +10,11 @@ Che fai?
 [Mi guardo intorno](guardare/guarda.md)
 
 [Mi conto le dita per vedere se sono veramente sveglio](verifica/verifica.md)
+
+[Cerco aiuto ulrando c'è qualcuno?](aiuto/aiuto.md)
+
+[Cerco qualcosa per fare colazione](colazione/colazione.md)
+
+[Spuntini] (spuntini/spuntini.md)
+
+[Alice non abita più qui] (alice/alice.md)

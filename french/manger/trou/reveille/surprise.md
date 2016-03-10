@@ -10,3 +10,9 @@ En guise de propulsion une colonie de loutre vous rend service.
 Au loin vous entendez des voix humaines; plus proche de vous la sirène vous sourie tendrement.
 
 Que faites vous ?
+
+[Le concert est merveilleux, je me rapproche](sirene/crapaud.md)
+
+[Je m'éloigne, avec les sirènes, on connait la musique....](voix-humaines/mystere.md)
+
+

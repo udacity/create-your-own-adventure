@@ -10,3 +10,6 @@ experimental material.  Not for consumption.  If swallowed, call 1-888-285-20"  
 You've chewed off the last 2 digits, and your stomach isn't feeling so right suddenly.  Now what?
 You recall that California is in the midst of a drought, so what will help is a nice large glass
 of water. You survey the room again, looking for something cool and refreshing.
+
+You spot a bathtub filled with hot chocolate. It won't be cool or refreshing, but you don't have time.
+You lean over it, cup your hand, and drink rapidly. Your buddy looks at you incredulously. "What?" you ask nervously.

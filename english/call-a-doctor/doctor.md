@@ -16,3 +16,6 @@ color, not like the institutionalized white you remember from movies.
 ["Eh, what's up Doc"](bugs-bunny/bugs-bunny.md)
 
 ["I'm the Doctor"](timelord/timelord.md)
+
+["I speak Vietnamese"](VN/vn.md)
+

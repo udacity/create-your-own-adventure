@@ -9,3 +9,5 @@ che non lascia intravedere niente se non una fitta oscurità.
 [Torno a dormire](../../../domire/sogno-strano.md)
 
 [Apro la finestra](../../../finestra/apri.md)
+
+[Apro la porta](porta/porta.md)

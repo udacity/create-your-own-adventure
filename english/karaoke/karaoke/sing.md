@@ -10,3 +10,7 @@ Do you:
 [propose to her](propose-to-her/propose-to-her.md)
 
 [puke on the mike](puke-on-the-mike/puke-on-the-mike.md)
+
+[check if she is real](girl-is-real/girl-is-real.md)
+
+[make a sandwich](sandwich/sandwich.md)

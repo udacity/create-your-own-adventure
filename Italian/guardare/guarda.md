@@ -11,3 +11,5 @@ Sugli scaffali trovi solo vecchi libri di leggende francesi e alcune fotografie 
 [Esamini le fotografie, sperando di riconoscere qualcuno](vecchie-fotografie/vecchie-fotografie.md)
 
 [Sfogli i libri, in cerca di qualche indizio](libri-francesi/libri-francesi.md)
+
+[Ti manca l'aria, apri la finestra](../finestra/apri.md)

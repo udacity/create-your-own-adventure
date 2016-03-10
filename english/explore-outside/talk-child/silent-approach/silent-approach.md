@@ -6,3 +6,5 @@ that is around you.
 You have now reached the child. What do you do?
 
 [Talk to the child anyway](../talk-more/talk-more.md)
+
+[Run away!](../silent-approach/run-away/run-away.md)

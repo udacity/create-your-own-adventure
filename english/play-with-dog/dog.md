@@ -10,3 +10,5 @@ You [take a selfie](../selfie/selfie.md).
 
 You have actually followed the dog embodiment of Medusa, 
 and you made eye contact. [You can no longer move.](../virtualreality/oculus.md).
+
+You notice she is chewing on a pink sock and [check it out.](../fill-sock/fill-sock.md)

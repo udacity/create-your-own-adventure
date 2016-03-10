@@ -1,6 +1,8 @@
 En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
-el Consejero: 
+el Consejero:
+
+[Sintió como la comida le subía por el exófago](comida/comida.md)
 
 [Mandó a congregar a Canudos entero al templo.](templo/templo.md)
 
@@ -8,12 +10,15 @@ el Consejero:
 
 [Llegó el periodista miope con noticias importantes.](noticias/noticias.md)
 
+[Suddenly realized he was far from home
+and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyArrives.md)
+
 [Se dirigió a la muralla exterior del pueblo.](muralla/muralla.md)
 
 [Empaquetó sus cosas e intentó salir por la puerta trasera.](huida/puerta.md)
 
 [Miró hacia el cielo mientras pensaba](pensamiento/guerra.md)
- 
+
 [Mandó a Beatito a buscar al cocinero](cocinero/cocinero.md)
 
 [Clavó sus ojos directamente sobre el Beatito...](rebelion/inicio-rebelion.md)
@@ -48,5 +53,76 @@ el Consejero:
 
 [La exageración y la indigestión](exageracion/exageracion.md)
 
+[Empieza a gritar como un poseso](poseso/poseso.md)
+
 [Se arrodilla y...](rogando/rogando.md)
 
+[Y vino un ejercito](ejercito/ejercito.md)
+
+[Un ejercito de angeles para ayudar a los guerreros.](angeles/angeles.md)
+
+[En el rincón donde dormía, el beatito...](beatito/beatito.md)
+
+[Llamo a su comandante en jefe..](comandante/comandante.md)
+
+[Ocupó su lugar junto al emperador en el recibimiento](recibimiento/recibimiento.md)
+
+[Le dice a Beatito, el momento ha llegado, La Nueva Dimensión](dimension/dimension.md)
+
+[Intenta recordar el nombre del general del ejercito](general/general.md)
+
+[Y de repente se acordo y sintion miedo...](kraken/kraken.md)
+
+[Organizó sus tropas y mandó a las mujeres y niños para sus casas](mujeres/mujeres.md)
+
+[Vió de repente en el cielo una luz brillante que iluminó como un sol el campo de batalla..](cielo/cielo.md)
+
+[Levanta su mano derecha, con el indice señala al ejército enemigo y les dice a sus soldados...](soldados/soldados.md)
+
+[Se dio cuenta de que su táctica había sido descubierta] (tactica/tactica.md)
+
+[Enseguida agarró el teléfono y realizó una llamada] (telefono/telefono.md)
+
+[La conversacion era irrelevante] (dolor/dolor.md)
+
+[Abrió los ojos. ¿Era todo una cruel pesadilla?](pesadilla/pesadilla.md)
+
+[Como siempre, aquel terrible dia terminó y otro lo sucedió](termino/termino.md)
+
+[Saco de su bolsillo un extraño artefacto y se lo dio a Beatito](artefacto/artefacto.md)
+
+Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)
+
+Al despertar y enfocar la vista vió lo que había sucedido tras la 
+explosión [que pasó?](explosion/explosion.md)
+
+Salió corriendo y no se lo vio nunca más en el reino
+
+Conectó su guitarra al amplificador y se puso a tocar una versión de "Siempre es lo mismo, nena", pero sin distorsión
+
+[Así comenzó el cuento del cuco en el pueblo, para que los niños temieran a los dioses] (cuco/cuco.md)
+
+A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo] (miedo/miedo.md)
+
+[Puso su mano derecha en su frente y se teletransportó al centro del ejército enemigo](pelea_epica/pelea_epica.md)
+
+Lo que nadie sabía, es que el consejero era un versado maestro instruído en las nobles artes Jedi. 
+
+- [Dark_side](dark_side/dark_side.md)
+
+- [Light_side](light_side/light_side.md)
+
+No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran las siguientes características:
+
+- [Características](caracteristicas/caracteristicas.md)
+
+Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla,
+ la guerra no había hecho más que [comenzar](guerra/duracion.md).
+
+"El que tenga rabo de paja ni que lo fajen chiquito", 
+dijo el [curandero](curandero/curandero.md)...
+
+Nadie sabiendo el secreto mejor guardado este epico personaje, "El gran mutante", 
+se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
+
+[Hizo un breve movimiento para llamar a sus ayudantes y](ayudantes/ayudantes.md)

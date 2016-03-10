@@ -21,3 +21,5 @@ just realize you have diabetes.
 [Taste The Rainbow](rainbow/rainbow.md)
 
 [Inspect The Melted Marshmallow](swim/swim.md)
+
+[Sign Up For Obamacare](obamacare/signup.md)
