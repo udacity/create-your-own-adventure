@@ -20,3 +20,6 @@ Decide to go to [sleep] instead?(../sleep/marshmallow.md)
 Opt for a [chemical-free nirvana]?(../sleep/sit-down-to-meditate.md)
 
 Go [back to the room]?(../marshmallow.md)
+
+Being indecisive, and suddenly feeling a need for something sweet, 
+you discover what seems to be a [little boy](../candy/candy.md) walking around...
