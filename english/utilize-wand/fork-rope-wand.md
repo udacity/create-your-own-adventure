@@ -6,3 +6,6 @@ you point your rope and fork wand to the door and firmly encant "Alohomora!"
     splintering as the sounds of grinding metal and wood fill the room.
 
         The door jars opens with a creak as the locking mechanism breaks.
+
+        As you gaze around the room one last time you can't help but feel
+        a strange sense of deja-vu...
