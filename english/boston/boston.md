@@ -5,4 +5,5 @@
 ...or on the second thought, I'll put on a coat, stop being a sissy, and get to work!
 
 [Go on vacation](../licked-cat/vacation.md)
+
 [Get to work](../gtd/gtd.md)
