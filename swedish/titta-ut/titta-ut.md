@@ -9,3 +9,4 @@ Efter att ha övervägt din situation väljer du att
 
 [göra dig en macka](macka/macka.md)
 
+[titta på en serie](serie/serie.md), eftersom det snart är morgon ändå.
