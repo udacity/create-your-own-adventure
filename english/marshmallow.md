@@ -24,6 +24,8 @@ You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
 [suggestions](travel-destinations/travel-destinations.md)
 
+Meet a [Schrodingers cat](schrodinger-cat/schrodinger-cat.md)
+
 Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 [I am the one who knocks](say-my-name/say-my-name.md)
