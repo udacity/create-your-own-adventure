@@ -24,6 +24,8 @@ You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
 [suggestions](travel-destinations/travel-destinations.md)
 
+Meet a [Schrodingers cat](schrodinger-cat/schrodinger-cat.md)
+
 Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 [I am the one who knocks](say-my-name/say-my-name.md)
@@ -851,4 +853,8 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 
 [..and recall that Carl Johnson might be alive](Carl/carl-johnson.md)
 
+[Or, forget it all, and jump off the cliff](cliff/cliff.md)
+
 [Make a pie chart](http://i.imgur.com/uaFES1b.jpg)
+
+
