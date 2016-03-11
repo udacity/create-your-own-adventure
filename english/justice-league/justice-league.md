@@ -12,6 +12,7 @@ Who will answer the call?
   - Batman?
   - Wonder Woman?
   - Flash?
+  - Green Arrow?
   - Green Lantern?
   - Aquaman?
   - Martian Manhunter?
