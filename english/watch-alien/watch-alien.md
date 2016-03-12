@@ -16,4 +16,4 @@ The knocked on the door suprises you, as you open your eyes, and get up from the
 As you walk to the door, you wonder what a strange dream.
 You open the door, suspicous black suited person
 
-[Asking you a questions?](man/mulder.md)
+[Asking you a questions?](../talk_to_neighbour/man/mulder.md)
