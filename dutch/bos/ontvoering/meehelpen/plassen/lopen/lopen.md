@@ -3,10 +3,6 @@ Wat doe je?
 
 Je laat je op de grond vallen en doet alsof je dood bent.
 
-
 Je klimt in een boom.
-
-Gelukkig rennen de zware jongens je zo [voorbij](vastzitten/vastzitten.md),
-terwijl je in de boom zit.
-
+Maar komt [vast te zitten](vastzitten/terugrennen.md).
 Je stopt, [draait je om](omdraaien/terugrennen.md) en rent zo hard als je kan op de zware jongens af.
