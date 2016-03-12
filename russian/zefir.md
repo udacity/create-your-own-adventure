@@ -30,6 +30,8 @@
 
 [Разведёте костер.](light-fire/fire.md)
 
+[Включите вести недели](vesti-nedeli/vesti.md)
+
 [Попытаетесь проснуться.](awaken/awaken.md)
 
 [Вернётесь ко сну.](sleep/zefir.md)
@@ -71,3 +73,5 @@
 [Внезапно безумно начну просить сломать меня] (break-me-completelly/break-me.md)
 
 [Зевну, откушу кусок зефира и снова усну...](dream/dream.md)
+
+[Завоюю мир, в котором проснулся](conquer/lead.md)
