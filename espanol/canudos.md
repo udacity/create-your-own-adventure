@@ -2,6 +2,8 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
+[Hizo un gesto a Beatito](revolucion/revolucion.md)
+
 [Mandó llamar a Jordi Hurtado](jordiHurtado/jordiHurtado.md)
 
 [Sintió como la comida le subía por el exófago](comida/comida.md)
