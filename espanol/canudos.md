@@ -95,7 +95,7 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)
 
-Al despertar y enfocar la vista vió lo que había sucedido tras la 
+Al despertar y enfocar la vista vió lo que había sucedido tras la
 explosión [que pasó?](explosion/explosion.md)
 
 Salió corriendo y no se lo vio nunca más en el reino
@@ -108,7 +108,7 @@ A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo]
 
 [Puso su mano derecha en su frente y se teletransportó al centro del ejército enemigo](pelea_epica/pelea_epica.md)
 
-Lo que nadie sabía, es que el consejero era un versado maestro instruído en las nobles artes Jedi. 
+Lo que nadie sabía, es que el consejero era un versado maestro instruído en las nobles artes Jedi.
 
 - [Dark_side](dark_side/dark_side.md)
 
@@ -121,12 +121,14 @@ No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran l
 Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla,
  la guerra no había hecho más que [comenzar](guerra/duracion.md).
 
-"El que tenga rabo de paja ni que lo fajen chiquito", 
+"El que tenga rabo de paja ni que lo fajen chiquito",
 dijo el [curandero](curandero/curandero.md)...
 
-Nadie sabiendo el secreto mejor guardado este epico personaje, "El gran mutante", 
+Nadie sabiendo el secreto mejor guardado este epico personaje, "El gran mutante",
 se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
 
 [Hizo un breve movimiento para llamar a sus ayudantes y](ayudantes/ayudantes.md)
 
 éstos, sin mediar palabra y al unísono, [no dudaron](ayudantes_accion/ayudantes_accion.md)
+
+[Tuvo una epifania](epifania/consejero-de-la-mancha.md)
