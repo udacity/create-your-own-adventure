@@ -2,6 +2,8 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
+[Mandó llamar a Jordi Hurtado](jordiHurtado/jordiHurtado.md)
+
 [Sintió como la comida le subía por el exófago](comida/comida.md)
 
 [Mandó a congregar a Canudos entero al templo.](templo/templo.md)
@@ -124,3 +126,7 @@ dijo el [curandero](curandero/curandero.md)...
 
 Nadie sabiendo el secreto mejor guardado este epico personaje, "El gran mutante", 
 se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
+
+[Hizo un breve movimiento para llamar a sus ayudantes y](ayudantes/ayudantes.md)
+
+éstos, sin mediar palabra y al unísono, [no dudaron](ayudantes_accion/ayudantes_accion.md)

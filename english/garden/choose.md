@@ -9,3 +9,5 @@ You decide to choose:
 [Carrots](carrots/carrots.md)
 
 [Tomatoes](tomatoes/tomatoes.md)
+
+[Onions](onions/onions.md)

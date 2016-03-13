@@ -24,6 +24,8 @@ You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
 [suggestions](travel-destinations/travel-destinations.md)
 
+Meet a [Schrodingers cat](schrodinger-cat/schrodinger-cat.md)
+
 Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 [I am the one who knocks](say-my-name/say-my-name.md)
@@ -265,6 +267,8 @@ Do you:
 
 Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
 
+Take out your [crochet project](crochet/crochet.md) instead and finish that teddy bear you've been working on.
+
 [Realize you are in the ...](in-matrix/matrix.md)
 
 [Realize you better call Saul](better-call-saul/saul.md)
@@ -284,6 +288,8 @@ Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
 [Admire your glowing pants](glowing-pants/glowing-pants.md)
 
 [Grab some coffee?](coffee/coffee.md)
+
+[Grab some wine?](wine/wine.md)
 
 [Call the GhostBusters](ghostbusters/ghostbusters.md)
 
@@ -827,6 +833,8 @@ But the cold never bothered me anyway.
 
 Let it go, let it gooo...
 
+CANT HOLD IT BACK ANY MORE
+
 Do you want to build a [snowman?] (snowman/snowman.md)
 
 I think I'll try defying gravity. 
@@ -842,4 +850,11 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 [I hope you aren't using a poorly built crawler on this](./marshmallow.md)
 
 [Read my story](magic2/magic2.md)
+
+[..and recall that Carl Johnson might be alive](Carl/carl-johnson.md)
+
+[Or, forget it all, and jump off the cliff](cliff/cliff.md)
+
+[Make a pie chart](http://i.imgur.com/uaFES1b.jpg)
+
 

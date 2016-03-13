@@ -14,3 +14,5 @@ Do you:
 [sing a song while having Thai food](../../english/sing-song/sing.md)
 
 [ดูทีวี eat Thai food and watch TV](https://www.youtube.com)
+
+Actually I prefer Thai Green Curry better!

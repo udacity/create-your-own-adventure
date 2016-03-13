@@ -17,3 +17,5 @@ from? Since you cannot remember any of these things then it begins
 to dawn on you that you really are still having a dream.
 
 ....... [Not quite.](wake-up-again/wake-up-again.md)
+
+[Stay in the dream and explore the island](dessert-island/explore-island.md)
