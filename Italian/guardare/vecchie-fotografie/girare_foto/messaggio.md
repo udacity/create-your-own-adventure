@@ -7,3 +7,5 @@ di una giovane ragazza che è stato bruciato.
 
 Il messaggio dietro la fotografia è il seguente: 
 "Sei sulla buona strada..."
+
+Giri nuovamente la fotografia e la guardi meglio.
