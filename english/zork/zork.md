@@ -9,3 +9,5 @@ Not to be confused with Felonious Gru and his minions...
 Very scary story for halloween
 
 There is an object that looks like a [torch](../torch/torch.md) on the ground.
+
+There is also om twine on the ground.
