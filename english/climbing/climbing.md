@@ -6,3 +6,4 @@ Click [here](../froboznia/froboznia.md) to open the door.
 
 Click [here](../marshmallow.md) to lower yourself back down into the pit of despair.
 
+Click [here](../dance/dance.md) to dance.
