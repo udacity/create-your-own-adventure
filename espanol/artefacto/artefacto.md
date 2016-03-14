@@ -3,3 +3,6 @@ Beatito asombrado cogió el artefacto, mientras el Consejero le decia
 asintio con su cabeza a la vez que accionaba el artefacto, 
 entonces se oyo una gran explosión en la habitacion y:
 
+[Apareció una misteriosa pareja de alienígenas](resultado_explosion/alienigenas.md)
+
+[Ambos perdieron la capacidad de oir](resultado_explosion/perderoido.md)
