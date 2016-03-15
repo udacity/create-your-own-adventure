@@ -1,4 +1,4 @@
-Du vandrer sydpå og fra bakkerne hører du lyden af "Bob bob bob". Det er Benny, som vandrer rundt og snakker med sig selv.
+Du vandrer sydpå og fra bakkerne hører du lyden af [musik](https://www.youtube.com/watch?v=cUGd8X7bjuo).
 
 Men du vælger at ignorere det og prøver at finde et køretøj. Vælger du:
 
