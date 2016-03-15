@@ -1,3 +1,3 @@
 Git, so wonderful
-It's beautiful branch structure
+Its beautiful branch structure
 five, seven, five, yay!
