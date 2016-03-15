@@ -8,7 +8,7 @@ Men du vælger at ignorere det og prøver at finde et køretøj. Vælger du:
 
 [at ride med Dick Turpin](https://www.youtube.com/watch?v=n4d3RW488AQ)?
 
-Finde et lift på [GoMore] (lift/lift.md)?
+En [forladt bil] (bobob/bob.md), der holder i vejkanten?
 
 eller
 
