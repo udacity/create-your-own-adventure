@@ -8,7 +8,7 @@ Men du vælger at ignorere det og prøver at finde et køretøj. Vælger du:
 
 [at ride med Dick Turpin](https://www.youtube.com/watch?v=n4d3RW488AQ)?
 
-En [forladt bil] (bobob/bob.md), der holder i vejkanten?
+En [forladt bil] (bobbob/bob.md), der holder i vejkanten?
 
 eller
 
