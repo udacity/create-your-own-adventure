@@ -1,3 +1,3 @@
 Git, so wonderful
-Beautiful branch structure
-[Discard the hiku](../)
+It's beautiful branch structure
+five, seven, five, yay!
