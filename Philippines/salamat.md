@@ -5,3 +5,5 @@ online class na ito :D
 Ipagpatuloy ang adventure [dito] (bago/bago.md).
 
 Un oh. Nakapag-tagalog din. [Pindot Kalikot] (bago/bago.md)
+
+Buksan ang [pinto] (bagong simula/bagong_simula.md).

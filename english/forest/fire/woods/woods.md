@@ -11,3 +11,6 @@ they are welcome to join the tribe of ancient warlocks.
 
 Maybe you decided to follow the shawman deeper into the forest?
 
+[Follow the shawman](follow/follow.md)
+
+[Go back to camp](camp/camp.md)

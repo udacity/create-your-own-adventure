@@ -19,3 +19,5 @@ Amnesia can be freaking awesome sometimes :)
 Or it can be highly disturbing.
 
 Or, it can be highly... oh, I forgot what I was going to say.
+
+Who am I?  Where am I?  What am I doing?
