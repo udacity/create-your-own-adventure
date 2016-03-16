@@ -4,7 +4,8 @@ You find yourself face to face with the Froboznian police.
 
 You decide to
 
--> [Surrender](Surrender\Surrender.md)
--> [Fight Back](FightBack\FightBack.md) 
+-> [Surrender](Surrender/Surrender.md)
+
+-> [Fight Back](FightBack/FightBack.md) 
 
 
