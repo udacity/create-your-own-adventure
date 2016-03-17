@@ -21,6 +21,4 @@ convince yourself you're [dreaming](../dream/dream.md)
 
 [meditate](../meditate/meditate.md)
 
-make a [haiku](../write-a-hiku/hiku.md) to stay calm
-
 [scream](../scream/scream.md)
