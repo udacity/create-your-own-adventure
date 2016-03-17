@@ -6,4 +6,4 @@ You deftly spin around the clumsy officer's hand and rush out the doorway on the
 other side of the room.  You enter a huge, poorly lit cavern and desperately search
 for an escape route.  You see a rickety bridge spanning a bottomless chasm.
 
-[Take the Bridge] (../get-way/get-away.md)
+[Take the Bridge] (../get-away/get-away.md)
