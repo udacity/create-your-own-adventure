@@ -11,16 +11,16 @@ next to the campfire, and drift off to sleep.
 You awake to find you're being dragged across
 the forest floor. But by who or what?
 
-Perhaps a [bear](english/bear/bear.md) got a hold of you.
+Perhaps a [bear](../bear/bear.md) got a hold of you.
 
 In a moment of panic, you:
 
-[sing](english/sing/sing.md)
+[sing](../sing/sing.md)
 
-convince yourself you're [dreaming](english/dream/dream.md)
+convince yourself you're [dreaming](../dream/dream.md)
 
-[meditate](english/meditate/meditate.md)
+[meditate](../meditate/meditate.md)
 
-make a [haiku](english/write-a-hiku/hiku.md) to stay calm
+make a [haiku](../write-a-hiku/hiku.md) to stay calm
 
-[scream](english/scream/scream.md)
+[scream](../scream/scream.md)
