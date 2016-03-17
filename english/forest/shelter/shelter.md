@@ -5,3 +5,5 @@ There's a terrible storm brewing...
 
 This will be the worst storm to hit this 
 area in over a century.
+
+And then you deploy your tent and sleep.
