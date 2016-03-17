@@ -4,5 +4,9 @@ because as you make yourself comfortable for the night the heaven's open.
 There's a terrible storm brewing... 
 
 This will be the worst storm to hit this 
+
 area in over a century.
 But you do not despair
+
+And then you deploy your tent and sleep.
+
