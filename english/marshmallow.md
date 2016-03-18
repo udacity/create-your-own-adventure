@@ -865,5 +865,7 @@ Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indon
 
 Explore the unknown. Most people die without ever visiting this [place.](underwater/scuba-diving.md)
 
-As you attempt this, a voice [booms](day-dream/day-dream.md)!!
+As you attempt this, a voice booms!!
+
+The [boom](day-dream/day-dream.md) 
 
