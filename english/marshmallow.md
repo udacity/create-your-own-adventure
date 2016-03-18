@@ -867,3 +867,5 @@ Explore the unknown. Most people die without ever visiting this [place.](underwa
 
 As you attempt this, a voice booms!!
 
+The [boom](day-dream/day-dream.md) 
+
