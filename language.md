@@ -18,6 +18,8 @@ If you speak Punjabi, [go here](punjabi/punjabi.md).
 
 如果你说中文而且想要听大话西游的故事，[点击这里](Chinese/大话西游.md).
 
+如果你说中文而且想要了解机器人 Casey 的故事，[点击这里](Chinese/Casey/大话西游.md).
+
 如果你说中文而且想要了解一个新的世界，[请点击这里](Chinese/DesertHell/NewWorld.md).
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
