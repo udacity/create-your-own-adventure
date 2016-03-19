@@ -132,3 +132,5 @@ se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
 [Hizo un breve movimiento para llamar a sus ayudantes y](ayudantes/ayudantes.md)
 
 éstos, sin mediar palabra y al unísono, [no dudaron](ayudantes_accion/ayudantes_accion.md)
+
+Y llego spiderman a salvar el dia.
