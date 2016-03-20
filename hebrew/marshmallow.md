@@ -9,3 +9,5 @@
 [תזיין את אחותך](sister/your-sister.md)
 
 [אתה קורא את מה שכתוב, יוצא מההלם, ומחפש אופציה שפויה](sane-option/fresh-start.md)
+
+ עם של דגנרטים[surprise_surprise_click_here>>>/surprise.md]
