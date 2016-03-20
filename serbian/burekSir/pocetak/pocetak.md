@@ -1,7 +1,11 @@
-Čemu bes, čemu ozlojađenost. Pekara može i sme da ostane bez mog omiljenog bureka. Ljudi oko mene mogu da se smeju. Loše stvari mogu da se dese. Dobre stvari mogu da se dese. 
-Moje mišljenje i osećanje da nešto mora da se desi je skroz pogrešno: "Ova pekara MORA da ima burek s mesom".
+Čemu bes, čemu ozlojađenost. Pekara može i sme da ostane bez mog omiljenog bureka.
+Ljudi oko mene mogu da se smeju. Loše stvari mogu da se dese. Dobre stvari mogu da se dese. 
+Moje mišljenje i osećanje da nešto mora da se desi je skroz pogrešno:
 
-Koja sam ja budala. Ne mora! Može da se rasproda, može pekar da zaboravi da napravi dovoljnu količinu, može neko da kupi 5 kila bureka za proslavu...
+ "Ova pekara MORA da ima burek s mesom".
+
+Koja sam ja budala. Ne mora! Može da se rasproda, može pekar da zaboravi da napravi dovoljnu količinu,
+ može neko da kupi 5 kila bureka za proslavu...
 
 Svet dozvoljava sve mogućnosti. Zašto sam ovako limitirao svoje mišljenje???
 Pa zar me toliko bole noge da ne mogu da odem u drugu pekaru? :) Ko da ne mogu kupim nešto drugo za jelo :)
