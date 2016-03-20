@@ -21,7 +21,7 @@ Da. Moj život je pun strahovitih nesreća. A najveća je što ova pekara nema b
 
 Tako je počela njegova [promena](promena/promena.md).
 
-[Idem da se napijem.](http://zenpencils.com/comic/78-jessie-b-rittenhouse-my-wage/)
+[Idem da se napijem.](http://zenpencils.com/comic/78-jessie-b-rittenhouse-my-wage)
 
 [Bes](bes/bes.md)
 
