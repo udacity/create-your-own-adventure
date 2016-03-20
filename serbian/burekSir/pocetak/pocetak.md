@@ -1,4 +1,4 @@
-Čemu [bes](bes.md), čemu [ozlojađenost](nezadovoljstvo.md). Pekara može i sme da ostane bez mog omiljenog bureka. Ljudi oko mene mogu da se smeju. Loše stvari mogu da se dese. Dobre stvari mogu da se dese. 
+Čemu bes, čemu ozlojađenost. Pekara može i sme da ostane bez mog omiljenog bureka. Ljudi oko mene mogu da se smeju. Loše stvari mogu da se dese. Dobre stvari mogu da se dese. 
 Moje mišljenje i osećanje da nešto mora da se desi je skroz pogrešno: "Ova pekara MORA da ima burek s mesom".
 
 Koja sam ja budala. Ne mora! Može da se rasproda, može pekar da zaboravi da napravi dovoljnu količinu, može neko da kupi 5 kila bureka za proslavu...
@@ -15,6 +15,10 @@ Sećam se kako je govorio onaj matori:
 Da. Moj život je pun strahovitih nesreća. A najveća je što ova pekara nema burek s mesom. Hahahahaha :)
 
 
-Tako je počela njegova [promena](promena.md).
+Tako je počela njegova [promena](promena/promena.md).
 
-Koje su ovo budalaštine, [idem](http://zenpencils.com/comic/78-jessie-b-rittenhouse-my-wage/) da se napijem.
+[Idem da se napijem.](http://zenpencils.com/comic/78-jessie-b-rittenhouse-my-wage/)
+
+[Bes](bes/bes.md)
+
+[Ozlojađenost](nezadovoljstvo/nezadovoljstvo.md)
