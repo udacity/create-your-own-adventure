@@ -14,9 +14,9 @@ curiosity, I leaned in and said, "what truth?" He too leaned
 towards me ever so close that I could smell everything that  
 was emanating from his pores, and whispered,  
   
-1) ["That you are a slave"](./the-real-matrix/slave)
+1) ["That you are a slave"](./the-real-matrix/slave.md)
   
-2) ["That you are the one"](./the-real-matrix/the-one)
+2) ["That you are the one"](./the-real-matrix/the-one.md)
 
 <pre>
 
