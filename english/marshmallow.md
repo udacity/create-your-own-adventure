@@ -4,9 +4,9 @@ You decide the only way out is to climb, [climb](climbing/climbing.md) hard frie
 
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
 
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down
 
-Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
+Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md)
 
 Vist the master [liquid](liquid/liquid.md).
 
@@ -732,14 +732,14 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
-Despite the little conundrum that you resolved, you realize that it's now 
-Friday, December 4th.  
+Despite the little conundrum that you resolved, you realize that it's now
+Friday, December 4th.
 
 "Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
 
 With that new revelation in mind, you quickly make like David Hasselhoff
 and wiggle your wrist to show off a nice particular watch that even listens
-to you when you speak to it.  
+to you when you speak to it.
 
 ["Ahem!"](my-adventure/my-adventure.md)
 
@@ -754,9 +754,9 @@ I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/s
 
 "I dont't know! Why should I care?" replied Donald Trump.
 
-When faced with a lot of work and impending deadlines 
+When faced with a lot of work and impending deadlines
 in the (not so near) future,
-there are two options you must choose from. 
+there are two options you must choose from.
 
 You may either do [this](gtd/gtd.md),
 
@@ -768,12 +768,12 @@ You may either do [this](gtd/gtd.md),
 
 [Get Crazy!](crazy/crazy.md)
 
-"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
+"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim
 [move to Boston](boston/boston.md)."
 
 Wait a second, I actually meant to say that [Camelot](camelot/camelot.md) is where I really want to go!
 
-"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
+"Who will you [serve] (joshua_24_15/joshua_24_15.md)?"
 
 Yourself?
 
@@ -787,7 +787,7 @@ You decide that $1.5 billion is too much to pass up, so you buy a [Powerball tic
 
 What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
 
-The divergence is coming, [survive](divergence/divergence.md) or perish? 
+The divergence is coming, [survive](divergence/divergence.md) or perish?
 
 [Hear a roaring sound in the distance](https://youtu.be/d-sALU_hveA?t=33s)
 
@@ -841,7 +841,7 @@ Do you want to build a [snowman?] (snowman/snowman.md)
 
 It doesn't have [to be a snowman](to-be-a-snowman/to-be-a-snowman.md)
 
-I think I'll try defying gravity. 
+I think I'll try defying gravity.
 
 Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indonesia)
 
@@ -869,5 +869,6 @@ Explore the unknown. Most people die without ever visiting this [place.](underwa
 
 As you attempt this, a voice booms!!
 
-The [boom](day-dream/day-dream.md) 
+The [boom](day-dream/day-dream.md)
 
+Is it really? You see what appears to be a tunnel coming towards you, a tunnel leading into the [unknown](dimensions/dimension.md)
