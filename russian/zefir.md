@@ -79,3 +79,5 @@
 [Завоюю мир, в котором проснулся](conquer/lead.md)
 
 [Отхлебну и закушу](kompot/kompot.md)
+
+[Открою Instagram](instagram/instagram.md)
