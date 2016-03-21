@@ -871,3 +871,4 @@ As you attempt this, a voice booms!!
 
 The [boom](day-dream/day-dream.md) 
 
+You see what appears to be a tunnel, a tunnel leading into the [unknown](dimensions/dimension.md)
