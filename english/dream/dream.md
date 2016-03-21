@@ -21,3 +21,5 @@ Afterwards, you decide to:
 [karaoke](../karaoke/nope.md)
 
 [Drink a nice cup of tea](../tea/tea.md)
+
+[swim](../swim/swim.md)
