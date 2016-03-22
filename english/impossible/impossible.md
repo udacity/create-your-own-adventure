@@ -15,9 +15,9 @@ Have I become a [front-end web developer](https://www.udacity.com/course/front-e
 
 Is that a [Python](https://en.wikipedia.org/wiki/Pythonidae) on my desktop?
 
-No. Wait. Am I a [full stack web developer](http3://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)?
+No. Wait. Am I a [full stack web developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)?
 
 This is not possible. I need to look more closely at the data in front of me.
 Surely I have not become a [data analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
-Is this merely a [dream within a dream](../dream-in-dream/inception.md)
+Is this merely a [dream within a dream](../dream_in_dream/inception.md)
