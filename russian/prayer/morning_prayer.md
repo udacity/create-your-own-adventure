@@ -6,4 +6,4 @@
 
 [Появляются два персонажа, стремящиеся уточнить твое благосостояние и избавить тебя от этих излишков](gopstop/gopstop.md)
 
-[Афиша фильма "Ex-Machina"](exmachina/exmachina)
+[Афиша фильма "Ex-Machina"](exmachina/exmachina.md)
