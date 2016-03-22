@@ -4,7 +4,7 @@ IM POS SI BLE
   - unable to be, exist, happen
   - not capable of being accomplished
 
-You begin to [ponder](../ponder-about-life.md).
+You begin to [ponder](../ponder/ponder-about-life.md).
 
 Suddenly you have a flashback to being in a [forest](../forest/forest.md)
 
