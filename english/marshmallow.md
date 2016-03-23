@@ -869,3 +869,5 @@ As you attempt this, a voice booms!!
 
 The [boom](day-dream/day-dream.md) 
 
+You feel woozy, [you take a nap](thunder-carrots/thunder-carrots.md).
+
