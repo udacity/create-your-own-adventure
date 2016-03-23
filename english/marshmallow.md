@@ -829,6 +829,8 @@ Hi i got this one for udacity team.
 As the sand encompassed her toes and
 the ocean-spray breezed through her nose
 
+[Winter has arrived](english/the-apocalypse/apocalypse.md)
+
 she froze...
 
 But the cold never bothered me anyway.
