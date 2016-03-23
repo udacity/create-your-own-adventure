@@ -876,3 +876,5 @@ Is it really? You see what appears to be a tunnel, a tunnel leading into the [un
 You start your way through the tunnel but you feel something coming [on](blackout/blackout.md)
 
 For the love of Matt Murdock [Daredevil](watch-movie/Daredevil-marshmallows/daredevil-marshmallows.md)
+
+So what to do next? Three doors appear and all other ways out disappear. So you pick the [right door](mysterydoor/mysterydoor.md)
