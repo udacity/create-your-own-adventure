@@ -873,6 +873,6 @@ The [boom](day-dream/day-dream.md)
 
 Is it really? You see what appears to be a tunnel, a tunnel leading into the [unknown](dimensions/dimension.md)
 
-For the love of Matt Murdock [Daredevil](watch-movie/Daredevil-marshmallows/daredevil-marshmallows.md)
-
 You start your way through the tunnel but you feel something coming [on](blackout/blackout.md)
+
+For the love of Matt Murdock [Daredevil](watch-movie/Daredevil-marshmallows/daredevil-marshmallows.md)
