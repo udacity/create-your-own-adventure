@@ -6,7 +6,7 @@ You fall to the ground and hit your head. You come to, and,
 
 Yes!
 
-That's how to [clone](https://help.github.com/articles/fork-a-repo/) a remote!
+That's how to [clone](https://www.google.com/search?q=fork+a+repo&oq=fork+a+repo&aqs=chrome..69i57j69i60j0l4.1958j0j1&sourceid=chrome&ie=UTF-8) a remote!
 
 So you get to cloning. And get [back to your journey](../marshmallow.md).
 
