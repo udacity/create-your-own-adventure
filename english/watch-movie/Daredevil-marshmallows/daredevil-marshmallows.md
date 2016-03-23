@@ -1,4 +1,4 @@
-The marshmallows did not like Casablanca. [watch-movie](../up.md)
+The marshmallows did not like Casablanca. [watch-movie](../Up.md)
 
 The marshmallows requires more Daredevil.
 
