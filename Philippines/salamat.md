@@ -7,3 +7,5 @@ Ipagpatuloy ang adventure [dito] (bago/bago.md).
 Un oh. Nakapag-tagalog din. [Pindot Kalikot] (bago/bago.md)
 
 Buksan ang [pinto] (bagong simula/bagong_simula.md).
+
+Buksan ang [isipan] (maging_malaya/papalayain_ka_ng_katotohanan.md) 
