@@ -1,0 +1,2 @@
+Sa halip na aksayahin natin ang ating panahon at talento sa isang bansa na wala naman talagang totoong pagnanasang magbago
+bakit hindi nalang natin ibahagi ang ating kakayahan at kaalaman sa open source community na bukas sa mga taong may tunay na pagnanasa sa tunay na kalayaan at pagkakapantay pantay.Kung nais mong tumulong sa natatanging komunidad na ito ibahagi lamang ang [link na ito] (https://opensource.org/community)
