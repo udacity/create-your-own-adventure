@@ -1,0 +1,1 @@
+Did you know that Taiwan has its own "Anne Frank" story about a man in Hsinchu who hid in a small, secret hiding place -- a thin space between two walls, with no room to even stand up -- for 18 years during the White Terror period?
