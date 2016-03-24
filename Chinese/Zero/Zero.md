@@ -1,0 +1,1 @@
+Click [here](https://en.wikipedia.org/wiki/Kobe_Bryant) to visit wikipedia of Kobe.
