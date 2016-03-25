@@ -8,8 +8,8 @@
 
 Вашы дзеянні:
 
-[Набяру пабольш зефіру, ён жа безкаштоўны!](sell-zefir/sell-zefir.md).
+[Набяру пабольш зефіру, ён жа безкаштоўны](sell-zefir/sell-zefir.md)
 
-[Пабягу ў абменнiк купляць далляры](exchange-office/exchange-office.md).
+[Пабягу ў абменнiк купляць далляры](exchange-office/exchange-office.md)
 
-[Пасплю яшчэ гадзінку](sleep-sweet/sleep-sweet.md).
+[Пасплю яшчэ гадзінку](sleep-sweet/sleep-sweet.md)
