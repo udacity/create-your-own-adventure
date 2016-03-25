@@ -42,6 +42,8 @@ Ha beszélsz magyarul, [kövess](hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
 
+Калі вы размаўляеце па-беларуску, вам [сюды] (belarussian/zefir.md)
+
 Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
 
 Toegang tot de [nederlandse versie](dutch/welkom.md).
