@@ -880,3 +880,7 @@ For the love of Matt Murdock [Daredevil](watch-movie/Daredevil-marshmallows/dare
 You feel woozy, [you take a nap](thunder-carrots/thunder-carrots.md).
 
 You decide to go scuba diving and see a [great submarine](submarine/greatDeep.md).
+
+So what to do next? Three doors appear and all other ways out disappear. 
+So you pick the [right door](mysterydoor/mysterydoor.md)
+
