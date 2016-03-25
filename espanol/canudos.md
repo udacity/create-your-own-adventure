@@ -41,7 +41,8 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 [Subió a la torre](torre/torre.md)
 
-[Se cansó de la guerra y decidió alienarse de todo lo material, accediendo a un estado de meditación transcendente](transcender/transcender.md)
+Se cansó de la guerra y decidió alienarse de todo lo material, 
+accediendo a un [estado de meditación transcendente](transcender/transcender.md)
 
 [Ordenó buscar al Capitán Trueno](capitan/trueno.md)
 
