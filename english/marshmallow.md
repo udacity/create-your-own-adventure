@@ -872,3 +872,16 @@ As you attempt this, a voice booms!!
 The [boom](day-dream/day-dream.md) 
 
 Is it really? You see what appears to be a tunnel, a tunnel leading into the [unknown](dimensions/dimension.md)
+
+You start your way through the tunnel but you feel something coming [on](blackout/blackout.md)
+
+For the love of Matt Murdock [Daredevil](watch-movie/Daredevil-marshmallows/daredevil-marshmallows.md)
+
+You feel woozy, [you take a nap](thunder-carrots/thunder-carrots.md).
+
+You decide to go scuba diving and see a [great submarine](submarine/greatDeep.md).
+
+So what to do next? Three doors appear and all other ways out disappear. 
+So you pick the [right door](mysterydoor/mysterydoor.md)
+
+You put your [cowboy hat](cowboy/cowboy.md) back on your head.

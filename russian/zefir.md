@@ -16,6 +16,8 @@
 
 Ваши действия:
 
+[Начать танцевать Лезгинку](dance_lezginka/dance.md)
+
 [Смешать водку с пивом](vodka/vodka.md)
 
 [Импортозаместить тромбон на гусли](gusli/gusli.md)
@@ -81,3 +83,5 @@
 [Отхлебну и закушу](kompot/kompot.md)
 
 [Открою Instagram](instagram/instagram.md)
+
+[Бросить "уделанную" футболку Slayer в стирку и отправиться на заутреннюю молитву](prayer/morning_prayer.md)
