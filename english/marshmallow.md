@@ -884,3 +884,4 @@ You decide to go scuba diving and see a [great submarine](submarine/greatDeep.md
 So what to do next? Three doors appear and all other ways out disappear. 
 So you pick the [right door](mysterydoor/mysterydoor.md)
 
+You put your [cowboy hat](cowboy/cowboy.md) back on your head.
