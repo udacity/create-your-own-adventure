@@ -885,3 +885,5 @@ So what to do next? Three doors appear and all other ways out disappear.
 So you pick the [right door](mysterydoor/mysterydoor.md)
 
 You put your [cowboy hat](cowboy/cowboy.md) back on your head.
+
+Or... or... or... Oh, I forgot!
