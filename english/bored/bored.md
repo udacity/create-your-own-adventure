@@ -7,3 +7,5 @@
 "Or decide it's [STORY TIME](../avatar/air.md)?"
 
 "Or should I go on an [ADVENTURE!](../eat-rainbows/rainbows.md)?"
+
+"Or maybe [escape to the wilderness](../escape-to-the-wilderness/wilderness.md)?"

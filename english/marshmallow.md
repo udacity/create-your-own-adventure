@@ -1,3 +1,5 @@
+[Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
+
 You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
 
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
@@ -867,3 +869,12 @@ Explore the unknown. Most people die without ever visiting this [place.](underwa
 
 As you attempt this, a voice booms!!
 
+The [boom](day-dream/day-dream.md) 
+
+Is it really? You see what appears to be a tunnel, a tunnel leading into the [unknown](dimensions/dimension.md)
+
+You start your way through the tunnel but you feel something coming [on](blackout/blackout.md)
+
+For the love of Matt Murdock [Daredevil](watch-movie/Daredevil-marshmallows/daredevil-marshmallows.md)
+
+You feel woozy, [you take a nap](thunder-carrots/thunder-carrots.md).

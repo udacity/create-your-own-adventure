@@ -11,3 +11,5 @@ Very scary story for halloween
 There is an object that looks like a [torch](../torch/torch.md) on the ground.
 
 There is also om twine on the ground.
+
+The work Zork brings back memories.
