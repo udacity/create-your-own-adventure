@@ -1,8 +1,8 @@
-﻿चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
+चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
 
 बॉलीवुड में आपका स्वागत है !
 
-आपका पसंदीदा अभिनेता कौन है?
+आपका पसंदीदा अभिनेता कौन है?      
 मुझे बोर मत करो
 
 SRK ,[go here](actor1/srk.md)
@@ -15,7 +15,7 @@ Hrithik Roshan, [यहाँ देखें](hrithik/hrithik.md)
 
 shraddha kappor,[go here](shraddha/shraddha.md)
 
-आमीर खान को तो भूल ही गए थे ये लोग |
+आमीर खान को तो भूल ही गए थे ये लोग | 
 [यहाँ दबाये  ](./actor4/aamir.md)
 
 दीपिका पादुकोन  के लिए
