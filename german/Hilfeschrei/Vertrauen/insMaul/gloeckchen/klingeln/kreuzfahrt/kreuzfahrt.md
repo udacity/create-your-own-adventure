@@ -1,0 +1,3 @@
+Und so gewaltig ist das Niesen des Blauwals, dass es Sie hinaus katapultiert aus dem Wal; wie ein Torpedo schießen Sie durch das salzige Wasser, durchbrechen die Oberfläche und landen mit einem königlichen Bauchplatscher in einem chlorhaltigen Pool. Mit letzter Ktaft heben Sie den Kopf und während Sie noch nach Luft ringen und Wasser spucken, merken Sie : Sie sind auf einem Kreuzfahrtschiff gelandet! 
+
+Soweit alles, gut, denken Sie noch, da sehen Sie, wie sich mit Highspeed zwei große Schlauchboote voller Bewaffneter dem Schiff nähern ...
