@@ -17,3 +17,6 @@ Here we provide a list of benefits:
 7. Protection from injury
 9. Increases happiness
 10. Meet righteous babes.
+11. Increases focus.
+12. Make you calm and manages anger.
+13. Help you connect with your soul and inner god.
