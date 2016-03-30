@@ -16,6 +16,8 @@ and play
 
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
+and [dance](dance/dance.md) 
+
 and search for your [destiny](destiny/destiny.md).
 
 Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
