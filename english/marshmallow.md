@@ -888,3 +888,5 @@ You put your [cowboy hat](cowboy/cowboy.md) back on your head.
 
 Or... or... or... Oh, I forgot!
 You foget something, but you decide to [move on](move-on/move-on.md).
+
+You follow the panda up the nearest tree, chewing bamboo shoots as you go [bamboo-shoots](bamboo/bamboo-shoots.md)
