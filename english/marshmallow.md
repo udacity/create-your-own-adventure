@@ -12,6 +12,8 @@ Vist the master [liquid](liquid/liquid.md).
 
 Drink some [bear](bear/bear.md)
 
+and play
+
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
 and search for your [destiny](destiny/destiny.md).
