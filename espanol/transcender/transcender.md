@@ -8,4 +8,5 @@ Pero aún persistian sus pensamientos. Debería desprenderse de esos también, s
 debidamente. El problema residía en el tipo de pensamientos que debía intentar deshechar primero:
 
 [Liberarse del temor a dejar de existir](liberarse-temor-existir/existir.md)
+
 [Liberarse de sus propios recuerdos y concepciones terrenales](liberarse-recuerdos/recuerdos.md)
