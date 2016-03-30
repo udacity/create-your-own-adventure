@@ -5,7 +5,9 @@ su existencia el Consejero. Una de las últimas figuras que, por así decir, des
 ya no era mas que una masa de colores amorfa que aún se diferenciaba del "fondo".
 
 Pero aún persistian sus pensamientos. Debería desprenderse de esos también, si quería transcender 
-debidamente. El problema residía en el tipo de pensamientos que debía intentar deshechar primero:
+debidamente. 
+
+El problema residía en el tipo de pensamientos que debía intentar deshechar primero:
 
 [Liberarse del temor a dejar de existir](liberarse-temor-existir/existir.md)
 
