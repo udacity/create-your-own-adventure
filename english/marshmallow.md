@@ -887,3 +887,4 @@ So you pick the [right door](mysterydoor/mysterydoor.md)
 You put your [cowboy hat](cowboy/cowboy.md) back on your head.
 
 Or... or... or... Oh, I forgot!
+You foget something, but you decide to [move on](move-on/move-on.md).
