@@ -8,3 +8,5 @@ Her eyes light up and her lips part in an elated smile.
 But then she remembers something.  Her expression turns solemn. "Well, that's very kind
 of you," she says, "but... I'm afraid I can't.  I'm only dreaming you see, and I couldn't
 in good conscience engage myself to a figment in one of my dreams."
+
+It was the age of dreams. It was the age of being awake. You become a [cowboy](../../../cowboy/cowboy.md)
