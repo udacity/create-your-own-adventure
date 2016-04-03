@@ -8,4 +8,4 @@ Click [here](../marshmallow.md) to lower yourself back down into the pit of desp
 
 Click [here](../dance/dance.md) to dance.
 
-Click [here] (../jump/jump) to jump.
+Click [here] (../jump/jump.md) to jump.
