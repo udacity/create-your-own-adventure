@@ -891,4 +891,4 @@ You foget something, but you decide to [move on](move-on/move-on.md).
 
 You follow the panda up the nearest tree, chewing bamboo shoots as you go [bamboo-shoots](bamboo/bamboo-shoots.md)
 
-The, with no warning at all, the panda eats shoots and [leaves](punctuation/shooting.md).
+Then, with no warning at all, the panda eats shoots and [leaves](punctuation/shooting.md).
