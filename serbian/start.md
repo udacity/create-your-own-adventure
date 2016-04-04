@@ -12,3 +12,5 @@ Mlada radnica ga je ljubazno gledala. Rekla je:
 "Ili mozda tri?"[klikni ovde](noveIdeje/noveIdeje.md)
 
 "Da li ste mozda zainteresovani za neki dezert?" [klikni ovde](dezert/dezert.md)
+ 
+"Ustvari nije bio mamuran, nije cak ni bio tu u pekari, to je sve bilo u njegovoj glavi..." [klikni ovde](mozda-nesto-drugacije/zalepio-slicicu.md)
