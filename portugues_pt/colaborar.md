@@ -20,6 +20,7 @@ Usava um repositorio privado.
 
 Ia ao Japão driftar em Tsukuba.
 
+Comprar tudo de [sorvete](sorvete/sorvete.md).
 
 Depois de muito sonhar apercebe-de de que (ainda) nâo ganhou o Euromilhões.
 
