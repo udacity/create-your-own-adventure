@@ -1,0 +1,1 @@
+E então você gasta todo o dinheiro ganho pagando pelo repositório privado.
