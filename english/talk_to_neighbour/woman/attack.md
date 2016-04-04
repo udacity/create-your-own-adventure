@@ -1,0 +1,1 @@
+The woman deftly avoids your wild attack and steps back, adopting a defensive posture.  The man joins her side and they appear to be waiting to see what you'll do next.
