@@ -8,4 +8,4 @@ En måke skrikker over deg, det er da du ser meg.
 
 Jeg går ned i fjæra og plukker opp gjennstanden som fløyt der.
 
-Det er en død måke.
+Det er [en død måke](doed-maaken/doed-maaken.md).
