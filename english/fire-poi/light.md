@@ -1,0 +1,1 @@
+You light up a set of fire poi and the glow illuminates the room.
