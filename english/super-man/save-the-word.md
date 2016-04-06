@@ -15,3 +15,5 @@ They are all making a unique voice:  calling for a Man like you! Do you:
 [Find the evil mastermind Lex Luther?](./lex-luther/find-lex-luther.md)
 
 [Find the bird?](../find-bird/bird.md)
+
+[Stop the Hulk from destroying Gotham?](../hulk/stop-hulk.md)
