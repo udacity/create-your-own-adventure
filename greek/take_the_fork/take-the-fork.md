@@ -9,3 +9,5 @@
 [Βγάζεις την κάλτσα σου](../put_socks_off/put-socks-off.md)
 
 [Ανάβεις τον αναπτήρα](light-fire/light-fire.md)
+
+[Αποφασίζεις να χρησιμοποιήσεις ξόρκι](put_a_spell/put-a-spell.md)
