@@ -1,6 +1,8 @@
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
+Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
+
 [Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
 
 You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
