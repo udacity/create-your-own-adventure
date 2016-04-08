@@ -899,3 +899,5 @@ You foget something, but you decide to [move on](move-on/move-on.md).
 You follow the panda up the nearest tree, chewing bamboo shoots as you go [bamboo-shoots](bamboo/bamboo-shoots.md)
 
 And then you look up and see it, you can't bealive is him but there he is [staring at you](master/miMaster.md)
+
+[Do nothing.](nothing/do-nothing.md)
