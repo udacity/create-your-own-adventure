@@ -1,0 +1,1 @@
+The story for american sniper movie is great, but it is far away from what truly happened there...q
