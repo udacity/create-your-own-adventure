@@ -1,0 +1,1 @@
+A special cat is a sweet and delicious pink squishy cat made out of marshmallows. Its meows are made of candy floss and its coat is spun sugar. If you ask nicely, he will make you a nutella crepe.
