@@ -223,6 +223,9 @@ Sing softly the song of it's people as you...
 
 BUT!!!! wait a minute... Do you hear that??
 
+Is that a marshamallow cat I hear? 
+What is a marshamllow cat you might ask? It is a [special cat](special-cat.md).
+
 A soft echo of a torrent is fading from far...
 
 I felt a sudden ease of mind.
