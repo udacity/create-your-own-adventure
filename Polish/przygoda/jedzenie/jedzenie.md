@@ -10,3 +10,5 @@ Gdy całe ptasie mleczko jest już zjedzone, dochodzisz do oczywistych wniosków
 [Jestem najedzony!](najedzony/najedzony.md)
 
 [Mam ochotę zagrać w Wiedźmina trójkę](wiedzmin/wiedzmin.md)
+
+[Chce mi się spać](spanie/spanie.md)
