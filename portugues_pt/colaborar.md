@@ -16,10 +16,9 @@ Compraria [componentes eletronicos](componentes/componentes.md)
 
 Revolucionava o sistema de [ensino](ensino/alternativo.md)
 
-Usava um repositorio privado.
+Usava um repositorio [privado](privado/repositorio.md).
 
 Ia ao Japão driftar em Tsukuba.
-
 
 Depois de muito sonhar apercebe-de de que (ainda) nâo ganhou o Euromilhões.
 
