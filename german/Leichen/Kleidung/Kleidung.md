@@ -8,3 +8,6 @@ Jetzt, da ihr euch frei im Wasser bewegen könnt, dringt das eigentliche Problem 
 
 Ihr werdet immer kraftloser und es werden immer größere Wellen.
 Lange haltet ihr das nicht mehr durch.
+Nun gibt es zwei Alternativen.
+1. Aufgeben
+2. Weiter kämpfen, die Zähne zusammenbeißen und weiter schwimmen trotz scheinbar aussichtsloser Situation [Ausweglos](Ausweglos/Ausweglos.md)
