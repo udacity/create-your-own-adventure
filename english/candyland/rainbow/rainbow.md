@@ -15,6 +15,6 @@ Yellow taste like barf, and green taste like boogers.
 
 You remember your past and feel ashamed you know what those taste like. 
 
-You begin to cry uncontrollably.
+You begin to cry uncontrollably.  But, everyone was five once, so you get over it, dry your tears, and vow never to lick another rainbow.
 
 
