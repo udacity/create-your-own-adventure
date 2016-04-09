@@ -631,6 +631,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Play some DotA 2](play-dota2/play-dota2.md)
 
+[Play Starctaft 2](play-sc2/sc2.md)
+
 [Play some Geometry Dash](play-geometrydash/play-geometrydash.md)
 
 [See if there is a Udacity course on the subject](udacity/udacity.md)
