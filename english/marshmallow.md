@@ -7,6 +7,9 @@ Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
 
 You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
 
+I also agree only way to find way is to keep climbing or walking or studying or learning or all of this is DOING.
+DOING will definitely keep your sharpened with latest skills (which you can get by the way from Udacity !!!)
+
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
 
 This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
