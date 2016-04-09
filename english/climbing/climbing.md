@@ -2,8 +2,8 @@ You decide that the best way out of this situation is boudering... hardcore boul
 
 There is a door at the top of the rock.
 
-Click [here](../froboznia/froboznia.md) to open the door.
+[Open](open/open.md) the door.
 
-Click [here](../marshmallow.md) to lower yourself back down into the pit of despair.
+[Climb down](../marshmallow.md) to lower yourself back to the beginning.
 
-Click [here] (../jump/jump.md) to jump.
+Click [here](../jump/jump.md) to jump.
