@@ -3,6 +3,6 @@ but you race up the stairs. As you round your way up the stairs you
 hear the officer pounding up behind you. You glance back and see
 him only a few steps away!
 
-You notice an open gate and pathway to your left.
+You notice an open gate ahead of you and pathway to your left.
 
-Run through the [gate](gate/gate.md).
+Run through the [gate](gate/gate.md) ahead of you.
