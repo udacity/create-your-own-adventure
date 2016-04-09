@@ -4,6 +4,6 @@ There is a door at the top of the rock.
 
 [Open](open/open.md) the door.
 
-[Climb down](../marshmallow.md) to lower yourself back to the beginning.
+[Climb](../marshmallow.md) down to lower yourself back to the beginning.
 
-Click [here](../jump/jump.md) to jump.
+[Jump](jump/jump.md) off the top of the rock.
