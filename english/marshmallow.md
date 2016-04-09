@@ -631,7 +631,7 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Play some DotA 2](play-dota2/play-dota2.md)
 
-[Play Starctaft 2](play-sc2/sc2.md)
+[Play Starcraft 2](play-sc2/starcraft2.md)
 
 [Play some Geometry Dash](play-geometrydash/play-geometrydash.md)
 
