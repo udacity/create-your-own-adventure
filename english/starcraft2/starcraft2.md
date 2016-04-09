@@ -4,4 +4,4 @@ an old game that you play some years ago, suddenly you read starcraft 2
 
 a new version with beter graphics and you give it a chance again 
 
-visiting [Starcraft 2](www.starcraft2.com)
+visiting [Starcraft 2](http://www.starcraft2.com)
