@@ -46,7 +46,7 @@ Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 [Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
 
-[Astral Project] to another dimension(astral-project/astral-project.md)
+[Astral Project to another dimensio](astral-project/astral-project.md)
 
 One morning, you wake up in a strange room with marshmallows for walls.
 
