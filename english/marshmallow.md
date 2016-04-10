@@ -909,4 +909,4 @@ And then you look up and see it, you can't bealive is him but there he is [stari
 
 [Rent a hydroplaning dog sled to get you to the other side of the world] (dog-sled/dogsled.md)
 
-You sit on the beach and watch the [sunset].(watch-sunset/watch-sunset.md)
+You sit on the beach and watch the [sunset.](watch-sunset/watch-sunset.md)
