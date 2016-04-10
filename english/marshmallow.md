@@ -906,3 +906,5 @@ You follow the panda up the nearest tree, chewing bamboo shoots as you go [bambo
 And then you look up and see it, you can't bealive is him but there he is [staring at you](master/miMaster.md)
 
 [Do nothing.](nothing/do-nothing.md)
+
+[Rent a hydroplaning dog sled to get you to the other side of the world] (dog-sled/dogsled.md)
