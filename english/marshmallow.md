@@ -1,6 +1,8 @@
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
+When you have reached the end...where do you [go](space-story/final_frontier.md)
+
 Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
 
 [Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
