@@ -4,3 +4,5 @@ There are two types of vaporization
 
 (i) Evaporation
 (ii) Boiling
+
+Vape for peace!
