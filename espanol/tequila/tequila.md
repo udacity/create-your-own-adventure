@@ -1,0 +1,3 @@
+Se el tomó el primero de un trago y le dió el segundo licor dorado a Beatito. El tercero...
+
+... lo arrojó por el risco, a las olas del mar.
