@@ -6,6 +6,8 @@ worry, this happens every night. Only then you are not aware of these sensations
 
 Stay related, keep focused and enjoy this process of separation, if you stay with it you'll split.
 A voila, you have just arrived in the astral plane.
-If you did not make it or feel inspired ready more <a href="http://belsebuub.com/articles/experiences-in-dreams-and-in-the-astral-plane" target="_blank">here</a> to get inspired.
+If you did not make it or feel inspired 
+<a href="http://belsebuub.com/articles/experiences-in-dreams-and-in-the-astral-plane" target="_blank">
+click here to read more</a>
 
 If you made it, awesome you find yourself in the astral plane, now you decide to ...
