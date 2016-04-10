@@ -4,6 +4,6 @@ namun saat melahirkan istri anda akan meninggal dunia dan apabila melahirkan ana
 namun apabila tidak melahirkan istri anda lima tahun kemudan akan meninggal dunia.
 Apa yang anda lakukan.
 
-apabila anda ingin menggugurkan kandungan istri anda [klik disini](gugur)
-apabila anda ingin membiarkan anak anda lahir [klik disini](melahirkan)
+apabila anda ingin menggugurkan kandungan istri anda [klik disini](../gugur/gugurkan-kandungan.md)
+apabila anda ingin membiarkan anak anda lahir [klik disini](../lahir/biarkan-melahirkan.md)
 
