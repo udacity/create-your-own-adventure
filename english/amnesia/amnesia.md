@@ -21,3 +21,5 @@ Or it can be highly disturbing.
 Or, it can be highly... oh, I forgot what I was going to say.
 
 Who am I?  Where am I?  What am I doing?
+
+All your quesions can be answered by going [here](https://www.amnesiagame.com/#main).

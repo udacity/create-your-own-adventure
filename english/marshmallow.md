@@ -1,6 +1,14 @@
+Your adventure begins. You realize there are hundreds of paths for you to choose from. 
+Which way should you go? Only you can decide. 
+
+Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
+
 [Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
 
 You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
+
+I also agree only way to find way is to keep climbing or walking or studying or learning or all of this is DOING.
+DOING will definitely keep your sharpened with latest skills (which you can get by the way from Udacity !!!)
 
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
 
@@ -43,6 +51,8 @@ One morning, you wake up in a strange room with marshmallows for walls.
 Marshmallows smell funny. What is a marshmallow anyway?
 
 Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
+
+Show him your [references](https://youtu.be/uZbjlsX0DNY?t=10s).
 
 The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E)
 
@@ -624,6 +634,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Play some DotA 2](play-dota2/play-dota2.md)
 
+[Play Starcraft 2](starcraft2/starcraft2.md)
+
 [Play some Geometry Dash](play-geometrydash/play-geometrydash.md)
 
 [See if there is a Udacity course on the subject](udacity/udacity.md)
@@ -890,3 +902,9 @@ Or... or... or... Oh, I forgot!
 You foget something, but you decide to [move on](move-on/move-on.md).
 
 You follow the panda up the nearest tree, chewing bamboo shoots as you go [bamboo-shoots](bamboo/bamboo-shoots.md)
+
+And then you look up and see it, you can't bealive is him but there he is [staring at you](master/miMaster.md)
+
+[Do nothing.](nothing/do-nothing.md)
+
+[Rent a hydroplaning dog sled to get you to the other side of the world] (dog-sled/dogsled.md)
