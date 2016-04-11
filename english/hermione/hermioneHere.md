@@ -1,5 +1,7 @@
 Hermione is always getting into trouble with Ron and Harry.  They
-could be at Hagrid's hut, chasing Voldemort or in town having a butter beer.
+could be at Hagrid's hut or in town having a butter beer.
+
+Instead of wasting time, they also could go chase Voldemort.
 
 Today they decide to:
 

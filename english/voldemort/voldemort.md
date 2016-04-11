@@ -1,1 +1,3 @@
-Harry and Hermoine resisted the temptation to go to go to Hogsmeade or Hagrid's. Instead they focused on tracking down Voldemort. They knew that he could only be in a few places but where would they start? 
+Harry and Hermoine chose to track down Voldemort.
+
+Where would they start? 
