@@ -23,3 +23,5 @@
  [freelancer](learn/learn.md) عايز اعرف اسماء مواقع  كورسات فرى لانس
 
 [قرار شجاع](tough-decision/tough-decision.md)
+
+[لتنبهر](amazed/amazed.md) توقف لحظة 
