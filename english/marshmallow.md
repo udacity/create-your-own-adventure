@@ -192,6 +192,8 @@ You see a polar bear searching for food.
 
 "Well- OK," you admit to yourself, "perhaps I do indulge in the occasional intoxicant!"
 
+[Occasional?  What type of wine are you?](http://www.vinepair.com/what-type-of-wine-are-you-quiz/)
+
 You hear a small bird sound in the distance.
 
 But it sounds like it might be coming out of speakers.
