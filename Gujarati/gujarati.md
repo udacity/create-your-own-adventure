@@ -1,5 +1,5 @@
-When object to be gained is sufficiently valued, 
-and efforts towards its attainment are persistently 
+When object to be gained is sufficiently valued,
+and efforts towards its attainment are persistently
 followed without intermission, then the steadiness of mind is secured.
 
 A problem is achance for you to do your best.
@@ -11,3 +11,5 @@ Gujarati language is great. Lord Krishna spoke or led to it. Mahatma Gandhi spok
 તમારી ખરી કસોટી શરુ થાય છે. તમને ખુબ શુભકામના.
 
 [ઉત્તરાયણમાં ખેંચ કે ઢીલ?](ઉત્તરાયણ/ઉત્તરાયણમાં ખેંચ કે ઢીલ.md)
+
+[અમે ગુજરાતી લોકો છીએ](અમે ગુજરાતી લોકો છીએ.md) 
