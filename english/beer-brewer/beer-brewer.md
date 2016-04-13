@@ -10,6 +10,6 @@ Decide that its better to just give up and drink some [Beer](https://www.youtube
 
 Learn how to brew from some online [videos](https://www.youtube.com/watch?v=qCW-SVPCw4Y)
 
-You hear a soft voice with an English accent that says, [use the force](use-the-force/force.md)
+You hear a soft voice with an English accent that says, "[Use the force.]"(use-the-force/force.md)
 
 Give up and go back to the [beginning](../marshmallow.md)
