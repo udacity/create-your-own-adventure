@@ -1,1 +1,1 @@
-![ignore](http://giphy.com/gifs/7d7lKk2nH5RJu/html5)
+![ignore](http://i.giphy.com/7d7lKk2nH5RJu.gif)
