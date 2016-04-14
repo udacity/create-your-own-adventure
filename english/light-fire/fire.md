@@ -41,4 +41,6 @@ The rat smiles and says, "Come on, let's go!"
 
 [Drink some coffee.](../coffee/coffee.md)
 [Sleep]
+[Have some chocolate coffee.](../chocolate/chocolate.md)
+
 
