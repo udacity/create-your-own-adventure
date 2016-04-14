@@ -910,3 +910,6 @@ And then you look up and see it, you can't bealive is him but there he is [stari
 [Rent a hydroplaning dog sled to get you to the other side of the world] (dog-sled/dogsled.md)
 
 Toasted [marshmallow](toasted/smores_pie.md)
+
+While having toasted marshmellows and watching the warriors beat the grizzlies, you realise they set a new record.
+[The new record is!](new_warriors_record/new_warriors_record.md)
