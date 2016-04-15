@@ -1,1 +1,0 @@
-Absolutely nothing happens. No risk, no fun. Take your chances! 

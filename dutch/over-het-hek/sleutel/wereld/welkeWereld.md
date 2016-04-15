@@ -1,1 +1,0 @@
-Asjemenou, terwijl je dit gebeuren overdenkt vergaat de wereld onder je voeten en wat verschijnt daar?
