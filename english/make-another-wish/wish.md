@@ -5,3 +5,9 @@ You wish you had your laptop with you.
 After five seconds, the laptop appears in your hands.
 
 It's a MacBook Pro!
+
+You start it up and:
+
+[Start coding] (../code/code.md)
+
+[Check you Facebook, instagram, twitter, gmail, pinterest, and ...] (../procrastinate/procrastinate.md)
