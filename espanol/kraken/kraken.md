@@ -1,1 +1,0 @@
-"Soltad al Kraken" grito!!!!!

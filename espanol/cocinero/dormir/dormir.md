@@ -1,1 +1,0 @@
-Beatito deperto al cocinero
