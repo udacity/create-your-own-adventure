@@ -139,3 +139,7 @@ se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
 Y llego spiderman a salvar el dia.
 
 Con sus acrobáticos movimientos y osadas frases
+
+Spiderman llegaría tarde, puesto que vive en New York y la telaraña no le alcanza para vuelos transcontinentales. Spider tenía varias opciones:
+ - [Seguir de copas en New York por los rooftops] (rooftops/rooftops.md)
+ 
