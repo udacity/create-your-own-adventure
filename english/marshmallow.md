@@ -915,3 +915,5 @@ While having toasted marshmellows and watching the warriors beat the grizzlies, 
 [The new record is!](new_warriors_record/new_warriors_record.md)
 
 Ninja Boy [Watari] (watari/watari.md)
+
+Of Course you must reach the end of your story, but remember [this](interstellar_quote/light.md).
