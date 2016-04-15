@@ -16,4 +16,4 @@ Flys to the moon
 
 [Turn into a potato](potato/potato.md)
 
-See what it feels like to [boil](boil/boil.md)
+See what it feels like to [quit your job](quit-your-job/quit-your-job.md)
