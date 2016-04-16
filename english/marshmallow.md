@@ -910,3 +910,8 @@ And then you look up and see it, you can't bealive is him but there he is [stari
 [Rent a hydroplaning dog sled to get you to the other side of the world] (dog-sled/dogsled.md)
 
 Toasted [marshmallow](toasted/smores_pie.md)
+
+You find yourself nervously walking down the path, hoping the panda wouldn't follow you.
+And then you see a rectangular box out of nowhere, right in front of you.
+Stuck to the box is a description of what's inside.
+[Read the description?](./schrodinger-cat/schrodinger-cat.md)
