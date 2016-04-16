@@ -6,4 +6,5 @@ Also known as Quantum Superposition
 
 It is only when you open the box that you become either dead or alive.
 
-So [open the box](dead-or-alive/dead-or-alive.md).
+So do you want to [open the box](dead-or-alive/dead-or-alive.md) or 
+[keep it closed](../box/keepClosed.md)?

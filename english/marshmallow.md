@@ -920,3 +920,7 @@ While having toasted marshmellows and watching the warriors beat the grizzlies, 
 [The new record is!](new_warriors_record/new_warriors_record.md)
 
 Of Course you must reach the end of your story, but remember [this](interstellar_quote/light.md).
+
+Out of nowhere, you see a rectangular box right in front of you with a description stuck to it.
+[Read the description?](./schrodinger-cat/schrodinger-cat.md)
+
