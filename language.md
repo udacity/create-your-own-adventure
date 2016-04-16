@@ -1,5 +1,3 @@
-﻿If you speak Odia, [go here] (odia/odia.md)
-
 If you speak English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
@@ -145,3 +143,5 @@ If you want learn Telugu, click [here](Telugu/Telugu.md).
 If you want to know more about IoT, click [here](english/iot/intro.md).
 
 If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
+
+If you speak Odia, [go here] (odia/odia.md)
