@@ -3,6 +3,6 @@ Zostajesz zaatakowany przez Kelthuza za to, że masz na sobie czerwoną koszulk�
 
 Co robisz?
 
-Bronisz się
+[Bronisz się](obrona/obrona.md)
 
 Umierasz
