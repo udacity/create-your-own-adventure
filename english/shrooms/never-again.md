@@ -19,4 +19,4 @@ Do you:
 
 [Pinch the man to make sure your self is real?](../pinch/pinch.md)
 
-[Wake up from this nigthmare?](../wake-up/wake-up.md)
+[Wake up from this nightmare?](../wake-up/wake-up.md)
