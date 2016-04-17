@@ -1,4 +1,3 @@
-
 Der Wald ist dicht und üppig, es scheint keine Wege zu geben.
 Unter großer Anstrengung kämpfen Sie sich einige Meter durch das Dickicht.
 Es ist schwül und Sie hören fremdartige Geräusche tropischer Tiere.
