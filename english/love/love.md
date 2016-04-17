@@ -1,4 +1,4 @@
-Love is one of the most exciting, rewarding and satisfying of human experiences.
+Love is one of the most [exciting](google.com), rewarding and satisfying of human experiences.
 Whether the love of family, friends, a child or romantic love, it is a shared human adventure.
 Just as high as one might feel at the tip of that love, the lows can be devastatingly painful
 when it is time to let go of that loved one. Whether needing to let go because they have passed on,
@@ -11,15 +11,15 @@ and should'ves. Time goes on and drags you with it. Whether you are in or
 out of love, make the best of now while being aware of the worst of before.
 
 Of course, there is no substitute for the experince of it. It must be
-lived in order to be understood. All the words there are in the world 
-cannot make you understand the feeling of it. Anyways, [here's 
+lived in order to be understood. All the words there are in the world
+cannot make you understand the feeling of it. Anyways, [here's
 something comepletely different.](../marshmallow.md)
 
 If all else fails, you could [try this.](../read-a-book/read-a-book.md)
 
-Love feels eternal but the 
-pain it adds to your heart is painful 
-[The Pain] (https://www.quora.com/What-is-it-like-when-you-feel-the-pain-of-loving-someone-when-its-one-sided) 
+Love feels eternal but the
+pain it adds to your heart is painful
+[The Pain] (https://www.quora.com/What-is-it-like-when-you-feel-the-pain-of-loving-someone-when-its-one-sided)
 to see how people manage the pain
 
 An Entrapment
@@ -44,4 +44,4 @@ I wish to stay entrapped forever.
 With you for all eternity.
 Our hearts, always as one.
 
-- Anthony Kolos - 
+- Anthony Kolos -
