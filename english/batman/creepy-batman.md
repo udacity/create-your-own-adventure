@@ -1,0 +1,1 @@
+He also gets really weird with his [neighbors](http://imgur.com/gallery/Gi9cwgR).
