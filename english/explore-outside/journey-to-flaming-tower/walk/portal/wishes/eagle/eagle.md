@@ -1,3 +1,0 @@
-With the wave of his hands, the little fellow summons an eagle! You both jump on the back of it and 
-as the eagle soars up in the sky, you see many things around you. You wonder whether you should still go to
-the tower or whether you should explore somewhere else. You think for a while, and in the end you choose to...
