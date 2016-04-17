@@ -5,6 +5,5 @@ He has a [pocket watch](https://www.youtube.com/watch?v=YFtHjV4c4uw) in his hand
 He also hands you a [weapon](https://www.youtube.com/watch?v=wCDIYvFmgW8)
 
 He doesn't care about time or weapons though. 
-
 He wants to become a new type of man, one that trancends the current reality and feels time as though it is water and weapons as though they are air. 
 
