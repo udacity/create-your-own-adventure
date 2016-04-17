@@ -6,3 +6,5 @@ Co robisz?
 Bronisz się
 
 Umierasz
+
+[Jednak obrona](obrona/obrona.md)
