@@ -18,3 +18,5 @@ U denkt
 [Google translate NL](https://translate.google.com/#nl/en/)
 
 Terug naar [taalkeuze](../language.md)
+
+Achtung![I am lost take me back to the home page](../language.md)
