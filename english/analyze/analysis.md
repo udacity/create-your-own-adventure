@@ -3,4 +3,4 @@ Let me guess, your favorite flavor of marshmallow is avocado; mixed with some [c
 
 [motor oil](../motor_oil/motor_oil.md)
 
-[hope](www.googl.com)
+[hope](www.google.com)
