@@ -25,3 +25,5 @@ Comprar tudo de [sorvete](sorvete/sorvete.md).
 Depois de muito sonhar apercebe-de de que (ainda) nâo ganhou o Euromilhões.
 
 Lembra-se que deixou a [chaleira a ferver água](chaleira/chaleira.md).
+
+Para visitar Portugal clica [aqui](https://www.visitportugal.com/pt-pt).
