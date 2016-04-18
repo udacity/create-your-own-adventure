@@ -1,0 +1,1 @@
+You are Barabbas, Pontius Pilate chose to set you free so that Jesus of Nazareth could be crucified. After being set free, you embark on a lifelong journey to discover what became of the people who took your place. This will likely lead to your ultimate doom.
