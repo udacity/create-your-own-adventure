@@ -22,3 +22,5 @@ Dus pak je maar je android die wel drie dagen lang meegaat!
 [Google translate NL](https://translate.google.com/#nl/en/)
 
 Terug naar [taalkeuze](../language.md)
+
+Achtung![I am lost take me back to the home page](../language.md)
