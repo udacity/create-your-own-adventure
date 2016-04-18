@@ -1,0 +1,1 @@
+Farewell, you don't have to find out if you are dead or alive. Either way, it does sound a bit mysterious how you can even be inside the box when you’re already standing outside, pondering on your next move. To resolve that confusion, you can either [open the box](../schrodinger-cat/dead-or-alive/dead-or-alive.md) or [continue with your adventure](../marshmallow.md)
