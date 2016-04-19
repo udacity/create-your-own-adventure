@@ -10,3 +10,7 @@ what appears to be a horse with a horn sprouting from its forehead...
 You really have only one option
 [Go ask Alice](../ask-to-alice/ask-to-alice.md)
 I think she'll know ...
+
+The pressing question is whether Alice can help in time to avoid nightfall and the inevitable zombies that sprout from dark corners. 
+
+[Gather wood now to increase your chances of surviving the night.](../you-are-in-minecraft/gather_wood/focus_on_gathering_wood/focus_on_gathering_wood.md)
