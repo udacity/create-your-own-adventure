@@ -269,6 +269,9 @@ Suddenly, you become aware of the need to take a leak.
 You can't hold it. You wonder, Are glowing pants waterproof?
 You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
+There's only one solution for relief from this chaos.
+Listen to [some amazing poetic song] (https://www.youtube.com/watch?v=YrLk4vdY28Q)
+
 
 Do you:
 
