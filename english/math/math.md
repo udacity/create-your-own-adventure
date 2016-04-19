@@ -9,3 +9,5 @@ Do you:
 [Call your mother.](../tell-mother/tell-mother.md)
 
 [Wiki it.](../wikipedia/wiki.md)
+
+[Try to forget about it.](../memories/memories.md)
