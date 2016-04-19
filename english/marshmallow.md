@@ -833,6 +833,8 @@ You look up and out to the ocean. In the distance you see a [mermaid](mermaid/me
 
 The mermaid above died, but [don't worry...](mermaid2/mermaid.md)
 
+A fairy tale about [a shoemaker and elves](elves-and-shoemaker/elves-and-shoemaker.md)
+
 The 3 Rules of Test Driven Development [Read the Rules](test-driven-development-rules/AccordingToUncleBob.md)
 
 The understanding of git [go here](Booyah/booyah.md)
