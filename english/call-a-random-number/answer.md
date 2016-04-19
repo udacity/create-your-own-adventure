@@ -4,7 +4,7 @@ Not completely sure why, you dial the number.
 
 A seductive voice answers your call.
 
-You:
+You
 
 [Hang up](hang-up/regret.md)
 
