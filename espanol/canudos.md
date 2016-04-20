@@ -139,3 +139,5 @@ se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
 Y llego spiderman a salvar el dia.
 
 Con sus acrobáticos movimientos y osadas frases
+
+Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)
