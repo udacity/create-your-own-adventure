@@ -3,7 +3,7 @@ You look different somehow. You look good, happy, peaceful.
 
 You ask yourself a question:
 
-Is this me in a parallel world maybe? 
+Is this me in a parallel world maybe? It might be!
 
 You're about to start talking to them, when you realize you can't actually open
 your mouth. It's kind of sealed. "What shall I do to communicate then?", you think:
