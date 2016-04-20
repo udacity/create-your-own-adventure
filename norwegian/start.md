@@ -7,3 +7,5 @@ Du sitter på en stein i vannkanten og ser noe flyte i fjæra.
 En måke skrikker over deg, det er da du ser meg.
 
 Jeg går ned i fjæra og plukker opp gjennstanden som fløyt der.
+
+De sier jeg er fra landet av is og snø, men det er en løgn. Jeg er fra et land litt sør for her kaller [midnattssolen!] (../swedish/start.md).
