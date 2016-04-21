@@ -1,4 +1,4 @@
-﻿If you speak English, [go here](english/marshmallow.md).
+If you speak English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
@@ -144,4 +144,6 @@ If you want to know more about IoT, click [here](english/iot/intro.md).
 
 If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 
-તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
+તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ
+
+તમે રમુજી સંદેશાઓ વાંચવા માંગો છો તો [અહી](Gujarati/રમૂજી સંદેશાઓ/રમૂજી સંદેશ.md) જાઓ
