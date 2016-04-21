@@ -18,4 +18,3 @@ Do you:
 [Eat your way out of the room?](eatit/eatit.md)
 
 [Use your mad magician skills to get out of the jacket?](magicianskills/magicianskills.md)
-
