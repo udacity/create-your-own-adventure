@@ -10,4 +10,6 @@ Decide that its better to just give up and drink some [Beer](https://www.youtube
 
 Learn how to brew from some online [videos](https://www.youtube.com/watch?v=qCW-SVPCw4Y)
 
+Go call [Saul Goodman](../better-call-saul/saul.md)
+
 Give up and go back to the [beginning](../marshmallow.md)
