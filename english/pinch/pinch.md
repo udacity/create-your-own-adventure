@@ -8,10 +8,10 @@ The damn jacket itches like unprocessed wool soaking wet with boric acid.
 
 Do you:
 
-[Try taking out your jacket?](jacket/jacket.md)
+[Try taking off your jacket?](jacket/jacket.md)
 
 [Shout for help?](help/help.md)
 
-[Go outside of the marshmallow room](go-out/go-out.md)
+[Go outside of the marshmallow room?](go-out/go-out.md)
 
 [Think about Harry Potter and the amazing world of magic?](magic/harry-potter.md)
