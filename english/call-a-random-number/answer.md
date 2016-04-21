@@ -1,3 +1,7 @@
+Using your computer's pseudorandom number generator, you produce a stranger's phone number.
+
+Not completely sure why, you dial the number.
+
 A seductive voice answers your call.
 
 You

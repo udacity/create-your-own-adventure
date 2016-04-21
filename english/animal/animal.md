@@ -22,3 +22,7 @@ Don't eat animals #GoVegan
 Don't be cruel.
 
 one more animal.
+
+Maybe two more bites...
+
+oh! i have a great idea. why don't we get ourselves a mouse? me and the cat would be both satisfied...

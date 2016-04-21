@@ -41,6 +41,9 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 [Subió a la torre](torre/torre.md)
 
+Se cansó de la guerra y decidió alienarse de todo lo material, 
+accediendo a un [estado de meditación transcendente](transcender/transcender.md)
+
 [Ordenó buscar al Capitán Trueno](capitan/trueno.md)
 
 [Empezó con el ritual de bienvenida para el ejército](ritual/ritual.md)
@@ -134,3 +137,7 @@ se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
 éstos, sin mediar palabra y al unísono, [no dudaron](ayudantes_accion/ayudantes_accion.md)
 
 Y llego spiderman a salvar el dia.
+
+Con sus acrobáticos movimientos y osadas frases
+
+Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)

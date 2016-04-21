@@ -17,3 +17,9 @@ los gritos de terror de su cría
 mientras el cuco desaparecía...
 
 junto al pequeño Elías.
+
+Y si la historia del cuco
+te parece espantosa,
+amarrate tus chones
+que la historia del [cucuyachi](../cucuyachi/cucuyachi.md)
+es aun mas tenebrosa.

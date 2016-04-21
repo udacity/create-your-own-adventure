@@ -31,3 +31,5 @@ Uncle Ben: With great power comes great responsibility.
 The real hero is alfred the butler..
 Who is really 
 [Luke Skywalker's](http://fellowshipoftheminds.com/2015/11/23/star-wars-goes-to-illuminati-dark-side/) son!
+
+He also gets really weird with his [neighbors](http://imgur.com/gallery/Gi9cwgR).
