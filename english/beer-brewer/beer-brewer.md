@@ -12,4 +12,6 @@ Learn how to brew from some online [videos](https://www.youtube.com/watch?v=qCW-
 
 You hear a soft voice with an English accent that says, "[Use the force.](use-the-force/force.md)"
 
+Go call [Saul Goodman](../better-call-saul/saul.md)
+
 Give up and go back to the [beginning](../marshmallow.md)
