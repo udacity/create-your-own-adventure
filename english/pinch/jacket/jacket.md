@@ -8,8 +8,8 @@ zzzzzz
 
 zzzzzz
 
-You wake to the sound of a distant loud noise. You're still in the
-marshmallow room, and you're still in the uncomfortable jacket.
+You wake to the sound of a distant loud noise. Your still in the
+marshmallow room, and your still in the uncomfortable jacket.
 
 Do you:
 
