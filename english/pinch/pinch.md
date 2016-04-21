@@ -8,7 +8,7 @@ The damn jacket itches like unprocessed wool soaking wet with boric acid.
 
 Do you:
 
-[Try taking off your jacket?](jacket/jacket.md)
+[Try taking out your jacket?](jacket/jacket.md)
 
 [Shout for help?](help/help.md)
 
