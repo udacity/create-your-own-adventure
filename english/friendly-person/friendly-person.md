@@ -8,4 +8,6 @@ Is this me in a parallel world maybe?
 You're about to start talking to them, when you realize you can't actually open
 your mouth. It's kind of sealed. "What shall I do to communicate then?", you think:
 
+I know that marshmallow man is after me, I've go to keep [moving](../spooky-house/spooky-house.md)
+
 [Wave](wave/wave.md) frantically in front of them 
