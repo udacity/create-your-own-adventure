@@ -6,10 +6,10 @@ After brushing the dust off your uncomfortable jacket you look around. Your comm
 
 What do you do?
 
-[Inspect the closest door](door/door.md)
+[Inspect the closest door](../../../door/door.md)
 
-[Fix the rug](rug/rug.md)
+[Fix the rug](../../../rug/rug.md)
 
-[Walk down the hallway](hallway/hallway.md)
+[Walk down the hallway](../../../hallway/hallway.md)
 
-[Look at a painting](painting/painting.md)
+[Look at a painting](../../../painting/painting.md)
