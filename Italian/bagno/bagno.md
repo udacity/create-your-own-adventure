@@ -4,4 +4,4 @@ A questo punto
 
 [Apro la tenda della doccia](doccia/doccia.md)
 
-[Torno a dormire](Italian/dormire/sogno-strano.md)
+[Torno a dormire](../sogno-strano.md)
