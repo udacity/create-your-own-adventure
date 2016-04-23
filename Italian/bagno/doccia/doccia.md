@@ -6,4 +6,4 @@ Ancora intontito le chiedo:"come ti chiami?"
 
 Lei mi risponde:"ciao, io sono [Alice](../../alice/alice.md)"
 
-Lei mi risponde:"ciao, io sono [Stefania](../../stefy/stefy.md)"
+Lei mi risponde:"ciao, io sono [Stefania](stefy/stefy.md)"
