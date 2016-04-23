@@ -6,6 +6,8 @@ Down one path you see a person standing in the middle of the path.
 They look familiar somehow, but you just can't figure out who they are.
 They seem friendly so you decide to go [talk to them.](friendly-person/friendly-person.md)
 
+Ask them to join you on a life changing [quest?](zuluquest/choosequest.md)
+
 Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
 
 [Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
