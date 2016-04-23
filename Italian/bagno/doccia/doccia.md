@@ -4,6 +4,6 @@ La sorpresa è davvero grande nell'osservare questa ragazza che mi guarda terror
 
 Ancora intontito le chiedo:"come ti chiami?"
 
-Lei mi risponde:
+Lei mi risponde:"ciao, io sono [Alice](../../alice/alice.md)"
 
-"ciao, io sono [Alice](../../alice/alice.md)"
+Lei mi risponde:"ciao, io sono [Stefania](../../stefy/stefy.md)"
