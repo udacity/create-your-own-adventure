@@ -14,6 +14,8 @@ U denkt
 
 ... of u kijkt even op uw iphone of u een [mailtje heeft](check-mail/mail.md)
 
+... u hoort uw iphone een geluidje maken en kijkt het is een sms [sm](sms/sms.md)
+
 ... maar de Iphone heeft weer geen batterij want deze gaat snel op. 
 Dus pak je maar je android die wel drie dagen lang meegaat!
 
