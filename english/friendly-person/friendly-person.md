@@ -9,3 +9,5 @@ You're about to start talking to them, when you realize you can't actually open
 your mouth. It's kind of sealed. "What shall I do to communicate then?", you think:
 
 [Wave](wave/wave.md) frantically in front of them 
+
+You begin playing [charades](charades/charades.md).
