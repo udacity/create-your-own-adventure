@@ -1,1 +1,1 @@
-Suddenly, you find yourself on a hill looking at a small building.
+Suddenly, you find yourself on a hill looking at a small building.  What a relief!
