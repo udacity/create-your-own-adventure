@@ -1,4 +1,4 @@
-Your adventure begins. You realize there are hundreds of paths for you to choose from. 
+﻿Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
 
@@ -926,3 +926,5 @@ While having toasted marshmellows and watching the warriors beat the grizzlies, 
 Of Course you must reach the end of your story, but remember [this](interstellar_quote/light.md).
 
 Life is full of [puzzles](LifePuzzle/LifePuzzle.md).
+
+You hear a hollow voice say "Plugh".  Mesmerized, you say "[Plugh](plugh/plugh.md)".
