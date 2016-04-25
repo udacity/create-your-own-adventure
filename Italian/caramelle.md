@@ -18,3 +18,5 @@ Che fai?
 [Spuntini] (spuntini/spuntini.md)
 
 [Alice non abita più qui] (alice/alice.md)
+
+[Cerco un computer] (giocare/computer.md)
