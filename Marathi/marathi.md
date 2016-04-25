@@ -4,6 +4,6 @@
 मराठी विश्व खुप सुंदर आहे.
 मी मराठी असल्याचा मला अभिमान आहे.
 
-mazi story [ethe](mi_marathi/mi_marathi.md)ahe.
+mazi story [ethe](mi_marathi/mi_marathi.md)  aahe.
 
 Want to meet Maharashtrians in Seattle? Go [here](seattle/seattle.md)
