@@ -1,0 +1,1 @@
+Você vai para o banheiro, mas a dor não passa.
