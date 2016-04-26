@@ -1,3 +1,3 @@
 Hm... o sabor parece bem exótico!
 
-[Ficou com dor de barriga?](joaninha/comer/comer/dor-de-barriga.md)
+Mas, oh! Parece que você ficou com dor de barriga!!!
