@@ -4,5 +4,5 @@ tavern has ever seen.
 You grab your aggressor and ask him "Where are we ?", he
 replies ["Texas"](../texas/texas.md)
 
-replies, with a distant look in his eye, [another dimension](english/dimensions/dimension.md)
+replies, with a distant look in his eye, [another dimension](../dimensions/dimension.md)
 
