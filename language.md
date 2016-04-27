@@ -8,8 +8,6 @@ If you speak Telugu, మీరు తెలుగులొ మాట్లాడ
 
 If you understand Tamil, தமிழ் வணக்கம் [இங்கே அழுத்தவும்](Tamil/Thirukural.md)
 
-ಕನ್ನಡಿಗರೆ,ಇಲ್ಲಿ[ವತ್ತಿ](Kannada/Kannada.md)
-
 தமிழ் வணக்கம்! To view Tamil Proverb about Friendship [Click Here](Tamil/Thirukural.md)
 
 தமிழ் வணக்கம்!To view ponmozhigal [Click Here](Tamil/Vivekanandha/ponmozhigal.md)
