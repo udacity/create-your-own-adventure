@@ -1,1 +1,1 @@
-为什么北极熊不吃企鹅？ [答案](./an_polar_bear.md)
+为什么北极熊不吃企鹅？ [答案](./answers/an_polar_bear.md)
