@@ -1,0 +1,1 @@
+Il cassetto non si apre ma, inaspettatamente, senti uno strano scricchiolio provenire dalle scaffalature della libreria alle tue spalle.
