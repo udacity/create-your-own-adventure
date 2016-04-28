@@ -20,7 +20,7 @@ If you speak Punjabi, [go here](punjabi/punjabi.md).
 
 如果你说中文而且想要了解一个新的世界，[请点击这里](Chinese/DesertHell/NewWorld.md).
 
-如果你说中文而且喜欢玩LOL，[请点击这里](chinese/Goku/Guku_arrives.md)
+如果你说中文而且喜欢玩LOL，[请点击这里](Chinese/Goku/Guku_arrives.md)
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
