@@ -1,0 +1,1 @@
+You realize that if you were to get a stuffy nose right now you could suffocate to death. You begin hyperventilating through your nose, which only makes it harder to breathe. You begin to feel light-headed and fall to your knees. Other You begins turning to face your direction.
