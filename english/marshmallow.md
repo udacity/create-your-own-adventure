@@ -2,6 +2,9 @@ Your adventure begins. You realize there are hundreds of paths for you to choose
 Which way should you go? Only you can decide. 
 
 
+Keith the Unicorn approaches you.
+He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
+
 Down one path you see a person standing in the middle of the path.
 They look familiar somehow, but you just can't figure out who they are.
 They seem friendly so you decide to go [talk to them.](friendly-person/friendly-person.md)
