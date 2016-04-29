@@ -2,7 +2,7 @@ Your adventure begins. You realize there are hundreds of paths for you to choose
 Which way should you go? Only you can decide. 
 
 
-Keith the Unicorn approaches you. He asks you regretfully for a cigarette. Do you [wake up](existence/existence.md)?
+Keith the Unicorn approaches you. He asks you regretfully for a cigarette. You [wake up](existence/existence.md).
 
 Down one path you see a person standing in the middle of the path.
 They look familiar somehow, but you just can't figure out who they are.
