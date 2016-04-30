@@ -1,6 +1,9 @@
-Los soldados apuntalaron la muralla y los arqueros apuntaron a los visitantes desde lo alto de la colmena
+Los soldados apuntalaron la muralla y los arqueros 
+apuntaron a los visitantes desde lo alto de la colmena
 
-En ese momento, el consejero se apresuró a subir a las paredes fortificadas, y con ojos de furia mirando al exterior dijo:
+En ese momento, el consejero se apresuró a subir 
+a las paredes fortificadas, y con ojos de furia 
+mirando al exterior dijo:
 
 [Abrid fuego contra todos los enemigos!](abrid_fuego/abrid_fuego.md)
 
