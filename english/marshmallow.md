@@ -936,4 +936,3 @@ A light appears all around you and something comes into focus in the distance. [
 
 Story about Indian Hockey Player [Rupinder Pal Singh](Rupinderpal/rupinder.md)
 
-yo [cs](DhoklaStellarFafda~/CS.md)

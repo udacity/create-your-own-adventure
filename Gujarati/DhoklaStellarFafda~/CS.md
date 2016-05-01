@@ -4,4 +4,4 @@ go go go mf..
 
 
 
-ghar bhegta thaav[click here]?(../gujarati.md)
+ghar bhegta thaav[click here](../gujarati.md)
