@@ -936,4 +936,5 @@ A light appears all around you and something comes into focus in the distance. [
 
 Story about Indian Hockey Player [Rupinder Pal Singh](Rupinderpal/rupinder.md)
 
-If you have read this far, then you must be in pain.  Click [here](https://en.wikipedia.org/wiki/Acupuncture) to learn about Accupuncture.
+If you have read this far, then you must be in pain.  
+Click [here](https://en.wikipedia.org/wiki/Acupuncture) to learn about Accupuncture.
