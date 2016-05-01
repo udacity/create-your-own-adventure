@@ -1,4 +1,4 @@
-There is not telugu story added as of yet. So, I'll just start the thread by adding a prayer.
+There is no telugu story added as of yet. So, I'll just start the thread by adding a prayer.
 ముదా కరాత్తమోదకం సదా విముక్తిసాధకం
 కళాధరావతంసకం విలాసిలోకరక్షకమ్ |
 అనాయకైకనాయకం వినాశితేభదైత్యకం
