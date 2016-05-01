@@ -2,6 +2,9 @@ Your adventure begins. You realize there are hundreds of paths for you to choose
 Which way should you go? Only you can decide. 
 
 
+Keith the Unicorn approaches you.
+He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
+
 Down one path you see a person standing in the middle of the path.
 They look familiar somehow, but you just can't figure out who they are.
 They seem friendly so you decide to go [talk to them.](friendly-person/friendly-person.md)
@@ -928,3 +931,8 @@ Of Course you must reach the end of your story, but remember [this](interstellar
 Life is full of [puzzles](LifePuzzle/LifePuzzle.md).
 
 You hear a hollow voice say "Plugh".  Mesmerized, you say "[Plugh](plugh/plugh.md)".
+
+A light appears all around you and something comes into focus in the distance. [What is that?](disney/disney.md)
+
+Story about Indian Hockey Player [Rupinder Pal Singh](Rupinderpal/rupinder.md)
+
