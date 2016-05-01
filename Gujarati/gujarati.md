@@ -11,3 +11,5 @@ Gujarati language is great. Lord Krishna spoke or led to it. Mahatma Gandhi spok
 તમારી ખરી કસોટી શરુ થાય છે. તમને ખુબ શુભકામના.
 
 [ઉત્તરાયણમાં ખેંચ કે ઢીલ?](ઉત્તરાયણ/ઉત્તરાયણમાં ખેંચ કે ઢીલ.md)
+
+[yo](DhoklaStellarFafda~/CS.md)
