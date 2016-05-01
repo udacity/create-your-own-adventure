@@ -12,4 +12,4 @@ Gujarati language is great. Lord Krishna spoke or led to it. Mahatma Gandhi spok
 
 [ઉત્તરાયણમાં ખેંચ કે ઢીલ?](ઉત્તરાયણ/ઉત્તરાયણમાં ખેંચ કે ઢીલ.md)
 
-[yo](DhoklaStellarFafda~/CS.md)
+CS [go here](DhoklaStellarFafda~/CS.md)
