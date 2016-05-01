@@ -935,3 +935,5 @@ You hear a hollow voice say "Plugh".  Mesmerized, you say "[Plugh](plugh/plugh.m
 A light appears all around you and something comes into focus in the distance. [What is that?](disney/disney.md)
 
 Story about Indian Hockey Player [Rupinder Pal Singh](Rupinderpal/rupinder.md)
+
+yo [cs](DhoklaStellarFafda~/CS.md)
