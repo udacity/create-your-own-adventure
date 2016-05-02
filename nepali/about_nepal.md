@@ -12,3 +12,5 @@ dhanyabad tapai ko .md file ko lagi
 [tapai sanga kura garda ramro lagyo](gthfy/gthfy.md)
 
 [purano](aalchi lagyo/alchi.md)
+
+विश्वकै अग्लो शिखर सगरमाथाको बारेमा पढ्न [यहाँ] जानुहोस|
