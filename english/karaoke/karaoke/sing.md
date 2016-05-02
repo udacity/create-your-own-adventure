@@ -7,6 +7,8 @@ on your courage.  Your eyes meet with the girl of your dreams.
 
 Do you:
 
+[ask her for a dance](ask-for-dance/ask-for-dance.md)
+
 [propose to her](propose-to-her/propose-to-her.md)
 
 [puke on the mike](puke-on-the-mike/puke-on-the-mike.md)
