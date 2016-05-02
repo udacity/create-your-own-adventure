@@ -31,7 +31,7 @@ Do you:
 
 [You pinch yourself to see whether you are dreaming?](../pinch/pinch.md)
 
-[Make another wish?](./make-another-wish/wish.md)
+[Make another wish?](../make-another-wish/wish.md)
 
 [Make a wish to fly](../soar/soar.md)
 
