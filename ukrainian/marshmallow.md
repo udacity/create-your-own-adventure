@@ -30,4 +30,4 @@
 
 [Look around](look-around/look-around.md)
 
-[Спробую прорізати вікну ножем](knife/knife.md)
+[Спробую прорізати вікнo ножем](knife/knife.md)
