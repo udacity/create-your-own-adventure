@@ -22,7 +22,7 @@
 
 [Просто трошки почекаю](wait-more/wait.md)
 
-[Візьму виделку і ] (make-a-hole/in-the-wall.md)
+[Візьму виделку і ... ] (make-a-hole/in-the-wall.md)
 
 [Test!](test/test.md)
 
