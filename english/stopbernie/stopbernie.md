@@ -7,3 +7,9 @@ Be defined by whether or not it is free? Wouldn't that mean that all tax plans a
 
 You decide that you wan't to educate yourself alittle before making strong oppinions by
 reading up on the purpose of taxation [Wikipedia article on taxation](https://en.wikipedia.org/wiki/Tax)
+
+[Sanders plan is fine.](https://berniesanders.com/issues/how-bernie-pays-for-his-proposals/)
+The non-rich will get more while the currently rich will remain rich.
+And despite a few less dollars for the rich, we will all be better off.
+
+You chuckle to yourself reading the additions, and are suddenly reminded of wiki talk pages.

@@ -3,6 +3,8 @@ aplicativo, você detecta um bug.
 
 Você:
 
+[Caguei, vou ver um video no xvideos](xvideos/xvideos.md)
+
 [Procura o repositório do aplicativo?](colabora/colaborar.md)
 
 [Começa a pensar como solucionar o bug e resolve olhar no codigo fonte](pesquisa/codFonte.md)
