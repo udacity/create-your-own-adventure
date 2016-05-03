@@ -1,0 +1,1 @@
+It's widely used for developing games, industrial applications, and in enterprise applications.
