@@ -2,7 +2,7 @@ Sie wachen von der Sonne geblendet auf und stellen ziemlich benommen fest, dass 
 
 in einem Ruderboot auf einem grossen See treiben. Ihre Hose ist vollkommen durchnässt, und
 
-Sie bemerken, dass durch ein Loch in der Bootswand Wasser ins Boot dringt und mehrere grosse Haiflossen um das Boot herum schwimmen.
+Sie bemerken, dass durch ein Loch in der Bootswand Wasser ins Boot dringt. Mehrere grosse Haiflossen schwimmen um das Boot herum und dass Wasser brodelt verdächtig.
 
 Werden Sie:
 
