@@ -10,6 +10,8 @@ your mouth. It's kind of sealed. "What shall I do to communicate then?", you thi
 
 [Wave](wave/wave.md) frantically in front of them 
 
+Or [attempt to communicate via telepathy](telepathy/telepathy.md).
+
 You begin playing [charades](charades/charades.md).
 
 [Panic!!](panic/panic.md)
