@@ -2,9 +2,14 @@ Your adventure begins. You realize there are hundreds of paths for you to choose
 Which way should you go? Only you can decide. 
 
 
+Keith the Unicorn approaches you.
+He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
+
 Down one path you see a person standing in the middle of the path.
 They look familiar somehow, but you just can't figure out who they are.
 They seem friendly so you decide to go [talk to them.](friendly-person/friendly-person.md)
+
+Ask them to join you on a life changing [quest?](zuluquest/choosequest.md)
 
 Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
 
@@ -922,3 +927,14 @@ While having toasted marshmellows and watching the warriors beat the grizzlies, 
 [The new record is!](new_warriors_record/new_warriors_record.md)
 
 Of Course you must reach the end of your story, but remember [this](interstellar_quote/light.md).
+
+Life is full of [puzzles](LifePuzzle/LifePuzzle.md).
+
+You hear a hollow voice say "Plugh".  Mesmerized, you say "[Plugh](plugh/plugh.md)".
+
+A light appears all around you and something comes into focus in the distance. [What is that?](disney/disney.md)
+
+Story about Indian Hockey Player [Rupinder Pal Singh](Rupinderpal/rupinder.md)
+
+If you have read this far, then you must be in pain.  
+Click [here](https://en.wikipedia.org/wiki/Acupuncture) to learn about Accupuncture.
