@@ -13,4 +13,4 @@ dhanyabad tapai ko .md file ko lagi
 
 [purano](aalchi lagyo/alchi.md)
 
-विश्वकै अग्लो शिखर सगरमाथाको बारेमा पढ्न [यहाँ] जानुहोस|
+click [here](https://github.com/BeckDevil/create-your-own-adventure/blob/add-natures/nepali/natures/mt-everest.md) to read about the highest mountain in the world.
