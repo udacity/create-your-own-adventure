@@ -6,8 +6,6 @@ programming?
 
 [For Fun](for-fun/forfun.md)
 
-[Learning a new Skill](new-skill/newskill.md)
-
 [Teach Others how to program](teach-others/teachothers.md)
 
 

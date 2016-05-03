@@ -1,3 +1,3 @@
 If you want to get a job, depends on the platform that you are interested in.
 
-[platform](../../platform/playform.md)
+[Platform](../../platform/platform.md)
