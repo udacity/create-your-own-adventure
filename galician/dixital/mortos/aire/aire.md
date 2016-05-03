@@ -1,0 +1,1 @@
+Estaba voando. Tivo medo e entrou na casa.
