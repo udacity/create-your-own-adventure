@@ -5,3 +5,13 @@ ejercito.
 Los exploradores debian ser cuidadosos y acercarse por el costado de la montaña 
 sin ser vistos ya que si el ejercito resultaba ser enemigo esta seria su
 ultima misiòn.
+
+Los exploradores vieron claramente lo que era aquel ejercito:
+
+Los exploradores volvieron al puesto e informaron de que el ejercito era:
+
+[Una estampida de elefantes](estampida/estampida.md)
+
+
+
+
