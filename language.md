@@ -135,6 +135,8 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
+Kalau kamu menggunakan bahasa Indonesia, silakan klik di [sini](Indonesia/indo.md).
+
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
