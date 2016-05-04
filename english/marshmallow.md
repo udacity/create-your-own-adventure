@@ -933,3 +933,8 @@ Life is full of [puzzles](LifePuzzle/LifePuzzle.md).
 You hear a hollow voice say "Plugh".  Mesmerized, you say "[Plugh](plugh/plugh.md)".
 
 A light appears all around you and something comes into focus in the distance. [What is that?](disney/disney.md)
+
+Story about Indian Hockey Player [Rupinder Pal Singh](Rupinderpal/rupinder.md)
+
+If you have read this far, then you must be in pain.  
+Click [here](https://en.wikipedia.org/wiki/Acupuncture) to learn about Accupuncture.
