@@ -1,4 +1,6 @@
-After passing out from a lack of insulin, you realize that someone is standing over you. It's Hillary Clinton, holding out a cup of grape juice befitted with a straw.
+After passing out from a lack of insulin, you realize that someone is standing over you. 
+
+It's Hillary Clinton, holding out a cup of grape juice befitted with a straw.
 
 "So you don't spill on yourself," she says. 
 
