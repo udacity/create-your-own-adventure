@@ -147,3 +147,5 @@ If you want to know more about IoT, click [here](english/iot/intro.md).
 If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 
 તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
+
+Kalau kamu menggunakan bahasa Indonesia, silakan klik di [sini](Indonesia/indo.md).
