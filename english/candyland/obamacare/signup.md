@@ -8,4 +8,4 @@ But now's your chance to get back at the man!  Free Health Care!  Paid for by...
 
 Go ahead, eat all the marshmallow stuff, it's too late anyway.
 
-[Resign thyself](english/candyland/obamacare/hillary/hillary-appears.md)
+[Resign thyself](hillary/hillary-appears.md)
