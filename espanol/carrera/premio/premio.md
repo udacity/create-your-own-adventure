@@ -1,3 +1,0 @@
-De la cual, el premio era la hermosa princesa del reino...
-
-[la verdad oculta...] (../verdad-oculta/verdad-oculta.md)
