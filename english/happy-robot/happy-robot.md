@@ -5,4 +5,5 @@ It was a dark and stormy night.  A scream is heard.  A happy robot, let's name h
 
 He jumps up, but before he rushes out the door he...
 a) Grabs a [weapon](robot-help/robot-weapon.md), or
+
 b) Enjoys some [refreshments](robot-help/refreshments.md).
