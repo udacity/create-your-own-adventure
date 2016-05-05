@@ -85,5 +85,3 @@
 [Открою Instagram](instagram/instagram.md)
 
 [Бросить "уделанную" футболку Slayer в стирку и отправиться на заутреннюю молитву](prayer/morning_prayer.md)
-
-[Почувствуете ужасный голод] (hunger/feel-hunger.md)
