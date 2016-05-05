@@ -940,3 +940,5 @@ If you have read this far, then you must be in pain.
 Click [here](https://en.wikipedia.org/wiki/Acupuncture) to learn about Accupuncture.
 
 As you approach the [Stargate](stargate/GateDial.md) with trepidation, you can hear the troops getting closer.
+
+Health and Life Lovely [Quotes](./health/health.md)
