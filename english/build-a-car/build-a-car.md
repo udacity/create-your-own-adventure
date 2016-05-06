@@ -4,3 +4,5 @@ Add a motor. Add the wheels.
 Pump the wheels fully. Add interior seats.
 
 [Drive your new car back to the story](../marshmallow.md)
+
+[Or drive your car to funky town](https://www.youtube.com/watch?v=AckzNG01Zkw)
