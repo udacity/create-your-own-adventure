@@ -7,3 +7,5 @@ Which way do you go?
 Take the [stairs](../stairs/stairs.md).
 
 Enter the [tunnel](../tunnel/tunnel.md).
+
+Run to the [ocean](../great-white/great-white.md).
