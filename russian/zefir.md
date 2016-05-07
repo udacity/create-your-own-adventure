@@ -89,3 +89,5 @@
 [Почувствуете ужасный голод] (hunger/feel-hunger.md)
 
 [Начнёте медитировать](meditate/meditate.md)
+
+[Решите программировать] (programming/to-program.md)
