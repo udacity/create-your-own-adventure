@@ -1,0 +1,3 @@
+Når jeg går tilbake til stranda sklir jeg på en stein og detter i vannet.
+
+...
