@@ -9,5 +9,6 @@ Getting very nervous.  Starting to breath anxiously...
 
 Maybe you're overreacting, but you're plenty scared!
 
-Do you quickly swim back to shore, or do you gentle tread 
-water waiting for the moment to pass?
+Do you quickly swim back to shore, do you 
+[set your mind free](../yoga/mind/yoga_mind.md), or 
+do you [Learn to breathe](../yoga/breathe/breathe.md)?
