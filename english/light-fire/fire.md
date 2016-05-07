@@ -31,6 +31,8 @@ The rat smiles and says, "Come on, let's go!"
 
 [Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
 
+[Burn brightly](burn-brightly/burn-brightly.md)
+
 [Call the marshmallow wall repair guy, Marshall M. Aloe](call-marshall/call-marshall.md)
 
 [Pull graham crackers from inside your jacket](graham-crackers/graham-crackers.md)
