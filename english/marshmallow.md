@@ -942,3 +942,5 @@ Click [here](https://en.wikipedia.org/wiki/Acupuncture) to learn about Accupunct
 As you approach the [Stargate](stargate/GateDial.md) with trepidation, you can hear the troops getting closer.
 
 Health and Life Lovely [Quotes](./health/health.md)
+
+The lannisters always pays thier debts, says tyrion lannister. Interesting [character](./gameofthrones/tyrion.md) he is.
