@@ -943,4 +943,4 @@ As you approach the [Stargate](stargate/GateDial.md) with trepidation, you can h
 
 Health and Life Lovely [Quotes](./health/health.md)
 
-The lannisters always pays thier debts, says tyrion lannister. Interesting [character] he is.(./gameofthrones/tyrion.md)
+The lannisters always pays thier debts, says tyrion lannister. Interesting [character](./gameofthrones/tyrion.md) he is.
