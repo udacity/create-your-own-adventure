@@ -16,5 +16,6 @@ who sits next to you in class to get away from all this chaos?
 [Sorry buddy, I've got bad news](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=357&top=5).
 
 No dice? Yikes. 
-Guess you'll have to stick around and [enjoy all this freedom](http://weknowmemes.com/wp-content/uploads/2011/12/damn-right-im-free-this-is-america.png), eh?
+Guess you'll have to stick around and 
+[enjoy all this freedom](http://weknowmemes.com/wp-content/uploads/2011/12/damn-right-im-free-this-is-america.png), eh?
 
