@@ -13,3 +13,5 @@ The non-rich will get more while the currently rich will remain rich.
 And despite a few less dollars for the rich, we will all be better off.
 
 You chuckle to yourself reading the additions, and are suddenly reminded of wiki talk pages.
+
+Hey, if the guy from the other party wins, you could always [move to Canada](../Canada/Canada.md).
