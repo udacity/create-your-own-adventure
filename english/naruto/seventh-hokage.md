@@ -11,4 +11,6 @@ the main factors in winning the Fourth Shinobi World War, leading
 him to achieve his dream and become the village's Seventh Hokage
 (七代目火影, Nanadaime Hokage, Literally meaning: Seventh Fire Shadow).
 
+However, [Full metal](../Full Metal Alchemist/fma.md) is way better :)
+
 Click [here](http://naruto.wikia.com/wiki/Naruto_Uzumaki) for more info.
