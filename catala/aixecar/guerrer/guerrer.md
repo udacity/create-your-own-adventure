@@ -2,6 +2,8 @@ Et sents acorralat i penses que l'única forma de sortir d'aquí és transformar
 
 Respires profundament i comences a cridar com tants cops has vist per televisió...
 
-De sobte, un fort soroll et retorna a la realitat. Et despertes al llit de casa teva i te'n adones que t'has cagat a sobre!
+De sobte, un fort soroll et retorna a la realitat...
+
+Et despertes al llit de casa teva i te'n adones que t'has cagat a sobre!
 
 Clica [aquí](../../catala.md) per tornar a començar...
