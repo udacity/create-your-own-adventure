@@ -33,3 +33,5 @@
 [Look around](look-around/look-around.md)
 
 [Спробую прорізати вікнo ножем](knife/knife.md)
+
+[Зав'яжу на кінці мотузки здоровенний вузел і кину в стіну](lace/lace.md)
