@@ -948,3 +948,4 @@ The lannisters always pays thier debts, says tyrion lannister. Interesting [char
 Time to [move to Canada](Canada/Canada.md), eh?
 
 
+The crushing weight of all these options causes you to [end your life.](end/end.md)
