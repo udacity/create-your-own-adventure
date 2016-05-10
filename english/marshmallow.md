@@ -918,7 +918,6 @@ Toasted [marshmallow](toasted/smores_pie.md)
 
 While having toasted marshmellows and watching the warriors beat the grizzlies, you realise they set a new record.
 [The new record is!](new_warriors_record/new_warriors_record.md)
-
 Of Course you must reach the end of your story, but remember [this](interstellar_quote/light.md).
 
 And then you [visit jw dot org](visit_jw_dot_org/visit_jw_dot_org.md).
