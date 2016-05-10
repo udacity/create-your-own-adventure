@@ -1,0 +1,1 @@
+Comeu todo o sorvete e morreu de diabetes.
