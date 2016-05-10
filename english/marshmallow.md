@@ -947,4 +947,4 @@ The lannisters always pays thier debts, says tyrion lannister. Interesting [char
 
 Time to [move to Canada](Canada/Canada.md), eh?
 
-
+Comfort was what you needed. Yet it was hard to find. On the trip to Canada, you decided to [visit jw.org](visit-jw-dot-org/visit-jw-dot-org.md).
