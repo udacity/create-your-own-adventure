@@ -3,6 +3,8 @@ for the journey.
 
 It's gone a bit soggy though.
 
+You make a mental note to skip the mayonnaise next time.
+
 You strengthen your resolve and eat it anyway. You may need the energy later.
 
 Bolstered by the invigourating feeling of the sandwich in your belly,
