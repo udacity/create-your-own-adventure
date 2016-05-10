@@ -4,4 +4,4 @@ It hits his chest reactor and blows up his suit!
 
 You win!
 
-[Play Again?](avengersCivilWar/welcome.md)
+[Play Again?](../welcome.md)

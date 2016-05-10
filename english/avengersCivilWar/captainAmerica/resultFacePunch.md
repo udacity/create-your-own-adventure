@@ -4,4 +4,4 @@ Iron Man's armor absorbs the damage and he photon blasts you off a cliff.
 
 You lose.
 
-[Play Again?](avengersCivilWar/welcome.md)
+[Play Again?](../welcome.md)

@@ -6,4 +6,4 @@ Captain America smashes his shield into your chest reactor and drop kicks you.
 
 You lose!
 
-[Play Again?](avengersCivilWar/welcome.md)
+[Play Again?](../welcome.md)
