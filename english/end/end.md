@@ -1,0 +1,1 @@
+The crushing weight of all the options causes you to [end your life](despair/despair.md)
