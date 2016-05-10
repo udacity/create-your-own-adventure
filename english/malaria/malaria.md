@@ -18,6 +18,7 @@ Now stop fooling around and take your malaria pill. You've got to find the
 jackal and put an end to this madness. How else do you think you're
 going to complete FarCry 2. Huh?
 
-Malaria is a parasitic disease transmitted by the Anopheles mosquito.  You should use mosquito repellent and sleep under a bed net to reduce your risk of becoming infected.
+Malaria is a parasitic disease transmitted by the Anopheles mosquito.
+You should use mosquito repellent and sleep under a bed net to reduce your risk of becoming infected.
 
 This story sucks? OK, go [back](../marshmallow.md)
