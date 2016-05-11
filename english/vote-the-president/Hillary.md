@@ -1,0 +1,1 @@
+Congratulations. You made another clinton president again. Get ready to see some great extra marital affairs that will give a lots of money to media and spicy news for the Americans.
