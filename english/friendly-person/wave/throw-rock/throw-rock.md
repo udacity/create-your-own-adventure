@@ -1,2 +1,2 @@
 The rock passes right through the person. Are you a ghost or are they?
-You can <a href=”stay-wondering/stay-wondering.md”>[stay here wondering]</a>  or you can <a href=”follow/follow.md”> follow them </a>and try to know more.
+You can [stay here wondering] (stay-wondering/stay-wondering.md) or you can [follow them] (follow/follow.md) and try to know more.
