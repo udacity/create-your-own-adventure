@@ -2,6 +2,12 @@ Your adventure begins. You realize there are hundreds of paths for you to choose
 Which way should you go? Only you can decide. 
 
 
+January 2017 approaches. You have two presidential candidates to vote for.
+
+[Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
+
+[Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
+
 Keith the Unicorn approaches you.
 He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
 
