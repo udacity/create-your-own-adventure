@@ -3,7 +3,6 @@ feeling when you first got your Oculus Rift, you must have fallen asleep with it
 while playing Marshmallow Kingdom again!
 
 You take it off and return to the real world.
-Checkout Samsung GEAR VR for an amazing experience.
 
 But next day the same thing happens to you again.
 
