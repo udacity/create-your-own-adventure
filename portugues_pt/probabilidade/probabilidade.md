@@ -1,0 +1,1 @@
+Depois de algumas aulas de combinatória e probabilidades descubro que a probabilidade de vencer o euromilhões é aproximadamente 1 em 76 milhoes.

@@ -29,3 +29,5 @@ Lembra-se que deixou a [chaleira a ferver água](chaleira/chaleira.md).
 Para visitar Portugal clica [aqui](https://www.visitportugal.com/pt-pt).
 
 [O que fazer](http://www.timeout.com/city-guides/things-to-do-in-lisbon/) em Lisboa.
+
+[Voltava à escola](probabilidade.md) para tentar perceber a probabilidade de vencer o Euromilhoes.
