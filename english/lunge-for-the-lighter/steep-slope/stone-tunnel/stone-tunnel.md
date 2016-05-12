@@ -3,5 +3,5 @@ grey, raccoon-like creatures "talking" to one another. The smaller of the two, a
 eye for a moment, and hands you a half-meter long, sharpened, metal rod with unintelligble markings on it. The 
 simplistic designs lead you to believe that the raccoons made these markings. Each of them has one of the rods
 too. They "speak" to you, and they gesture down the tunnel. As they turn and walk away further into the tunnel,
-you get teh feeling that they want you to follow them.
+you get the feeling that they want you to follow them.
 
