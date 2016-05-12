@@ -955,3 +955,5 @@ Time to [move to Canada](Canada/Canada.md), eh?
 
 
 The crushing weight of all these options causes you to [end your life.](end/end.md)
+
+Before you pulled the plug, someone suggested you find comfort by [visiting jw.org] (visit-jw-dot-org/visit-jw-dot-org.md).
