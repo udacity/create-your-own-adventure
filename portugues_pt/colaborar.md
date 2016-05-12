@@ -5,6 +5,7 @@ pode ser muito interessante... Então vamos lá!
 
 Se hoje ganhasse um jackpot do Euromilhões, o que faria?
 
+[Tentava perceber](probabilidade/probabilidade.md) a probabilidade de ganhar o Euromilhões.
 
 Fazia como o Willy Fog e [Viajava pelo Mundo](mundo/voltaaomundo.md)
 
