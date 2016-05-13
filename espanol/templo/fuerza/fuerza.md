@@ -1,0 +1,3 @@
+Nuevamente comenzaron a vibrar
+intensamente con determinación
+para seguir adelante en la vida...
