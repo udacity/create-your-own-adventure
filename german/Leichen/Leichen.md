@@ -6,7 +6,8 @@ werfen die beiden Leichen aus dem Boot.
 Sie schnaufen einmal kräftig durch während ihnen tausend Gedanken durch den Kopf gehen...
 
 Schnell, aber unbemerkt versuchen Sie an Land zu kommen, aber es scheint nicht näher zu kommen....
-Stattdessen sehe ich immer wieder einen kleinen Clownfisch-Piranha-Mischling an mir vorbeischwimmen und genüsslich an meinen Sachen nagen. 
+Stattdessen sehe ich immer wieder einen kleinen Clownfisch-Piranha-Mischling an mir vorbeischwimmen
+und genüsslich an meinen Sachen nagen. 
 
 Was tun Sie?
 
