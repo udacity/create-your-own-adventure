@@ -7,6 +7,12 @@ Who is better?
 
 [Click Here] (ironman/ironman.md) to vote for Iron Man
 
+-Marvel's Civil War in in theatres now. Which team did you choose?
+
+ [Click Here](team-cap/team-cap.md) to vote for Team Captain America.
+ 
+ [Click Here](team-ironman/team-ironman.md) to vote for Team Ironman.
+
 January 2017 approaches. You have two presidential candidates to vote for.
 
 [Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
