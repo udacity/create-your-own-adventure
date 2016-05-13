@@ -4,9 +4,9 @@ Which way should you go? Only you can decide.
 
 -Marvel's Civil War in in theatres now. Which team did you choose?
 
- [Click Here] (teams/team-captain.md) to vote for Team Captain America.
+ [Click Here](team-cap/team-cap.md) to vote for Team Captain America.
  
- [Click Here] (teams2/team-ironman.md) to vote for Team Ironman.
+ [Click Here](team-ironman/team-ironman.md) to vote for Team Ironman.
 
 January 2017 approaches. You have two presidential candidates to vote for.
 
