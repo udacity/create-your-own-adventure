@@ -960,3 +960,5 @@ Time to [move to Canada](Canada/Canada.md), eh?
 
 
 The crushing weight of all these options causes you to [end your life.](end/end.md)
+
+You're reincarnated as a green starfish but wish you were [blue instead.](starfish/starfish.md)
