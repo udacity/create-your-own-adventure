@@ -1,2 +1,4 @@
-Team Captain America believes that if a governing body is allowed to dictate terms to superheroes, they could be misused to serve
- political agendas of powerful nations, effectively making the superheroes slaves of the UN. Congrats for choosing wisely.
+Team Captain America believes that if a governing body is allowed to 
+dictate terms to superheroes, they could be misused to serve political agendas
+of powerful nations, effectively making the superheroes slaves of the UN. Congrats
+for choosing wisely.

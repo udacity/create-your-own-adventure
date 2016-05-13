@@ -6,7 +6,7 @@ Which way should you go? Only you can decide.
 
  [Click Here] (teams/team-captain.md) to vote for Team Captain America.
  
- [Click Here] (teams/team-ironman.md) to vote for Team Ironman.
+ [Click Here] (teams2/team-ironman.md) to vote for Team Ironman.
 
 January 2017 approaches. You have two presidential candidates to vote for.
 
