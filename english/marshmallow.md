@@ -1,6 +1,11 @@
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
+Who is better?
+
+[Click Here](captain/captain.md) to vote for Captain America
+
+[Click Here] (ironman/ironman.md) to vote for Iron Man
 
 January 2017 approaches. You have two presidential candidates to vote for.
 
