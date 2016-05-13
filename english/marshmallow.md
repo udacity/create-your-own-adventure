@@ -3,6 +3,7 @@ Which way should you go? Only you can decide.
 
 
 -Marvel's Civil War in in theatres now. Which team did you choose?
+
  [Click Here] (teams/team-captain.md) to vote for Team Captain America.
  
  [Click Here] (teams/team-ironman.md) to vote for Team Ironman.
