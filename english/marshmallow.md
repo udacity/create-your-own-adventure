@@ -2,6 +2,11 @@ Your adventure begins. You realize there are hundreds of paths for you to choose
 Which way should you go? Only you can decide. 
 
 
+-Marvel's Civil War in in theatres now. Which team did you choose?
+ [Click Here] (teams/team-captain.md) to vote for Team Captain America.
+ 
+ [Click Here] (teams/team-ironman.md) to vote for Team Ironman.
+
 January 2017 approaches. You have two presidential candidates to vote for.
 
 [Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
