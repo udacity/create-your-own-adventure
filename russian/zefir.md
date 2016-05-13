@@ -16,6 +16,8 @@
 
 Ваши действия:
 
+[Пойти поплавать](go-to-swim/go-to-swim.md)
+
 [Начать танцевать Лезгинку](dance_lezginka/dance.md)
 
 [Смешать водку с пивом](vodka/vodka.md)
