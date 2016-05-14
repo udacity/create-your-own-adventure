@@ -1,5 +1,5 @@
 Ao entrar no banheiro, você vê gigantescas coisas amarelas no céu. O que você faz?
 
-[Limpa o celular com a tolhas](limpar/limpar.md)
+[Ignora e limpa o celular com a tolha](limpar/limpar.md)
 
-[Tenta pegar uma carona numa das coisas amarelas.](carona/carona.md)
+[Tenta pegar uma carona numa dessas coisas amarelas.](carona/carona.md)
