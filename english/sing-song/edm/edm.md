@@ -9,3 +9,5 @@ After almost three hours of EDM, you wear out and decide something else to do.
 [Dance.](../../dance/dance.md)
 
 [Just kidding. It's time for some drugs! Look at these shrooms...](../../shrooms/never-again.md)
+
+[Grocery.](../../grocery/grocery.md)
