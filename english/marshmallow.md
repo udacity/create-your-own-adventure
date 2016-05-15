@@ -81,6 +81,10 @@ The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtu
 
 Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
 
+Or a [Wednesday](make_changes_GitHub/make_changes_GitHub.md)...
+
+[Thursday](doug-adams/arthur-dent/arthur-dent.md)... maybe even a Friday, but definetely not a Saturday.
+
 Ok, we have to consider Saturday too.
 
 [this crazy thought popped into your head](yellow-baby-buggy-bumpers/yellow-baby-buggy-bumpers.md)
