@@ -10,5 +10,5 @@ the Hitchhiker's Guide has already supplanted the great Encyclopedia
 Galactica as the standard repository of all knowledge and wisdom. For though it
 has many omissions, and contains much which is apocryphal, or at least wildly
 inaccurate, it scores over the older, more pedestrian work in two important respects.
-First, it is slightly cheaper. And second, it has the words ["DON'T PANIC"](../alchemy/alchemy.md) printed in
+First, it is slightly cheaper. And second, it has the words ["DON'T PANIC"](../../alchemy/alchemy.md) printed in
 large friendly letters on its cover.
