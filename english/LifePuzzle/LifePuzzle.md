@@ -1,1 +1,3 @@
 Life is full of puzzles that we try to solve everyday!
+
+You are shrunk to the height of a nickel and your mass is proportionally reduced so as to maintain your original density. You are then thrown into an empty glass blender. The blades will start moving in 60 seconds. What do you do?
