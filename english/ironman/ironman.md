@@ -5,4 +5,4 @@ Who should win in a matchup?
 
 [Batman](english/batman/batman.md)
 
-[Superman](english/superman/superman.md)
+[Superman](english/supes-beat-bat/super-wins.md)
