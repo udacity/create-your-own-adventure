@@ -1,1 +1,1 @@
-Good Choice.
+Good Choice. Nothing like bringing back old heroes.
