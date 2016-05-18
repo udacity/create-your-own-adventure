@@ -1,0 +1,5 @@
+Chum wants to go to the mall to eat
+
+[But he wants to lose fat. Don't eat?](../adipose/adipose.md)
+[He finds a mushroom. Eat it?](../mushroom/collect_mushroom.md)
+[You find a mysterious door. Open it?](../candyland/diabetes.md)
