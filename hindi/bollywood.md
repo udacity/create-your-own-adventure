@@ -1,4 +1,4 @@
-﻿चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
+चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
 
 बॉलीवुड में आपका स्वागत है !
 
@@ -25,4 +25,4 @@ Art of Living [Know More](art-of-living/art-of-living.md)
 
 [Sunny Deol](Sunny_Deol/sunny.md)
 
-[चुटकुला पढो](joke/joke.md) और मुस्कुराते रहो
+[चुटकुला पढो](joke/joke.md) और मुस्कुराते जारी रहना]
