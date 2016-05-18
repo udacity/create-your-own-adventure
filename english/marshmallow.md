@@ -941,4 +941,5 @@ Click [here](https://en.wikipedia.org/wiki/Acupuncture) to learn about Accupunct
 
 As you approach the [Stargate](stargate/GateDial.md) with trepidation, you can hear the troops getting closer.
 
-You wake up, and you're Harry Potter facing Voldemort?!?! [What do you do?](magicaladventure/decision_time/decision_time.md)
+You wake up, and you're Harry Potter facing Voldemort?!?! 
+[What do you do?](magicaladventure/decision_time/decision_time.md)
