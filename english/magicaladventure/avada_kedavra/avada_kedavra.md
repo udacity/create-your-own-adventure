@@ -4,4 +4,6 @@ Voldemort dies from your vengeful response, and your lust for revenge is satiate
 
 - - - - - - 20 years later
 
-You're the Minister of Magic, having crushed the opposition and determine to let no one ever commit anything you call injustice. Dumbledore weeps in his grave over what you've become.
+You're the Minister of Magic, having crushed the opposition 
+and determine to let no one ever commit anything you call injustice. 
+Dumbledore weeps in his grave over what you've become.
