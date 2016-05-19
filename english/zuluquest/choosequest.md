@@ -12,4 +12,4 @@ Invite you for a freshly ground [coffee](ground/coffee.md) and discuss about lif
 
 Experience [generative states of meditative consciousness](experience/meditative_states.md)
 
-And now, the zulu quest is over!
+And now, the zulu quest is over!  On to the next story!
