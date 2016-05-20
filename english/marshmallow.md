@@ -7,6 +7,8 @@ Who is better?
 
 [Click Here] (ironman/ironman.md) to vote for Iron Man
 
+[Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
+
 January 2017 approaches. You have two presidential candidates to vote for.
 
 [Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
@@ -80,6 +82,10 @@ The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtu
 *(Must be a Tuesday.)*
 
 Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
+
+Or a [Wednesday](make_changes_GitHub/make_changes_GitHub.md)...
+
+[Thursday](doug-adams/arthur-dent/arthur-dent.md)... maybe even a Friday, but definetely not a Saturday.
 
 Ok, we have to consider Saturday too.
 
@@ -964,3 +970,7 @@ The crushing weight of all these options causes you to [end your life.](end/end.
 You're reincarnated as a green starfish but wish you were [blue instead.](starfish/starfish.md)
 
 [Motivate yourself](Motivate/Motivate.md)
+
+You wake up as Harry Potter ... and are facing Voldemort in a duel? 
+What should you [do](magicaladventure/decision_time/decision_time.md)
+
