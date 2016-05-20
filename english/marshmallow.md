@@ -969,5 +969,8 @@ The crushing weight of all these options causes you to [end your life.](end/end.
 
 You're reincarnated as a green starfish but wish you were [blue instead.](starfish/starfish.md)
 
+[Motivate yourself](Motivate/Motivate.md)
+
 You wake up as Harry Potter ... and are facing Voldemort in a duel? 
 What should you [do](magicaladventure/decision_time/decision_time.md)
+
