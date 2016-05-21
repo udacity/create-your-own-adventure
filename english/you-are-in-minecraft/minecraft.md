@@ -26,4 +26,6 @@ Do you:
 
 [Hulk out?](../hulk/smash.md)
 
+[Fish for food?](fish_food/fish_food.md)
+
 [Surprise!](../surprise!/surprise.md)
