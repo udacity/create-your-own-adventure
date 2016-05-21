@@ -15,3 +15,5 @@ Yells and become super saiyan
 Flys to the moon
 
 [Turn into a potato](potato/potato.md)
+
+Spin like a Whirling Dervish
