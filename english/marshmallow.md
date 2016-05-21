@@ -974,3 +974,4 @@ You're reincarnated as a green starfish but wish you were [blue instead.](starfi
 You wake up as Harry Potter ... and are facing Voldemort in a duel? 
 What should you [do](magicaladventure/decision_time/decision_time.md)
 
+My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
