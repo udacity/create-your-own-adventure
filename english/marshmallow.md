@@ -15,7 +15,7 @@ January 2017 approaches. You have two presidential candidates to vote for.
 
 [Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
 
-[Click](vote-the-president/hillary/Bernie.md) here to vote for Bernie Sanders.
+[Click](vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
 
 Keith the Unicorn approaches you.
 He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
