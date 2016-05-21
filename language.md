@@ -135,7 +135,6 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
-=======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
 If you speak Gujarati, go [here](Gujarati/gujarati.md).
@@ -147,3 +146,5 @@ If you want to know more about IoT, click [here](english/iot/intro.md).
 If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 
 તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
+
+To see the বাংলা  (bangla/bengali) oneline portals, [click here](bangla/bangla-portals.md)
