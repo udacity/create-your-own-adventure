@@ -147,4 +147,4 @@ If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 
 તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
 
-To see the বাংলা  (bangla/bengali) oneline portals, [click here](bangla/bangla-portals.md)
+To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
