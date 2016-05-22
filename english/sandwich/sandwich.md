@@ -1,7 +1,7 @@
 You rummage in your rucksack and find that cucumber sandwich you made
 for the journey.
 
-It's gone a bit soggy though.
+It's gone a bit soggy though. That's what you get for trying to use it to catch those fish.
 
 You make a mental note to skip the mayonnaise next time.
 
