@@ -16,6 +16,8 @@ If you understand Tamil, தமிழ் வணக்கம் [இங்கே 
 
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
+If you want to view something nice,[go here](something-nice/something-nice.md).
+
 यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।](nepali/about_nepal.md)
 
 如果你说中文，[点击这里](Chinese/大话西游.md).
