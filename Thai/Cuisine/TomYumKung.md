@@ -1,4 +1,4 @@
-If you want to have the taste of Thai food, you must try Tom Yum Kung.
+﻿If you want to have the taste of Thai food, you must try Tom Yum Kung.
 
 It is chilli paste mixed with soup. The word Kung meant shrimp!!!
 
@@ -14,5 +14,7 @@ Do you:
 [sing a song while having Thai food](../../english/sing-song/sing.md)
 
 [ดูทีวี eat Thai food and watch TV](https://www.youtube.com)
+
+[Let's go to Phuket](../travel/travel.md)
 
 Actually I prefer Thai Green Curry better!

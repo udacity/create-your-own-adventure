@@ -1,4 +1,4 @@
-This is my favorite Thai song.
+﻿This is my favorite Thai song.
 
 Do you:
 
@@ -14,6 +14,8 @@ Do you:
 [โทรหาเธอ](./callher/callher.md)
 
 [ลืมมันซะแล้วไปหาต้มยำกุ้งกิน](../Cuisine/TomYumKung.md)
+
+[อย่าคิดมาก ไปเที่ยวทะเลกันดีกว่า](../travel/travel.md)
 
 #####################################
 เว็บอะไรที่สร้างแรงบันดาลใจ หรือทำให้ชีวิตคุณดีขึ้น
