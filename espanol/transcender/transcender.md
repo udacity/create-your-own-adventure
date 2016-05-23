@@ -5,4 +5,6 @@ su existencia el Consejero. Una de las últimas figuras que, por así decir, des
 ya no era mas que una masa de colores amorfa que aún se diferenciaba del "fondo".
 
 Pero aún persistian sus pensamientos. Debería desprenderse de esos también, si quería transcender 
-debidamente.
+debidamente. 
+
+Y lo hubiera hecho... Sin embargo, (una hora antes había sellado su propio destino)[destino.md].
