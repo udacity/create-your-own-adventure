@@ -150,4 +150,4 @@ If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 
 To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
 
-Kalo lo bisa bahasa Indonesia, mulai ceritanya di [sini](indonesia/indonesia.md)
+Kalo lo bisa bahasa Indonesia, mulai ceritanya di [sini](indonesian/indonesian.md)

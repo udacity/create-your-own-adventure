@@ -1,0 +1,1 @@
+ada sebuah patung yang menyerupai seorang nenek
