@@ -15,4 +15,6 @@ Do you:
 
 [ดูทีวี eat Thai food and watch TV](https://www.youtube.com)
 
+[I want to have original one. Let's go to Thailand](../travel.md)
+
 Actually I prefer Thai Green Curry better!
