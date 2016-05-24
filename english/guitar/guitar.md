@@ -4,3 +4,5 @@ After thoroughly washing your hands and guitar strings you
 decide to go to sleep and start to have a crazy dream.
 
 [Start dreaming](../dream/dream.md)
+
+Or listen to some awesome [music](../music/music.md)
