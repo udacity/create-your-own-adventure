@@ -1,5 +1,5 @@
 Pada suatu hari...
 
-[seorang nenek pergi ke pasar](nenek.md)
+> seorang nenek pergi ke pasar
 
-[di sebuah desa terpencil](desa.md)
+> di sebuah desa terpencil
