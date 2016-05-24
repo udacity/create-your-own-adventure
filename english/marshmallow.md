@@ -3,6 +3,8 @@ Which way should you go? Only you can decide.
 
 Who is better?
 
+[Click Here](meaning-of-life/not-going-to-like-it.md) for the answer to the ultimate question to Life, the Universe, and Everthing.
+
 [Click Here](captain/captain.md) to vote for Captain America
 
 [Click Here] (ironman/ironman.md) to vote for Iron Man
