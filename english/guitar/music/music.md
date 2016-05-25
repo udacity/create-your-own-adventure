@@ -1,0 +1,2 @@
+The first Crossroads Guitar Festival concert, held at the Cotton Bowl stadium in Dallas, Texas in June 2004.
+Awesome work by two great guitarists [Jingo by Carlos Santana and Eric Clapton](https://www.youtube.com/watch?v=sGgP7FOg9jM)
