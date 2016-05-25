@@ -3,4 +3,4 @@ The garden will welcome you, trust in the divine providence.
 
 Do you [accept](https://www.youtube.com/watch?v=2u86NS3NtMw)?
 
-No, I am ready to accept my [fate](../day-dream/day-dream.md)
+No, I am ready to accept my [fate](../marshmellow.md)
