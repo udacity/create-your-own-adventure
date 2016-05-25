@@ -5,6 +5,8 @@ die Ruder?! Sie stellen fest, dass die Paddel nicht im Boot sind.
 
 Was machen Sie nun?
 
+[Im Boot nach was suchen was als Paddel gebraucht werden kann] (../suchen/suchen.md)
+
 [Laut um Hilfe schreien](../Hilfeschrei/Hilfeschrei.md)?
 
 [Aus dem Boot springen und nach Norden schwimmen?](../schwimmen/schwimmen.md)
