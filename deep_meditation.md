@@ -2,4 +2,4 @@ I think you made a mistake. You should take some time to reflect. The garden wil
 
 Do you [accept](https://www.youtube.com/watch?v=2u86NS3NtMw)?
 
-No, I am ready to accept my [fate](../day-dream/day-dream.md)
+No, I am ready to accept my [fate](day-dream/day-dream.md)
