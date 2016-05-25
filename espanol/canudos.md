@@ -146,5 +146,5 @@ Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)
 
 solo [Escapó](escapo/escapo.md)
 
-Y llego [Daynerys Targaryen](thrones/daynerys)
+Y llego [Daynerys Targaryen](thrones/daynerys.md)
 
