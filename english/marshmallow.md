@@ -1,6 +1,8 @@
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
+Take some [time](meditation/meditation.md) off!
+
 Who is better?
 
 [Click Here](captain/captain.md) to vote for Captain America
