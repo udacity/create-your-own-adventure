@@ -18,3 +18,5 @@ After having your starbucks do you want to:
 [My coffee got cold. Fire???](../../light-fire/fire.md)
 
 [I just realized... I'm naked! o.O](../nude-run/nude-run.md).
+
+[Get better coffee](../better-coffee/better-coffee).
