@@ -31,3 +31,5 @@ Werden Sie:
 [Sie spüren einen höllischen Schmerz im Gesicht](Sonnenbrand/vor-sonne-schutzen.md)
 
 [Kopfüber ins Wasser springen](Kopfsprung/Kopfsprung.md)
+
+[Baden gehen](Baden/Baden.md)
