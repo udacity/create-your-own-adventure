@@ -14,3 +14,5 @@ O que seria este algo faltando?
 [Fundava uma nova Startup](startup/startup.md)
 
 Mas não daria para fazer tudo isso. Teria que escolher.
+
+...Mas teria tempo de certeza para conhecer os melhores restaurantes e pessoas de [Portugal](https://pt.wikipedia.org/wiki/Portugal) e Ilhas ([Açores](https://pt.wikipedia.org/wiki/A%C3%A7ores) e [MAdeira](https://pt.wikipedia.org/wiki/Ilha_da_Madeira))!!!
