@@ -6,3 +6,5 @@ Could not Descartes' demon make this place as well? Keith agrees.
 Keith licks his tobbaco-stained teeth and snorts.
 
 "Are you going to eat that, man? I've got the munchies something fierce."
+
+You push the bowl toward him, having completely lost your appetite as well as your mind.
