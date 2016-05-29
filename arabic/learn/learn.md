@@ -29,6 +29,7 @@ freelancing اشهر مواقع العمل الحر
 
 - [أخرى](whattolearn/other/other.md)
 
+- [الإسلام] (http://ar.islamway.net/)
 
 
 
