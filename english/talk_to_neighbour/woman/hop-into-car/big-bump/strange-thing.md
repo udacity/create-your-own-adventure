@@ -1,1 +1,3 @@
 In the rear-view mirrow you see an oddly shaped thing laying in the middel of the road...
+
+You can't really make out what it is.
