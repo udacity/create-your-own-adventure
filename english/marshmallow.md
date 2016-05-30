@@ -111,7 +111,9 @@ Was it the sound of birds?
 
 It sounded like it could have been a [heffalump](heffalump/heffalump.md)
 
-No... perhaps not.  Not at all.
+No... perhaps not.
+
+Not at all.
 
 I think it was an [animal](animal/animal.md).
 
