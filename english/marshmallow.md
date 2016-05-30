@@ -3,8 +3,6 @@ Which way should you go? Only you can decide.
 
 Take some [time](meditation/meditation.md) off!
 
-Are you a [girl](gender/girl.md) or a [boy](gender/boy.md)?
-
 Who is better?
 
 [Click Here](captain/captain.md) to vote for Captain America
@@ -983,3 +981,6 @@ What should you [do](magicaladventure/decision_time/decision_time.md)
 My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
 
 [Click] (vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
+
+Are you a [girl](gender/girl.md)
+or a [boy](gender/boy.md)?
