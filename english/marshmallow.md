@@ -982,6 +982,6 @@ My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
 
 [Click] (vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
 
-a [boy] (gender/boy.md)
+a [boy] (genders/boys.md)
 or
-a [girl] (gender/girl.md) ?
+a [girl] (genders/girls.md) ?
