@@ -1,0 +1,3 @@
+One Piece is a Japanese manga series written and illustrated by Eiichiro Oda. It has been serialized in Shueisha's Weekly Shōnen Jump magazine since July 19, 1997, with the chapters collected into eighty-one tankōbon volumes to date. One Piece follows the adventures of Monkey D. Luffy, a funny young man whose body gained the properties of rubber after unintentionally eating a Devil Fruit. With his diverse crew of pirates, named the Straw Hat Pirates, Luffy explores the grand line in search of the world's ultimate treasure known as "One Piece" in order to become the next King of the Pirates. -Wikipedia
+
+Learn about devil fruits [here](https://github.com/udacity/create-your-own-adventure/blob/master/english/fruit/devilfruits/df.md)
