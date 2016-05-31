@@ -981,3 +981,6 @@ What should you [do](magicaladventure/decision_time/decision_time.md)
 My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
 
 [Click] (vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
+
+You decide you want to be a pirate and remember a show called
+[onepiece](onepiece/op.md)
