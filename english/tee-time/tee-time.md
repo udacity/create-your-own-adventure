@@ -1,1 +1,1 @@
-tee-time.md
+Play some golf, but [where](http://www.golfdigest.com/gallery/photos-best-20-golf-resorts)?
