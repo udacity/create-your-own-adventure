@@ -9,4 +9,6 @@ Allah and (His) Good Pleasure (for the believers, good-doers),
 whereas the life of this world is only a deceiving enjoyment“.
 [QURAN 57:20]
 
+"Life isn't that simple but you got to take every possible risk in life to achieve something."
+
 "Explore another dimension[dimension](../dimensions/dimension.md). It's fun"
