@@ -980,4 +980,4 @@ What should you [do](magicaladventure/decision_time/decision_time.md)
 
 My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
 
-[Click] (vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
+Click [here](vote-the-president/bernie/Bernie.md) to vote for Bernie Sanders.
