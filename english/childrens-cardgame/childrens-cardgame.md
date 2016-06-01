@@ -8,4 +8,4 @@ Do you accept?
 
 No. I want to learn about [Bayes' Theorem](../BayesTheorem/BayesTheorem.md) instead.
 
-No. I want to do [something else](../marshmellow.md).
+No. I want to do [something else](../marshmallow.md).
