@@ -986,3 +986,5 @@ You decide you want to be a pirate and remember a show called
 [onepiece](onepiece/op.md)
 
 You looking for a country for advanture? Try [Taiwan](trip-to-Taiwan/trip-to-Taiwan.md)!
+
+Remember Yu-Gi-Oh? Well now you decide to play a [Children's Card Game](childrens-cardgame/childrens-cardgame.md)
