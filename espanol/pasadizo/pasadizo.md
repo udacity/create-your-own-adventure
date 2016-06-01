@@ -6,6 +6,6 @@ cuatro varones vírgenes.
 Al llegar a la plaza de la torre, ya se oían el ruido de las armaduras y los gritos
 de dolor. Apremiados por la situación, decidieron:
 
-[Cruzar la plaza, despistando al enemigo acercándose a él](ruta/plaza.md)
+[Cruzar la plaza, despistando al enemigo acercándose a él](plaza/plaza.md)
 
-[Seguir bajando hasta el sótano de la torre](ruta/sotano.md)
+[Seguir bajando hasta el sótano de la torre](sotano/sotano.md)

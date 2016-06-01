@@ -6,6 +6,6 @@ sucumbió ante el cansancio y se derrumbó. El consorte restante no pudo soportar 
 peso, cayendo escaleras abajo y viendo como el Consejero descubría qué es la gravedad.
 Ante sus sorprendidos ojos:
 
-[Vieron como volaba por los aires](caida/aires.md)
+[Vieron como volaba por los aires](aires/aires.md)
 
-[Vieron como rodaba escalera abajo](caida/escalera.md)
+[Vieron como rodaba escalera abajo](escalera/escalera.md)
