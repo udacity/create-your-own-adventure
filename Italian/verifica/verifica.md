@@ -7,4 +7,5 @@ stavolta nella mia stanza.
 A questo punto puoi scegliere di:
 
 [Tornare a dormire](../caramelle.md)
-[Tiro una bestemmia](/bestemmia/bestemmia.md)
+
+[Tiro una bestemmia](bestemmia/bestemmia.md)
