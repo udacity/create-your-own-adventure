@@ -4,3 +4,7 @@ mi rendo conto che stavo dormendo, ma per
 la gioia di sapermi in un sogno, mi sveglio,
 stavolta nella mia stanza.
 
+A questo punto puoi scegliere di:
+
+[Tornare a dormire](../caramelle.md)
+[Tiro una bestemmia](/bestemmia/bestemmia.md)
