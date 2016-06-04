@@ -854,6 +854,7 @@ So shall you reap, and the [steelers](steelers/steelers.md) know that all too we
 
 Until you realize that even marshmallows need [LOVE](https://www.youtube.com/watch?v=i5fZ__mnHbU).
 
+Marcel needs a new pair of shoes, will you buy shoes for [Marcel](https://www.youtube.com/watch?v=VF9-sEbqDvU)?
 
 You look up and out to the ocean. In the distance you see a [mermaid](mermaid/mermaid.md)
 
