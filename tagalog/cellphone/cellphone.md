@@ -1,0 +1,1 @@
+dagdagan mo mangyayari pagkuha ng cellphone
