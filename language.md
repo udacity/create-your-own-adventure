@@ -1,4 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
+﻿
+
+If you speak Tagalog, [pumunta ka dito] (tagalog/Gising.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
