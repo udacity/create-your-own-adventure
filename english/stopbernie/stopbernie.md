@@ -1,5 +1,7 @@
 Nothing is free. [Even the middle class will pay more under Bernie Sanders](http://goo.gl/uZIN0d)
 
+Did you know Bernie Sanders has even flirted with a [maximum income](http://goo.gl/AvGGSv)?
+
 Go [back to menu](../marshmallow.md)
 
 Instead of going back you wonder... Can the truth and validity about a tax plan
