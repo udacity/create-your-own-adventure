@@ -1,6 +1,6 @@
 Nothing is free. [Even the middle class will pay more under Bernie Sanders](http://goo.gl/uZIN0d)
 
-Did you know Bernie Sanders has even flirted with a [maximum income](http://www.bloomberg.com/politics/articles/2015-11-18/bernie-sanders-flirted-with-100-percent-marginal-tax-on-the-rich-maximum-wage)?
+Did you know Bernie Sanders has even flirted with a [maximum income](http://goo.gl/AvGGSv)?
 
 Go [back to menu](../marshmallow.md)
 
