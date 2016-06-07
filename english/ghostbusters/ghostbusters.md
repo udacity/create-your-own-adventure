@@ -48,9 +48,11 @@ WHERE AM I ???
 
 a voice calls out from your right
 
-You sense a cloaked figure with 
+You sense a cloaked figure with
 
 electric [blue eyes] (../goosebumps/goosebumps.md) approach.
+
+"This time the experiment worked," the figure says before kneeling in front of you.
 
 
 
