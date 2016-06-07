@@ -11,6 +11,8 @@ Bi taraf karanlık ama çakmakla ilerleyebilirsin.
 
 Diğer taraf ise uçurum fakat iple inebilirsin.
 
+Karanliktan hiç korkmazdın sen zaten. Tereddüt etmeden karanlık yolu seçtin ve adımını attın.
+
 Ne yapacaksın?
 
 [İple in](iple-in/iple-in.md)
