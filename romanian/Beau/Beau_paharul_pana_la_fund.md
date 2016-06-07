@@ -1,1 +1,0 @@
-Ginel ca un adevarat mafiot bau tot, ca era de menta.
