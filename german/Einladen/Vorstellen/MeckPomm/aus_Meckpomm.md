@@ -1,1 +1,0 @@
-Sie ist aus MeckPomm!!
