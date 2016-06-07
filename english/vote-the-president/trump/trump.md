@@ -2,4 +2,4 @@ You made America great again. Now its time to build a wall. Call 987654321 to co
 
 It's gonna be huuuuge!
 
-Are you ready for [WWIII](english/WWIII/WWIII.md)?
+Are you ready for [WWIII](../../WWIII/WWIII.md)?
