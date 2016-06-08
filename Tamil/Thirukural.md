@@ -9,3 +9,8 @@ Friendship hastens to rescue as fast as hand’s reflex to catch slipping cloth
 மெய்வருத்தக் கூலி தரும்
 Though fate-divine should make your labour vain;
 Effort its labour's sure reward will gain
+
+யாகாவ ராயினும் நாகாக்க காவாக்கால் 
+சோகாப்பர் சொல்லிழுக்குப் பட்டு
+Whatever you dont watch, watch your words, otherwise
+you will loseall under your watch.
