@@ -20,6 +20,9 @@ January 2017 approaches. You have two presidential candidates to vote for.
 Keith the Unicorn approaches you.
 He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
 
+It is time to begin your adventure.
+Your search for the grail begins [now](Monty-Python/search.md)
+
 Down one path you see a person standing in the middle of the path.
 They look familiar somehow, but you just can't figure out who they are.
 They seem friendly so you decide to go [talk to them.](friendly-person/friendly-person.md)
