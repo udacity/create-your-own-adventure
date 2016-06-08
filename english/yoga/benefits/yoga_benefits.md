@@ -20,6 +20,7 @@ Here we provide a list of benefits:
 11. Increases focus.
 12. Make you calm and manages anger.
 13. Help you connect with your soul and inner god.
+14. Take time off from from endless activity of mind and refocus and relax your mind
 
 It must be said though, that yoga is not a panacea. 
 It won't cure a serious illness, and we must be aware
