@@ -2,6 +2,8 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
+Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
+
 Hizo un gesto de [cansancio](cansancio/cansancio.md)
 
 [Hizo un gesto a Beatito](revolucion/revolucion.md)
