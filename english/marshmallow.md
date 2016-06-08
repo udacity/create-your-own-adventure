@@ -989,3 +989,5 @@ You decide you want to be a pirate and remember a show called
 You looking for a country for advanture? Try [Taiwan](trip-to-Taiwan/trip-to-Taiwan.md)!
 
 you find a mysterious cup with clear liquid in it. [drink?](drink/drink.md)
+
+friends don't know what they dont know, so lets get them in the know. [get in the know?](readtheknow/theknow.md)

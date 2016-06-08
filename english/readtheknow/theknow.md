@@ -1,0 +1,1 @@
+Good choice, did you know that there is an awesome beta app called The Know delivering geopolitical insights happening around the world? Bet you didn't know... so let's sign up for the know [here](www.readtheknow.com)
