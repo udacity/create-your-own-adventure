@@ -8,4 +8,4 @@ Co robisz?
 
 [Kładziesz się na podłodze i zasypiasz](./spanie/spanie.md)
 
-[W rogu pudełka zauważasz leżące zapałki](./zapalki.md)
+[W rogu pudełka zauważasz leżące zapałki](./zapalki/zapalki.md)
