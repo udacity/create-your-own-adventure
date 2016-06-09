@@ -7,3 +7,5 @@ She has been the difference and now I am confident I can be a developer.
 I am glad you also met [Udacity](http://www.udacity.com)
 
 The question is do you keep using the free courses or plump for the nano-degree?
+
+Never stop learning!
