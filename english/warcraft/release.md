@@ -1,0 +1,1 @@
+You decide to go against cinema critics and enjoy the Duncan Jones' view of the Warcraft universe.
