@@ -994,3 +994,5 @@ You decide you want to be a pirate and remember a show called
 You looking for a country for advanture? Try [Taiwan](trip-to-Taiwan/trip-to-Taiwan.md)!
 
 you find a mysterious cup with clear liquid in it. [drink?](drink/drink.md)
+
+Or do you decide to go to the movies? [Lok'tar Ogar](warcraft/release.md)
