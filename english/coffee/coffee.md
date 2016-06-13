@@ -39,7 +39,7 @@ After having your coffee do you want to:
 
 [Procrastinate?](procrastinate/procrastinate.md)
 
-[Also just go ahead and drink tea as well?](../drink-tea/drink-hot-tea.md)
+[Decide you think it might be time to head to Hollywood to become famous?](hollywood/hollywood.md)
 
 .
 
