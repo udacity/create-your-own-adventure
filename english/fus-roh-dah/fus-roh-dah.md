@@ -4,9 +4,9 @@ These things are specs of dust compared to you.
 
 Easily pushed with excellent physics engines
 
-In a second you can send them all to oblivion.
+In a second you can send them all to Oblivion...
 
-but maybe that marshmellows self aware are a deadra lord.
+...but maybe that marshmellow is a self-aware deadra lord!
 
 
 
