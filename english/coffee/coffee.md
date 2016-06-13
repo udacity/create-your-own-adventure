@@ -39,6 +39,8 @@ After having your coffee do you want to:
 
 [Procrastinate?](procrastinate/procrastinate.md)
 
+[Also just go ahead and drink tea as well?](../drink-tea/drink-hot-tea.md)
+
 .
 
 Coffee creates a great medium for people to have conversations about ideas and visions.
