@@ -8,3 +8,6 @@ Thereafter, you remembered the hole you made in the wall and started thinking of
 
 You realize that the only way to fix the whole in the wall is to buy additional marshmellows. In order to do this you 
 have to go to the supermarket. That same supermarket that you vowed you would never return to.
+
+The dreaded Walmart. The worst place in the entire universe. You start to feel dizzy and sick. You know that to return 
+means certain death, but you must go if you want to fix the marshmellow hole.
