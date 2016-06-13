@@ -2,4 +2,4 @@
 
 Si esce a prendere il tram
 
-[prendi dei sonniferi] (Italian/dormire/sogno-strano.md)
+[prendi dei sonniferi] (../dormire/sogno-strano.md)
