@@ -6,3 +6,10 @@ so as to maintain your original density.
 You are then thrown into an empty glass blender. 
 The blades will start moving in 60 seconds. 
 What do you do?
+
+Drink some [bear](bear/bear.md)
+
+or
+
+Begin to [sing](sing/sing.md)
+
