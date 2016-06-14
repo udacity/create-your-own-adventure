@@ -7,9 +7,8 @@ You are then thrown into an empty glass blender.
 The blades will start moving in 60 seconds. 
 What do you do?
 
-Drink some [bear](bear/bear.md)
+[Ask a question on Quora?](../ask-on-quora/ask-on-quora.md)
 
 or
 
-Begin to [sing](sing/sing.md)
-
+[Begin to sing](../sing/sing.md)
