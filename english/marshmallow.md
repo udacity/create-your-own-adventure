@@ -995,4 +995,4 @@ You looking for a country for advanture? Try [Taiwan](trip-to-Taiwan/trip-to-Tai
 
 you find a mysterious cup with clear liquid in it. [drink?](drink/drink.md)
 
-Your friend told you that the new Total War - Warhammer has come out. [Let's check it out!](total-war/war-start.md)
+Time to check out the latest [Total War - Warhammer](total-war/war-start.md)!
