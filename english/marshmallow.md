@@ -781,7 +781,7 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
 Despite the little conundrum that you resolved, you realize that it's now 
-Friday, December 4th. 
+Friday, December 4th.  
 
 "Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
 
