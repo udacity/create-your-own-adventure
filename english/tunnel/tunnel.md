@@ -5,3 +5,5 @@ hear your pursuer, only your breath echoing around you.
 [Look for a light.] (blind-search/blind-search.md)
 
 [Continue down the tunnel.] (continue/continue.md)
+
+[Stop and meditate on the situation](stop/stop.md)

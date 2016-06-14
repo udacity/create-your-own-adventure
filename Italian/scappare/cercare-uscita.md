@@ -10,3 +10,5 @@ Inciampi in una bottiglia rotta a metà, e ci sono vetri ovunque.
 [Approfitti del vetro più tagliente per farti la barba](barba/barba.md)
 
 [Fra i vetri rotti scopri un oggetto](scopri-oggetto/scopri-oggetto.md)
+
+[Provi a ripararla] (riparare/ripari.md)
