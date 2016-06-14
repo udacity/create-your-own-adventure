@@ -1,4 +1,4 @@
-Total War - Warhammer is a turn-based strategy game with epic real-time tactical battles between armies. It is also the first in its franchise that introduces a fantasy setting as well as characters from the [Warhammer universe](https://en.wikipedia.org/wiki/Warhammer_Fantasy_(setting)).
+Total War - Warhammer is a turn-based strategy game with epic real-time tactical battles between armies. It is also the first in its franchise that introduces a fantasy setting as well as characters from the [Warhammer universe](war-start/universe/universe.md).
 
 Here is a [trailer](https://youtu.be/qjzLuddjIUI) for the game.
 
