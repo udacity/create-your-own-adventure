@@ -5,4 +5,4 @@ kamu kok beGitHub sih?
 
 --------------
 Indonesia. Land of 13k islands and living Dragon.
-[Official national site, Visit Indonesia](http://www.indonesia.travel/landing)
+[Official national site, Visit Indonesia](indonesian/indonesian.md)
