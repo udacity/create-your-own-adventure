@@ -997,4 +997,4 @@ you find a mysterious cup with clear liquid in it. [drink?](drink/drink.md)
 
 Time to check out the latest [Total War - Warhammer](total-war/war-start.md)!
 
-You wake up in the morning and your [computer is looking out of the window](computer-windowd/computer-window.md)
+You wake up in the morning and your [computer is looking out of the window](computer-window/computer-window.md)
