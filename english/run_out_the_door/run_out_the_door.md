@@ -1,6 +1,6 @@
 You immediately jump up and run out the nearest exit!
 
-You burst out the door and the entire world is in front of you while bachata music is being played.
+You burst out the door and the entire world is in front of you.
 
 You...
 
