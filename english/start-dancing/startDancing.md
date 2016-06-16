@@ -1,0 +1,1 @@
+When the song finishes, you think it is a great idea to start a party for all the people there.
