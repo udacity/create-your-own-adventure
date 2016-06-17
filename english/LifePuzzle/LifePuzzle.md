@@ -20,3 +20,7 @@ or
 or
 
 [Call the Justice League](../justice-league/justice-league.md)
+
+or
+
+[Live Tweet the situation](../tweet-it/tweet-it.md)
