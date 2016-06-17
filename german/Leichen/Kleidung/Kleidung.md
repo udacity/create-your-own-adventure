@@ -8,3 +8,7 @@ Jetzt, da ihr euch frei im Wasser bewegen könnt, dringt das eigentliche Problem 
 
 Ihr werdet immer kraftloser und es werden immer größere Wellen.
 Lange haltet ihr das nicht mehr durch.
+
+Plötzlich merkt ihr wie sich euch eine riesige Kreatur im Wasser nähert.
+
+Ihr versucht zurück zum Boot zu schwimmen, doch dafür ist es bereits [zu spät...]  (../../Hilfeschrei/Hilfeschrei.md)
