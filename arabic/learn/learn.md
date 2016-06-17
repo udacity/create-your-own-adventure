@@ -8,6 +8,8 @@
 -Udacity
 -coursera
 -Udemy
+-Khan Academy
+-thenewboston
 
 وفيه كتير بس انت عليك تدور
 
@@ -26,6 +28,8 @@ freelancing اشهر مواقع العمل الحر
 - [التصوير](whattolearn/photography/photography.md)
 
 - [الطهي](whattolearn/cooking/cooking.md)
+
+- [الرياضيات](https://www.khanacademy.org)
 
 - [أخرى](whattolearn/other/other.md)
 
