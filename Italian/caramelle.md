@@ -20,3 +20,5 @@ Che fai?
 [Alice non abita più qui] (alice/alice.md)
 
 [Cerco un computer] (giocare/computer.md)
+
+[Passeggiare] (passeggiare/passeggiare.md)
