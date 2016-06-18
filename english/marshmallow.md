@@ -827,6 +827,8 @@ Yourself?
 
 Instead of reading this entire story, you decide to go see the new star wars!
 
+As you're walking down the street you see [something](millenium-falcon/flyaway.md)
+
 You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
 
 [Do you have my stapler?](stapler/stapler.md)
@@ -994,3 +996,7 @@ You decide you want to be a pirate and remember a show called
 You looking for a country for advanture? Try [Taiwan](trip-to-Taiwan/trip-to-Taiwan.md)!
 
 you find a mysterious cup with clear liquid in it. [drink?](drink/drink.md)
+
+Time to check out the latest [Total War - Warhammer](total-war/war-start.md)!
+
+You wake up in the morning and your [computer is looking out of the window](computer-window/computer-window.md)
