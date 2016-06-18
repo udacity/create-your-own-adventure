@@ -10,4 +10,4 @@
 
 "Or maybe [escape to the wilderness](../escape-to-the-wilderness/wilderness.md)?"
 
-["Maybe I should go to a jazz club?"](../jazz-guitar.jazz.md)
+["Maybe I should go to a jazz club?"](../jazz-guitar/jazz.md)
