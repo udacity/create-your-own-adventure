@@ -21,6 +21,9 @@ January 2017 approaches. You have two presidential candidates to vote for.
 
 [Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
 
+These options depress you, so you decide not to vote at all.
+Instead you decide to [write a symphony](write-a-symphony/symphony.md).
+
 Keith the Unicorn approaches you.
 He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
 
