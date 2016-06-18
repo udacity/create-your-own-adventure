@@ -10,4 +10,4 @@ You asked her,
 
  What do you do?
 
- (Check out Wikipedia)[../wikipedia/wiki.md]
+[Check out Wikipedia](../wikipedia/wiki.md)
