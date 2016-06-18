@@ -1,6 +1,8 @@
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
+Oh so many decisions - what will you do??
+
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
 Take some [time](meditation/meditation.md) off!
