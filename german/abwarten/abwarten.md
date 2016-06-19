@@ -4,3 +4,4 @@ Bei genauerer Betrachtung ist die aktuelle allerdings keine solche Situation, in
 ergebende Lösung besonders angenehm oder reizvoll erscheint. 
 
 [Daher bietet es sich an doch noch eine andere Entscheidung zu treffen...](../ruderboot.md)
+[Oder aber sie warten trotzdem weiter ab...](../weiterwarten.md)
