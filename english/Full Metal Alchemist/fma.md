@@ -16,3 +16,5 @@ Set in a fictional universe in which alchemy
 mother back to life using alchemy.
 
 Click [here](../alchemy/alchemy.md) to learn more about alchemy.
+
+[Don't know what to do next?](../working/working.md)
