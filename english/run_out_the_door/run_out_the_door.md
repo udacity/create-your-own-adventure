@@ -1,5 +1,3 @@
-You immediately jump up and run out the nearest exit!
-
 You immediately jump up and run out the nearest [exit](../new-exit/new-exit.md)!
 
 You burst out the door and the entire world is in front of you.
