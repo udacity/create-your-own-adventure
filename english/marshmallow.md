@@ -1008,4 +1008,4 @@ Time to check out the latest [Total War - Warhammer](total-war/war-start.md)!
 
 You wake up in the morning and your [computer is looking out of the window](computer-window/computer-window.md)
 
-Instragram, a great place to spend time.  [Visit my profile](www.instagram.com/coding-imagination)
+Instragram, a great place to spend time.  [Visit my profile](https://www.instagram.com/coding.imagination/)
