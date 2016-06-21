@@ -1,0 +1,1 @@
+After the 5400 rpm HDD stops grinding, the computer jumps
