@@ -4,6 +4,6 @@ Zer egingo duzu?
 
 [Pertsona arraroari alde egiteko esan.](alde-egin/alde-egin.md)
 
-[Gaztelura sartzen utzi eta dozena bat gaztaina erosi.](erosi/erosi.md)
+[Gaztelura sartzen utzi eta dozena bat gaztaina erosi.](erosi/irabazi.md)
 
 [Kasurik ez egin eta gaztelura sartu.](gaztelura-sartu/gaztelura-sartu.md)
