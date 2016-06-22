@@ -1,4 +1,4 @@
-Sunny Deol is eldest son of [Dharmendra](https://en.wikipedia.org/wiki/Dharmendra).
+Sunny Deol is eldest son of [Dharmendra](https://www.google.com).
 Known for his trade mark dialouge dilivery, there is hardly
 anybody else in the vollywood who match his acting skill.
 
