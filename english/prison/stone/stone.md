@@ -1,0 +1,1 @@
+You press the polished stone and it gives way and disappears into the wall. After a moment, a small section of the wall breaks apart and disappears into the floor. A small path has opened in front of you. The guard scrambles with his keys, trying to unlock the door. "Don't you go anywhere!" he screams.
