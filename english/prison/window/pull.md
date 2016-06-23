@@ -1,0 +1,1 @@
+You jump up and grab onto the window bars and push against the wall with your legs. The guard quickly unlocks the door and pulls you from the wall. "You've just jumped to the front of the line." he says. He drags you out of the cell and down the hall towards your doom.

@@ -1,0 +1,1 @@
+You point across the hall. "What's that?" you say. They guard turns to look, and you slip the keys off of his belt. You hide them behind your back as he turns back to look at you. "I don't see anything." he says. You shrug.
