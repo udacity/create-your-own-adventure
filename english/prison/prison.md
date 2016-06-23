@@ -2,8 +2,8 @@ You awake in a damp medieval prison. The guard notices you wake up and laughs. "
 
 Do you:
 
-    Distract the guard and grab his [keys](keys/keys.md)
+Distract the guard and grab his [keys](keys/keys.md)
 
-    Grasp at the window bars and [pull with all your might](window/pull.md)
+Grasp at the window bars and [pull with all your might](window/pull.md)
 
-    Push the small, polished [stone](stone/stone.md)
+Push the small, polished [stone](stone/stone.md)
