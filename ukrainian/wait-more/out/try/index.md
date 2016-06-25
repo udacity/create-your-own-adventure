@@ -5,3 +5,5 @@
 [Спробувати корінь](parts/root/root.md)
 
 [Спробувати гілку](parts/branch/branch.md)
+
+[Лишаєте позаду кущ і прямуєте далі](parts/keep-going/keep-going.md)
