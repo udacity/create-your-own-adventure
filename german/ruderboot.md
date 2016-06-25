@@ -31,3 +31,5 @@ Werden Sie:
 [Sie spüren einen höllischen Schmerz im Gesicht](Sonnenbrand/vor-sonne-schutzen.md)
 
 [Kopfüber ins Wasser springen](Kopfsprung/Kopfsprung.md)
+
+[Ein Dorf aufsuchen um das Boot reparieren zu lassen. Eventuell gibt es dort einen Bootsbauer](Dorf/dorf.md)

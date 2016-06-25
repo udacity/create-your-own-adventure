@@ -26,3 +26,11 @@ one more animal.
 Maybe two more bites...
 
 oh! i have a great idea. why don't we get ourselves a mouse? me and the cat would be both satisfied...
+
+
+No. No.  A hedgehog would be the far superior choice, as hedgehogs make great pets
+and all the girls would stop and ask you what it is.  You could chat them up.  Maybe get their
+phone numbers?  
+
+This could happen.  And you could exchange phone numbers and maybe spend the rest of your lives
+together, just because you chose to get a hedgehog, rather than a mouse!!

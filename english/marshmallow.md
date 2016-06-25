@@ -1,6 +1,36 @@
+[Click here](http://www.dvloper.me) to visit my dvloper.me blog .
+
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
+Oh so many decisions - what will you do??
+
+You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
+
+Take some [time](meditation/meditation.md) off!
+
+Who is better?
+
+[Click Here](captain/captain.md) to vote for Captain America
+
+[Click Here] (ironman/ironman.md) to vote for Iron Man
+
+[Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
+
+January 2017 approaches. You have two presidential candidates to vote for.
+
+[Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
+
+[Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
+
+You don't like either of these candidates.
+So instead, you decide to [write a symphony](write-a-symphony/symphony.md)
+
+Keith the Unicorn approaches you.
+He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
+
+It is time to begin your adventure.
+Your search for the grail begins [now](Monty-Python/search.md)
 
 Down one path you see a person standing in the middle of the path.
 They look familiar somehow, but you just can't figure out who they are.
@@ -67,6 +97,10 @@ The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtu
 
 Or a Wednesday...Thursday...maybe even a Friday, but definetely not a Saturday.
 
+Or a [Wednesday](make_changes_GitHub/make_changes_GitHub.md)...
+
+[Thursday](doug-adams/arthur-dent/arthur-dent.md)... maybe even a Friday, but definetely not a Saturday.
+
 Ok, we have to consider Saturday too.
 
 [this crazy thought popped into your head](yellow-baby-buggy-bumpers/yellow-baby-buggy-bumpers.md)
@@ -90,6 +124,8 @@ Was it the sound of birds?
 It sounded like it could have been a [heffalump](heffalump/heffalump.md)
 
 No... perhaps not.
+
+Not at all.
 
 I think it was an [animal](animal/animal.md).
 
@@ -798,6 +834,8 @@ Yourself?
 
 Instead of reading this entire story, you decide to go see the new star wars!
 
+As you're walking down the street you see [something](millenium-falcon/flyaway.md)
+
 You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
 
 [Do you have my stapler?](stapler/stapler.md)
@@ -830,6 +868,7 @@ So shall you reap, and the [steelers](steelers/steelers.md) know that all too we
 
 Until you realize that even marshmallows need [LOVE](https://www.youtube.com/watch?v=i5fZ__mnHbU).
 
+Marcel needs a new pair of shoes, will you buy shoes for [Marcel](https://www.youtube.com/watch?v=VF9-sEbqDvU)?
 
 You look up and out to the ocean. In the distance you see a [mermaid](mermaid/mermaid.md)
 
@@ -926,3 +965,49 @@ While having toasted marshmellows and watching the warriors beat the grizzlies, 
 Of Course you must reach the end of your story, but remember [this](interstellar_quote/light.md).
 
 Life is full of [puzzles](LifePuzzle/LifePuzzle.md).
+
+You hear a hollow voice say "Plugh".  Mesmerized, you say "[Plugh](plugh/plugh.md)".
+
+A light appears all around you and something comes into focus in the distance. [What is that?](disney/disney.md)
+
+Story about Indian Hockey Player [Rupinder Pal Singh](Rupinderpal/rupinder.md)
+
+If you have read this far, then you must be in pain.  
+Click [here](https://en.wikipedia.org/wiki/Acupuncture) to learn about Accupuncture.
+
+As you approach the [Stargate](stargate/GateDial.md) with trepidation, you can hear the troops getting closer.
+
+Health and Life Lovely [Quotes](./health/health.md)
+
+The lannisters always pays thier debts, says tyrion lannister. Interesting [character](./gameofthrones/tyrion.md) he is.
+
+Time to [move to Canada](Canada/Canada.md), eh?
+
+
+The crushing weight of all these options causes you to [end your life.](end/end.md)
+
+You're reincarnated as a green starfish but wish you were [blue instead.](starfish/starfish.md)
+
+[Motivate yourself](Motivate/Motivate.md)
+
+You wake up as Harry Potter ... and are facing Voldemort in a duel? 
+What should you [do](magicaladventure/decision_time/decision_time.md)
+
+My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
+
+[Click] (vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
+
+You decide you want to be a pirate and remember a show called
+[onepiece](onepiece/op.md)
+
+You looking for a country for advanture? Try [Taiwan](trip-to-Taiwan/trip-to-Taiwan.md)!
+
+you find a mysterious cup with clear liquid in it. [drink?](drink/drink.md)
+
+Time to check out the latest [Total War - Warhammer](total-war/war-start.md)!
+
+You wake up in the morning and your [computer is looking out of the window](computer-window/computer-window.md)
+
+Instragram, a great place to spend time.  [Visit my profile](https://www.instagram.com/coding.imagination/)
+
+You've been charged with treason against the King. You wake up in [prison](prison/prison.md).

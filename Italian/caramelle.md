@@ -18,3 +18,9 @@ Che fai?
 [Spuntini] (spuntini/spuntini.md)
 
 [Alice non abita più qui] (alice/alice.md)
+
+[Cerco un computer] (giocare/computer.md)
+
+[Passeggiare] (passeggiare/passeggiare.md)
+
+[Salgo in macchina] (ascoltare/profumato.md)

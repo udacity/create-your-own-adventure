@@ -1,0 +1,1 @@
+Congratulations. You made another Clinton president again. 99% of Hillary voters are actually Trump haters.

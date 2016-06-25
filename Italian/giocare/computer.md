@@ -1,0 +1,1 @@
+Vabbè alla fine scialla, partitozzo a League of Legends.
