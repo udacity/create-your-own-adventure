@@ -28,3 +28,5 @@ Art of Living [Know More](art-of-living/art-of-living.md)
 [चुटकुला पढो](joke/joke.md) और मुस्कुराते रहो
 
 Click [Here](king/king.md) to read the story of a great King.
+
+To know about real india hero click [Bhagat Singh](Bhagat_Singh/bhagat_singh.md)
