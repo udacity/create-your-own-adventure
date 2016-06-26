@@ -6,3 +6,4 @@ attempting to restrict the scoring and dismiss the batsmen.
 The objective of the game is for a team to score more runs than its opponent. 
 In some forms of cricket, it may also be necessary to dismiss the opposition in order to win the match, 
 which would otherwise be drawn.
+
