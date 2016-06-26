@@ -8,6 +8,7 @@ His family had earlier been involved in revolutionary activities against the
 [British Raj](https://simple.wikipedia.org/wiki/Sikh). 
 When Bhagat Singh was a teenager, he studied European revolutionary movements.
 He became attracted to [anarchist](https://simple.wikipedia.org/wiki/Anarchist) and 
+
 [Marxist](https://simple.wikipedia.org/wiki/Marxist) ideologies.
 
 He became involved in numerous revolutionary activities. He quickly gained prominence in the 
@@ -27,6 +28,7 @@ He made a plan to bomb the Central Legislative Assembly.
 He partnered with [Batukeshwar Dutt](https://simple.wikipedia.org/wiki/Batukeshwar_Dutt) for this task.
  He bombarded the assembly with two bombs. 
  They were shouting slogans of [revolution](https://simple.wikipedia.org/wiki/Revolution) 
+
  and threw [pamphlets](https://simple.wikipedia.org/wiki/Pamphlet).
 
 After the bombarding, they surrendered. He was held on this charge in prison. 
