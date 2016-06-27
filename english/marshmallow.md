@@ -1,5 +1,3 @@
-Come join [the anonymous](the-anonymous/guess-who.md)
-
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
 Your adventure begins. You realize there are hundreds of paths for you to choose from.
@@ -1013,3 +1011,5 @@ You wake up in the morning and your [computer is looking out of the window](comp
 Instragram, a great place to spend time.  [Visit my profile](https://www.instagram.com/coding.imagination/)
 
 You've been charged with treason against the King. You wake up in [prison](prison/prison.md).
+
+Come join [the anonymous](the-anonymous/guess-who.md)
