@@ -1,4 +1,6 @@
-Der rythmische Trommelklang hat die gestrandeten angelockt. Sie tapsen durch den Sand, schlagen sich durch die Büsche während die dumpfen Klänge lauter werden. 
+Der rythmische Trommelklang hat die gestrandeten angelockt. 
+
+Sie tapsen durch den Sand, schlagen sich durch die Büsche während die dumpfen Klänge lauter werden. 
 
 Wilder Gesang einer fremden Sprache schallt ihnen entgegen.
 
