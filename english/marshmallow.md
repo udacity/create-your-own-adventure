@@ -985,6 +985,10 @@ The lannisters always pays thier debts, says tyrion lannister. Interesting [char
 
 Time to [move to Canada](Canada/Canada.md), eh?
 
+You struggle to find a line break to add your own adventure. 
+You also want to undo the Brexit result. [You try CTRL-Z...](great-tasmanian-adventure/great-tasmanian-adventure.md)
+
+
 
 The crushing weight of all these options causes you to [end your life.](end/end.md)
 
