@@ -28,6 +28,8 @@ Ask them to join you on a life changing [quest?](zuluquest/choosequest.md)
 
 Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
 
+How about some [chill music](chillmusic/chillmusic.md)?
+
 [Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
 
 You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
