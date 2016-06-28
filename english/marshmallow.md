@@ -1,4 +1,4 @@
-[Click here](http://www.dvloper.me) to visit my dvloper.me blog .
+﻿[Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
@@ -1017,3 +1017,5 @@ You wake up in the morning and your [computer is looking out of the window](comp
 Instragram, a great place to spend time.  [Visit my profile](https://www.instagram.com/coding.imagination/)
 
 You've been charged with treason against the King. You wake up in [prison](prison/prison.md).
+
+Too many choices!  [Curl up with your favorite Jane Austen book.](austen/austen.md)
