@@ -1,1 +1,1 @@
-Congratulations. You made another Clinton president again. 99% of Hillary voters are actually Trump haters.
+It would be an step forward in human rights considering a lady for president.
