@@ -11,3 +11,5 @@ Do you:
 [Call the random number?](../call-a-random-number/answer.md)
 
 [Leave the room?](../find-exit/leave.md)
+
+[Turn over the card?](../card/card.md)
