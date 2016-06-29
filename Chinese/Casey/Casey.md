@@ -2,4 +2,4 @@ Casey现在为udacity工作，自动合并GitHub的pull request。
 Casey is a help bot.
 Casey won't accept a pull request that a fix typo.
 直到有一天Casey收到来自转行开始学编程的YouTuber的pull request.
-他就是[CaseyNeistat](create-your-own-adventure/Chinese/Casey/neistat/neistat.md)
+他就是[CaseyNeistat](https://github.com/crossairplane/create-your-own-adventure/blob/neistat/Chinese/Casey/neistat/neistat.md)
