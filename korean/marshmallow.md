@@ -43,3 +43,5 @@
 [방을 둘러본다](look-around/look-around.md)
 
 [카페 성수에 간다](cafe-sungsu/cafe-sungsu.md)
+
+[공부를 한다](study/study.md)
