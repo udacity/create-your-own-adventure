@@ -1,0 +1,3 @@
+Beide mannen slaan stijf achterover van verbazing, hoe is het mogelijk! "Lucien was toch vergiftigd door Mark, de nieuwste leerling van onze baas?" zegt de dikste man. "Dan is die verdomde Mark toch de mol!" zegt de langste man kokend van woede en wetende dat zijn laatste minuten zijn geteld.
+
+Hij is nog niet uitgepraat of razendsnel pak ik met beide handen van onder mijn trui twee vlijmscherpe werpmessen en met een soepele werpbeweging gooi ik ze richting de hoofden van de verschikte mannen...
