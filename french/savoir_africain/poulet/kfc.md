@@ -1,0 +1,1 @@
+miam miam te voilà soudain au kfc!! tout t'es offert pour cette fois même les "hots wings".. mais fait gaffe à la malédiction du SURPOIDS sinon tu risques de ne plus être vivant pour résourdre le mystère de ce mur!!
