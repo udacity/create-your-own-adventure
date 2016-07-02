@@ -8,6 +8,8 @@ If you speak Telugu, మీరు తెలుగులొ మాట్లాడ
 
 If you understand Tamil, for Thirukural in Education [இங்கே அழுத்தவும்](Tamil/Thirukkural_Learning/Learning.md)
 
+Ti o ba n só Yoruba, [lo si bi](yoruba/yoruba.md)
+
 If you understand Tamil, தமிழ் வணக்கம் [இங்கே அழுத்தவும்](Tamil/Thirukural.md)
 
 தமிழ் வணக்கம்! To view Tamil Proverb about Friendship [Click Here](Tamil/Thirukural.md)
