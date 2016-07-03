@@ -24,3 +24,5 @@ Che fai?
 [Passeggiare] (passeggiare/passeggiare.md)
 
 [Salgo in macchina] (ascoltare/profumato.md)
+
+Mi informo sul [contenuto dei cosmetici](cosmetici/cosmetici.md)
