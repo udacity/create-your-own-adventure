@@ -1,4 +1,4 @@
-Par un beau matin, vous vous réveillez dans une pièce étrange aux murs en pain d'épice.
+﻿Par un beau matin, vous vous réveillez dans une pièce étrange aux murs en pain d'épice.
 
 On aurait pû faire que les murs soient fait en pâte de guimave, mais ce sont des murs français. ;)
 
@@ -33,3 +33,5 @@ Que faites-vous ?
 [Je me lève et me dirige vers la sortie](sortie/pousser-porte/pousser-porte.md)
 
 [Je ne fais rien](rien/rien.md)
+
+[J'en appelle au savoir africain](savoir_africain/savoir_africain.md)
