@@ -4,4 +4,5 @@ Er drückt Ihnen einen Stein in die Hand und sagt "Hier mein Junge, bring das in
 
 [Sie werfen ihm den Stein auf den Fuß und fragen ihn was zum Teufel er hier sucht](GespraechMitHoehlenmann/Gespraech.md)
 
-[Ihnen ist das alles nicht mehr Geheuer in dieser Hoehle, mit dem Stein in der Hand springen Sie wieder ins Wasser und schwimmen aus der Höhle](../../../Korallen.md)
+[Ihnen ist das alles nicht mehr Geheuer in dieser Hoehle, mit dem Stein in der Hand springen Sie wieder ins Wasser
+ und schwimmen aus der Höhle](../../../Korallen.md)
