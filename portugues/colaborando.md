@@ -27,7 +27,7 @@ Você:
 
 [Vai ao banheiro e pega sua toalha](toalha/nave.md)
 
-[Pergunta pro Luis Fernando](barata/chicotada.md)
+[Toda vez que eu chego em casa...](barata/baratadavizinha.md)
 
 Na verdade, isto tudo é a sua imaginação. Você vive em 1991 e usa MS-DOS 5.0 e um modem de 9600 baud.
 
@@ -54,4 +54,3 @@ BR BR BR Hue hue hue!!!!
 
 [Você vira um jogador...](futebol/futebol.md)
 
-[Eu vou comprar um chicote pra me defender]()
