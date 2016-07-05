@@ -1,3 +1,7 @@
+Once upon a time many authors collaborated to make meaningless linked story.
+
+[start](mad/mad.md) your journey into world of mad or spend your time [wisely](http://www.pythonchallenge.com/)
+
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
