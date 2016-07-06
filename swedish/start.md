@@ -14,3 +14,5 @@ Vad nu, då?
 [Äter marshmallowen.](marshmallowen/marshmallowen.md)
 
 [Somna om](somna-om/somna-om.md)
+
+[midsommar] (midsommar/midsommar.md)
