@@ -6,3 +6,7 @@ Give it a deep thouht and figure it out.
 
 Hint: A useless character :)
 
+OR
+
+[Become SuperMe ...](english/DC-Comics/superMe/superMe.md)
+

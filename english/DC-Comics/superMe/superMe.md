@@ -1,0 +1,1 @@
+Obtain a pair of red briefs, put them on over your trousers and lunge about shouting "SuperMe, SuperMe" ..
