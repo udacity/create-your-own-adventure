@@ -20,11 +20,19 @@ refreshments, you think to yourself:
 
 "Phew. That could have gone very differently!"
 
-The first stewardess hands you a familiar looking iphone 5se as she says it's for you. The phone is ringing, but it's not someone calling, the alarm clock is going off. But how did she have your own phone, the one you were missing from your back pocket. And why won't the alarm turn off. You keep pushing snooze and snooze but it keeps ringing. And your leg starts hurting.
+The first stewardess hands you a familiar looking iphone 5se as she says it's
+for you. The phone is ringing, but it's not someone calling, the alarm clock is
+going off. But how did she have your own phone, the one you were missing from
+your back pocket. And why won't the alarm turn off. You keep pushing snooze and
+snooze but it keeps ringing. And your leg starts hurting.
 
-You wake up sprawled out in the leaves and dirt. Ugghhh the helicopter rescue was too good to be true.  The dire situation you are in comes back to you, but seems even more hopeless after the dreamed rescue. Your realize the stabbing pain in your leg had made you pass out, but it's only a dull ache now.
+You wake up sprawled out in the leaves and dirt. Ugghhh the helicopter rescue
+was too good to be true.  The dire situation you are in comes back to you, but
+seems even more hopeless after the dreamed rescue. Your realize the stabbing
+pain in your leg had made you pass out, but it's only a dull ache now.
 
-You hear your iphone alarm going off in the direction of those trees over there. You didn't dream that part, but it looks dark over there.
+You hear your iphone alarm going off in the direction of those trees over
+there. You didn't dream that part, but it looks dark over there.
 
 [You drag yourself towards the sound of your phone](../drag/drag.md)
 
