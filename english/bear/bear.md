@@ -6,4 +6,4 @@ You are now drunk. You stumble over to the nearest cutie and ask, "Hey baby, wha
 
 When she slaps you in the face...
 
-[You vomit on top of her](english/vomit/vomit.md)
+[You vomit on top of her](../vomit/vomit.md)
