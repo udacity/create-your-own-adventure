@@ -6,7 +6,7 @@ Are you ready for [WWIII](./WWIII/WWIII.md)?
 
 Know about [Latest hit from Trump Floyd "The Wall"](./trump-floyd-the-wall/thewall.md) !
 
-You must have a tiny.. pair of [hands](https://www.reddit.com/r/gifs/comments/48xv6z/tiny_hands_trump_oc/).
+You must have a tiny.. pair of hands.
 
 
 
