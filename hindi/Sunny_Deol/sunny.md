@@ -6,3 +6,6 @@ To know more about him [click here](https://en.wikipedia.org/wiki/Sunny_Deol)
 
 
 Are they hot or what?(http://www.wonderslist.com/top-10-hottest-actresses-of-bollywood/)
+
+
+Ajay Singh Deol is the real name of Sunny Deol.[More here](http://www.koimoi.com/bollywood-news/happy-birthday-sunny-deol/)
