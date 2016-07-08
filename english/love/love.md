@@ -45,3 +45,5 @@ With you for all eternity.
 Our hearts, always as one.
 
 - Anthony Kolos - 
+
+God is love.
