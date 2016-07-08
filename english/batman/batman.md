@@ -35,3 +35,5 @@ Who is really
 He also gets really weird with his [neighbors](http://imgur.com/gallery/Gi9cwgR).
 
 I am batman's cousin.
+
+Now that Bruce Wayne is grown old, he has proclaimed that I should take over his legacy!
