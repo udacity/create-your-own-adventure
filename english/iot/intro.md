@@ -20,3 +20,7 @@ DringDring Dring Kee Kee Kee Kee
 
 The lines are dead. He makes a dozen of vain attempts to a few other numbers.
 Hours rolled by and the plight didn't seem to change. Terror soon took over him.
+
+What will he do? 
+
+[Will he scan the network for other devices?](../iot/scan-network/scan-network.md)
