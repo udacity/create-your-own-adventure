@@ -1,1 +1,3 @@
-Dejó caer su cayado en el suelo, se arrodilló junto a Betito y oró al cielo para que Dios mande un ejército de ángeles.
+Dejï¿½ caer su cayado en el suelo, se arrodillï¿½ junto a Betito y orï¿½ al cielo para que Dios mande un ejï¿½rcito de ï¿½ngeles.
+
+[OyÃ³ entonces una voz que dijo:](oyo-una-voz/oyo_una_voz)
