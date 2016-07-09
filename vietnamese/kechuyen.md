@@ -1,4 +1,6 @@
-﻿Bạn thích nghe [truyện ma](https://www.youtube.com/watch?v=0dfWjEKXpZk)?
+﻿Chuyen [kiem viec](TansStory/mystory.md) cua toi
+
+Bạn thích nghe [truyện ma](https://www.youtube.com/watch?v=0dfWjEKXpZk)?
 
 Thế còn [truyện cười](https://www.youtube.com/watch?v=3r_-ZLZCxQs)?
 
