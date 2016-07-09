@@ -1,6 +1,4 @@
-﻿Chuyen [kiem viec](TansStory/mystory.md) cua toi
-
-Bạn thích nghe [truyện ma](https://www.youtube.com/watch?v=0dfWjEKXpZk)?
+﻿Bạn thích nghe [truyện ma](https://www.youtube.com/watch?v=0dfWjEKXpZk)?
 
 Thế còn [truyện cười](https://www.youtube.com/watch?v=3r_-ZLZCxQs)?
 
@@ -21,3 +19,5 @@ Nhắc tới Sài Gòn, không thể không nhắc tới [Cà phê bệt](https:
 Tôi thì chưa từng đến Sài Gòn, tôi là người [Hà Nội gốc](Ha-Noi/toi_la_nguoi_ha_loi_goc.md).
 
 Nhưng tôi là rể [Hải Phòng](Hai-Phong/Hai_Phong_thanh_pho_cang.md)
+
+Chuyen [kiem viec](TansStory/mystory.md) cua toi
