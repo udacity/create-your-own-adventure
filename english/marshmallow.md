@@ -1031,3 +1031,5 @@ You've been charged with treason against the King. You wake up in [prison](priso
 My visit to the [zoo](zoo/zoo.md).
 
 You wake up confused, you faint you go back in [time](time-travel/time-travel.md)
+
+[The Hungry Prince](hungry_prince/hungry_prince.md)
