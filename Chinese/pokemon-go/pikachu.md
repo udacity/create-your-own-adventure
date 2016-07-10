@@ -4,4 +4,4 @@
 百万伏特！！！
 然后。。。开启逃跑模式
 
-[变身皮卡丘的梦想](Chinese/pokemon-go/stuff/dream.md)
+[变身皮卡丘的梦想](stuff/dream.md)
