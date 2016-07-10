@@ -10,5 +10,6 @@ En måke skrikker over deg, det er da du ser meg.
 
 Jeg går ned i fjæra og plukker opp gjennstanden som fløyt der.
 
+Gjenstanden er en boks, hva er inni?
 
 [faller i vannet](faller/faller.md)
