@@ -38,4 +38,4 @@ You slip the ring over your finger and ...
 
 [Transform!](../transform/transform.md)
 
-[Commit suicide](../transform/suicide.md)
+[Your overcome with madness.](../suicide/suicide.md)
