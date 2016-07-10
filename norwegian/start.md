@@ -2,6 +2,8 @@
 
 Det er en varm kveld midt i sommerferien.
 
+Solen skinner, og havet fyller nesen din med lukten av salt og tang.
+
 Du sitter på en stein i vannkanten og ser noe flyte i fjæra.
 
 En måke skrikker over deg, det er da du ser meg.
