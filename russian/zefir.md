@@ -105,3 +105,5 @@
 [Начнёте медитировать](meditate/meditate.md)
 
 [Решите программировать] (programming/to-program.md)
+
+[Отправитесь путешествовать](travelling/go-to-travel.md)

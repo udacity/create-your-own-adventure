@@ -1,6 +1,8 @@
 You appear on Falkor's back, flying through marshmallow clouds 
 and dodging fire-breathing dragons as they char the clouds. 
 
+You pass by a man on a magic carpet who is funnily enough asleep!
+
 Pick one of the choices below:
 
 Just click on the link.

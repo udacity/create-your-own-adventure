@@ -1,3 +1,11 @@
+Once upon a time many authors collaborated to make meaningless linked story.
+
+[start](mad/mad.md) your journey into world of mad 
+
+or
+
+spend your time [wisely](http://www.pythonchallenge.com/)
+
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
@@ -8,6 +16,8 @@ Oh so many decisions - what will you do??
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
 Take some [time](meditation/meditation.md) off!
+
+Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
 Who is better?
 
@@ -39,6 +49,8 @@ They seem friendly so you decide to go [talk to them.](friendly-person/friendly-
 Ask them to join you on a life changing [quest?](zuluquest/choosequest.md)
 
 Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
+
+How about some [chill music](chillmusic/chillmusic.md)?
 
 [Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
 
@@ -983,6 +995,10 @@ The lannisters always pays thier debts, says tyrion lannister. Interesting [char
 
 Time to [move to Canada](Canada/Canada.md), eh?
 
+You struggle to find a line break to add your own adventure. 
+You also want to undo the Brexit result. [You try CTRL-Z...](great-tasmanian-adventure/great-tasmanian-adventure.md)
+
+
 
 The crushing weight of all these options causes you to [end your life.](end/end.md)
 
@@ -1011,3 +1027,9 @@ You wake up in the morning and your [computer is looking out of the window](comp
 Instragram, a great place to spend time.  [Visit my profile](https://www.instagram.com/coding.imagination/)
 
 You've been charged with treason against the King. You wake up in [prison](prison/prison.md).
+
+My visit to the [zoo](zoo/zoo.md).
+
+You wake up confused, you faint you go back in [time](time-travel/time-travel.md)
+
+[The Hungry Prince](hungry_prince/hungry_prince.md)
