@@ -9,3 +9,5 @@ It was this [burger](http://www.supersizedmeals.com/food/images/articles/2009061
 Satisfied with the burger, He asked for the chef to come in his palace to thank him.
 
 Little did he know, that burger will change everything he knows....
+
+But more on that later. For now, the prince must tend to his royal duties.
