@@ -16,3 +16,5 @@ CS [go here](DhoklaStellarFafda~/CS.md)
 
 ટીપે ટીપે સરોવર બંધાય , કાંકરે કાંકરે પાડ બંધાય
 This is my favourite Gujarati proverb copied from [here](http://gujarati-proverbs.tumblr.com/)
+
+અશક્ય ભલે કંઈ ન હોય પણ બધું શક્ય બનાવવું જરૂરી નથી [Taken form here](http://www.gujaratilexicon.com/quotes/quotelist/1)
