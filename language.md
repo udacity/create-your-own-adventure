@@ -8,8 +8,6 @@ If you speak Telugu, మీరు తెలుగులొ మాట్లాడ
 
 If you understand Tamil, for Thirukural in Education [இங்கே அழுத்தவும்](Tamil/Thirukkural_Learning/Learning.md)
 
-If you understand Tamil, for Thirukural about Fate [இங்கே அழுத்தவும்](Tamil/Thirukkural_Learning38/Chapter38_fate.md)
-
 If you understand Tamil, தமிழ் வணக்கம் [இங்கே அழுத்தவும்](Tamil/Thirukural.md)
 
 தமிழ் வணக்கம்! To view Tamil Proverb about Friendship [Click Here](Tamil/Thirukural.md)
@@ -151,3 +149,5 @@ If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
 
 To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
+
+If you understand Tamil, for Thirukural about Fate [இங்கே அழுத்தவும்](Tamil/Thirukkural_Learning38/Chapter38_fate.md)
