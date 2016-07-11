@@ -114,7 +114,7 @@ click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
 Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 
-നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ, 
+നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ,
 [ഇവിടെ ക്ലിക്ക് ചെയ്യുക](Malayalam/malayalam.md)
 
 [ئەگەر کوردی ئەزانیت کلیک بکە](kurdish/kurdi.md)
@@ -149,3 +149,5 @@ If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
 
 To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
+
+If you understand Tamil, for Thirukural about Fate [இங்கே அழுத்தவும்](Tamil/Thirukkural_Learning38/Chapter38_fate.md)
