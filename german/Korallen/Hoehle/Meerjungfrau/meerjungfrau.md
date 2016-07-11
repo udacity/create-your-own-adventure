@@ -8,3 +8,5 @@ will. Sie kommt auf Sie zu und legt Ihre Lippen sanft auf Ihre und...
 Wie geht es weiter?
 
 ...und sie gibt Ihnen eine Lunge voll Luft, die ausreicht, um wieder zurück ins Boot zu kehren.
+
+...sie gibt Ihnen ein Zeichen, ihr zu folgen - tiefer in die Gänge der Höhle hinein.
