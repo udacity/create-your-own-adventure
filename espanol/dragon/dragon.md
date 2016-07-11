@@ -28,3 +28,5 @@ Pero no sabía controlar al dragón, así que decidió:
 [darle de comer](festin/festin.md)
 
 [Devolverlo](devolverlo/devolverlo.md)
+
+[Darlo en adopción](adopcion/adopcion.md)
