@@ -5,4 +5,4 @@ or it could be toxic. You choose to...
 
 [Head back to the glowing eyes](../glowing-eyes/glowing-eyes.md)
 
-[Try to swim for the surface](../glowing-eyes/caught-up/plants.md)
+[Try to swim for the surface](../glowing-eyes/caught_up/plants.md)
