@@ -13,6 +13,7 @@ Perseverance comes from a prosperous fate, and idleness from an adverse fate
 
 **Explanation**
 
-There are (through fate) two different natures in the world, hence the difference (observable in men) in (their acquisition of) wealth, and in their attainment of knowledge
+There are (through fate) two different natures in the world.
+Hence the difference (observable in men) in (their acquisition of) wealth, and in their attainment of knowledge
 
 Source: http://www.gokulnath.com/thirukurals/38

@@ -8,6 +8,8 @@ If you speak Telugu, మీరు తెలుగులొ మాట్లాడ
 
 If you understand Tamil, for Thirukural in Education [இங்கே அழுத்தவும்](Tamil/Thirukkural_Learning/Learning.md)
 
+If you understand Tamil, for Thirukural about Fate [இங்கே அழுத்தவும்](Tamil/Thirukkural_Learning38/Chapter38_fate.md)
+
 If you understand Tamil, தமிழ் வணக்கம் [இங்கே அழுத்தவும்](Tamil/Thirukural.md)
 
 தமிழ் வணக்கம்! To view Tamil Proverb about Friendship [Click Here](Tamil/Thirukural.md)
@@ -114,7 +116,7 @@ click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
 Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 
-നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ, 
+നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ,
 [ഇവിടെ ക്ലിക്ക് ചെയ്യുക](Malayalam/malayalam.md)
 
 [ئەگەر کوردی ئەزانیت کلیک بکە](kurdish/kurdi.md)
