@@ -1,3 +1,5 @@
+perfect your jibber jobber with some [gibber reading](https://en.wikipedia.org/wiki/Gibberish).
+
 ksdjbsdbsdkjlcbksbdb sck sdkcj bdckjsc dksdbckbdc
 ksdbcksbdkjc cbskbckjbsdkcj wdc
 dckjbkbdckjbskjdbckbf ww
