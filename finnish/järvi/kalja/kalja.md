@@ -2,4 +2,4 @@ Löydät kylmän bissen jääkaapista
 
 Takaisin
 
-[Saunaan](/../../sauna.md)
+[Saunaan](../../sauna.md)
