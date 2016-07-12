@@ -7,3 +7,5 @@
 [Go on vacation](../licked-cat/vacation.md)
 
 [Get to work](../gtd/gtd.md)
+
+[Go back to sleep](../go-back-to-sleep/go-back-to-sleep.md)
