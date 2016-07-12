@@ -12,3 +12,5 @@ Entonces el consejero decidió:
 [Preparar su ejercito y ejecutar la estrategia establecida](estrategia/estrategia.md)
 
 [Huir de la escena](huida/huida.md)
+
+[Avisar al rey](rey/rey.md)

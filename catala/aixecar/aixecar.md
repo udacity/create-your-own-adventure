@@ -7,3 +7,5 @@ Què fas?
 [agafes el mòbil per fer una foto](../pessigar-se/foto/foto.md)
 
 [busques una sortida](../sortir/sortir.md)
+
+[Intentes convertirte en super guerrer](guerrer/guerrer.md)

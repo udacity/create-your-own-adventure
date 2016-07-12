@@ -14,4 +14,6 @@ Man sollte ...
 ... sich erst einmal auf der Insel umschauen und dann entscheiden wie es weiter geht.
 [Insel](insel/insel.md)
 
+... dem Klang des rythmischen Trommelschlages folgen.[Trommeln](trommeln/trommeln.md)
+
 [Zurück](../ruderboot.md)

@@ -2,6 +2,10 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
+Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
+
+Hizo un gesto de [cansancio](cansancio/cansancio.md)
+
 [Hizo un gesto a Beatito](revolucion/revolucion.md)
 
 [Mandó llamar a Jordi Hurtado](jordiHurtado/jordiHurtado.md)
@@ -141,3 +145,10 @@ Y llego spiderman a salvar el dia.
 Con sus acrobáticos movimientos y osadas frases
 
 Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)
+
+solo [Escapó](escapo/escapo.md)
+
+Y llego [Daynerys Targaryen](thrones/daynerys.md)
+
+[Temeroso, ordenó que lo guiaran al pasadizo que le llevaría fuera de la ciudad](pasadizo/pasadizo.md)
+

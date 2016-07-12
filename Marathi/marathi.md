@@ -7,3 +7,5 @@
 mazi story [ethe](mi_marathi/mi_marathi.md)ahe.
 
 Want to meet Maharashtrians in Seattle? Go [here](seattle/seattle.md)
+
+पुण्यामध्ये [गणेशोत्सव](ganesh/ganeshotsav.md) खूप उत्साहात साजरा झाला ! सगळ्यांचे आभार ! 

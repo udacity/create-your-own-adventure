@@ -8,6 +8,8 @@ by a camp fire (with the smell of burnt marshmallow in the air)
 
 on a deserted island
 
+surrounded by dragons
+
 Now you wonder how you got to this island. What were you doing
 
 before you were on the island and where did the marshmallows come

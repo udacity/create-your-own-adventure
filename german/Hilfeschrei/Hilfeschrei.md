@@ -13,3 +13,5 @@ Werden Sie
 sich umentscheiden und [zurück zur Auswahl](../ruderboot.md) gehen?
 
 dem [Blauwal vertrauen](Vertrauen/Vertrauen-zum-Blauwal.md)?
+
+[Aus dem Traum aufwachen und Oktoberfest besuchen](../Oktoberfest/oktoberfest.md)

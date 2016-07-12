@@ -11,3 +11,8 @@ Gujarati language is great. Lord Krishna spoke or led to it. Mahatma Gandhi spok
 તમારી ખરી કસોટી શરુ થાય છે. તમને ખુબ શુભકામના.
 
 [ઉત્તરાયણમાં ખેંચ કે ઢીલ?](ઉત્તરાયણ/ઉત્તરાયણમાં ખેંચ કે ઢીલ.md)
+
+CS [go here](DhoklaStellarFafda~/CS.md)
+
+ટીપે ટીપે સરોવર બંધાય , કાંકરે કાંકરે પાડ બંધાય
+This is my favourite Gujarati proverb copied from [here](http://gujarati-proverbs.tumblr.com/)
