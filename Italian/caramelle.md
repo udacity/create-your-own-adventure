@@ -19,4 +19,4 @@ Che fai?
 
 [Alice non abita più qui] (alice/alice.md)
 
-[Vado in bagno](bagno.bagno.md)
+[Vado in bagno](bagno/bagno.md)
