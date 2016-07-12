@@ -2,7 +2,7 @@ The mallow man seems nice so you chat to him after walking up to him.
 
 He decides he likes you too, so he gets out his Lego's.
 
-He's got Star Wars, Lego Movie, space, technics, oh so much lego and you play with it all!
+He's got Star Wars, Lego Movie, Pokemon, space, technics, oh so much lego and you play with it all!
 
 After a while he starts to get a bit too much, he doesn't get out much, you're bored.
 
@@ -36,6 +36,6 @@ or
 
 You see, there are two types of legos in this world. 
 
-We all know and  love them lego brand legos, any other brand belongs in the trash heap. IMPOSTERS
+We all know and love them lego brand legos, any other brand belongs in the trash heap. IMPOSTERS
 
 
