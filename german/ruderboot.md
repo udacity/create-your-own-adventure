@@ -34,4 +34,4 @@ Werden Sie:
 
 [Ein Dorf aufsuchen um das Boot reparieren zu lassen. Eventuell gibt es dort einen Bootsbauer](Dorf/dorf.md)
 
-[Vielleicht ist es ja mal Zeit ...](VR/VR.md)
+[Vielleicht is es Zeit...](VR/VR.md)
