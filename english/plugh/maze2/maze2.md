@@ -18,6 +18,4 @@ Which way should we go?
 
 [southeast](../maze3/maze3.md)
 
-[up](../maze1/maze1.md)
-
 [down](../maze1/maze1.md)
