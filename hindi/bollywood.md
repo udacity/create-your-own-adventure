@@ -27,7 +27,7 @@ Art of Living [Know More](art-of-living/art-of-living.md)
 
 [चुटकुला पढो](joke/joke.md) और मुस्कुराते रहो
 
-भारत के ताज के बारे में पढ़ने के लिए [यहां](historical-place/taj-mahal) क्लिक करे
+भारत के ताज के बारे में पढ़ने के लिए [यहां](historical-places/taj-mahal.md) क्लिक करे
 
 Click [Here](king/king.md) to read the story of a great King.
 
