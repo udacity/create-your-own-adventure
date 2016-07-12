@@ -5,3 +5,10 @@ marshmallow barrier before you. The polar bear rips and tears at your pink
 and white squishy prison. Eventually you emerge in and entirely new place...
 Now you are riding a polar bear covered in delicious pink marshmallow.  But 
 wait, there are bees...
+
+Do you:
+
+[eat the bees] (../dream/dream.md)
+
+[ride the beast] (../polar-bear-attack/flying-polar-bear.md)
+
