@@ -5,5 +5,5 @@ Minuutin jälkeen nouset vedestä ja
 
 [Haet lisä kaljaa](kalja/kalja.md)
 
-Menet takaisin [Löylyyn](../loyly.md)
+Menet takaisin [Löylyyn](../loyly/loyly.md)
 
