@@ -19,7 +19,7 @@ Take some [time](meditation/meditation.md) off!
 
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
-Who is better?
+Who is better? I'm looking to create conflict. CONFLICT ME!
 
 [Click Here](captain/captain.md) to vote for Captain America
 
