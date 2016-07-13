@@ -8,4 +8,4 @@ When she slaps you in the face...
 
 [You vomit on top of her](../vomit/vomit.md)
 
-..., holding your hand to your red cheek (you say) [../slap-response/slap-response.md]
+..., holding your hand to your red cheek [you say] (../slap-response/slap-response.md)
