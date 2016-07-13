@@ -13,7 +13,7 @@ The Sentinel is smiling upon you.  At that moment you realize you are not suppos
 
 It all makes sense now.  
 
-You've broken through chroot-jail of this virtual prision.
+You've broken through chroot-jail of this virtual prison.
 
 Do you:
 
