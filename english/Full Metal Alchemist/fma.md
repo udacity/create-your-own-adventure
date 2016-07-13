@@ -1,5 +1,5 @@
-Fullmetal Alchemist (Japanese: 鋼の錬金術師 Hepburn:
- Hagane no Renkinjutsushi?, lit. "Alchemist of Steel") is a Japanese 
+Fullmetal Alchemist (Japanese: 鋼の錬金術師 Hepburn: 
+ Hagane no Renkinjutsushi?, lit. "Alchemist of Steel") is a Japanese
 manga series written and illustrated by Hiromu Arakawa.
 
  It was serialized in Square Enix's Monthly Shōnen Gangan
@@ -18,3 +18,6 @@ mother back to life using alchemy.
 Click [here](../alchemy/alchemy.md) to learn more about alchemy.
 
 [Don't know what to do next?](../working/working.md)
+
+But how do you become full weeaboo trash? By falling into the depths of
+ [idol hell](../LoveLive/lovelive.md).
