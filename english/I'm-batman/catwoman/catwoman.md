@@ -2,8 +2,8 @@ The batphone rings. Its commissioner Gordon telling you Catwoman just robbed Got
 
 Do you pursue Catwoman?
 
-[Yes](../pursue/pursue.md)
+[Yes](pursue/pursue.md)
 
 or
 
-[No](/vacation/vacation.md)
+[No](vacation/vacation.md)
