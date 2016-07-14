@@ -8,7 +8,7 @@ Know about [Latest hit from Trump Floyd "The Wall"](./trump-floyd-the-wall/thewa
 
 You must have a tiny.. pair of hands.
 
-
+Click [Here](./glorious-crusade/crusade.md) to start your campaign aganist the estabilishment!
 
 
 

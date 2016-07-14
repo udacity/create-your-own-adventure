@@ -1,0 +1,1 @@
+Early in the day in a beautiful morning, Donnie prepares himself for the speech that'd set a new point in the history of the United States
