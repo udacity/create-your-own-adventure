@@ -4,4 +4,7 @@ you now enter this giant ship and turn on the controls ! Fly way, you lucky brat
 
 "Hey Chewy, who's flying this infernal machine?" You suddenly hear being asked from one of the dark corridors off the cockpit. You're not alone!
 
-You hear footsteps coming your way, you must decide to [hide inside the doorway](hansolo/hansolo.md) and evade detection or [shoot first](https://en.wikipedia.org/wiki/Han_shot_first)
+You hear footsteps coming your way, you must decide to
+[hide inside the doorway](hansolo/hansolo.md) and evade detection...
+
+...or maybe you should [shoot first!](https://en.wikipedia.org/wiki/Han_shot_first)
