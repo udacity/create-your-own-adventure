@@ -75,6 +75,8 @@ and search for your [destiny](destiny/destiny.md).
 
 Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
+Once you're warmed up, why not try a [work out?](work-out/work-out.md)
+
 or maybe [eat that delicious cucumber sandwich?](sandwich/sandwich.md)
 
 After warming up, take a minute and reflect on your [love for udacity](love-udacity/love-udacity.md)
@@ -1034,4 +1036,7 @@ You wake up confused, you faint you go back in [time](time-travel/time-travel.md
 
 [The Hungry Prince](hungry_prince/hungry_prince.md)
 
+[The Angry Prince](angry_prince/angry_prince.md)
+
 The password is [xyzzy](plugh/plugh.md)
+
