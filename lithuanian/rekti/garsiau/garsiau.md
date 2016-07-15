@@ -1,6 +1,6 @@
-Netrukus atbėgo trys vilkai. 
+Netrukus atbėgo trys vilkai 
 
-Ir jis...
+...ir jis...
 
 [Pradėjo bėgti](begti/begti.md)
 
