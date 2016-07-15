@@ -1,4 +1,4 @@
-Netrukus atbėgo trys vilkai 
+Netrukus atbėgo trys vilkai
 
 ...ir jis...
 
