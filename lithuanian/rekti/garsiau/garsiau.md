@@ -4,6 +4,6 @@ Ir jis...
 
 [Pradėjo bėgti](begti/begti.md)
 
-[Atsibudo](atsibusti/atsibudo.md)
+[Atsibudo](atsibusti/atsibusti.md)
 
 [Ieškojo ginklo](ginklas/ginklas.md)
