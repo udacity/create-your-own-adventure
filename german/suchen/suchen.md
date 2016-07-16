@@ -5,3 +5,5 @@ Was mache ich jetzt?
 1. Ich fange an damit zu paddeln.] (../paddeln/paddeln.md)
 
 2. Ich werfe den Ordner ueberbord, denn es ist zuviel Arbeit zu paddeln.
+
+3. Es scheint mir dass ich kein Deutsch sprechen kann! 
