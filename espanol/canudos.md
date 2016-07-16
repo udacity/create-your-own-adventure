@@ -144,7 +144,7 @@ Y llego spiderman a salvar el dia.
 
 Con sus acrobáticos movimientos y osadas frases
 
-Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)
+Spiderman al no entender que era lo que [pasaba](realidad/realidad.md)
 
 solo [Escapó](escapo/escapo.md)
 
