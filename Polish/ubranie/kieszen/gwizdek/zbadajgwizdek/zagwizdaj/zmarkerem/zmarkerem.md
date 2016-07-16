@@ -1,4 +1,4 @@
-Marker wydaje się chętni do wykorzystania jak twoja ręka zbliża się do tablicy.
+Marker wydaje się chętny do wykorzystania jak twoja ręka zbliża się do tablicy.
 
 [Narysuj spodnie](spodnie/spodnie.md)
 
