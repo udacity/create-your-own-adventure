@@ -4,4 +4,11 @@ You are actually skiing down the slope of a marshmallow mountain made out of Leg
 You are surrounded by lollipop trees and gingerbread houses.
 [Everything is awesome!](https://youtu.be/etzMjoH0rJw)
 And you just can't help but bust out some dance moves
-But oh wait! Suddenly a giant Lego platypus appears out of the chocolate river!  It starts waddling towards you...
+But oh wait! Suddenly a giant Lego platypus appears out of the chocolate river!
+It starts waddling towards you...
+
+Do you--
+
+[Go say hi?](english/lego-world-hi/lego-world-hi.md)
+
+[Call for help?](english/lego-world-call/lego-world-call.md)
