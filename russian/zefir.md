@@ -108,4 +108,4 @@
 
 [Отправитесь путешествовать](travelling/go-to-travel.md)
 
-[Начну клеить обои](wallpaper/glue.md)
+[Буду клеить](glue/index.md)
