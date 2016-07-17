@@ -1,5 +1,4 @@
-Freddie saved the little marshmallows stabing the terrible marshmallow with
-his chocolate stick.
+Freddie saved the little marshmallows stabing the terrible marshmallow with his chocolate stick.
 
 As the terrible marshmallow lay heaped on the floor, he wheezed a final threat at Freddie, 
 "You think you've won.  You think you've defeated me.  But there s'more."  
