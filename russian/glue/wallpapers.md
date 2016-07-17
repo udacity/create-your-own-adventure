@@ -1,7 +1,14 @@
 Да здесь всё так липко, и мне не соствит труда этого сделать.
 С чего начать? Ах да, мне же понадобятся некоторые инструменты да и обои.
+
 Какие бы мне выбрать?
-[эти](https://www.google.be/search?q=windows&tbm=isch) или может вот [эти](https://www.google.be/search?q=linux&tbm=isch)
+
+[эти](https://www.google.be/search?q=windows&tbm=isch)
+
+или может вот
+
+[эти](https://www.google.be/search?q=linux&tbm=isch)
+
 Надо бы обдумать все за и против.
 
 А пока...
