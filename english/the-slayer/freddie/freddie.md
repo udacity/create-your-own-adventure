@@ -8,6 +8,6 @@ With that the terrible marshmallow began to convulse in a mix of evil laughing a
 Freddie stood over the terrible marshmallow, trying to think of a witty retort.
 Nothing was coming to his head.  There was only one thing left to do.
 
-[Practice yoga.](/english/yoga/breathe/breathe.md)
+[Practice yoga.](../../yoga/breathe/breathe.md)
 
-[Take a nap.](/english/take-a-nap/take-a-nap.md)
+[Take a nap.](../../take-a-nap/take-a-nap.md)
