@@ -107,3 +107,5 @@
 [Решите программировать] (programming/to-program.md)
 
 [Отправитесь путешествовать](travelling/go-to-travel.md)
+
+[Начну клеить обои](wallpaper/glue.md)
