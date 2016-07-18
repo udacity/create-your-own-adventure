@@ -152,3 +152,5 @@ Y llego [Daynerys Targaryen](thrones/daynerys.md)
 
 [Temeroso, ordenó que lo guiaran al pasadizo que le llevaría fuera de la ciudad](pasadizo/pasadizo.md)
 
+Recordó algunos crímenes que pesaban sobre él y de la nada perdió el conocimiento(desmayo/desmayo.md)
+
