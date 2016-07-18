@@ -4,6 +4,6 @@ Yo quiero dormir.....
 
 Pero se que no es tiempo de dormir... y ahora que me fijo bien veo que esos estandárteres son los de 
 
-[El ejercito invasor](ejercito/invasor.md)
+[El ejercito invasor](../ejercito/invasor.md)
 
-[Nuestro ejercito](ejercito/nuestro.md)
+[Nuestro ejercito](../ejercito/nuestro.md)
