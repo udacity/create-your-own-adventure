@@ -1,4 +1,4 @@
-Vous continuez de manger. 
+Vous continuez de manger.
 
 Sans vous arrêter, frénétiquement vous engloutissez le mur entier.
 
@@ -18,3 +18,5 @@ mur qui vous protegeait du vent glaciale n'est plus. Que faites vous ?
 [Je me rendors](../../dormir/reve-etrange.md)
 
 [J'appel au secours](../../appel-au-secours/appeler-au-secours.md)
+
+[Je vomis](vomis/vomis.md)
