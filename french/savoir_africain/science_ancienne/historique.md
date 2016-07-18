@@ -1,0 +1,2 @@
+pour accéder au savoir ancien africain il faut commencer par savoir que les fondements de la science viennent d'afrique par exemple [l'origine des mathématiques se trouve en Egypte ancienne!!](https://fr.wikipedia.org/wiki/Math%C3%A9matiques_dans_l%27%C3%89gypte_antique)
+En fouillant en profondeur dans cette direction tu pourras résourdre tous les problèmes de ta vie! La bise!!
