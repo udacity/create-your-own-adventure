@@ -8,3 +8,5 @@ Alfred Pennyworth: Why do we fall sir? So we might learn to pick ourselves up.
 Bruce Wayne: You still haven't given up on [me](https://www.youtube.com/watch?v=u843KNE-exo)? 
 
 Batman: [It's time...](../batmetal/batmetal.md)
+
+The batphone is ringing, [answer](catwoman/catwoman.md)?
