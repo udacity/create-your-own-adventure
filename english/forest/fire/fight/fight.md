@@ -5,4 +5,10 @@ you sink the sharp end into his back and the bear cries out in pain.
 
 Victory achieved, you march triumphntly back to your camp.
 
+But not so fast! The bees are fast approaching. Rather than get stung you jump
+into a nearby lake until they fly away. 
 
+You climb out of the water dripping wet. The bees have gone. The sweet honey 
+beckons to you. You saunter forward, remembering your first sip of mead. You 
+quickly scoop a jar of honey from the thrashed beehive, stash it in your 
+waterskin, and scamper back to camp unscathed.
