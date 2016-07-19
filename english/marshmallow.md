@@ -1040,5 +1040,7 @@ You wake up confused, you faint you go back in [time](time-travel/time-travel.md
 
 The password is [xyzzy](plugh/plugh.md)
 
+[Say "Hi" to Guangwu](Guangwu/Guangwu.md)
+
 Perishing in an avalanche of words, in a mundane collection of sentences called "stories". 
 [Devastated?](devastated_greatness/devastated_greatness.md)
