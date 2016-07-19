@@ -1,4 +1,4 @@
-Staring at the ceiling I thought we'd never make
+Staring at the ceiling I thought we'd never make it
 
 But all that it took was patience 
 
