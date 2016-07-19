@@ -1040,4 +1040,6 @@ You wake up confused, you faint you go back in [time](time-travel/time-travel.md
 
 The password is [xyzzy](plugh/plugh.md)
 
-[Guangwu](Guangwu/Guangwu.md)
+[Say "Hi" to Guangwu](Guangwu/Guangwu.md)
+
+
