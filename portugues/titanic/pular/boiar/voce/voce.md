@@ -13,3 +13,9 @@ Vendo mais de perto, é mesmo o seu portátil.
 Você leva até casa, como é um Thinkpad você consegue recuperar [seus dados](https://www.youtube.com/watch?v=3KXx-Kys-Fk)
 
 Você toma uma decisão.
+
+Você decide levar seu Thinkpad para uma assistencia.
+No caminho encontra uma moça de humanas.
+Ela te chama para voltar pra praia e vender sua arte.
+
+Você volta ou recupera os dados?
