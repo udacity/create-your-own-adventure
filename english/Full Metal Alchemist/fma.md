@@ -18,3 +18,6 @@ mother back to life using alchemy.
 Click [here](../alchemy/alchemy.md) to learn more about alchemy.
 
 [Don't know what to do next?](../working/working.md)
+
+But this is just the beginning. To become full weeaboo trash, you must fall down
+into the depths of [idol hell](../LoveLive/lovelive.md)...
