@@ -1,2 +1,3 @@
-Du opdager, at dine gulerødder spirer. Du bliver så glad, at du bryder ud i
-[sang] (danish/synging/synging.md)
+Du opdager, at dine gulerødder er klare til at blive høstet. Du bliver høster
+gulerødderne og bager en
+[gulerodskage] (http://www.arla.dk/opskrifter/gulerodskage/).
