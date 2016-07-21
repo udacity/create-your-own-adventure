@@ -33,3 +33,5 @@ Werden Sie:
 [Kopfüber ins Wasser springen](Kopfsprung/Kopfsprung.md)
 
 [Ein Dorf aufsuchen um das Boot reparieren zu lassen. Eventuell gibt es dort einen Bootsbauer](Dorf/dorf.md)
+
+[Nase zuhalten und ins Wurstwasser springen](Wurstwasser/wurstwasser.md)
