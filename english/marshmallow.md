@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
 
 [start](mad/mad.md) your journey into world of mad 
 
@@ -1046,5 +1046,7 @@ Perishing in an avalanche of words, in a mundane collection of sentences called 
 [Devastated?](devastated_greatness/devastated_greatness.md)
 
 Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
+
+can we talk about [revolution] (revolution/how-to-guide.md)
 
 Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
