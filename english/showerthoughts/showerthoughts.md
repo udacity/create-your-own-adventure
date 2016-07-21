@@ -1,0 +1,1 @@
+[showerthoughts](https://www.reddit.com/r/Showerthoughts/)

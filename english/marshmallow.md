@@ -1044,3 +1044,5 @@ The password is [xyzzy](plugh/plugh.md)
 
 Perishing in an avalanche of words, in a mundane collection of sentences called "stories". 
 [Devastated?](devastated_greatness/devastated_greatness.md)
+
+Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
