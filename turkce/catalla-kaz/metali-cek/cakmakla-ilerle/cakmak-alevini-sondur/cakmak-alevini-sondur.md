@@ -1,0 +1,2 @@
+Heryer karanlik.  Gozunun onundeki ellerini bile goremiyorsun artik.  Cicek nerde bilmiyorsun, ama oda senin
+nerede oldugunu bilmiyor. Yasamda kalmak icin bir sansin var hala!  Ama solundan igrenc bir ses!  "HEEEEEY"

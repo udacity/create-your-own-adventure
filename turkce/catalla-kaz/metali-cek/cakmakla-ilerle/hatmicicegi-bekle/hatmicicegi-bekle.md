@@ -1,0 +1,3 @@
+Hatmicicegi hizlaca yaklasiyor.  Bu guzelim cicegin niyeti cok kotu.  10 metre mesafe kaldi sadece.
+9, 8, 7, 6, 5, 4, 3, 2, 1.  Cakmak isigi sonunda cicegin yuzune vuruyor, ve kim oldugunu gercekten goruyorusunuz.  
+Kendiniz...
