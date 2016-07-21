@@ -1048,3 +1048,5 @@ Perishing in an avalanche of words, in a mundane collection of sentences called 
 Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
 
 can we talk about [revolution] (revolution/how-to-guide.md)
+
+Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
