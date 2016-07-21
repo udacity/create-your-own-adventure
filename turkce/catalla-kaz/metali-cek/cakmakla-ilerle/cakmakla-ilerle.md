@@ -2,8 +2,8 @@
 
 Hatmiçiçeği arkandan büyük bir hışımla geliyor ve aradaki fark gitgide kapanıyor.
 
-(Cakmak alevini sondur) [cakmak-alevini-sondur/cakmak-alevini-sondur.md]
+[Cakmak alevini sondur] (cakmak-alevini-sondur/cakmak-alevini-sondur.md)
 
-(Hatmicicegi bekle) [hatmicicegi-bekle/hatmicicegi-bekle.md]
+[Hatmicicegi bekle] (hatmicicegi-bekle/hatmicicegi-bekle.md)
 
-(Uykuya dal) [../../../hatmisekeri.md]
+[Uykuya dal] (../../../hatmisekeri.md)
