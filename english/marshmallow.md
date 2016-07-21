@@ -1046,3 +1046,5 @@ Perishing in an avalanche of words, in a mundane collection of sentences called 
 [Devastated?](devastated_greatness/devastated_greatness.md)
 
 Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
+
+Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
