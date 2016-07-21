@@ -1,1 +1,1 @@
-[showerthoughts](https://www.reddit.com/r/Showerthoughts/)
+in reddit, check out /r/showerthoughts
