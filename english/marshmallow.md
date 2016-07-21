@@ -1049,4 +1049,4 @@ Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
 
 Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 
-[Discover](../discover-new-genres/discover-new-genres.md) a new genre of music!
+[Discover](discover-new-genres/discover-new-genres.md) a new genre of music!
