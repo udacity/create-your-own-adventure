@@ -13,3 +13,5 @@ Vælger du at:
 [Prøver at lette stemningen](synging/synging.md)
 
 [Tage kapsækken på ryggen og vandre sydpå, "Come so med jer! What are you venting for?"](haervejen/haervejen.md)
+
+[Gå en tur i din have] (have/have.md)
