@@ -10,6 +10,7 @@ agressive, and hard hitting and although many MCs have moved closer and closer
 to a hip-hop sound, grime still maintains a distinct, underground sound.
 
 Examples:
+
 [Skepta-That's Not Me](https://www.youtube.com/watch?v=dyONbqggasY)
 
 [Wiley-Outchea](https://soundcloud.com/richard-kylea-cowie/wiley-outchea)
@@ -28,6 +29,7 @@ Examples:
 
 
 Links:
+
 [Wikipedia article](https://en.wikipedia.org/wiki/Grime_music)
 
 [Short documentary on grime history](http://www.factmag.com/2014/11/06/watch-a-full-length-documentary-on-the-history-of-grime-featuring-dizzee-rascal-slimzee-kano-and-more/)
