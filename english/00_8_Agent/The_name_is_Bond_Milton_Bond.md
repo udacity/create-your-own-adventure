@@ -13,3 +13,16 @@ Special ordering a bespoke tuxedo for a fancy dinner and with a side of fisticuf
 Milton's your man.
 Need someone to send in your end of mission expense report, complete with TPS cover letter. 
 Milton's already one step ahead of you.
+
+Milton's great adventure began the day he got a call from James in the middle of the night.
+A very large and powerful company had decided to rid the world of paper,
+so that every single part of desk work would be automated. According to James, if they succeeded,
+all secretaries, assistants, and clerks would lose their jobs to machines. How awful!!
+The only way to stop them would be to write a very compelling letter to the Secretary of State. He needed
+Milton to craft and deliver this letter or else...
+
+It was a very risky mission and he could [shy away]() from the job and go ahead with his life. 
+
+OR
+
+He could [take on the mission](../MiltonsMission/MiltonsMission.md) and have a shot at saving the office-world 
