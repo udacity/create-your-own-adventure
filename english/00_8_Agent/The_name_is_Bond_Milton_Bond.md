@@ -1,5 +1,6 @@
 You have entered into the world of a secret agent.
-If you used to be a Drill Master, you should aspire to become a [White Tiger](https://play.google.com/store/apps/details?id=com.linecorp.LGRGS) instead.
+If you used to be a Drill Master, you should aspire to become 
+a [White Tiger](https://play.google.com/store/apps/details?id=com.linecorp.LGRGS) instead.
 
 You have entered into the world of one of Her Majesty's secret agent.
 Codename Agent 008; his name is Bond, Milton Bond.
