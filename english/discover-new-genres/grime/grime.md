@@ -32,6 +32,6 @@ Links:
 
 [Wikipedia article](https://en.wikipedia.org/wiki/Grime_music)
 
-[Short documentary on grime history](http://www.factmag.com/2014/11/06/watch-a-full-length-documentary-on-the-history-of-grime-featuring-dizzee-rascal-slimzee-kano-and-more/)
+[Short documentary on grime history](http://bit.ly/1ulCD4c)
 
 [Grime Subreddit](https://www.reddit.com/r/grime)
