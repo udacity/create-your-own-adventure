@@ -1052,3 +1052,5 @@ Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 [Discover](discover-new-genres/discover-new-genres.md) a new genre of music!
 
 [Watch](https://www.youtube.com/watch?v=-XJN7qqFqPE) Too Many Puppies!
+
+You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
