@@ -19,3 +19,5 @@ Which way should we go?
 [southeast](maze1.md)
 
 [down](maze1.md)
+
+Or [enter](../../lovecraftian/shoggoth.md) a mysterious teleporter room.
