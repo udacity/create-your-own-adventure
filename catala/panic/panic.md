@@ -17,4 +17,5 @@ Però... i el llibre?
 
 Si em surto d'aquesta, prometo no tornar a llegir Kafka abans de dormir.
 
-Al sortir a corre cuita de l'habitació, em trobo de sobte al [damunt d'una roca al mig d'un bosc ben fosc.](../troll/troll.md)
+Al sortir a corre cuita de l'habitació, em trobo de sobte
+[al damunt d'una roca al mig d'un bosc ben fosc.](../troll/troll.md)
