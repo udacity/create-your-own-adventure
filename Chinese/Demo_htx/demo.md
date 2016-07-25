@@ -1,3 +1,3 @@
 click  to visit baidu
 
-click [here](create-your-own-adventure/language.md) to visit raw url
+click [here](create-your-own-adventure/README.md) to visit raw url
