@@ -9,3 +9,6 @@ mazi story [ethe](mi_marathi/mi_marathi.md)ahe.
 Want to meet Maharashtrians in Seattle? Go [here](seattle/seattle.md)
 
 पुण्यामध्ये [गणेशोत्सव](ganesh/ganeshotsav.md) खूप उत्साहात साजरा झाला ! सगळ्यांचे आभार ! 
+
+डरसली ने पुण्याच्या सगळ्या हॉस्पिटल ना मोदक बनवून पाठवण्याचा दर वर्षीचा कार्यक्रम चालू केला. 
+पाच किलो तांदळाची पिठी, १० नारळ, २ गुळाच्या ढेपा, एक किलो वेलची. 
