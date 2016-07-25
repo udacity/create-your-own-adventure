@@ -1056,3 +1056,6 @@ Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 [Watch](https://www.youtube.com/watch?v=-XJN7qqFqPE) Too Many Puppies!
 
 You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
+
+
+Wish there was an easy way to purge some of the nonsense here so we could actually get a real story going. Oh well... 
