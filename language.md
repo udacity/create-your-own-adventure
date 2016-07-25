@@ -149,5 +149,3 @@ If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
 
 To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
-
-来点[我](Chinese/Demo_htx/demo.md)呀
