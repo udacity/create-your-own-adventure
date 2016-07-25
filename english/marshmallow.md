@@ -35,6 +35,8 @@ January 2017 approaches. You have two presidential candidates to vote for.
 
 You don't like either of these candidates.
 So instead, you decide to [write a symphony](write-a-symphony/symphony.md)
+or
+[paint a picture](paint-a-picture/paint-a-picture.md).
 
 Keith the Unicorn approaches you.
 He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
