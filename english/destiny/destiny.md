@@ -1,7 +1,5 @@
 you have decided to persue your destiny.
 
-Test your might.
-
 before you start you must have forgotten to pee so [go now](../eating-walls/find-a-toilet/find-a-toilet.md).
 
 now that you are relieved of the pressure underneath.
@@ -33,3 +31,5 @@ do so on an [empty stomach](../breakfast/breakfast.md).
 On second thought, it might be safer to just lie low.
  The world is a dangerous place and to so strike out into it might be dangerous.
  [You decide obscurity is for you](../cowardice/cowardice.md).
+
+I ate your cookies
