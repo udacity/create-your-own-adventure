@@ -31,7 +31,7 @@ but seemingly everyone makes use of Wikipedia!
 
 Until you get bored and go explore [here](https://www.urbandictionary.com) instead.
 
-Then after you explore the website, you learn a few neat tricks.
+Then after you explore the website, you learn a few neat tricks. 
 
 Then you want to show the world your new tricks by creating your own channel on [YouTube](https://www.youtube.com/). 
 
@@ -40,5 +40,3 @@ Then you want to show the world your new tricks by creating your own channel on 
 [Play Skyrim](../fus-roh-dah/fus-roh-dah.md)
 
 [Learn Calculus](https://en.wikipedia.org/wiki/Calculus)
-
-
