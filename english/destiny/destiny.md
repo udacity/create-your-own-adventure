@@ -1,5 +1,7 @@
 you have decided to persue your destiny.
 
+Test your might.
+
 before you start you must have forgotten to pee so [go now](../eating-walls/find-a-toilet/find-a-toilet.md).
 
 now that you are relieved of the pressure underneath.
@@ -22,14 +24,12 @@ and you might be someone [who knocks](../say-my-name/say-my-name.md).
 
 or perhaps you are someone [who opens](https://www.biblegateway.com/passage/?search=Revelation+3%3A20).
 
-If you have finished pursuing your destiny, it may be time for a 
+If you have finished pursuing your destiny, it may be time for a
 [cold one](../drink-beer/drink-beer.md).
 
 If you have only just begun to pursue your destiny, it's best not to
-do so on an [empty stomach](../breakfast/breakfast.md). 
+do so on an [empty stomach](../breakfast/breakfast.md).
 
 On second thought, it might be safer to just lie low.
  The world is a dangerous place and to so strike out into it might be dangerous.
  [You decide obscurity is for you](../cowardice/cowardice.md).
-
-
