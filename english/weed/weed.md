@@ -11,6 +11,8 @@ Then you wonder why you're taking advice from a Love Pink Unicorn (after all, th
 the most untrustworthy breed of unicorn, far worse, even, than the Grim Charcoal Unicorns of Strawgoh).
 However, the Love Pink Unicorn brings happiness to everyone by handing out those yummy pot cookies.
 
+You realize the unicorn is really your inner self.
+
 You decide to take a new path. Do you:
 
 Take a vow of [sobriety]?(../shrooms/never-again.md)
