@@ -33,4 +33,4 @@ Google can't help you right now. You are on your own.
 
 [Eat all of your rations in a panic](eat/eat.md)
 
-[Succumb to amnesia](./forest)
+[Succumb to amnesia](./forest.md)
