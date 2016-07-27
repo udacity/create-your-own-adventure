@@ -33,6 +33,8 @@ Until you get bored and go explore [here](https://www.urbandictionary.com) inste
 
 Then after you explore the website, you learn a few neat tricks. 
 
+Then you want to show the world your new tricks by creating your own channel on [YouTube](https://www.youtube.com/). 
+
 [Play minecraft](../you-are-in-minecraft/minecraft.md)
 
 [Play Skyrim](../fus-roh-dah/fus-roh-dah.md)
