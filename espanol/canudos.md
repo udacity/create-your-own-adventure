@@ -156,4 +156,5 @@ Recordó algunos crímenes que pesaban sobre él y de la nada perdió el conocim
 
 Revelo que venia del futuro y que le daba dos opciones: 
 - [Morir luchando como sabia que pasaria en el futuro](time/time.md)
-- [Seguir sus instrucciones y ganar](time/time1.md)
+
+- [Seguir sus instrucciones y ganar](time1/time1.md)
