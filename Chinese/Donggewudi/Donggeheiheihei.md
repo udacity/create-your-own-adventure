@@ -5,5 +5,3 @@
 [你可知月光宝盒？](../Xinyang/MyLoveStory.md)
 
 由此嘿嘿嘿
-
-东哥也很喜欢操[大白](../Baymax/Baymax.md)
