@@ -9,3 +9,5 @@ What do you want to do?
  [Have Tom Yum Kung. The food is as spicy as the weather.](Cuisine/TomYumKung.md)
 
  I want to sleep on a beach and dream of [hiking](Activities/Hiking.md) a mountain in the Northern of Thailand.
+ 
+ I want to go canoeing at Krabi and Trang [canoeing](Activities/canoeing.md). Its very fun.
