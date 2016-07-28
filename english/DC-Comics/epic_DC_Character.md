@@ -6,4 +6,8 @@ Give it a deep thouht and figure it out.
 
 Hint: A useless character :)
 
+or convert to the red team!
+
 [Green Arrow](Arrow/arrow.md)
+
+[The Flash](The-Flash/flash.md)
