@@ -36,4 +36,4 @@ Git/GitHub จงเจริญ โย่วๆ
 by [Off](http://www.facebook.com/off99555) อิอิ เทส ฮัลโหล ทดสอบ สตอรี่ บอทจงมา accept this pull request now
 
 ==========================
-Try [canoeing](Thai/travel.md)
+Try [canoeing](create-your-own-adventure/Thai/travel.md)
