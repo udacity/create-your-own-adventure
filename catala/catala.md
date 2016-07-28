@@ -1,4 +1,4 @@
-Un matí, t'aixeques en una estranya habitació amb les parets fetes de núvols de sucre.
+﻿Un matí, t'aixeques en una estranya habitació amb les parets fetes de núvols de sucre.
 
 Què fas?
 
@@ -23,3 +23,5 @@ Què fas?
 [somrius](somrius/somrius.md)
 
 [Entres en pànic absolut](panic/panic.md)
+
+[Mires al teu voltant confós](somiar/somiar.md)
