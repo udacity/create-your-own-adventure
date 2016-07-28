@@ -34,3 +34,6 @@ by Torr  Nov 7, 2015
 Git/GitHub จงเจริญ โย่วๆ
 
 by [Off](http://www.facebook.com/off99555) อิอิ เทส ฮัลโหล ทดสอบ สตอรี่ บอทจงมา accept this pull request now
+
+==========================
+Try [canoeing](Thai/travel.md)
