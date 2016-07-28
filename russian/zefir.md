@@ -109,3 +109,5 @@
 [Отправитесь путешествовать](travelling/go-to-travel.md)
 
 [Буду клеить](glue/index.md)
+
+[Включите музыку](music/turn_music.md)
