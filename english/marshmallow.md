@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
 
 [start](mad/mad.md) your journey into world of mad 
 
@@ -1056,3 +1056,5 @@ Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 [Watch](https://www.youtube.com/watch?v=-XJN7qqFqPE) Too Many Puppies!
 
 You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
+
+Then you decided to buy a [plane ticket](plane-ticket/planeticket.md)...
