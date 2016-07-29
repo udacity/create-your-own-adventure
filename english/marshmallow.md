@@ -1057,4 +1057,4 @@ Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 
 You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
 
-You decide to quit your job to play [Pokemon Go](Pokemon-Go/Pokemon-Go.md) full time.
+You decide to quit your job to play [Pokemon Go](Pokemon_Go/Pokemon-Go.md) full time.
