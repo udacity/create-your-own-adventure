@@ -24,6 +24,8 @@ If you speak the language of love, [kiss here](love/love.md)
 
 如果你说中文而且想要了解一个新的世界，[请点击这里](Chinese/DesertHell/NewWorld.md).
 
+如果你可以看得懂繁體中文, [請按這裡](TraditionalChinese繁體中文/開始.md)
+
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
 اذا كنت تتحدث العربية، [اضغط هنا](arabic/salamoAlikom.md)
@@ -137,7 +139,6 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
-=======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
 If you speak Gujarati, go [here](Gujarati/gujarati.md).
