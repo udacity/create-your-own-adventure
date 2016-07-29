@@ -15,4 +15,4 @@ Was machen Sie nun?
 
 [Die Stille geniessen und nachdenken](entspannen/entspannen.md)
 
-[Ruhig durchatmen und überlegen] (ueberlegen/ueberlegen.md)
+[Ruhig durchatmen und überlegen](ueberlegen/ueberlegen.md)
