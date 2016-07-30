@@ -6,5 +6,6 @@ Subsequently he translated most of the Buddhist philosphy text into Tibetan.
 
 So these days, the great treasure of scholarly work of many ancient Indian scholar from Nalanda University is only available in Tibetan Language in its best form.
 
-[Religion](../Language/Religion.md)
+[Religion](../Religion/religion.md)
+
 [Home](../Tibet.md)
