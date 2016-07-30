@@ -152,4 +152,4 @@ If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 
 To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
 
-Ningalku Malayalam vazhikaan ariyilengillu, [ivide](message/msg_page.md) click cheyyuva!
+Ningalku Malayalam vazhikaan ariyilengillu, [ivide](Mallu/Mallu.md) click cheyyuva!
