@@ -13,7 +13,7 @@ The Tibetan Spiritual kingdom	demised during the last evil King [Lang Dharma](ht
 
 The Tibetan Empire, which had achieved much in its few centuries of existence, had come to and end. Lang Darma is blamed for this chain of events, and has become one of the great villians of Tibetan history
 	
-But then with the help of Mongolia King Kublai Khan, Next Golden Era of Spiritual Kingdom of [Dalai Lama](../Medeival\ history/
+But then with the help of Mongolia King Kublai Khan, Next Golden Era of Spiritual Kingdom of [Dalai Lama](Medeival\ history/
 Medieval\ History.md) began in 16th Century.
 
 [home] (../../Tibet.md)
