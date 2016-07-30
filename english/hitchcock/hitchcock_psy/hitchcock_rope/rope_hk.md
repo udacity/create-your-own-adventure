@@ -7,3 +7,4 @@ arrogant, intellectual types with superiority complexes.  There was something ab
 made him feel uncomfortable.  Glancing once more out the window to locate the source of the sound,
 
 he felt a slight bit of [vertigo](hitchcock/vertigo_hk.md).
+
