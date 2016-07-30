@@ -1,6 +1,4 @@
-﻿Ningalku Malayalam vazhikaan ariyilengillu, [ivide](message/msg_page.md) click cheyyuva!
-
-If you speak English, [go here](english/marshmallow.md).
+﻿If you speak English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
@@ -153,3 +151,5 @@ If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
 
 To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
+
+Ningalku Malayalam vazhikaan ariyilengillu, [ivide](message/msg_page.md) click cheyyuva!
