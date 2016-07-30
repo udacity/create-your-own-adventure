@@ -10,3 +10,5 @@ Like many other nation, Tibet once was a prosperous country of its own.
 [Religion](Religion/religion.md)
 
 [Language](Language/Tibetan\ Language.md)
+
+[Culture](Culture/cuisine.md)
