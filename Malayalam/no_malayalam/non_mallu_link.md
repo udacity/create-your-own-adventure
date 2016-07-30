@@ -1,0 +1,1 @@
+To learn how to read/write you can Google for lessons. There are many Youtube videos that can help you.
