@@ -1,14 +1,14 @@
 Where did all the dolphins go?
 
-Dolphins are smart creatures, that much we know. 
-However, it had never dawned upon us just 
-how smart they actually were. 
+Dolphins are smart creatures, that much we know.
+However, it had never dawned upon us just
+how smart they actually were.
 
-The farewell message that they had sent 
-prior to their departure was both enigmatic 
-and ridiculous at the same time. 
+The farewell message that they had sent
+prior to their departure was both enigmatic
+and ridiculous at the same time.
 
-So long and thanks for all the fish? 
+So long and thanks for all the fish?
 
 Who would have thought... Who would have known?
 
@@ -18,3 +18,7 @@ galaxy who might know...
 [Arthur Dent](arthur-dent/arthur-dent.md)
 
 [Ford Prefect](ford-prefect/ford-prefect.md)
+
+But if you really want to know the answer to the question....
+"What is the answer to Life, the Universe and Everything?" then you
+need some [Deep Thought](deep-thought/deep-thought.md)
