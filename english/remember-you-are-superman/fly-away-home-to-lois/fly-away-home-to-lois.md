@@ -1,0 +1,3 @@
+You arrive home covered in molten marshmallow, and a disapproving look from Lois.
+
+No nookie for superman tonight...
