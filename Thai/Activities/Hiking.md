@@ -1,1 +1,0 @@
-Hiking is a very good exercise. ได้ออกกำลังกายด้วย ได้ชมวิวด้วย

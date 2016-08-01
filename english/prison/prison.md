@@ -1,1 +1,0 @@
-You awake in a damp, medieval prison. A guard stands in front of your cell, facing away from you.

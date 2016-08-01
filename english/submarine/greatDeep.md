@@ -1,1 +1,0 @@
-[The thing about submarines is ...](http://static.fjcdn.com/pictures/Male+genital+joke+_8a8562_3703243.jpg)

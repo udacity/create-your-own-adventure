@@ -1,1 +1,0 @@
-Kuri žibintuvėlį buvo užkerėjusi stebuklingais stebuklažodžiais

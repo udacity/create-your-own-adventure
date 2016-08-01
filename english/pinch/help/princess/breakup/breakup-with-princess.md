@@ -1,1 +1,0 @@
-Breaking up with a princess is not easy
