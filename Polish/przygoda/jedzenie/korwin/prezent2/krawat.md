@@ -1,1 +1,0 @@
-Prezent nie przypadł do gustu suwerenowi. Odzyskujesz przytomność w celi.

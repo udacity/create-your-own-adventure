@@ -1,4 +1,0 @@
-From this exit, you found an entire new world full of mysteries.
-
-All the exits from original world to this world are closed and there is only one way to open it.
-Explore more to find a way to open it.

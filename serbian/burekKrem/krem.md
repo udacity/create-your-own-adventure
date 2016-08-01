@@ -1,3 +1,0 @@
-Pojeo je dve osmine slatkog bureka, umazao se ko svinjče,
-i psovao u sebi ceo Niš zato što ti nikad ne daju jednu četvrtinu,
-no uvek dve osmine. Sto mu gromova...
