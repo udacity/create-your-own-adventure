@@ -5,3 +5,5 @@ Raccogli i pezzi di vetro, ma ti ferisci una mano.
 [Stringi i denti e resisti al dolore] (resisti/resisti.md)
 
 [Ti butti sul pavimento piangendo dal dolore] (piangi/piangi.md)
+
+[Torni a dormire](../../caramelle.md)

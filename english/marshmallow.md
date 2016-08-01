@@ -1049,6 +1049,10 @@ Perishing in an avalanche of words, in a mundane collection of sentences called 
 
 Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
 
+If you really want to know the answer to the question....
+"What is the answer to Life, the Universe and Everything?" then you
+need some [Deep Thought](doug-adams/deep-thought/deep-thought.md)
+
 Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 
 [Discover](discover-new-genres/discover-new-genres.md) a new genre of music!
@@ -1056,3 +1060,5 @@ Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 [Watch](https://www.youtube.com/watch?v=-XJN7qqFqPE) Too Many Puppies!
 
 You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
+
+Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random)!
