@@ -7,3 +7,9 @@ into a pile. Your wallet is gone, having fallen in the woods like your phone.
 
 There's a deep growling sound coming from the woods in the direction of your
 phone. Is that a bear growl? Wow, good thing you didn't go search for it.
+
+You still need a shelter though.  The ground is muddy and full of vermin.
+
+[You decide to make a shelter out of your parachute.](../../shelter/shelter.md)
+
+
