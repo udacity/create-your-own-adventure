@@ -1,6 +1,4 @@
-﻿Know [India](./India/India.md)
-
-चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
+﻿चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
 
 बॉलीवुड में आपका स्वागत है !
 
@@ -32,3 +30,5 @@ Art of Living [Know More](art-of-living/art-of-living.md)
 Click [Here](king/king.md) to read the story of a great King.
 
 To know about real india hero click [Bhagat Singh](Bhagat_Singh/bhagat_singh.md)
+
+Know [India](./India/India.md)
