@@ -1062,3 +1062,5 @@ Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
 
 Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random)!
+
+Learn about Ankesh [here](gameofthrones/characters/ankesh.md)
