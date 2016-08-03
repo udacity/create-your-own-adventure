@@ -1,20 +1,15 @@
-"doot doot!" - mr. skeltal
+Mr. Skeltal is here.  He says "doot doot!
 
-good bones and calcium are in your future!
+good bones and calcium are in your future!"
 
-plz updoot
+You see large snek. Good bones do not help with sneks!
 
-mr. skeltal is nice!
+What you do?
 
-hahahaha
+[Go back to sleep.  Snek will think you dead.](../sleep/marshmallow.md)
 
-'sup?
+[Share combat ration with snek.](../combatration/combat_ration.md)
 
-no your face!
+[Ignore snek, Check DC Comics.](../DC-Comics/epic_DC_Character.md)
 
-[Go back to sleep.](../sleep/marshmallow.md)
-
-[Check DC Comics.](../DC-Comics/epic_DC_Character.md)
-
-[consume combat ration](../combatration/combat_ration.md)
-mmmm combat rations...
+[Say magic words to escape snek.](../Enter-a-dim-reality/Dim_reality.md)
