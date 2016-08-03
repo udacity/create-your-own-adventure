@@ -10,3 +10,4 @@ But you do not despair
 
 And then you deploy your tent and sleep.
 
+You are woken up by the sound of the heavy rain. 
