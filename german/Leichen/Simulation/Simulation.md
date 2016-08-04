@@ -10,4 +10,5 @@ muss ich mich nach anderen Hinweisen umschauen.
 
 Deshalb erwäge ich folgende Optionen
 
-... um zu sehen ob das Wasser real ist, entscheide ich mich erstmal ein bisschen zu [schwimmen](../../schwimmen/schwimmen.md).
+... um zu sehen ob das Wasser real ist, entscheide ich mich erstmal ein bisschen 
+zu [schwimmen](../../schwimmen/schwimmen.md).
