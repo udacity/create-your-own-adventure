@@ -1,4 +1,4 @@
-You quickly realise that marshmallows melt faster inside pink socks.
+You quickly realise that marshmallows melt faster inside dark socks.
 
 This makes you decide to fill the sock with [more marshmallows](fill-sock.md).
 
