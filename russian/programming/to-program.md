@@ -3,7 +3,7 @@
 
 [Искать в другой комнате](../next_room/next_room.md)
 
-[Поработать на компьютере соседей](../speak_to_neighbor/speak_to_neighbor.md)
+[Поработать на компьютере соседей](../speak_to_neighbor/speak_to_neighbor.md) 
 
 [Открыть свой зефирный макбук и сразу начать](../minesweeper/minesweeper.md)
 
