@@ -11,3 +11,5 @@ Bolstered by the invigourating feeling of the sandwich in your belly,
 your senses tingle in anticipation of [continuing your adventure](../marshmallow.md).
 
 Or perhaps you decide to take a little [nap](../take-nap/cucumber-induced-nap.md)
+
+Also, what's that sounds coming from over the hill? Maybe you should [check it out?](../cave/cave.md)
