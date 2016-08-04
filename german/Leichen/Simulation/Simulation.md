@@ -8,4 +8,6 @@ Nachdem ich vergeblich auf körperlich wahrnehmbares Feedback von möglicherweise 
 angebrachten Gegenständen - wie einer VR-Brille oder verkabelten Handschuhen - gewartet habe,
 muss ich mich nach anderen Hinweisen umschauen.
 
-Deshalb erwäge ich folgende Optionen:
+Deshalb erwäge ich folgende Optionen
+
+... um zu sehen ob das Wasser real ist, entscheide ich mich erstmal ein bisschen zu [schwimmen](../../schwimmen/schwimmen.md).
