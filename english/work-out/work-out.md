@@ -7,4 +7,4 @@ Or...
 
 Attempt to get super swole by lifting some [weights](weights/weights.md)?
 
-Can't pay for a gym, so choose [calisthenics](calisthenics.md)
+Can't pay for a gym, so choose [calisthenics](calisthenics/calisthenics.md)
