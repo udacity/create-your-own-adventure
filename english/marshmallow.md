@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-[start](mad/mad.md) your journey into world of mad
+-[start](mad/mad.md) your journey into world of mad
 
 or
 
