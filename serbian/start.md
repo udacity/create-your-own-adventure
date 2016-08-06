@@ -12,3 +12,5 @@ Mlada radnica ga je ljubazno gledala. Rekla je:
 "Ili mozda tri?"[klikni ovde](noveIdeje/noveIdeje.md)
 
 "Da li ste mozda zainteresovani za neki dezert?" [klikni ovde](dezert/dezert.md)
+
+"Možda bi Vam prijao niški burek sa eurokremom?" [klikni ovde](burekKrem/krem.md)

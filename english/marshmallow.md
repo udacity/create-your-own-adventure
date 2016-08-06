@@ -35,6 +35,8 @@ January 2017 approaches. You have two presidential candidates to vote for.
 
 You don't like either of these candidates.
 So instead, you decide to [write a symphony](write-a-symphony/symphony.md)
+or
+[paint a picture](paint-a-picture/paint-a-picture.md).
 
 Keith the Unicorn approaches you.
 He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestion/thebigquestion.md)
@@ -1040,3 +1042,25 @@ You wake up confused, you faint you go back in [time](time-travel/time-travel.md
 
 The password is [xyzzy](plugh/plugh.md)
 
+[Say "Hi" to Guangwu](Guangwu/Guangwu.md)
+
+Perishing in an avalanche of words, in a mundane collection of sentences called "stories". 
+[Devastated?](devastated_greatness/devastated_greatness.md)
+
+Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
+
+If you really want to know the answer to the question....
+"What is the answer to Life, the Universe and Everything?" then you
+need some [Deep Thought](doug-adams/deep-thought/deep-thought.md)
+
+Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
+
+[Discover](discover-new-genres/discover-new-genres.md) a new genre of music!
+
+[Watch](https://www.youtube.com/watch?v=-XJN7qqFqPE) Too Many Puppies!
+
+You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
+
+Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random)!
+
+Learn about Ankesh [here](characters/ankesh.md)
