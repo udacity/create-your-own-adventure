@@ -1064,3 +1064,5 @@ You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
 Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random)!
 
 Learn about Ankesh [here](characters/ankesh.md)
+
+I love Git and GitHub
