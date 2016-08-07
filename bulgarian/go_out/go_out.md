@@ -1,3 +1,3 @@
 Излизаш от стаята и виждаш асансьор, стълби и дълъг коридор.
 
-1. [Решаваш да вземеш асансьора](./taking-the-elevator/taking-the-elevator.md)
+1. [Решаваш да вземеш асансьора](../taking-the-elevator/taking-the-elevator.md)
