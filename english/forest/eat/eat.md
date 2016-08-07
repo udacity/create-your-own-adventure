@@ -7,3 +7,5 @@ it is too late, and you're still hungry.
 
 You see a squirrel on a tree branch and wonder how much meat
 is on it...
+
+[Chase the squirrel](squirrel/squirrel.md)
