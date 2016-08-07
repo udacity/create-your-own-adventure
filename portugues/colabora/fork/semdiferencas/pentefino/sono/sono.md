@@ -1,6 +1,4 @@
-Então você resolve descansar um pouco, e...
-
-No outro dia você:
+Então você resolve descansar um pouco, e no outro dia você
 
 [Chama um amigo para ajudar](./ajuda/ajuda.md)
 
