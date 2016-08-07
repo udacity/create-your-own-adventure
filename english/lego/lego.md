@@ -36,8 +36,10 @@ or
 
 [Kick the man](../kicktheman/kicktheman.md)
 
-You see, there are two types of legos in this world. 
+You see, there are two types of legos in this world.
 
 We all know and  love them lego brand legos, any other brand belongs in the trash heap. IMPOSTERS
 
 
+
+Unathorized legos will be subject to criminal trial and prosecution. You have been warned.
