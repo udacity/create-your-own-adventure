@@ -1065,4 +1065,8 @@ Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random
 
 Learn about Ankesh [here](characters/ankesh.md)
 
-There is a fifth dimension, beyond that which is known to man. It is a dimension as vast as space and as timeless as infinity. It is the middle ground between light and shadow, between science and superstition, and it lies between the pit of man's fears and the summit of his knowledge. This is the dimension of imagination. It is an area which we call the [Twilight Zone](twilight-zone/casino.md)
+There is a fifth dimension, beyond that which is known to man. 
+It is a dimension as vast as space and as timeless as infinity. 
+It is the middle ground between light and shadow, between science and superstition, 
+and it lies between the pit of man's fears and the summit of his knowledge. 
+This is the dimension of imagination. It is an area which we call the [Twilight Zone](twilight-zone/casino.md)
