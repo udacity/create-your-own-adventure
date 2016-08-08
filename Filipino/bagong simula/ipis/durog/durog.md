@@ -4,4 +4,4 @@ lilipad ito at mag ttransform bilang si Ipis Man.
 
 [Bilisan ang pag durog sa ipis](http://www.publicdomainpictures.net/pictures/60000/velka/cockroach.jpg).
 
-[kumaripas palabas ng kwarto] (../../salamat.md).
+[kumaripas palabas ng kwarto] (../../../salamat.md).
