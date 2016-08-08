@@ -6,4 +6,6 @@ Sa puntong iyon, nalaman mo na hindi lang ikaw na nasa loob ng kwarto.
 
 Subukang [durugin ang ipis](http://www.publicdomainpictures.net/pictures/60000/velka/cockroach.jpg).
 
+[Tapakan ang ipis habang nag iisip](durog/durog.md)
+
 Tigtigin ang kamay para maalis ang ipis at [kumaripas pabalas ng kwarto] (../../salamat.md).
