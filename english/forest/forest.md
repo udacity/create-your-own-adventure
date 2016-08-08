@@ -35,4 +35,4 @@ Google can't help you right now. You are on your own.
 
 [Succumb to amnesia](./forest.md)
 
-[Go back whence you came](../marhallow.md)
+[Go back whence you came](marhallow.md)
