@@ -4,6 +4,8 @@ iyong kamay pra subukang takpan ang iyong mata. Sa pag angat mo ng kamay mo,
 napansin mong may kakaibang hugis na mistulang nakadikit sa iyong palad.
 Sa puntong iyon, nalaman mo na hindi lang ikaw na nasa loob ng kwarto.
 
-Subukang [durugin ang ipis](durog/durog.md).
+Subukang [durugin ang ipis](http://www.publicdomainpictures.net/pictures/60000/velka/cockroach.jpg).
 
-Tigtigin ang kamay para maalis ang ipis at [kumaripas palabas ng kwarto] (../../salamat.md).
+[Tapakan ang ipis](durog/durog.md)
+
+Tigtigin ang kamay para maalis ang ipis at [kumaripas pabalas ng kwarto] (../../salamat.md).
