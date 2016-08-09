@@ -9,5 +9,7 @@ later they are chasing you and the bear deeper in to the forest.
 
 You keep running in the general direction in which you think the shaman went. In the end you reach 
 waterfall.
-[Jump into the waterfall](./jump)
-[Don't Jump](./notJump.md)
+
+[Jump into the waterfall](jumpInWaterFall/jump)
+
+[Don't Jump](jumpInWaterFall/notJump.md)
