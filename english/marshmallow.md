@@ -839,12 +839,12 @@ You may either do [this](gtd/gtd.md),
 
 [Get Crazy!](crazy/crazy.md)
 
-"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
+"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim
 [move to Boston](boston/boston.md)."
 
 Wait a second, I actually meant to say that [Camelot](camelot/camelot.md) is where I really want to go!
 
-"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
+"Who will you [serve] (joshua_24_15/joshua_24_15.md)?"
 
 Yourself?
 
@@ -860,7 +860,7 @@ You decide that $1.5 billion is too much to pass up, so you buy a [Powerball tic
 
 What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
 
-The divergence is coming, [survive](divergence/divergence.md) or perish? 
+The divergence is coming, [survive](divergence/divergence.md) or perish?
 
 [Hear a roaring sound in the distance](https://youtu.be/d-sALU_hveA?t=33s)
 
@@ -917,7 +917,7 @@ Do you want to build a [snowman?] (snowman/snowman.md)
 
 It doesn't have [to be a snowman](to-be-a-snowman/to-be-a-snowman.md)
 
-I think I'll try defying gravity. 
+I think I'll try defying gravity.
 
 Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indonesia)
 
@@ -945,7 +945,7 @@ Explore the unknown. Most people die without ever visiting this [place.](underwa
 
 As you attempt this, a voice booms!!
 
-The [boom](day-dream/day-dream.md) 
+The [boom](day-dream/day-dream.md)
 
 Is it really? You see what appears to be a tunnel, a tunnel leading into the [unknown](dimensions/dimension.md)
 
@@ -957,7 +957,7 @@ You feel woozy, [you take a nap](thunder-carrots/thunder-carrots.md).
 
 You decide to go scuba diving and see a [great submarine](submarine/greatDeep.md).
 
-So what to do next? Three doors appear and all other ways out disappear. 
+So what to do next? Three doors appear and all other ways out disappear.
 So you pick the [right door](mysterydoor/mysterydoor.md)
 
 You put your [cowboy hat](cowboy/cowboy.md) back on your head.
@@ -999,7 +999,7 @@ The lannisters always pays thier debts, says tyrion lannister. Interesting [char
 
 Time to [move to Canada](Canada/Canada.md), eh?
 
-You struggle to find a line break to add your own adventure. 
+You struggle to find a line break to add your own adventure.
 You also want to undo the Brexit result. [You try CTRL-Z...](great-tasmanian-adventure/great-tasmanian-adventure.md)
 
 
@@ -1010,7 +1010,7 @@ You're reincarnated as a green starfish but wish you were [blue instead.](starfi
 
 [Motivate yourself](Motivate/Motivate.md)
 
-You wake up as Harry Potter ... and are facing Voldemort in a duel? 
+You wake up as Harry Potter ... and are facing Voldemort in a duel?
 What should you [do](magicaladventure/decision_time/decision_time.md)
 
 My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
@@ -1044,10 +1044,14 @@ The password is [xyzzy](plugh/plugh.md)
 
 [Say "Hi" to Guangwu](Guangwu/Guangwu.md)
 
-Perishing in an avalanche of words, in a mundane collection of sentences called "stories". 
+Perishing in an avalanche of words, in a mundane collection of sentences called "stories".
 [Devastated?](devastated_greatness/devastated_greatness.md)
 
 Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
+
+If you really want to know the answer to the question....
+"What is the answer to Life, the Universe and Everything?" then you
+need some [Deep Thought](doug-adams/deep-thought/deep-thought.md)
 
 Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 
@@ -1058,3 +1062,10 @@ Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
 
 You decide to quit your job to play [Pokemon Go](pokemon-go/pokemon-go.md) full time.
+
+Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random)!
+
+Learn about Ankesh [here](characters/ankesh.md)
+
+[Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
+>>>>>>> b6c70ae2fc2160a4b1b9c8639b4567de6b5a4a93
