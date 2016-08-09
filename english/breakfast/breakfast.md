@@ -11,3 +11,5 @@ have to go to the supermarket. That same supermarket that you vowed you would ne
 
 But, the wall has to be fixed.  So you gather your courage and go to the dreaded supermarket and make your way to the
 aisle with the marshmallows.  Turning into the aisle you see a terrible sight.
+
+[Who is this man?](english/bob-barker/barker.md)
