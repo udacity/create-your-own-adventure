@@ -33,3 +33,4 @@ part of the woods. What should you do?
 
 [Fight the bear](fight/fight.md)
 
+[Ally yourself with the squirrels] (ally-squirrels/ally-squirrels.md)
