@@ -1,0 +1,1 @@
+Unfortunately, you are spotted immediately by Izumo and Kotetsu, the village's guards. Not recognizing your face as a member of the Hidden Leaf Village, they approch you cautiously. 
