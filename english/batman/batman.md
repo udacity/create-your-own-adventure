@@ -39,3 +39,5 @@ I am batman's cousin.
 Now that Bruce Wayne is grown old, he has proclaimed that I should take over his legacy!
 
 Over my dead body!! Says Robin.
+
+John Cena comes busting through the wall and screams:
