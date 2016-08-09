@@ -1061,8 +1061,11 @@ Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 
 You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
 
+You decide to quit your job to play [Pokemon Go](pokemon-go/pokemon-go.md) full time.
+
 Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random)!
 
 Learn about Ankesh [here](characters/ankesh.md)
 
 [Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
+>>>>>>> b6c70ae2fc2160a4b1b9c8639b4567de6b5a4a93
