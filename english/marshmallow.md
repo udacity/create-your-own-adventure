@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-[start](mad/mad.md) your journey into world of mad
+[start](mad/mad.md) your journey into world of mad 
 
 or
 
@@ -8,8 +8,8 @@ spend your time [wisely](http://www.pythonchallenge.com/)
 
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
-Your adventure begins. You realize there are hundreds of paths for you to choose from.
-Which way should you go? Only you can decide.
+Your adventure begins. You realize there are hundreds of paths for you to choose from. 
+Which way should you go? Only you can decide. 
 
 Oh so many decisions - what will you do??
 
@@ -63,9 +63,9 @@ DOING will definitely keep your sharpened with latest skills (which you can get 
 
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
 
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
 
-Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md)
+Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
 
 Vist the master [liquid](liquid/liquid.md).
 
@@ -803,7 +803,7 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
-Despite the little conundrum that you resolved, you realize that it's now
+Despite the little conundrum that you resolved, you realize that it's now 
 Friday, December 4th.  
 
 "Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
@@ -825,9 +825,9 @@ I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/s
 
 "I dont't know! Why should I care?" replied Donald Trump.
 
-When faced with a lot of work and impending deadlines
+When faced with a lot of work and impending deadlines 
 in the (not so near) future,
-there are two options you must choose from.
+there are two options you must choose from. 
 
 You may either do [this](gtd/gtd.md),
 
