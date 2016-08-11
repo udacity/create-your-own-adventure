@@ -10,7 +10,7 @@ Who will answer the call?
 
   - Superman?
   - Batman?
-  - Wonder Woman?
+  - [Wonder Woman](./wonder-woman/wonder-woman.md)?
   - Flash?
   - Green Arrow?
   - Green Lantern?
