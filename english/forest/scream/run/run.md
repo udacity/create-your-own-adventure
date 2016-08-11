@@ -5,12 +5,16 @@ curious expression so typical of three year olds. When you reach the tiger it li
 
 You're now flying backwards!
 
-You forgot that you were still attached to the parachute, which sling-shotted you backwards, just as you reached the end of the tether.
+You forgot that you were still attached to the parachute,
+which sling-shotted you backwards, just as you reached the end of the tether.
 
 After flying backwards 10 feed back, you land on your back. THUD!
 
-You look up and see that the parachute falling to your feet, untangled from the trees.
+You look up and see that the parachute falling to your feet,
+untangled from the trees.
 
-You reach over and pick up the parachute. The tiger, having watched all of this, is staring at you with a hungry look.
+You reach over and pick up the parachute.
+The tiger, having watched all of this, is staring at you
+with a hungry look.
 
 You, armed with a parachute, have to make a choice. Should you...
