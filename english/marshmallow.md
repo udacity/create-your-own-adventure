@@ -1067,9 +1067,12 @@ Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random
 
 Learn about Ankesh [here](characters/ankesh.md)
 
+How about [finding the cow ?](/Find_the_cow.md)
+
 [Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
 >>>>>>> b6c70ae2fc2160a4b1b9c8639b4567de6b5a4a93
 
 You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
 [So Will you?](philosophy/questions.md)
+
