@@ -1073,3 +1073,5 @@ Learn about Ankesh [here](characters/ankesh.md)
 You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
 [So Will you?](philosophy/questions.md)
+
+You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
