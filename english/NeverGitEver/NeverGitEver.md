@@ -1,1 +1,1 @@
-You don't want to ue git ever. BUt still if you do try [this] (https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+You don't want to ue git ever. But still if you do try [this] (https://www.udacity.com/course/how-to-use-git-and-github--ud775)
