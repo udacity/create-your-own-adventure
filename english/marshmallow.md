@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-Never knew git, went [here] (DoGit/Udacity/DoGit.md), now I git and eat [mashmallow] (DoGit/Marshmallow/EatMarshmallow.md)
+Never knew git, went [here] (english/DoGit/Udacity/DoGit.md), now I git and eat [mashmallow] (english/DoGit/Marshmallow/EatMarshmallow.md)
 
 NGE is [here] (NGE/NGE.md)
 
