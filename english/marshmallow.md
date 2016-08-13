@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-[NeverGitEver] (https://in.udacity.com/)
+[NeverGitEver] (../english/NEverGitEver.md)
 
 [start](mad/mad.md) your journey into world of mad 
 
