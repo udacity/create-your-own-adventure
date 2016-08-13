@@ -9,3 +9,5 @@ You take the blue pill—the story ends, you wake up in your bed and believe wha
 You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes. 
 
 One last option is you take both pills and whichever is more potent wins. (not recommended)
+
+The last last option is to bite off half of the pill and see what is inside.
