@@ -7,4 +7,4 @@ what do you think about this voice??
 
 1.Is it a [bananaboat](bananaboat/bboat.md) floating on the pool surface?
 
-2.Is it the sound of the [hazelnults](hazelnut/hazel.md) terittory?
+2.Is it the sound of the [hazelnults](hazelnuts/hazel.md) terittory?
