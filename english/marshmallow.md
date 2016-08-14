@@ -422,6 +422,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Light a fire?](light-fire/fire.md)
 
+[jump in a chocolate pool?](chocopool/choco.md)
+
 [Hungry Kya?](hungry/hungry.md)
 
 [Offer to get the narrator a ladder, so they can get off your back?](can-i-get-you-a-ladder/can-i-get-you-a-ladder.md)
