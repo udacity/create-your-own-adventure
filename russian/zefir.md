@@ -111,3 +111,5 @@
 [Буду клеить](glue/index.md)
 
 [Включите музыку](music/turn_music.md)
+
+[Буду тупить](hz/2hz.md)
