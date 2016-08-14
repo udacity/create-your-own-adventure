@@ -5,6 +5,6 @@ even guess its width or its length. Suddenly, you hear a strange voice.
 You drink some chocolate to keep you calm, but you can't stop trembling.
 what do you think about this voice??
 
-1.Is it a [banana boat](bananaboat/bboat.md) floating on the pool surface?
+1.Is it a [bananaboat](bananaboat/bboat.md) floating on the pool surface?
 
 2.Is it the sound of the [hazelnults](hazelnut/hazel.md) terittory?
