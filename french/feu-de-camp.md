@@ -30,6 +30,8 @@ Que faites-vous ?
 
 [J'appelle le genie](appelle-genie/appelle-genie.md)
 
+[Je cherche pour les habitants](cherche/habitants.md)
+
 [Je me lève et me dirige vers la sortie](sortie/pousser-porte/pousser-porte.md)
 
 [Je ne fais rien](rien/rien.md)
