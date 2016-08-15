@@ -26,3 +26,6 @@ Che fai?
 [Salgo in macchina] (ascoltare/profumato.md)
 
 [Telefono ad Antonio Conte](antonio_conte/antonio.md)
+
+[Mi metto a cantare](cantare/cantare.md)
+
