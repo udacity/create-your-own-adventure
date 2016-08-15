@@ -3,6 +3,7 @@ In the distance, you recognize the looming towers of Nyarlathotep piercing
 the heavens. They promised they would never lure you back to this place,
 but the old ones have never been known to keep their promises.
 Cthulhu, the eldritch terror, emerges through the haze.
+You casually sustain a long fart.
 Your brain spasms in abject horror. He says nothing, but your
 choice is clear. Do you:
 
