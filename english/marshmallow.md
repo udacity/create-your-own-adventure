@@ -1081,3 +1081,5 @@ that one central question... will you? or will you not?
 [So Will you?](philosophy/questions.md)
 
 You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
+
+Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the meaning of life is.
