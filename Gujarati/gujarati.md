@@ -16,3 +16,6 @@ CS [go here](DhoklaStellarFafda~/CS.md)
 
 ટીપે ટીપે સરોવર બંધાય , કાંકરે કાંકરે પાડ બંધાય
 This is my favourite Gujarati proverb copied from [here](http://gujarati-proverbs.tumblr.com/)
+
+જાગ્યા ત્યાંથી સવાર
+Mine favourite(@ http://gujarati-proverbs.tumblr.com/)
