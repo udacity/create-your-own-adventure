@@ -10,4 +10,4 @@ Muwahahahhaahhaha!!!!!
 
 Game Over!!!!!!
 
-[Try Again?] (../../kismet.md)
+[Try Again?] (../kismet.md)
