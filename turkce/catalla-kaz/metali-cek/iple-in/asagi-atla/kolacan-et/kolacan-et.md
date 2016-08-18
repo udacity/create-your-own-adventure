@@ -1,0 +1,1 @@
+*Hikayenin bu kısmı daha ilerletilmedi*
