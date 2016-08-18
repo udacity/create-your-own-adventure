@@ -4,8 +4,8 @@
 
 어떻게 할까요?
 
-[꺼져라고 말한다](../getout/getout.md)?
+[꺼져라고 말한다](getout/getout.md)?
 
-[미 노 잉글리쉬...](../no-english/no-english.md)?
+[미 노 잉글리쉬...](no-english/no-english.md)?
 
-[어쩔줄 모르고 그냥 운다](../cry/cry.md)?
+[어쩔줄 모르고 그냥 운다](cry/cry.md)?
