@@ -11,3 +11,5 @@ Muwahahahhaahhaha!!!!!
 Game Over!!!!!!
 
 [Try Again?] (../kismet.md)
+
+[Choose a different adventure](../../marshmallow.md)?
