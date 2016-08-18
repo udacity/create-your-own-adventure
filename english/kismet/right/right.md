@@ -7,7 +7,7 @@ You hear, nothing.
 
 [Enter the room?] (enter/arming.md)
 
-[Stay in the Center room] (../center/middle.md)
+[Stay in the room, take time to consider] (../center/middle.md)
 
 [Approach the door on the left] (../left/left.md)
 
