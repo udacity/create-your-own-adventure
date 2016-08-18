@@ -6,7 +6,7 @@ a small square room with two exits. Both exit doors are constructed
 of what appears to be ancient elven wood. Both doors have unique markings.
 
 
-[go back to sleep](../death/end.md)?
+[go back to sleep](death/end.md)?
 
 [examine the door on the left] (/left/left.md)
 
