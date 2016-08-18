@@ -7,6 +7,8 @@ You hear, nothing.
 
 [Enter the room?] (enter/arming.md)
 
-[Stay in the Center room] (center/middle.md)
+[Stay in the Center room] (../center/middle.md)
 
-[Approach the door on the left] (left/demonDeath/eaten.md)
+[Approach the door on the left] (../left/left.md)
+
+[Enter the door on the left instead] (../left/demonDeath/eaten.md)
