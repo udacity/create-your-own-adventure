@@ -158,3 +158,5 @@ Revelo que venia del futuro y que le daba dos opciones:
 - [Morir luchando como sabia que pasaria en el futuro](time/time.md)
 
 - [Seguir sus instrucciones y ganar](time1/time1.md)
+
+[La eleccion](eleccion/eleccion.md)
