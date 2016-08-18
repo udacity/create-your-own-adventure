@@ -8,7 +8,7 @@ of what appears to be ancient elven wood. Both doors have unique markings.
 
 [go back to sleep](death/end.md)?
 
-[examine the door on the left] (/left/left.md)
+[examine the door on the left] (left/left.md)
 
-[examine the door on the right] (/right/right.md)
+[examine the door on the right] (right/right.md)
 
