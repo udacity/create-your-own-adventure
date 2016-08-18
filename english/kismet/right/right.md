@@ -5,7 +5,7 @@ the other side.
 
 You hear, nothing.
 
-[Enter the room]? (enter/arming.md)
+[Enter the room?] (enter/arming.md)
 
 [Stay in the Center room] (center/middle.md)
 
