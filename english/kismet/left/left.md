@@ -6,4 +6,4 @@ In a very deep rumbling chord, insance laughter ensues.
 
 [Confront the demon?] (demonDeath/eaten.md)
 
-[Approach the door on the right instead] (right/right.md)
+[Approach the door on the right instead] (../right/right.md)
