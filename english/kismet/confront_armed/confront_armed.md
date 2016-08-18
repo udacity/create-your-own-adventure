@@ -18,3 +18,5 @@ Perhaps one day, you shall escape this dungeon.
 But this story ends for now.
 
 [play again?] (../kismet.md)
+
+[Choose a different adventure](../../marshmallow.md)?
