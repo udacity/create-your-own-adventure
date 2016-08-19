@@ -9,3 +9,7 @@ Friendship hastens to rescue as fast as hand’s reflex to catch slipping cloth
 மெய்வருத்தக் கூலி தரும்
 Though fate-divine should make your labour vain;
 Effort its labour's sure reward will gain
+
+இனிய உளவாக இன்னாத கூறல்
+கனிஇருப்பக் காய்கவர்ந் தற்று.
+To say disagreeable things when agreeable are at hand is like eating unripe fruit when there is ripe
