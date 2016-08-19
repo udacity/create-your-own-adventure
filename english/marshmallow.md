@@ -1074,7 +1074,7 @@ Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random
 Learn about Ankesh [here](characters/ankesh.md)
 
 [Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
->>>>>>> b6c70ae2fc2160a4b1b9c8639b4567de6b5a4a93
+
 
 You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
@@ -1083,3 +1083,6 @@ that one central question... will you? or will you not?
 You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
 
 Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the meaning of life is.
+
+People then decided to become a bit more creative and wrote something else
+that was something that they havent [heard](Hear/hear.md) or [seen](See/see.md) before. 
