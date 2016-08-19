@@ -7,3 +7,5 @@ As you speak to your neighbor, you see a dark car approach. Two figures emerge, 
 [Talk to the woman](woman/scully.md)
 
 [Talk to the man](man/mulder.md)
+
+[Talk to the dog](dog/meetdug.md)
