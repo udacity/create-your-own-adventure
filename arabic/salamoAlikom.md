@@ -27,4 +27,4 @@
 [لتنبهر](amazed/amazed.md) توقف لحظة 
 
 هذه التجربة رائعة 
-[الكورس] أحب هذا (https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
+[الكورس] أحب هذا(https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
