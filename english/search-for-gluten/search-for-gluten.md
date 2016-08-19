@@ -6,7 +6,7 @@ to regain your vision. You find yourself next to a rusty dumpster in Times Squar
 
 Do you?
 
-[Walk to Starbucks and stand in line for an hour?]((/../000_mormon_super_adventure/blessed.md)
+[Walk to Starbucks and stand in line for an hour?](../000_mormon_super_adventure/blessed.md)
 or
 
-[Attempt to score tickets for the Book of Mormon?](/../000_mormon_super_adventure/blessed.md)
+[Attempt to score tickets for the Book of Mormon?](../000_mormon_super_adventure/blessed.md)
