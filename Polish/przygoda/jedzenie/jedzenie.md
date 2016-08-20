@@ -14,3 +14,5 @@ Gdy całe ptasie mleczko jest już zjedzone, dochodzisz do oczywistych wniosków
 [Mam ochotę zagrać w Wiedźmina trójkę](wiedzmin/wiedzmin.md)
 
 [Chce mi się spać](spanie/spanie.md)
+
+[Wyrosły mi skrzydła!](skrzydla/skrzydla.md)
