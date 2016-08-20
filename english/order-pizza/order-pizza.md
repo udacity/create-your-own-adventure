@@ -14,3 +14,5 @@ Another option also appears a [menu](http://fongspizza.com/) for Fong's pizza.
 
 Fong's serves delicious Asian Pizza and also offers exceptional
 [Tiki Drinks](http://liquor.com/slideshows/10-tiki-cocktails-to-kick-off-summer/).
+
+Add bacon to your pizza. Bacon makes everything taste better.
