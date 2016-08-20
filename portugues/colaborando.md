@@ -61,3 +61,5 @@ BR BR BR Hue hue hue!!!!
 [História com um fim muito legal] (historia/fim.md)
 
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
+
+[Tiraria o bug usando: git clone, git branch, git add, git commit e git push](gus_changes/gus_changes.md)
