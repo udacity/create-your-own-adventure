@@ -61,3 +61,7 @@ BR BR BR Hue hue hue!!!!
 [História com um fim muito legal] (historia/fim.md)
 
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
+
+<a href="https://www.google.com.br/">
+Usaria: git clone, branch, add, commit e push ou o site
+</a>
