@@ -62,6 +62,4 @@ BR BR BR Hue hue hue!!!!
 
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
 
-<a href="https://www.google.com.br/">
-Usaria: git clone, branch, add, commit e push ou o site
-</a>
+[Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)
