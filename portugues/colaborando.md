@@ -62,4 +62,4 @@ BR BR BR Hue hue hue!!!!
 
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
 
-[Tiraria o bug usando: git clone, git branch, git add, git commit e git push](gus_changes/gus_changes.md)
+<a href="http://www.superdownloads.com.br/materias/7050-corrigindo-tres-bugs-serios-no-android-atualizar-rom.htm"></a>Tiraria o bug usando: git clone, git branch, git add, git commit e git push ou acessaria o site
