@@ -1,17 +1,13 @@
-You are in a maze of dark and twisty passages, all alike.
+You are in a maze of dark and twisty passages, all alike. You are likely to be eaten by a grue.
 
-You are likely to be eaten by a grue.
+There is an object that looks like a [torch](zork_content/torch.md) on the ground. Next to the torch there is also a spool of twine.
 
-Not to be confused with Felonious Gru and his minions...
+Walk [North](zork_content/zork_content/zork_content/zork_content/eaten-by-grue.md)
+Walk [East](zork_content/zork_content/zork_content/eaten-by-grue.md)
+Walk [South](zork_content/zork_content/eaten-by-grue.md)
+Walk [West](zork_content/eaten-by-grue.md)
 
-[What's a grue?](../grue/grue.md)
+What is a [grue](zork_content/grue-about.md)?
 
-Very scary story for halloween
+Contemplate your [Zork](zork_content/contemplate-zork.md).
 
-There is an object that looks like a [torch](../torch/torch.md) on the ground.
-
-There is also om twine on the ground.
-
-The work Zork brings back memories.
-
-Zork is life, Zork is love.
