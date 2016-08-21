@@ -61,3 +61,5 @@ BR BR BR Hue hue hue!!!!
 [História com um fim muito legal] (historia/fim.md)
 
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
+
+<a href="http://www.superdownloads.com.br/materias/7050-corrigindo-tres-bugs-serios-no-android-atualizar-rom.htm"></a>Tiraria o bug usando: git clone, git branch, git add, git commit e git push ou acessaria o site
