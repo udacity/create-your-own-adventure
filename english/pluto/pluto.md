@@ -7,7 +7,3 @@ These buttons and controls seem foreign to you, but a post-it note
 lies on the console, attached to a rearview monitor.
 
 What do you do?
-
-[Read the post-it note.](english/pluto/readnote/readnote.md)
-[Press random buttons.](english/pluto/pressbuttons/pressbuttons.md)
-[Look at the stars.](english/pluto/stargaze/pressbuttons.md)
