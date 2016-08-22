@@ -137,7 +137,6 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
-
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
@@ -154,5 +153,3 @@ If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
 
 If you understand Tamil, திருநாவுக்கரசர் அருளிய தேவாரம் [இங்கே அழுத்தவும்](Tamil/Thevaram/thevarm.md)
-
-For sanskrit, [स्वागत](sanskrit/basic.md)
