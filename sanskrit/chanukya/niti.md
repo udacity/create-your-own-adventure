@@ -11,4 +11,4 @@ noble people, entire world is family.
 
 No one knows what will happen tomorrow. So, wise people do today what should be done tommorow.
 
-For more, Click [here](chanakya.brainhungry.com/)
+For more, Click [here](http://chanakya.brainhungry.com/)
