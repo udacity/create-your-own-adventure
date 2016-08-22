@@ -5,7 +5,7 @@ Indonesia, saya lahir pada tanggal 18 April 1997.
 Saat tulisan ini dibuat, saya sedang menempuh pendidikan S1 Teknik Informatika
 di Amikom Yogyakarta. 
 
-Ketika tulisan ini dibuat (22 Agustus 2016) Saya baru saja menyelesaikan
+Ketika tulisan ini dibuat, Saya baru saja menyelesaikan
 kursus "How To Use Git and GitHub" oleh udacity.
 
 
