@@ -137,8 +137,6 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
-For sanskrit, [स्वागत](sanskrit/basic.md)
-
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
