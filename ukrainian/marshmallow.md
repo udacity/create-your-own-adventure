@@ -30,7 +30,7 @@
 
 І, так, я теж не розумію, для чого мотузка, але в голову лізуть підозрілі думки!
 
-[Look around](look-around/look-around.md)
+[Подивлюсь навколо](look-around/look-around.md)
 
 [Спробую прорізати вікнo ножем](knife/knife.md)
 
