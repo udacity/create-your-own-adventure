@@ -16,6 +16,8 @@ If you understand Tamil, தமிழ் வணக்கம் [இங்கே 
 
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
+For sanskrit, [स्वागत](sanskrit/basic.md)
+
 यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।](nepali/about_nepal.md)
 
 If you speak the language of love, [kiss here](love/love.md)
