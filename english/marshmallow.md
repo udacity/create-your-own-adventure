@@ -263,6 +263,8 @@ Startled, you immediately whirl around to see who (or what) touched you...but th
 
 You hear a strange noise then turn and see a large, wooden door.
 
+Was the noise [real](./real-life/real-life.md)? Did it [sound familiar](./sounds-familiar/sounds-familiar.md)?
+
 You turn for a third time and see a small, metal door.
 
 You knock, hear nothing and decide to [enter](./strange-room/room.md).
