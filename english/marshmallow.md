@@ -1083,3 +1083,5 @@ that one central question... will you? or will you not?
 You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
 
 Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the meaning of life is.
+
+so lazy [here](lazy/lazy.md)
