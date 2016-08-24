@@ -1,3 +1,5 @@
+You immediately jump up and run out the nearest exit!
+
 You immediately jump up and run out the nearest [exit](../new-exit/new-exit.md)!
 
 You find that a mysterious pool has formed right outside the door and with a splash
