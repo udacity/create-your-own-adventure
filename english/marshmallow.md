@@ -166,6 +166,8 @@ Or is this just [fantasy](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)?
 Maybe it's a dream within a dream? Maybe dreaming and reality are one and the
 same. Maybe reality is an oxymoron when considering multiple dimensions.
 
+Maybe you're in [Inception](inception/inception.md).
+
 But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger. Oh No!
