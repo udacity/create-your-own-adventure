@@ -1,4 +1,4 @@
-﻿En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
+En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
