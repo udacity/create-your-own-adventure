@@ -9,7 +9,7 @@ you hesitate whether you should use the soap or only hand-wash with tap water. W
 
 
 
-[Soap](right/soap/soap.md)
+[Soap](english/eat-rainbows/soap/soap.md)
 
 
-[hand-wash](right/hand-wash/hand-wash.md)
+[hand-wash](english/eat-rainbows/hand-wash/hand-wash.md)
