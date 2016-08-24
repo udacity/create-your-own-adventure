@@ -12,4 +12,4 @@ you hesitate whether you should use the soap or only hand-wash with tap water. W
 [Soap](../english/eat-rainbows/soap/soap.md)
 
 
-[hand-wash](../english/eat-rainbows/hand-wash/hand-wash.md)
+[Hand-wash](../english/eat-rainbows/hand-wash/hand-wash.md)
