@@ -3,6 +3,7 @@ república cuando empezaron a sonar trompetas que indicaban la llegada del ejerc
 el Consejero:
 
 Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
+(Zipi es el rubio)
 
 Hizo un gesto de [cansancio](cansancio/cansancio.md)
 
