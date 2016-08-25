@@ -10,3 +10,4 @@ Ihr könnt hier nichts ausrichten oder weiteres erfahren was euch beim Problem m
 -----------------------------------------------------------------------------------------------------------------------
 
 [Zurück zum Steg](../dorf.md)
+[Jarl: Den Kriegern erklären, dass Ihr ein Heiler seid und dem Jarl helfen wollt](Jarl/jarl_heilen.md)
