@@ -8,7 +8,7 @@ Ihr erklärt Ihm, dass Ihr ein Heiler seid und reicht Ihm ein Heilmittel für Ka
 
 Der Jarl schaut die Phiole mit dem Heilmittel prüfend an und sagt anschließend, dass er das Heilmittel nicht einnehmen wird, da er befürchtet vergiftet zu werden. 
 
-Ihr sollt Ihm beweisen, dass das Heilmittel ungefährlich ist. Er würde euch bei Erfolg üppig entlohnen.
+Ihr sollt Ihm beweisen, dass das Heilmittel ungefährlich ist. Bei Erfolg würde er euch bei eurem Problem mit dem Ruderboot helfen können.
 
 -----------------------------------------------------------------------------------------------------------------------
 
