@@ -12,4 +12,4 @@ Ihr sollt Ihm beweisen, dass das Heilmittel ungefährlich ist. Bei Erfolg würde
 
 -----------------------------------------------------------------------------------------------------------------------
 
-[Dorf: Euch fällt kein Beweis ein. Zurück zum Steg.](create-your-own-adventure/blob/dorf_jarlHeilen/german/Dorf/dorf.md)
+[Dorf: Euch fällt kein Beweis ein. Zurück zum Steg.](../../dorf.md)
