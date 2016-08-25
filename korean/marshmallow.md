@@ -47,3 +47,5 @@
 [공부를 한다](study/study.md)
 
 [화장실에 간다] (restroom/restroom.md)
+
+[인스타그램에 인증샷을 올린다] (instagram/insta.md)
