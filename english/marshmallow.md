@@ -1087,3 +1087,5 @@ You take the time to contemplate the [nature of identity](nature-of-identity/nat
 Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the meaning of life is.
 
 so lazy [here](lazy/lazy.md)
+
+Click [here](walrus/walrus.md)
