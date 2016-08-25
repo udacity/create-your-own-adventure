@@ -7,4 +7,5 @@ Er drückt Ihnen einen Stein in die Hand und sagt "Hier mein Junge, bring das in
 [Ihnen ist das alles nicht mehr Geheuer in dieser Hoehle, mit dem Stein in der Hand springen Sie wieder ins Wasser
  und schwimmen aus der Höhle](../../../Korallen.md)
 
-[Dann wachen Sie ploetzlich auf und bemerken, dass Sie ein Franzose/eine Französin sind.](../../../../../french/feu-de-camp.md)
+[Dann wachen Sie ploetzlich auf und bemerken,
+dass Sie ein Franzose/eine Französin sind.](../../../../../french/feu-de-camp.md)
