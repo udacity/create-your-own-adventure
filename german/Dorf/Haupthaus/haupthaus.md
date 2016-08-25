@@ -8,4 +8,5 @@ sagt eine der Wachen zu euch.
 -----------------------------------------------------------------------------------------------------------------------
 
 [Zurück zum Steg](../dorf.md)
+
 [Jarl: Den Kriegern erklären, dass Ihr ein Heiler seid und dem Jarl helfen wollt](Jarl/jarl_heilen.md)
