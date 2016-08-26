@@ -63,3 +63,5 @@ BR BR BR Hue hue hue!!!!
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
 
 [Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)
+
+[Iria assistir as Olimpiadas Rio 2016 ...](olimpiadas/olimpiadas-rio-2016.md)
