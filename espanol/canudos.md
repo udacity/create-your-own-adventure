@@ -3,6 +3,7 @@ república cuando empezaron a sonar trompetas que indicaban la llegada del ejerc
 el Consejero:
 
 Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
+(Zipi es el rubio)
 
 Hizo un gesto de [cansancio](cansancio/cansancio.md)
 
@@ -154,3 +155,9 @@ Y llego [Daynerys Targaryen](thrones/daynerys.md)
 
 Recordó algunos crímenes que pesaban sobre él y de la nada perdió el conocimiento(desmayo/desmayo.md)
 
+Revelo que venia del futuro y que le daba dos opciones: 
+- [Morir luchando como sabia que pasaria en el futuro](time/time.md)
+
+- [Seguir sus instrucciones y ganar](time1/time1.md)
+
+[La eleccion](eleccion/eleccion.md)

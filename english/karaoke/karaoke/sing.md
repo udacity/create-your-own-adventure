@@ -16,3 +16,5 @@ Do you:
 [check if she is real](girl-is-real/girl-is-real.md)
 
 [make a sandwich](sandwich/sandwich.md)
+
+[drop the mic and leave the place](drop-mic/drop-the-mic.md)

@@ -7,6 +7,12 @@ you [fall in](../mysterious-pool/mysterious-pool.md)!
 
 You burst out the door and the entire world is in front of you.
 
+It dawns on you the world is your mollusc of choosing. And you don't like shellfish.
+
+Everyone turns to stare at you!
+
+People begin to point fingers and laugh.
+
 You...
 
 [Go back inside](../marshmallow.md) and reclaim your rightful position in mediocrity.

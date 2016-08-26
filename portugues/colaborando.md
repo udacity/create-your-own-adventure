@@ -3,6 +3,10 @@ aplicativo, você detecta um bug.
 
 Você:
 
+[Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
+
+[Chora descontroladamente até que sua fada madrinha aparece e te dá 1 desejo](fada/fada.md)
+
 [Caguei, vou ver um video no xvideos](xvideos/xvideos.md)
 
 [Procura o repositório do aplicativo?](colabora/colaborar.md)
@@ -57,3 +61,5 @@ BR BR BR Hue hue hue!!!!
 [História com um fim muito legal] (historia/fim.md)
 
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
+
+[Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)

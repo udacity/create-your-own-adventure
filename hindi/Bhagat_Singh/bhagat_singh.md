@@ -1,3 +1,6 @@
+Bhagat Singh the Great One.
+[Bhagat Singh The Great](http://freeindia.org/biographies/freedomfighters/bhagathsingh/index.htm).
+
 Bhagat Singh aka Shaheed Bhagat Singh (28 September 1907 – 23 March 1931) was an 
 [Indian](https://simple.wikipedia.org/wiki/India) socialist and a revolutionary. 
 He is considered to be one of the most influential revolutionaries of the 

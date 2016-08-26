@@ -70,6 +70,12 @@ Bineinteles ca o sa bea. Ginel stia ca asta inseamna sa fii mafiot la urma urmei
 
 [Beau tot](Beau/Beau_paharul_pana_la_fund.md)
 
+Apoi ma trezesc chinuit de ganduri stranii. 
+
+[Adevarate framantari filosofice](panda/marmota.md).
+
+Incep sa ma percep la persoana a III-a.
+
 Subit se simtea usor si isi imagina ca zboara - buna [potiunea](potiune_fermecata/potiune.md) asta, gandi el.
 
 Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii

@@ -1,5 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+NGE is [here] (NGE/NGE.md)
+
 [start](mad/mad.md) your journey into world of mad 
 
 or
@@ -164,6 +166,8 @@ Or is this just [fantasy](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)?
 Maybe it's a dream within a dream? Maybe dreaming and reality are one and the
 same. Maybe reality is an oxymoron when considering multiple dimensions.
 
+Maybe you're in [Inception](inception/inception.md).
+
 But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger. Oh No!
@@ -326,6 +330,8 @@ You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
 Do you:
 
+Give up and [start over](marshmallow.md).
+
 [Listen to Tales of the Inexpressable (By Shpongle)](https://www.youtube.com/watch?v=6WTxC8wnXQo)
 
 [Watch the new Star Wars trailer](https://www.youtube.com/watch?v=sGbxmsDFVnE)
@@ -417,6 +423,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 [Quickly run outside and explore?](explore-outside/explore-outside.md)
 
 [Light a fire?](light-fire/fire.md)
+
+[jump in a chocolate pool?](chocopool/choco.md)
 
 [Hungry Kya?](hungry/hungry.md)
 
@@ -1049,6 +1057,10 @@ Perishing in an avalanche of words, in a mundane collection of sentences called 
 
 Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
 
+If you really want to know the answer to the question....
+"What is the answer to Life, the Universe and Everything?" then you
+need some [Deep Thought](doug-adams/deep-thought/deep-thought.md)
+
 Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 
 [Discover](discover-new-genres/discover-new-genres.md) a new genre of music!
@@ -1058,3 +1070,25 @@ Check out [this](showerthoughts/showerthoughts.md) showerthoughts subreddit
 You meet [Rickson Gracie](rickson-armbar/ricksonbyarmbar.md)...
 
 You felt like you're doing too much programming. So you decided to [play Ingress](play-ingress/play-ingress.md)! A game which is not a game...
+
+You decide to quit your job to play [Pokemon Go](pokemon-go/pokemon-go.md) full time.
+
+Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random)!
+
+Learn about Ankesh [here](characters/ankesh.md)
+
+[Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
+
+You realise that the philosphy of life in general boils down to
+that one central question... will you? or will you not?
+[So Will you?](philosophy/questions.md)
+
+You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
+
+Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the meaning of life is.
+
+so lazy [here](lazy/lazy.md)
+
+[Update](android/marshmallow6.0.md) your Smartphone to the Marshmallow 6.0!
+
+Click [here](walrus/walrus.md)
