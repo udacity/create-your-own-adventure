@@ -1088,4 +1088,6 @@ Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the m
 
 so lazy [here](lazy/lazy.md)
 
+[Update](android/marshmallow6.0.md) your Smartphone to the Marshmallow 6.0!
+
 Click [here](walrus/walrus.md)
