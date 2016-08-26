@@ -28,6 +28,8 @@
 
 [Test!](test/test.md)
 
+[Сховаюся в куток та буду плакати](Crying/crying-in-the-corner.md)
+
 І, так, я теж не розумію, для чого мотузка, але в голову лізуть підозрілі думки!
 
 [Look around](look-around/look-around.md)
