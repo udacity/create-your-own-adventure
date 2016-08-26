@@ -1,0 +1,3 @@
+Phew! I finally am over it... Ingress was exhausting...
+
+It was a really really nice game, though.
