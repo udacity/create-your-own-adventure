@@ -63,3 +63,5 @@ BR BR BR Hue hue hue!!!!
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
 
 [Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)
+
+[Crio um novo branch e faço alterações no codigo do aplicativo, realizando commits,e uso o github para obter ajuda] (http://gitref.org/)
