@@ -39,6 +39,8 @@ After having your coffee do you want to:
 
 [Procrastinate?](procrastinate/procrastinate.md)
 
+[Decide you think it might be time to head to Hollywood to become famous?](hollywood/hollywood.md)
+
 .
 
 Coffee creates a great medium for people to have conversations about ideas and visions.
