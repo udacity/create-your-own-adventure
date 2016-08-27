@@ -4,6 +4,11 @@ dckjbkbdckjbskjdbckbf ww
 djlsdbkjbsvdkjbkrjv ekrjberkjdber rekbvekjbre kbe
 kdjsbvkjsbdvjks dweskbqwobqwdlkasnlsanb
 
+DIBRIKKI DIBBI
+SAPATAKALA SATKA
+TAMA TAMALA TAMMA
+DUBI DUBILA DUDDI
+ORRAKKELLO
 
 kalsjdlfj
 aklsdf
