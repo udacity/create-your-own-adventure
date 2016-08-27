@@ -64,4 +64,4 @@ BR BR BR Hue hue hue!!!!
 
 [Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)
 
-[Crio um novo branch e faço alterações no codigo do aplicativo, realizando commits,e uso o github para obter ajuda] (http://gitref.org/)
+[Crio um novo branch,olho o bug e uso o github para obter ajuda] (http://gitref.org/)
