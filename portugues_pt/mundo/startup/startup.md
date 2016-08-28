@@ -1,4 +1,4 @@
-Começava uma nova empresa com o novo produto revolucionário do mercado. 
+Começava uma nova empresa com o novo produto revolucionário do mercado
 A ideia era revolucionária, mas não foi a hora certa para fazê-la! Poucas pessoas
 compraram seu novo produto e sua startup começou a entrar numa grande crise!
 
