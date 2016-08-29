@@ -264,6 +264,7 @@ Something lightly brushes the back of your neck, sending a chill down your spine
 Startled, you immediately whirl around to see who (or what) touched you...but there's no one behind you.
 
 You hear a strange noise then turn and see a large, wooden door.
+Too large, and yet too small, for the frame it rests in. You [walk through the door](./unnatural-door/unnatural-door.md)
 
 You turn for a third time and see a small, metal door.
 
