@@ -1,0 +1,1 @@
+Esse novo desenvolvedor coloca um código malicioso em seu aplicativo e você é responsabilizado por isso. 
