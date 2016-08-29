@@ -265,7 +265,7 @@ Startled, you immediately whirl around to see who (or what) touched you...but th
 
 You hear a strange noise then turn and see a large, wooden door.
 Too large, in fact, and yet too small, for the frame it rests in.
-You [walk through the door](./unnatural-door/unnatural-door.md).
+You [walk through the door](./unnatural_door/unnatural_door.md).
 
 You turn for a third time and see a small, metal door.
 
