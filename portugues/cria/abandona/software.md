@@ -1,1 +1,1 @@
-Vai viver em uma ilha paradisiaca e esquece de tudo.
+Compra um barco e vai viver em uma ilha paradisiaca e esquece de tudo.
