@@ -1,4 +1,4 @@
-"If you want something done right, you have to do it yourself."
-
-Don't trust other people to do important things for you.
-You have to do things yourself to control the quality of the results.
+You arrive in a room too small to contain everything inside.
+Empty cubes made of only obtuse angles, and obsidian pillars that loop back on to themselves, are scattered throughout.
+The sight of the impossible geometries within begins to warp your mind.
+[Escape](../marshmallow.md) to whence you came or remain inside for eternity.
