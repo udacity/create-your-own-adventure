@@ -3,6 +3,8 @@ qualcosa nell'oscurita'.  La luce proveniente dalla stanza e' appena sufficiente
 ad illuminare degli scalini di pietra che discendono chissa' dove. Un lontano
 rumore di macchinari di qualche tipo si sente in lontananza.
 
+Lentamente la curiosita' ha la meglio sulla paura.
+
 Decidi sia meglio trovare una torcia elettrica o una candela prima
 d'avventurarsi.
 
