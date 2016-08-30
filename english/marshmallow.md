@@ -1101,5 +1101,3 @@ so lazy [here](lazy/lazy.md)
 [Update](android/marshmallow6.0.md) your Smartphone to the Marshmallow 6.0!
 
 Click [here](walrus/walrus.md)
-
-[Pam and Jim are the best](pam_and_jim/pam_and_jim.md)
