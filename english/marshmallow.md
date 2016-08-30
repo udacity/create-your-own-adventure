@@ -1102,4 +1102,4 @@ so lazy [here](lazy/lazy.md)
 
 Click [here](walrus/walrus.md)
 
-[Pam and Jim are the best](english/Pam_and_Jim.md)
+[Pam and Jim are the best](english/pam_and_jim/pam_and_jim.md)
