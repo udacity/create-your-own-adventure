@@ -1,1 +1,0 @@
-Pam and Jim are the greatest couple in the history of tv!!
