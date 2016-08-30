@@ -1082,7 +1082,7 @@ You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
 [So Will you?](philosophy/questions.md)
 
-YOu recited [cosmological argument](philosophy/cosmological_argument.md) in the morning in hub. 
+YOu recited [cosmological argument](exists/cosmological_argument.md) in the morning in hub. 
 
 You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
 
