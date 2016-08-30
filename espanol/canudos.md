@@ -160,4 +160,6 @@ Revelo que venia del futuro y que le daba dos opciones:
 
 - [Seguir sus instrucciones y ganar](time1/time1.md)
 
+Indico a sus ayudantes que comenzaran los preparativos para el mayor banquete de la historia del imperio.
+
 [La eleccion](eleccion/eleccion.md)
