@@ -63,5 +63,11 @@ BR BR BR Hue hue hue!!!!
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
 
 [Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)
+<<<<<<< HEAD
 
 [Iria assistir as Olimpiadas Rio 2016 ...](olimpiadas/olimpiadas-rio-2016.md)
+||||||| merged common ancestors
+=======
+
+[Crio um novo branch,olho o bug e uso o github para obter ajuda] (http://gitref.org/)
+>>>>>>> master
