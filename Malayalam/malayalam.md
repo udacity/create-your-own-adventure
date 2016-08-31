@@ -8,5 +8,7 @@
 
 ശശിയുടെ [പ്ലിംഗ്](sasi/pling.md) കഥ
 
-ടിന്റുമോന്റെ ചങ്ങതിആയിരുന്നു [ശശി] (../english/tintumon-mallu/tintu-main.md)
+ടിന്റുമോന്റെ ചങ്ങതിആയിരുന്നു ശശി
+
+[ശശി] (../english/tintumon-mallu/tintu-main.md)
 
