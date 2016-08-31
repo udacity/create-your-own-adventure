@@ -1,2 +1,2 @@
 You know this will not be easy, but the desperate longing for tacos drives you forward.
-"They're here in the kitchen." Your mom's voice [taunts](/advice_from_mother/advice_from_mother.md) you.
+"They're here in the kitchen." Your mom's voice [taunts](../advice_from_mother/advice_from_mother.md) you.
