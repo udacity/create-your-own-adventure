@@ -1092,6 +1092,8 @@ You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
 [So Will you?](philosophy/questions.md)
 
+You recited [cosmological argument](cosmological_argument/cosmological_argument.md) in the morning in hub. 
+
 You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
 
 Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the meaning of life is.
