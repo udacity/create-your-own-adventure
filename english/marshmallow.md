@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+Once upon a time many authors collaborated to make a meaningless, linked story.
 
 NGE is [here] (NGE/NGE.md)
 
@@ -24,6 +24,12 @@ Which way should you go? Only you can decide.
 Oh so many decisions - what will you do??
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
+
+But before you can make it out the door, your stomach grumbles. 
+Your dad's voice echoes in your head, "No adventure should be had on an empty stomach." 
+Your mom's voice answers his, "Thankfully I made you boys tacos!" 
+A lump wells in your throat. You have two options: [tacos](where-have-all-the-tacos-gone/WHATTG.md) 
+or...
 
 Take some [time](meditation/meditation.md) off!
 
