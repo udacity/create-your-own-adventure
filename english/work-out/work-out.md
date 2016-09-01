@@ -9,5 +9,8 @@ Attempt to get super swole by lifting some [weights](weights/weights.md)?
 
 or.... 
 
-have a lot of fun while doing some [worldDanz](https://www.youtube.com/watch?v=0bt_LhpFswg)?!!!
+have a lot of fun while doing some [worldDanz](worldDanz/worldDanz.md)
+
+like [this:](https://www.youtube.com/watch?v=0bt_LhpFswg)?!!!
+
 
