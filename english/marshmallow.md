@@ -81,6 +81,8 @@ Vist the master [liquid](liquid/liquid.md).
 
 Drink some [bear](bear/bear.md)
 
+You observe a red glowing rock. [You decide to touch it] (teleport/teleport.md)
+
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
 and search for your [destiny](destiny/destiny.md).
