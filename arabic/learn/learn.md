@@ -33,6 +33,8 @@ freelancing اشهر مواقع العمل الحر
 
 - [أخرى](whattolearn/other/other.md)
 
+والكورس ده هيساعدك جدا عشان تتعلم بطريقه فعاله:
 
+- [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 
