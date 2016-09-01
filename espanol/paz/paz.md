@@ -1,0 +1,2 @@
+Esquivó la mirada de todos girando los ojos al cielo; encontró paz ahí; sus neuronas más perezosas descansaron acostadas sobre las nubes que desfilaban impulsadas por una leve corriente de aire; las que quedaron al mando tomaron la decisión. 
+Bajó la mirada y todos vieron la determinación en su rostro.
