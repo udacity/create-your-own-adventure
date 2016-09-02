@@ -82,6 +82,8 @@ Maligayang Bati! [Philippines](Philippines/salamat.md)
 
 Εάν μιλάτε ελληνικά, συνεχίστε [εδώ](greek/marshmallow.md)
 
+Άμαν μιλάς κυπριακά, πάτα [δαμέ](cypriot/marshmallow.md).
+
 Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
 
 Hvis du taler dansk, [tryk her](danish/velkommen.md)
