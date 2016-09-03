@@ -11,3 +11,5 @@ You catch yourself smiling, ever so brightly.
 And oh yeah... how could you have forgotten?... life... it's beautiful!
 
 It only makes sense that next, you...
+
+[join the alliance of hip-shaking](../join alliance/dance-randomly.md)
