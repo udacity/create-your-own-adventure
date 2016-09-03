@@ -1,0 +1,3 @@
+As regret of the decision to steal the car begins to turn your stomach the smell of b-b-q fills your nostrils. You realize the smell is emanating from a nearby smokehouse and, forgetting about your pursuer closing in, you make a hard right into the parking lot. Unfortunately the large thing chasing you has no chance to react and runs straight off the cliff only inches from the precarious entrance to the smokehouse parking lot.
+
+You order a salad and your appetite is satiated.
