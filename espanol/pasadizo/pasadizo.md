@@ -9,3 +9,5 @@ de dolor. Apremiados por la situación, decidieron:
 [Cruzar la plaza, despistando al enemigo acercándose a él](plaza/plaza.md)
 
 [Seguir bajando hasta el sótano de la torre](sotano/sotano.md)
+
+[Celebrar sin importar la situación](zapopeta/zapopeta.md)
