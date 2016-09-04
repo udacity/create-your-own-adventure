@@ -6,4 +6,4 @@ quelque chose saisit votre cheville…
 
 [Demander à Google](../../../google/google.md) quelle est cette chose étrange !
 
-[Courir pour s'éloigner le plus vite possible](courir/courir.md)
+[Courir](courir/courir.md) pour vous éloigner le plus vite possible !
