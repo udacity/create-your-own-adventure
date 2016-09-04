@@ -11,3 +11,5 @@ To be alive or not or both is your choice.
 So [open the box](dead-or-alive/dead-or-alive.md).
 
 Or, [weld the box shut](undead/undead.md) and become an immortal undead.
+
+You see that the cat is dead and try to revive it by [measuring it](revive-cat.md)
