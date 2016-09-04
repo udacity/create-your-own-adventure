@@ -23,4 +23,3 @@ TPM - You are very hard user to please! But just so you know, all the certificat
 Note that this is a simplified model and in reality the chains of trust have more hierarchies.
 
 So in summary, the TPM EK certificate aims to provide certainty that the particular TPM to which it belongs is indeed a TPM that was manufactured by specific company and is not forged.
-Poste
