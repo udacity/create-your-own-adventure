@@ -5,3 +5,5 @@ quelque chose saisit votre cheville…
 [Frapper](frapper-la-chose/frapper-la-chose.md) cette chose qui vous tracasse.
 
 [Demander à Google](../../../google/google.md) quelle est cette chose étrange !
+
+[Courir](courir/courir.md) pour vous éloigner le plus vite possible !
