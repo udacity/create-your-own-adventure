@@ -1,0 +1,1 @@
+The sun is bright and the environment is unusually calm.  I like it.  I think I'll take a run outside.
