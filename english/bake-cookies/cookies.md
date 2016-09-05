@@ -13,6 +13,8 @@ Do you:
 
 [Sing a song?](../sing-song/sing.md)
 
+pancake
+
 [Make coffee first?](../coffee/coffee.md)
 
 [Breathe?](../yoga/breathe/breathe.md)
