@@ -10,6 +10,6 @@ like professional athletes do. Then you can connect to your positive goal, state
 or less. After that connect to your resources: pleasurable memories, symbols or people who
 mean a lot for you.
 
-Just allow the flow of generative process to happen.
+Just allow the flow of generative process to happen, and feel the change within you and around you. Good Luck!
 
 [Learn more about generative states of consciousness](http://stephengilligan.com)
