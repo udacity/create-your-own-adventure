@@ -1105,3 +1105,6 @@ so lazy [here](lazy/lazy.md)
 Click [here](walrus/walrus.md)
 
 Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+
+Hmm, but laziness prevents you from learning about stacks of any kind today. You decide to 
+[exercise](exercise-more/run.md) instead.
