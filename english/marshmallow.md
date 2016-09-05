@@ -1105,3 +1105,5 @@ so lazy [here](lazy/lazy.md)
 Click [here](walrus/walrus.md)
 
 Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+
+Click [here](https://i.ytimg.com/vi/W-PBFMECvTE/maxresdefault.jpg) if you’re having a bad day.
