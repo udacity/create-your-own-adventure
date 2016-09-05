@@ -5,6 +5,13 @@ back and you realize that he doesn't like your singing.
 
 Am I singing out of tune again? you ask yourself.
 
+Then you realize... It's this Taylor Swift BS that's the problem, you belt out;
+Bacon pancakes, makin' bacon pancakes,
+Take some bacon and I'll put it in a pancake,
+Bacon pancakes, that's what it's gonna make,
+Bacon pancaaake!
+And save the day!
+
 [Do you continue to sing?](continue/continue-to-sing.md)
 
 [Do you change your song to please the marshmallow monster?](something-else/sing-something-else.md)
