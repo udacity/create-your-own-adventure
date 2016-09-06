@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+If you understand Myanmar/Burmese/မြန်မာစာ [Click Here](Myanmar/HaveFun.md)
+
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
 Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
