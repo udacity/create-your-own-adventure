@@ -25,3 +25,5 @@ Nach dem Festmachen gehen sie zu/zum/zur:
 [Tempel: Ein mystisch aussehendes Grundstück](Tempel/tempel.md)
 
 [Werft: Ein Handwerksgebäude am Wasser mit einer Art Ablaufbahn](Werft/werft.md)
+
+[Freudenhaus: Ein belebtes Gebäude, dort werden sie bestimmt jemanden finden, der ihnen helfen kann](Freudenhaus/freudenhaus.md)
