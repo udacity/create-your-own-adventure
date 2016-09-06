@@ -8,3 +8,5 @@
 [ソフトドリンクに変更する](../softdrink/softdrink.md)
 
 [新年の抱負を語る](../newyear/newyear.md)
+
+[少しビールを待ってみる](../beer2/beer2.md)
