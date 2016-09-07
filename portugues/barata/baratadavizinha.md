@@ -15,6 +15,6 @@ a barata da vizinha está na minha cama.
 
 [Diz aí Alexandre o que "cê" vai fazer:](Alexandre/alexandre.md)
 
-[Diz aí Miccieli o que "cê" vai fazer:](Micciei/miccieli.md)
+[Diz aí Miccieli o que "cê" vai fazer:](Miccieli/miccieli.md)
 
 E vc? O que "cê" vai fazer?
