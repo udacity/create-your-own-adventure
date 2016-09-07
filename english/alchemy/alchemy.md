@@ -8,6 +8,7 @@ from inside. After placing the mold in front of your feet, you carefully pour th
 metal into the mold.
 
 Time passes, and the coin solidifies as it cools.
+This is a sentence that I added.
 
 You gain 1 gold coin.
 
@@ -33,6 +34,8 @@ You slip the ring over your finger and ...
 [you close you eyes and recite Buzz Lightyear's "To infinity and beyond!"](../my-story/my-story.md)
 
 [quickly decide to take the ring off and try using its unknown powers later](../android-v6/use-android-v6.md)
+
+[added a new source point](../amnesia/amnesia.md)
 
 [Congratulations!](../marshmallow.md)
 
