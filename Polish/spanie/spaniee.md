@@ -4,4 +4,4 @@ Co robisz?
 
 [Start](../ptasieMleczko.md)
 
-[Idziesz dalej spać](./spanie-ponowne/spanie-ponowne.md)
+[Idziesz dalej spać](./spanie-ponownie/spanie-ponownie.md)
