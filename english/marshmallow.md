@@ -1105,3 +1105,5 @@ so lazy [here](lazy/lazy.md)
 Click [here](walrus/walrus.md)
 
 Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+
+I bet I can read [your mind](fork-yes/fork-yes.md) as you're nearing the end of this course...
