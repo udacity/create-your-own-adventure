@@ -5,3 +5,5 @@ O ladrão chega com a arma apontando no seu peito e fala "vou te roubei". O que 
 [Peço licença, tiro a ropa, me cubro de margarina e farinha e me jogo na frigideira](panqueca/panqueca.md)
 
 [Ele já te roubou](gg/gg.md)
+
+[I don`t speako brazileiro!!](gringo/wat.md)
