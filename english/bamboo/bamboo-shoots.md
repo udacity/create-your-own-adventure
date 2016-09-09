@@ -9,3 +9,4 @@ You don't know what to do.The pandas continue to walk towards you.
 
 You begin retreating slowly.Suddenly,one of the pandas speed up.
 
+You trip over a bamboo shoot and realize that pandas are vegetarian.
