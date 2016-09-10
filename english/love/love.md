@@ -47,3 +47,5 @@ Our hearts, always as one.
 - Anthony Kolos - 
 
 God is love.
+
+I recommend a book called 'the rules of love' by Richard Templar
