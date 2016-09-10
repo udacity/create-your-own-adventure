@@ -4,4 +4,4 @@ Do you:
 
 Ask the bear, ["What's wrong buddy?"](https://youtu.be/WIXGUzRo3H0)
 
-[Instant Transmission back to earth](english/Enter-a-dim-reality/Dim_reality.md)
+[Instant Transmission back to earth](create-your-own-adventure/english/you-are-in-minecraft/minecraft.md)
