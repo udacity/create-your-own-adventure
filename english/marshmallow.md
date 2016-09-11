@@ -1,5 +1,8 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+You don't need to make a choice - between the red pill or the blue pill - just look around you:
+you're already part of the machine.
+
 NGE is [here] (NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
