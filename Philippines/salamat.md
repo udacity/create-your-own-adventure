@@ -15,3 +15,5 @@ Ngayon ay ating sundan ang mga kaganapan sa Pilipinas.
 Kamakailan ay nanalong Presidente si [Duterte] (duterte/duterte.md).
 
 O kung gusto mo namang kumain, tara [kain] (kain/kain.md) tayo !
+
+Du-aw kamo mga higala sa maanyag nga [Sugbu](cebu/sugbu.md)!
