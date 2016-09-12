@@ -1,8 +1,8 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+Once upon a time many authors collaborated to make a meaningless linked story.
 
 NGE is [here] (NGE/NGE.md)
 
-[start](mad/mad.md) your journey into world of mad 
+[start](mad/mad.md) your journey into the world of mad 
 
 or
 
@@ -27,7 +27,7 @@ You decide to drop everything you're doing and [run out the door](run_out_the_do
 
 Take some [time](meditation/meditation.md) off!
 
-Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
+Life is full of twists and turns but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
 Who is better?
 
@@ -1092,15 +1092,15 @@ You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
 [So Will you?](philosophy/questions.md)
 
-You recited [cosmological argument](cosmological_argument/cosmological_argument.md) in the morning in hub. 
+You recited [cosmological argument](cosmological_argument/cosmological_argument.md) in the morning in the tub. 
 
 You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
 
 Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the meaning of life is.
 
-so lazy [here](lazy/lazy.md)
+If you are feeling lazy, click [here](lazy/lazy.md)
 
-[Update](android/marshmallow6.0.md) your Smartphone to the Marshmallow 6.0!
+[Update](android/marshmallow6.0.md) your Smartphone to Marshmallow 6.0!
 
 Click [here](walrus/walrus.md)
 

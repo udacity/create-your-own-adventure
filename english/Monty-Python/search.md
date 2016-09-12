@@ -10,4 +10,4 @@ Chop off his limbs
 
 [Run into the Knights who say "Ni!"](https://www.youtube.com/watch?v=zIV4poUZAQo)
 
-Go off to find a nice shrubbery
+Go off to find some nice shrubbery.
