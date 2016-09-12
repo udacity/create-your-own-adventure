@@ -1,0 +1,1 @@
+A funny but scary [movie](http://www.imdb.com/title/tt0387808/)
