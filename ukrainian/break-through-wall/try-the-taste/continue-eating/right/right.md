@@ -2,4 +2,4 @@
 
 [Зачекати або обрати іншу стіну](../continue-eating.md)
 
-[Обмазавши обличчя зефіром, з криком пробити стіну](../break-through-right-wall.md)
+[Обмазавши обличчя зефіром, з криком пробити стіну](break-through-right-wall/break-through-right-wall.md)
