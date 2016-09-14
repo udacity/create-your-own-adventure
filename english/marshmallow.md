@@ -4,7 +4,7 @@ NGE is [here] (NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
 
-[by hopping over to the multi-coloured cow](cow.md)
+[by hopping over to the multi-coloured cow](cow/cow.md)
 
 or
 
