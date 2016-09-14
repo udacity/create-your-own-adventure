@@ -65,3 +65,5 @@ BR BR BR Hue hue hue!!!!
 [Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)
 
 [Crio um novo branch,olho o bug e uso o github para obter ajuda] (http://gitref.org/)
+
+[No dia em que sai de casa minha mãe me disse:] (sai/saidecasa.md)
