@@ -12,4 +12,4 @@ You still need a shelter though.  The ground is muddy and full of vermin.
 
 [You decide to make a shelter out of your parachute.](../../shelter/shelter.md)
 
-
+[or you decide to make a fire first](../../fire/fire.md)
