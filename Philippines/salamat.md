@@ -15,3 +15,5 @@ Ngayon ay ating sundan ang mga kaganapan sa Pilipinas.
 Kamakailan ay nanalong Presidente si [Duterte] (duterte/duterte.md).
 
 O kung gusto mo namang kumain, tara [kain] (kain/kain.md) tayo !
+
+"Ay pucha", ang sabi ni digong kay obama [pucha] (pucha/pucha.md)!
