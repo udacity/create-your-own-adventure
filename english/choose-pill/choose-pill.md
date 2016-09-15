@@ -11,3 +11,5 @@ You take the red pill—you stay in Wonderland, and I show you how deep the rabb
 One last option is you take both pills and whichever is more potent wins. (not recommended)
 
 The last last option is to bite off half of the pill and see what is inside.
+
+You may think you have a choice here, but the truth is you have already made the choice and you are just here to understand why you made that choice!
