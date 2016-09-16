@@ -7,3 +7,5 @@ One night, after quitting your job, you are dreaming of
 
 After all your travels you only managed to catch Ratata. It turns out the rarest
 Pokemon where in your city all along.
+
+You buy a [Pokemon Go Plus](http://www.pokemongo.com/en-us/pokemon-go-plus/), and wander the streets with a glowing, vibrating device on your wrists. 
