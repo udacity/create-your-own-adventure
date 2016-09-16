@@ -4,8 +4,12 @@
 
 ...or on the second thought, I'll put on a coat, stop being a sissy, and get to work!
 
+And if I have spare time, I'll walk the Freedom Trail.
+
 [Go on vacation](../licked-cat/vacation.md)
 
 [Get to work](../gtd/gtd.md)
 
 [Go back to sleep](../go-back-to-sleep/go-back-to-sleep.md)
+
+[Walk the Freedom Trail](http://www.thefreedomtrail.org/)
