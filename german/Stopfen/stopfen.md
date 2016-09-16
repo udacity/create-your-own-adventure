@@ -16,3 +16,5 @@ Was machen Sie nun?
 [Die Stille geniessen und nachdenken](entspannen/entspannen.md)
 
 [Ruhig durchatmen und überlegen](ueberlegen/ueberlegen.md)
+
+[Beginnen mit den Händen zu paddeln](paddeln/paddeln.md)
