@@ -1,0 +1,1 @@
+You close the door quickly, hoping the man didn't see you, grab a coat, and rush to a window in the back of your house. Looking out, you see that the man's henchmen are already in your backyard and you won't be able to escape. You resign yourself to getting caught, decide to make tea, and put a kettle on to boil. 
