@@ -6,3 +6,5 @@ end
 [他讲的什么？](./OldStory/Story.md)
 
 [我不想听，继续往前走。](./Walk/Walk.md)
+
+[房奴们,请点击~](../HousePrice.md)
