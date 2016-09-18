@@ -1,0 +1,1 @@
+Az ötös számú lézerlótusz megjelenik. Mit teszel?
