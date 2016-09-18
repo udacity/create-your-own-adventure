@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
 
 NGE is [here] (NGE/NGE.md)
 
@@ -1100,8 +1100,8 @@ Click [here](https://www.youtube.com/watch?v=aboZctrHfK8) to find out what the m
 
 so lazy [here](lazy/lazy.md)
 
-[Update](android/marshmallow6.0.md) your Smartphone to the Marshmallow 6.0!
+[Update](android/marshmallow6.0.md) your Smart to the Marshmallow 6.0!
 
 Click [here](walrus/walrus.md)
 
-Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+Sometimes it is fun to make a [fool](fool/fool.md) of myself. 
