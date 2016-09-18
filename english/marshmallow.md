@@ -1104,6 +1104,4 @@ so lazy [here](lazy/lazy.md)
 
 Click [here](walrus/walrus.md)
 
-Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
-
 Sometimes it is fun to make a [fool](fool/fool.md) of myself. 
