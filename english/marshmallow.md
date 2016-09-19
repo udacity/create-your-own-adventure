@@ -1105,3 +1105,5 @@ so lazy [here](lazy/lazy.md)
 Click [here](walrus/walrus.md)
 
 Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+
+Learn about notable December 15th birthdays by clicking on the wiki link in [here](dec15/dec15.md).
