@@ -10,4 +10,4 @@ A.C.: Esci, esci - meglio cosi!
 Io: Ma mister, sembra ci siano
 [belle ragazze](http://giphy.com/gifs/dancing-dance-SioZIrQsuN36E)...
 
-A.C.: ... [clicca qui va'...](http://giphy.com/gifs/sporzaredactie-euro2016-italia-sporza-l41YiaHYCcSwrZGBq)
+A.C.: Agghiacciande! [clicca qui va'...](http://giphy.com/gifs/sporzaredactie-euro2016-italia-sporza-l41YiaHYCcSwrZGBq)
