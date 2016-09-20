@@ -2,7 +2,7 @@ Once upon a time many authors collaborated to make meaningless linked story.
 
 NGE is [here] (NGE/NGE.md)
 
-This is the Internet as a Story, to skip it press [skip] (../english)
+This is the Internet as a Story, to skip it press [skip] (../english/marshmallow.md)
 
 [start](mad/mad.md) your journey into world of mad 
 
