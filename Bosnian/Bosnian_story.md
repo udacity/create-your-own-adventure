@@ -47,6 +47,6 @@ Djevu idem traziti
 crnom dolinom
 mrske ljude poraziti
 
-Težak ovaj Gročin. Ima li šta veselo? Klikni [ovdje](dva-jarana-jednu-ženu-vole/dva-jarana.md)
+Težak ovaj Gročin. Ima li šta veselo? Klikni [ovdje](dva_jarana/dva_jarana.md)
 
 Click [here](http://www.spiritofbosnia.org/volume-2-no-3-2007-july/gorcin/) for English version
