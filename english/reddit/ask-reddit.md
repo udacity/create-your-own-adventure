@@ -21,3 +21,7 @@ Consider unsubscribing from r/awww...
 And that, my friends, is how I spent the last week.
 
 But finally i stumbled upon [r/outside](outside_subreddit/r_outside.md) 
+
+I then realized that I never had to go outside again as long as this subreddit was alive
+
+it was even better than the real outside
