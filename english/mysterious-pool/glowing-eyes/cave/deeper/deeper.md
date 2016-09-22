@@ -1,0 +1,2 @@
+You swim as quickly as you can into the blackness. You begin to feel the water get cooler and then suddenly
+swim headlong into the side of the cave. Ooof! You find yourself stunned now, and still surrounded by inky blackness.
