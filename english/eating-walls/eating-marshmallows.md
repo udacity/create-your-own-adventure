@@ -16,6 +16,8 @@ Then you remember the matches in your pocket.
 
 Do you:
 
+[Reach into your pocket to light a fire with your matches](light-a-fire/light-fire.md)
+
 [Search your pockets for a piece of chocolate?](../search_for_chocolate/search_for_chocolate.md)
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
