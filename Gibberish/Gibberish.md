@@ -13,3 +13,6 @@ alksdjfö
 jibber jobber joober, gibberish is for goobers.
 kdnavna knakdn knakdn ind faondf alkd fadk
 blkajd asdglkjdsFH A SGLKAHSJD S sdflhjgaj dat goober.
+
+
+[nnan ANk 13 ncjaknweja?](Gibberish/eat13.md)
