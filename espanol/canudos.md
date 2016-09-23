@@ -163,3 +163,5 @@ Revelo que venia del futuro y que le daba dos opciones:
 Indico a sus ayudantes que comenzaran los preparativos para el mayor banquete de la historia del imperio.
 
 [La eleccion](eleccion/eleccion.md)
+
+nuevamente la discordia llego  al [ejercito](ejercito/ejercito.md)
