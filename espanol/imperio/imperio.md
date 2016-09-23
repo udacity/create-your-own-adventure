@@ -1,0 +1,1 @@
+El imperio reinante durante varios siglos y que habia sido gobernado por solo 2 familias, las cuales habian creado todo tipo de leyes para mantener al pueblo sometido. 
