@@ -9,3 +9,6 @@ while seeking that degree in Lego Engineering.
 You realize Lego Engineering may not have been the best choice in majors...
 But first, let me take a selfie.
 That's so ratchet..
+After the battle, legend has it that the Greek messenger Pheidippides ran from the battlefield at Marathon 
+to Athens in order to relay news of the victory. He only said, “We were victorious!” and collapsed and died 
+from exhaustion.
