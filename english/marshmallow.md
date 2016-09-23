@@ -23,6 +23,7 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
+you decide to [jump out through the window](jump_out_the_window/jump_out_the_window.md)!
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
 Take some [time](meditation/meditation.md) off!
