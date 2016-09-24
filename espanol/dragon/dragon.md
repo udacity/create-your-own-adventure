@@ -1,5 +1,5 @@
-Para iniciar la batalla, tenía que conseguir un medio de transporte.
-Y este medio de transporte sería el Dragón Earhart, que compró al más famoso
+Para iniciar la batalla, tenía que conseguir un medio de transporte adecuado.
+Y este medio de transporte adecuado sería el Dragón Earhart de Valyria, que compró al más famoso
 vendedor de dragones del pueblo.
 
                        .     _///_,
@@ -22,6 +22,8 @@ vendedor de dragones del pueblo.
 
 									   
 Pero no sabía controlar al dragón, así que decidió:
+
+[Enviar a Valyria] (valyria/valirya.md)
 
 [matarlo](muerte-dragon/muerte-dragon.md)
 
