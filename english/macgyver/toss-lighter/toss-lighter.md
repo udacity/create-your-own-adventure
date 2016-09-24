@@ -10,3 +10,5 @@ Do you:
 [Run full sprint into the new room](Sprint/Sprint.md)
 
 [Play dead](Dead/Play_dead.md)
+
+[Grab a bite of lightly browned marshmallow at the edge of the wall](yum/yum.md)
