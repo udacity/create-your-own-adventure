@@ -1,28 +1,6 @@
 Once upon a time many authors collaborated to make a meaningless linked story.
-What do you do?
-
-NGE is [here] (NGE/NGE.md)
-
-[Start](mad/mad.md) your journey into world of mad
-
-or
-
-spend your time [wisely](http://www.pythonchallenge.com/)
-
-[Click here](http://www.dvloper.me) to visit my dvloper.me blog .
-
-Are you a:
-
-[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0)
-
-or a
-
-[dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
-
 Your adventure begins. You realize there are hundreds of paths for you to choose from.
-Which way should you go? Only you can decide.
-
-Oh so many decisions - what will you do??
+Which way should you go? What will you do? Only you can decide.
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
