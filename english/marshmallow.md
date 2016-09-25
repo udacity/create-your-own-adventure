@@ -1,8 +1,9 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+Once upon a time many authors collaborated to make a meaningless linked story.
+What do you do?
 
 NGE is [here] (NGE/NGE.md)
 
-[start](mad/mad.md) your journey into world of mad 
+[Start](mad/mad.md) your journey into world of mad
 
 or
 
@@ -12,14 +13,14 @@ spend your time [wisely](http://www.pythonchallenge.com/)
 
 Are you a:
 
-[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) 
+[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0)
 
-or a 
+or a
 
 [dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
 
-Your adventure begins. You realize there are hundreds of paths for you to choose from. 
-Which way should you go? Only you can decide. 
+Your adventure begins. You realize there are hundreds of paths for you to choose from.
+Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
@@ -73,9 +74,9 @@ DOING will definitely keep your sharpened with latest skills (which you can get 
 
 [Know about the life of this world](00-Life-of-this-world/Life of this world.md)
 
-This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down 
+This is a story to look for your own, to [fight your way out of this](fight-out/fight-out.md) or to calm down
 
-Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md) 
+Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md)
 
 Vist the master [liquid](liquid/liquid.md).
 
@@ -821,7 +822,7 @@ When I code over my weekend, I feel that this becomes my [whole life](code-my-li
 
 Suddenly you feel a strong craving for [something.](craving/craving.md)
 
-Despite the little conundrum that you resolved, you realize that it's now 
+Despite the little conundrum that you resolved, you realize that it's now
 Friday, December 4th.  
 
 "Wait a minute", you gasped, "The English Premier League is on tomorrow!!"
@@ -843,9 +844,9 @@ I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/s
 
 "I dont't know! Why should I care?" replied Donald Trump.
 
-When faced with a lot of work and impending deadlines 
+When faced with a lot of work and impending deadlines
 in the (not so near) future,
-there are two options you must choose from. 
+there are two options you must choose from.
 
 You may either do [this](gtd/gtd.md),
 
@@ -857,12 +858,12 @@ You may either do [this](gtd/gtd.md),
 
 [Get Crazy!](crazy/crazy.md)
 
-"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim 
+"I should completely ignore all of the above boring messages and move to the greatest city on earth!" I exclaim
 [move to Boston](boston/boston.md)."
 
 Wait a second, I actually meant to say that [Camelot](camelot/camelot.md) is where I really want to go!
 
-"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
+"Who will you [serve] (joshua_24_15/joshua_24_15.md)?"
 
 Yourself?
 
@@ -878,7 +879,7 @@ You decide that $1.5 billion is too much to pass up, so you buy a [Powerball tic
 
 What is [Bayes' theorem](BayesTheorem/BayesTheorem.md)?
 
-The divergence is coming, [survive](divergence/divergence.md) or perish? 
+The divergence is coming, [survive](divergence/divergence.md) or perish?
 
 [Hear a roaring sound in the distance](https://youtu.be/d-sALU_hveA?t=33s)
 
@@ -935,7 +936,7 @@ Do you want to build a [snowman?] (snowman/snowman.md)
 
 It doesn't have [to be a snowman](to-be-a-snowman/to-be-a-snowman.md)
 
-I think I'll try defying gravity. 
+I think I'll try defying gravity.
 
 Do you know [Indonesian Culture?](https://en.wikipedia.org/wiki/Culture_of_Indonesia)
 
@@ -963,7 +964,7 @@ Explore the unknown. Most people die without ever visiting this [place.](underwa
 
 As you attempt this, a voice booms!!
 
-The [boom](day-dream/day-dream.md) 
+The [boom](day-dream/day-dream.md)
 
 Is it really? You see what appears to be a tunnel, a tunnel leading into the [unknown](dimensions/dimension.md)
 
@@ -975,7 +976,7 @@ You feel woozy, [you take a nap](thunder-carrots/thunder-carrots.md).
 
 You decide to go scuba diving and see a [great submarine](submarine/greatDeep.md).
 
-So what to do next? Three doors appear and all other ways out disappear. 
+So what to do next? Three doors appear and all other ways out disappear.
 So you pick the [right door](mysterydoor/mysterydoor.md)
 
 You put your [cowboy hat](cowboy/cowboy.md) back on your head.
@@ -1017,7 +1018,7 @@ The lannisters always pays thier debts, says tyrion lannister. Interesting [char
 
 Time to [move to Canada](Canada/Canada.md), eh?
 
-You struggle to find a line break to add your own adventure. 
+You struggle to find a line break to add your own adventure.
 You also want to undo the Brexit result. [You try CTRL-Z...](great-tasmanian-adventure/great-tasmanian-adventure.md)
 
 
@@ -1028,7 +1029,7 @@ You're reincarnated as a green starfish but wish you were [blue instead.](starfi
 
 [Motivate yourself](Motivate/Motivate.md)
 
-You wake up as Harry Potter ... and are facing Voldemort in a duel? 
+You wake up as Harry Potter ... and are facing Voldemort in a duel?
 What should you [do](magicaladventure/decision_time/decision_time.md)
 
 My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
@@ -1062,7 +1063,7 @@ The password is [xyzzy](plugh/plugh.md)
 
 [Say "Hi" to Guangwu](Guangwu/Guangwu.md)
 
-Perishing in an avalanche of words, in a mundane collection of sentences called "stories". 
+Perishing in an avalanche of words, in a mundane collection of sentences called "stories".
 [Devastated?](devastated_greatness/devastated_greatness.md)
 
 Ever the fan of [Doug Adams](doug-adams/doug-adams.md).
@@ -1092,7 +1093,7 @@ You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
 [So Will you?](philosophy/questions.md)
 
-You recited [cosmological argument](cosmological_argument/cosmological_argument.md) in the morning in hub. 
+You recited [cosmological argument](cosmological_argument/cosmological_argument.md) in the morning in hub.
 
 You take the time to contemplate the [nature of identity](nature-of-identity/nature-of-identity.md).
 
