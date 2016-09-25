@@ -1105,3 +1105,5 @@ so lazy [here](lazy/lazy.md)
 Click [here](walrus/walrus.md)
 
 Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+
+Will you take the [red pill or the blue pill](http://www.edadrian.com/wp-content/uploads/2016/07/morpheus-red-pill-vs-blue-pill.jpg)?
