@@ -6,4 +6,4 @@ Du märker att du har börjat tänker på engelska. Din svenska försvinner.
 
 Why is this happening to me .....
 
-[Du blunda och huvudet träffar kudden.](../../english/marshmallow.md)
+[Du blundar och huvudet träffar kudden.](../../english/marshmallow.md)
