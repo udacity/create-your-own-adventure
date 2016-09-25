@@ -4,5 +4,5 @@ What do you serve to your guests at this party to end all parties?
 
 [Hot fruit](../madness/cthulhu.md) (Hey, isn't the the bowl you mixed the glint in?)
 
-[Seared salmon encrusted with toasted almonds], cut up into bite-sized squares
+[Seared salmon encrusted with toasted almonds](food/salmon.md), cut up into bite-sized squares
 and served over ciabatta melba toasts
