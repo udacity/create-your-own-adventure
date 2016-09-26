@@ -257,6 +257,8 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 
 You see a polar bear searching for food.
 
+I see that you may be from the North. [How's it going?](./north/north.md)
+
 [A Shotgun appears!](./shotgun/shotgun.md)
 
 [Whilst cycling backwards.](./cycling-backwards/cycling-backwards.md)
