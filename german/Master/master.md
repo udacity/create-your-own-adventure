@@ -1,0 +1,3 @@
+Ihnen fällt ein, dass Sie ihr auf wertloses Papier gedrucktes Masterdiplom mit sich führen...
+
+[Das Loch mit dem Masterdiplom stopfen](../Stopfen/stopfen.md)

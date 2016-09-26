@@ -6,6 +6,8 @@ Sie bemerken, dass durch ein Loch in der Bootswand Wasser ins Boot dringt.
 
 Werden Sie:
 
+[Darüber nachdenken, dass Ihnen der Ingenieur Master Ihnen doch nichts hilft](Master/master.md)
+
 [Festellen, dass Sie doch kein Deutsch sprechen](../language.md)
 
 [Zunächst einmal die zwei Leichen aus dem Boot werfen?](Leichen/Leichen.md)
