@@ -1,8 +1,4 @@
-Sometimes, in the gutter, you can't tell the ice from the broken glass.
-
-Don't hitchhike in The North. 
-
-I have hitchhiked in The North.
+The North will not be accounted for by a theory of The North.
 
 [You will try to confront The North](../explore-outside/journey-to-flaming-tower/start-running/confront/confront.md), 
 but when you go to find it, it will have paid your bill and left. No, it's not in the bathroom.
