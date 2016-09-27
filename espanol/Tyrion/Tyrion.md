@@ -4,4 +4,4 @@ Primera: unirse a los ejércitos de [Daenerys](Daenerys/Daenerys)
 
 Segunda: Irse a las [montañas](../montanas/montanas.md)
 
-Tercera: Aquí no ha pasado nada y dejar las cosas como al princio [../canudos.md]
+Tercera: Aquí no ha pasado nada y dejar las cosas como al [principio](../canudos.md)
