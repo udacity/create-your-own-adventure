@@ -4,3 +4,5 @@ passed down from generation to generation, and that you are an Ale-i Knight and 
 
 You also feel a slight shift in gravity - could you be slowly slipping toward the Dark Side? You try to resist,
 but the urge to brew a porter is overwhelming.
+
+Resitance is futile. Your desires to brew porter and stout is overwhelming. You get barley and malt ready for roasting in the etarnal flame of darkness. 
