@@ -14,6 +14,9 @@ But you wake up and chose to find your way to know the [real life](../real-life/
 
 see destiny isn't so hard when you try for it.
 
+So, why don't you go out and [watch the stars] (../watching-stars/watching-stars.md) if it's night time
+or some birds (../watching-birds/watching-birds.md) if it's a bright day outside.
+This will help you get started with pursuing your destiny
 and now you will be the [protagonist of the story](../marshmallow.md)
 
 and I have [high hopes](../hope/hope.md) for you.
