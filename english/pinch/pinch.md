@@ -15,3 +15,5 @@ Do you:
 [Go outside of the marshmallow room](go-out/go-out.md)
 
 [Think about Harry Potter and the amazing world of magic?](magic/harry-potter.md)
+
+[Think about Naruto](naruto/seventh-hokage.md)
