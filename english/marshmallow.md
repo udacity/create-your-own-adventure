@@ -1105,3 +1105,5 @@ so lazy [here](lazy/lazy.md)
 Click [here](walrus/walrus.md)
 
 Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+
+Bring a [smile](https://www.youtube.com/watch?v=oGmRKWJdwBc) to your face. What a wonderful world.
