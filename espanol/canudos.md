@@ -167,3 +167,5 @@ Indico a sus ayudantes que comenzaran los preparativos para el mayor banquete de
 El Consejero y Beatito coincidieron en que en el banquete se servirian [arepas](https://es.wikipedia.org/wiki/Arepa).
 
 Y cada invitado podria comer [tantas como quisiera](exageracion/exageracion.md).
+
+Y llego [Tyrion Lannister](Tyrion/Tyrion.md) 
