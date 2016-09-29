@@ -1,1 +1,4 @@
-When you look around you can see a lot of interesting people who you do not know.
+Придивившись ти бачиш багато цікавих, хоч і не знайомих тобі людей навколо себе. Зробивши крок в сторону оного з них та раптом
+бачите [давнього знайомого](../dream/stranger/carroll.md)
+
+aбо [оговтуєшся](../marshmallow.md) розуміючи шо то був лише сон
