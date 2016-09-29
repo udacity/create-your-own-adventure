@@ -8,8 +8,8 @@ She likes admiring the sky because she could imagine themselves in another plane
 
 "They are scared because they know they'll never see us together again".
 
-He gave her a quick peck on her lips and took her hand to hold it like he never did before. 
+He gave her a quick peck on her lips and took her hand to hold it like he never did before.
 
-They closed their eyes and a couple of minutes later everything vanished into the bright sunlight coming through a window.
+They closed their eyes and a couple of minutes later everything vanished suddenly.
 
 Finally, he woke up from his [dream](../dream/dream.md)
