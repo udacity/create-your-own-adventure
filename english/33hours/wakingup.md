@@ -8,3 +8,5 @@ wallet and mobile phone are gone. In fact, your pockets are completely empty.
 [Explore the motel room.](explore-room/room.md)
 
 [Go outside.](explore-outside/outside.md)
+
+[Stop and think.](../33hours-add-on/slow-recall.md)
