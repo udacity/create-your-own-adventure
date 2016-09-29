@@ -8,6 +8,8 @@ Know about [Latest hit from Trump Floyd "The Wall"](./trump-floyd-the-wall/thewa
 
 You must have a tiny.. pair of hands.
 
+Do you wana listen to [Trumps-speach](./Trumps-speach/Trumps-speach.md)?
+
 
 
 
