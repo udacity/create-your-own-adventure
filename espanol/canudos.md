@@ -164,4 +164,6 @@ Indico a sus ayudantes que comenzaran los preparativos para el mayor banquete de
 
 [La eleccion](eleccion/eleccion.md)
 
-El Consejero y Beatito coincidieron en que en el banquete se servirian [arepas](https://www.google.com.au/search?q=arepas&espv=2&biw=1680&bih=984&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjQ_vChv7TPAhXLjpQKHXflClAQiR4IpAE&dpr=1) de entrada. Y cada invitado podria comer [tantas como quisiera](exageracion/exageracion.md).
+El Consejero y Beatito coincidieron en que en el banquete se servirian [arepas](https://es.wikipedia.org/wiki/Arepa).
+
+Y cada invitado podria comer [tantas como quisiera](exageracion/exageracion.md).
