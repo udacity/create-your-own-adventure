@@ -227,6 +227,8 @@ An umbrella (closed) automagically appears in your left hand. You tentatively
 
 You are feeling very anxious at this point.
 
+You can't decide if anything is worth it anymore so you loose yourself at a [David Gray concert.](concert/concert.md)
+
 Goosebumps appear.
 
 This is because you do not like leather for ethical reasons.
