@@ -11,4 +11,5 @@ She likes admiring the sky because she could imagine themselves in another plane
 He gave her a quick peck on her lips and took her hand to hold it like he never did before. 
 
 They closed their eyes and a couple of minutes later everything vanished into the bright sunlight coming through a window.
+
 Finally, he woke up from his [dream](../dream/dream.md)
