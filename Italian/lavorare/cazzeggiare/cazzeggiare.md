@@ -1,1 +1,1 @@
-[Noooo è meglio guardare !](../guardare/guarda.md)
+[Noooo è meglio guardare !](../../guardare/guarda.md)
