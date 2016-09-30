@@ -37,4 +37,4 @@ Google can't help you right now. You are on your own.
 
 [Go back whence you came](../marshmallow.md)
 
-[Pick a surprise](surprise!/surprise.md)
+[Pick a surprise](../surprise!/surprise.md)
