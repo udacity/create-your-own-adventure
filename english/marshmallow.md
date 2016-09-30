@@ -1111,3 +1111,5 @@ Click [here](walrus/walrus.md)
 Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
 
 Do you like [stargazing](stargazing/stargazing.md) ?
+
+Let's learn some [mandarin](learn-mandarin/learn-mandarin.md)
