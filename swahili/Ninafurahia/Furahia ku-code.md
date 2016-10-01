@@ -1,0 +1,4 @@
+Kuwa na furaha ni jambo moja jema sana. Na ninadhani kuwa mtu yeyote anaye code atakubaliana na mimi kuwa kuna hisia ya kuwa na uwezo fulani unayopata unapoanza kuandika code na kuweza kufanya vitu mbalimbali kwenye kompyuta.
+Hisia hii ndio inayoleta furaha nadhani. Na ninazidi kujawa na furaha kila ninapoendelea kujifunza michakato mipya ya mawazo wakati wa kuprogrammu na lugha tofauti tofuati nyinginezo za kupprogrammu.
+Walimu wote, wa kozi mbalimbali mitaandooni (Udacity na wengineo), mnaowezesha elimu hii kwa watu duniani kote ahsanteni sana kwa mchango wenu. Kazi mnayofanya siyo bure na inagusa maisha yetu kipekee na kiujumla.
+Shukurani kwa kunifanya nifurahi.
