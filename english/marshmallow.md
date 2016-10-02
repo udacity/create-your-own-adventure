@@ -1114,4 +1114,4 @@ Do you like [stargazing](stargazing/stargazing.md) ?
 
 Let's learn some [mandarin](learn-mandarin/learn-mandarin.md)
 
-Eureka!! Nerons for storing social memories found, click [here](http://news.mit.edu/2016/scientists-identify-neurons-social-memory-0929) for more info.
+Neurons for social memories, [more info](http://news.mit.edu/2016/scientists-identify-neurons-social-memory-0929)
