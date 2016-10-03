@@ -20,3 +20,5 @@ Do you:
 [Want to get high?](../weed/weed.md)
 
 [Call a doctor?](../call-a-doctor/doctor.md)
+
+[Crave for something else?](../hungry/hungry.md)
