@@ -17,3 +17,5 @@ was sie auf dem Boot finden können, zu behelfen.
 [Sie finden ein Feuerzeug](feuerzeug/feuerzeug.md)
 
 [Sie finden zwei Leichen](../Leichen/Leichen.md)
+
+[Sie finden eine Schatzkarte](Schatzkarte/Schatzkarte.md)
