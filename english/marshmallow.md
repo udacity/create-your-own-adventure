@@ -21,8 +21,9 @@ or a
 Your adventure begins. You realize there are hundreds of paths for you to choose from.
 Which way should you go? Only you can decide.
 
-Oh so many decisions - what will you do?? The decision is hard to make but the
-more you read, the more you feel the urge to click one.
+Oh so many decisions - what will you do??
+The decision is hard to make but the more you read, the more you feel the urge
+to click one.
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
