@@ -188,6 +188,27 @@ The type of extreme mortal danger that so often accompanies confectionary inspir
 Quickly surveying your immediate surrounds, you notice a garishly dressed,
 vacant-eyed young man lounging on a nearby sofa.
 
+The man is not large but not small, but not average either.
+He is reciting poetry in a language you assume to be Egyptian, 
+though you are not familiar with Egyptian. You only assume this
+because of the small pictograms that seem to rise into the 
+air above his head when he speaks. One looks like a small bird.
+Another a small insect. A third is for all appearances the 
+third car your father ever bought you, a small Fiat 500, which
+though in the picture above the man's head is purple, was 
+in reality more of a mauve. It had a tendency to bark whenever
+you drove it over hills, not like the proud great dane from 
+Nova Scotia that most smaller cars tend to imitate when taking
+on tasks greater than their strengths, but rather more like 
+the small pomerainian who is now barking at the blue music notes
+hovering over the man's large-ish head, now peeing on the 
+back of the sofa, making it difficult for you to remember the
+name of that dude you totally scored with in the back of your 
+Fiat 500. You're finding it difficult to think. You sit down on
+the sofa to gather your thoughts. You think of all the men 
+you slept with on your hitch hiking journeys across the southern
+american continent.
+
 [Pinch yourself to see if this is a dream.](./is-this-a-dream/is-this-a-dream.md)
 
 You recall what a man said to you once: "Live as one of them, Kal-El, to discover
