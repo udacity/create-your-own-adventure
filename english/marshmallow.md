@@ -1136,3 +1136,6 @@ Do you like [stargazing](stargazing/stargazing.md) ?
 Let's learn some [mandarin](learn-mandarin/learn-mandarin.md)
 
 Neurons for social memories, [more info](http://news.mit.edu/2016/scientists-identify-neurons-social-memory-0929)
+
+What is the meaning of life?
+To find out click [here](meaning-of-life/meaning-of-life.md).
