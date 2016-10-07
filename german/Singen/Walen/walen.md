@@ -1,4 +1,4 @@
-Sie denken, dass Sie einer der Freunde diese Walen sein können und sie werden Ihnen helfen, wie Sie auf die National-Geographic sah.
+Sie denken, dass Sie einer Freunde diese Walen sein können und sie werden Ihnen helfen, wie Sie auf die [Nat Geo](http://www.nationalgeographic.com/) sah.
 
 Ruhe in Frieden, mein Freund!
 
