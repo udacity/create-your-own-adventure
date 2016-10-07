@@ -22,10 +22,10 @@ winter is coming.
 Hot cocoa will be sold at nearly every street corner, and your sweet
 scent will likely have the drinkers plucking pieces of your being for their drinks.  
 
-Sure, it's not right as it's not consensual, but you have a hazy memory 
+Sure, it's not right as it's not consensual, but you have a hazy memory
 of a long ago cold night where you were running after having just
 passed a cocoa house.  The people all started following you with their
-warm, steamy cups held fully out as they chanted "mellows, mellows".  
+warm, steamy cups held fully out as they chanted "mellows, mellows".
 It eirily reminded you of a story you read as a young fluff, but the chant was, "brains, brains".
 
 You couldn't quite decide whether you were awake or asleep, 
