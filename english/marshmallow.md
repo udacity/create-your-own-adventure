@@ -1139,3 +1139,6 @@ Neurons for social memories, [more info](http://news.mit.edu/2016/scientists-ide
 
 What is the meaning of life?
 To find out click [here](meaning-of-life/meaning-of-life.md).
+
+What is that shiny in the window?  Come in and take a
+[look](Computer-Man/Computer-Man.md)
