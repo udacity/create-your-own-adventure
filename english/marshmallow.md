@@ -1141,4 +1141,4 @@ What is the meaning of life?
 To find out click [here](meaning-of-life/meaning-of-life.md).
 
 What is that shiny in the window?  Come in and take a
-[look](Computer-Man.md)
+[look](Computer-Man/Computer-Man.md)
