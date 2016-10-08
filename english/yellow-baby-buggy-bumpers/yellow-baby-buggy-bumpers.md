@@ -13,3 +13,5 @@ You then start walking towards the amusement park.
 As you approach the park, you get a foreboding sense that not all is right. 
 You see the park in the distance. It is night, and the park is full of lights.
 The ferris wheel is turning.
+
+Do you: [start sucking your thumb](../thumb-suck/thumb-suck.md) just for a warm up?
