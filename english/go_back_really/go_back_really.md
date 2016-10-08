@@ -1,1 +1,1 @@
-Should I really go back? (../marshmallow.md)
+Should I really go back? [go back](../marshmallow.md)
