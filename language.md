@@ -152,4 +152,6 @@ If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
 
 To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
 
+If you speak oriya, click [here](oriya/oriya.md).
+
 If you understand Tamil, திருநாவுக்கரசர் அருளிய தேவாரம் [இங்கே அழுத்தவும்](Tamil/Thevaram/thevarm.md)
