@@ -1,6 +1,4 @@
-Mabuhay!
-
-Maligayang pagbati sa iyong pagdating sa lugar ng engkantada! 
+Mabuhay at maligayang pagbati sa iyong pagdating sa lugar ng engkantada! 
 
 Si Maria Makiling ay isang marikit na diwata. 
 
@@ -9,16 +7,15 @@ ang tinatawag na "Peak 1" at "Peak 2". Ang bundok na ito
 ay totoong bulkan at ito ang dahilan kung bakit mainit ang tubig
 na lumalagos mula dito. Ang mga lagusan ay tinatawag na Natugnos.
 
-Namnamin ang magandang tawawin na makikita sa tuktok ng bundok na ito.
-
-Pero wag kalimutan na pulutin at huwag iwan ang mga balat ng pagkain
-na dinala sa tuktok.
+Nawa ay mawili kayo sa magagandang tawawin na makikita sa tuktok ng
+bundok na ito. Lamang ay wag kalimutan na pulutin at bitbitin sa inyong
+pag-alis ang inyong mga basura.
 
 Panatilihin po nating malinis ang bundok upang patuloy na bigyan tayo 
-ng magagandang tanawain ni Maria Makiling.
+ng magagandang tanawin ni Maria Makiling.
 
-Para magbalik sa iyong pinanggalingan, pindutin ito (../salamat.md).
+Para magbalik sa inyong pinanggalingan, pindutin [ito] (../salamat.md).
 
 Kung nais puntahan ang Natugnos (Mud Springs), 
-pindutin ito (../mudpring/mudspring.md).
+pindutin [ito] (../mudpring/mudspring.md).
 
