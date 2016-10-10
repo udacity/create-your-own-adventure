@@ -6,4 +6,4 @@ Chora e joga o livro no lixo.
 
 Abraça sua toalha para secar suas lágrimas e começa a ler o livro.
 
-Desiste de consertar o seu bug e começa a construir um computador capaz de responder a questão da vida do universo e tudo mais pra você.
+Desiste do bug e começa a constroi um computador capaz de responder a questão você.
