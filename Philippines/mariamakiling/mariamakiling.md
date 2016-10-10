@@ -17,5 +17,5 @@ ng magagandang tanawin ni Maria Makiling.
 Para magbalik sa inyong pinanggalingan, pindutin [ito] (../salamat.md).
 
 Kung nais puntahan ang Natugnos (Mud Springs), 
-pindutin [ito] (../mudpring/mudspring.md).
+pindutin [ito] (mudspring.md).
 
