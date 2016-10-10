@@ -18,3 +18,5 @@ O kung gusto mo namang kumain, tara [kain] (kain/kain.md) tayo !
 
 Para sa direksyon papunta sa Maria Makiling, 
 pindotin [ito] (mariamakiling/mariamakiling.md).
+
+[Ito] (mariamakiling/mudspring.md) ay papuntang Natugnos (Mud Springs).
