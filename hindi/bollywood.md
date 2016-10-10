@@ -33,5 +33,6 @@ To know about real india hero click [Bhagat Singh](Bhagat_Singh/bhagat_singh.md)
 
 Check out [Alia Bhatt](https://www.instagram.com/aliaabhatt/?hl=en)
 
-[Adventure sports in india](http://www.coupondunia.in/blog/15-best-adventure-sports-destinations-in-india/)
+If you want to learn about adventure sports in india,
+click [Here](http://www.coupondunia.in/blog/15-best-adventure-sports-destinations-in-india/)
 
