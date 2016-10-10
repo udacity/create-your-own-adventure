@@ -15,3 +15,6 @@ Ngayon ay ating sundan ang mga kaganapan sa Pilipinas.
 Kamakailan ay nanalong Presidente si [Duterte] (duterte/duterte.md).
 
 O kung gusto mo namang kumain, tara [kain] (kain/kain.md) tayo !
+
+Para sa direksyon papunta sa Maria Makiling, 
+pindotin ito (mariamakiling/mariamakiling.md).
