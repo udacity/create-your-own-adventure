@@ -342,7 +342,9 @@ I felt a sudden ease of mind.
 Where is Hermione Granger when you need her? Where I ask you?
 Oh, I know. Click [here](hermione/hermioneHere.md)
 
-You pick up the fork and wrap it in rope to fashion a crappy [wand](./wand/wand.md) .
+You pick up the fork and wrap it in rope to fashion a crappy wand.
+
+For more on wand history [here](./wand/wand.md).
 
 Pointing it at the door, eyes closed, "Alohomora..."
 
