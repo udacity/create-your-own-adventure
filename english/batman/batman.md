@@ -42,4 +42,4 @@ Over my dead body!! Says Robin.
 
 John Cena comes busting through the wall and screams:
 
-YOU CAN'T SEE ME!
+"I'm batman!"
