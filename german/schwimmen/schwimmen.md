@@ -4,6 +4,8 @@ Sie erreichen Sie mit letzter Kraft und erholen sich erst einmal am Strand. Doch
 
 Man sollte ...
 
+... [etwas scharfes finden, vielleicht einen Stein, und diese Fischerleine aus den Flügeln kriegen.](fluegel_trocknen.md)
+
 ... was zu Essen suchen, denn nach dem Schwimmen hat man immer Hunger
 [Hunger](hunger/hunger.md)
 
