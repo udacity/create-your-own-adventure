@@ -1,4 +1,4 @@
-[here](https://github.com/udacity/create-your-own-adventure/blob/master/hindi/Akshay_Kumar/akshay_kumar.md)
+[here](https://github.com/saksham0037/create-your-own-adventure/blob/edit/hindi/Akshay_Kumar/akshay_kumar.md)
 खूब लंबा-तगड़ा एक पहलवान बस में चढ़ा।
 
 कंडक्टर: भाई साहब, टिकट?
