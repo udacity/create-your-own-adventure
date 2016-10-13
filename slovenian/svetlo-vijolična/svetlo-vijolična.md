@@ -1,4 +1,5 @@
-Znašel si se v sobi svetlo vijolične barve. Soba je slabo osvetljena. Vrata so izginila.
+Znašel si se v sobi svetlo vijolične barve.
+Soba je slabo osvetljena. Vrata so izginila.
 Na sredini sobe sta dva naslonjača. Eden je moder, drugi pa rdeč. 
 V kotu sobe stoji temnopolt moški, srednjih let in višje postave. 
 Oblečen je v dolg črn usnjen plašč, njegove oči pa se skrivajo za temnimi očali.
