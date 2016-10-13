@@ -1,4 +1,4 @@
-Der kleine Kobold erkennt das er die ganze Zeit der falschen Verein angehört hat und fängt an über sein
+Der kleine Kobold erkennt das er die ganze Zeit dem falschen Verein angehört hat und fängt an über sein
 Leben nachzudenken. 
 
 Das ist für deine jetzige Situation natürlich nicht unbedingt toll da er auch nicht mehr mit dir reden will,
