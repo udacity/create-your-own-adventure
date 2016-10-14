@@ -9,7 +9,7 @@ metal into the mold.
 
 Time passes, and the coin solidifies as it cools.
 
-You gain 1 gold coin.
+You gain 2 gold coins.
 
 You decide to play it safe and repeat the process a few times. Who knows how many coins
 the high-score currently is or how many you will need on your adventure?
