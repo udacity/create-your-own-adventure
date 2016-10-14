@@ -5,3 +5,4 @@ WEEP MORTAL!
 
 A voice booms!
 "Past, present, future, all are one in Yog Sothoth"
+
