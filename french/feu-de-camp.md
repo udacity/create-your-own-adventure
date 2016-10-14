@@ -22,8 +22,6 @@ Que faites-vous ?
 
 [Je ne parle pas francais](../english/marshmallow.md)
 
-[Je ne parle pas francais (but I do speak English!)](../english/marshmallow.md)
-
 [Je parle un peu arabe](../arabic/salamoAlikom.md)
 
 [J'appelle ma mère immédiatement](appel-maman/appeler-maman.md)
@@ -35,3 +33,5 @@ Que faites-vous ?
 [Je me lève et me dirige vers la sortie](sortie/pousser-porte/pousser-porte.md)
 
 [Je ne fais rien](rien/rien.md)
+
+[Je ne parle pas francais (but I do speak English!)](../english/marshmallow.md)
