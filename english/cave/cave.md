@@ -5,4 +5,9 @@ and poke your head in, when a voice speaks:
 
 "COME JOIN US"
 
-and it pulls you into the darkness.
+and a large hand, with thick furry knuckles, reaches out to you. 
+
+Filled with fear, you turn and run away.
+
+Or, feeling adventurous, you take the creature's hand and it pulls you
+[inside the cave.](./cave-first-step.md) 
