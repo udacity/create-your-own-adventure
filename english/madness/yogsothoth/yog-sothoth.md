@@ -1,4 +1,8 @@
-Mercifully, the Yog-Sothoth uses only a tiny fraction of his epic power 
+Mercifully, the Yog-Sothoth uses only a tiny fraction of his epic power
 and sweet death descends upon you.
 
 WEEP MORTAL!
+
+A voice booms!
+"Past, present, future, all are one in Yog Sothoth"
+
