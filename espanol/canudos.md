@@ -174,3 +174,5 @@ Y cada invitado podria comer [tantas como quisiera](exageracion/exageracion.md).
 Se servirian las siguientes arepas: Reina Pepeada, Mechada con amarillo, y Jamon con queso de cabra.
 
 Llego el [invierno](inverlandia/inverlandia.md).
+
+Gritó que se escribiría la más aburrida historia, basada en un mal comienzo.
