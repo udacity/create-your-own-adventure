@@ -14,3 +14,5 @@ Mlada radnica ga je ljubazno gledala. Rekla je:
 "Da li ste mozda zainteresovani za neki dezert?" [klikni ovde](dezert/dezert.md)
 
 "Možda bi Vam prijao niški burek sa eurokremom?" [klikni ovde](burekKrem/krem.md)
+
+"Burek sa...", napravio je pauzu od 2 sekunde gledajuci zenu pravo u oci, a potom nastavio vidno uznemiren:"...EUROKREMOM?!" [klikni ovde](burekStaKojiMojKrem/burek.md)
