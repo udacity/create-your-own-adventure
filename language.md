@@ -156,5 +156,5 @@ If you speak oriya, click [here](oriya/oriya.md).
 
 If you understand Tamil, திருநாவுக்கரசர் அருளிய தேவாரம் [இங்கே அழுத்தவும்](Tamil/Thevaram/thevarm.md)
 
-If you understand maithli ,click [here..]
+If you understand maithli ,click [here..](maithli/maithli.md)
 Maithili is an Indo-Aryan language spoken in eastern Terai of Nepal and eastern Bihar in India
