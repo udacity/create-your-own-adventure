@@ -41,3 +41,5 @@ Now that Bruce Wayne is grown old, he has proclaimed that I should take over his
 Over my dead body!! Says Robin.
 
 John Cena comes busting through the wall and screams:
+
+"I'm batman!"

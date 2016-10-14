@@ -188,6 +188,27 @@ The type of extreme mortal danger that so often accompanies confectionary inspir
 Quickly surveying your immediate surrounds, you notice a garishly dressed,
 vacant-eyed young man lounging on a nearby sofa.
 
+The man is not large but not small, but not average either.
+He is reciting poetry in a language you assume to be Egyptian, 
+though you are not familiar with Egyptian. You only assume this
+because of the small pictograms that seem to rise into the 
+air above his head when he speaks. One looks like a small bird.
+Another a small insect. A third is for all appearances the 
+third car your father ever bought you, a small Fiat 500, which
+though in the picture above the man's head is purple, was 
+in reality more of a mauve. It had a tendency to bark whenever
+you drove it over hills, not like the proud great dane from 
+Nova Scotia that most smaller cars tend to imitate when taking
+on tasks greater than their strengths, but rather more like 
+the small pomerainian who is now barking at the blue music notes
+hovering over the man's large-ish head, now peeing on the 
+back of the sofa, making it difficult for you to remember the
+name of that dude you totally scored with in the back of your 
+Fiat 500. You're finding it difficult to think. You sit down on
+the sofa to gather your thoughts. You think of all the men 
+you slept with on your hitch hiking journeys across the southern
+american continent.
+
 [Pinch yourself to see if this is a dream.](./is-this-a-dream/is-this-a-dream.md)
 
 You recall what a man said to you once: "Live as one of them, Kal-El, to discover
@@ -227,6 +248,8 @@ An umbrella (closed) automagically appears in your left hand. You tentatively
 
 You are feeling very anxious at this point.
 
+You can't decide if anything is worth it anymore so you loose yourself at a [David Gray concert.](concert/concert.md)
+
 Goosebumps appear.
 
 This is because you do not like leather for ethical reasons.
@@ -256,6 +279,8 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 [Wait, I'm in front of a mirror... Am I? Let's see...](./mirror/enter-mirror.md)
 
 You see a polar bear searching for food.
+
+I see that you may be from the North. [How's it going?](./north/north.md)
 
 [A Shotgun appears!](./shotgun/shotgun.md)
 
@@ -318,6 +343,8 @@ Where is Hermione Granger when you need her? Where I ask you?
 Oh, I know. Click [here](hermione/hermioneHere.md)
 
 You pick up the fork and wrap it in rope to fashion a crappy wand.
+
+For more on wand history [here](./wand/wand.md).
 
 Pointing it at the door, eyes closed, "Alohomora..."
 
@@ -1105,3 +1132,15 @@ so lazy [here](lazy/lazy.md)
 Click [here](walrus/walrus.md)
 
 Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+
+Do you like [stargazing](stargazing/stargazing.md) ?
+
+Let's learn some [mandarin](learn-mandarin/learn-mandarin.md)
+
+Neurons for social memories, [more info](http://news.mit.edu/2016/scientists-identify-neurons-social-memory-0929)
+
+What is the meaning of life?
+To find out click [here](meaning-of-life/meaning-of-life.md).
+
+What is that shiny in the window?  Come in and take a
+[look](Computer-Man/Computer-Man.md)
