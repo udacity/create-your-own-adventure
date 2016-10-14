@@ -1,0 +1,1 @@
+"STA TO PRICAS J$#@M TI ZENO MAJKU?! Kaki k#$@c eurokrem u burek, nabijem te na svislajon! Zna se sa cime je pravi burek, tutanj tamo i da meljes meso!"
