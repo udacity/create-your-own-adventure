@@ -21,3 +21,6 @@ Some time passes and an opportunity arises to [follow your destiny.](../destiny/
 This is always easier whenever you drink [coffee!](../coffee/coffee.md) 
 
 Sometime I code and for fun I play or watch soccer.
+
+Sometimes I drink BulletProof coffee with grass-fed butter and MCT oil to help 
+my brain work better while coding. Good stuff!
