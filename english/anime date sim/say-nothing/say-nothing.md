@@ -1,0 +1,1 @@
+She continues to stare at the ruins for half an hour. You get tired and leave.
