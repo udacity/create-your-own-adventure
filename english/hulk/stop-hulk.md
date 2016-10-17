@@ -1,0 +1,1 @@
+You rocket into the sky and head straight for Gotham. You arrive to find half of the city completely destroyed. You are just in time to watch the Hulk kill Batman. 
