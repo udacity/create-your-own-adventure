@@ -1145,3 +1145,6 @@ To find out click [here](meaning-of-life/meaning-of-life.md).
 
 What is that shiny in the window?  Come in and take a
 [look](Computer-Man/Computer-Man.md)
+
+Just wanted to make my mark in the history, do you want to to?
+[Click Me](http:Halfblood/Halfblood.md)
