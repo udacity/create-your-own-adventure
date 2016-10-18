@@ -11,5 +11,4 @@ You must have a tiny.. pair of hands.
 Ashamed at your poor electoral choice, and fearful of the consequences of Trump's Presidency, you decide to flee the country.  
 
 You consider going to:
-	[Canada](./canada/canada.md)
-	[Iceland](./iceland/iceland.md)
+	[Canada](./canada/canada.md) or [Iceland](./iceland/iceland.md)
