@@ -11,4 +11,4 @@ You consider the [nature of identity](../nature-of-identity/nature-of-identity.m
 
 You realize you're thinking too literally.  Perhaps this is a [dream within a dream](../dream_in_dream/inception.md)!
 
-You accidentally enter another [dimension](../dimension/dimension.md).
+You accidentally enter another [dimension](../dimensions/dimension.md).
