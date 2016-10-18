@@ -1,9 +1,11 @@
 Nachdem Sie zwei Stunden geschwommen sind, sehen Sie eine kleine Insel am Horizont.
 
+
 Sie erreichen Sie mit letzter Kraft und erholen sich erst einmal am Strand. Doch was nun?
 Sie können unmöglich einfach hier liegen bleiben.
 
 Man sollte ...
+
 
 ... etwas scharfes finden, vielleicht einen Stein,
 und diese Fischerleine aus den Flügeln kriegen.
