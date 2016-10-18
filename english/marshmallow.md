@@ -25,6 +25,8 @@ Oh so many decisions - what will you do??
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
+[Build time machine](time-machine/time-machine.md)
+
 Take some [time](meditation/meditation.md) off!
 
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
