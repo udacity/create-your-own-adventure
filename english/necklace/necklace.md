@@ -8,3 +8,4 @@ Marshmallow here I come I wil eat you in peace.
 After making about 3 necklaces,
 I realized this is will be the next big hit of the 22nd century,
 so I decided to make a startup marketing to those individuals who are into fashion as well as having a sweet tooth.
+But then I realized that all of it was in vain and all I had done could not benefit me at least and the society as a whole.
