@@ -4,4 +4,4 @@ The audience loves it. You play some more groovy numbers and end with the classi
 
 Just as you are finishing the solo, you snap the G string which hits you in the eye
 and you feel pain and hear the audience laughing at you. To your relief, it is a
-dream and you [realize this is a dream.](../../is-this-a-dream/is-this-a-dream.md)
+dream and you [realize this is a dream.](../is-this-a-dream/is-this-a-dream.md)
