@@ -12,7 +12,7 @@ circuits of your brain, like a virus.
 [It's the MEMES!](https://www.ted.com/talks/dan_dennett_on_dangerous_memes?language=en)
 
 You consider the implications of [wave/particle duality](https://youtu.be/Q_h4IoPJXZw)
-and that makes you think of [Schroedinger's Cat](../shrodinger-cat/shrodinger-cat.md). 
-([and here](https://youtu.be/IOYyCHGWJq4))
+and that makes you think of [Schroedinger's Cat](../schrodinger-cat/schrodinger-cat.md).
+ ([and here](https://youtu.be/IOYyCHGWJq4))
 
 You accidentally slip into another [dimension](../dimensions/dimension.md).
