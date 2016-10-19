@@ -14,4 +14,4 @@ Cheers!
 
 Click [here](http://www.google.com) to visit Google.
 
-Or follow the teachings of [Back to Work](5by5.tv/b2w/)
+Or follow the teachings of [Back to Work](http://5by5.tv/b2w/)
