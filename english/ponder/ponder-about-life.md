@@ -11,4 +11,6 @@ Do you:
 
 [Ponder some more](ponder-some-more/ponder-some-more.md)
 
+[Give in to existential dread?](../existential-dread/existential-dread.md)
+
 [Bake a cake?](../dance/bake-a-cake/bake-a-cake.md)
