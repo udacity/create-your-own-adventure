@@ -1153,4 +1153,4 @@ Wanna trip yourself? Hue has a place you would like to [enter](Trip-Yourself-Hue
 You decide to [slapa-da-bass](slapa-da-bass/slapa-da-bass.md)
 
 I got an exchange program to study for a year in South Korea!
-[What would you do]?
+[What would you do](https://github.com/lrthorita/create-your-own-adventure/blob/exchange-in-korea/english/exchange-in-korea/exchange-in-korea.md)?
