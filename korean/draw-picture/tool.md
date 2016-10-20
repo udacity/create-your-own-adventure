@@ -6,8 +6,8 @@
 
 무엇으로 그림을 그릴까?
 
-[초코펜](chocopen.md)
+[초코펜](choco/chocopen.md)
 
-[나무 꼬치](woodstick.md)
+[나무 꼬치](woodstick/woodstick.md)
 
-[손톱](nail.md)
+[손톱](nail/nail.md)

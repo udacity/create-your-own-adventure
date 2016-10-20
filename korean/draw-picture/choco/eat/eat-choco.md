@@ -6,4 +6,4 @@
 
 엄청나게 먹고 나니 잠이 쏟아져요...
 
-[잔다](../sleep/marshmallow.md)
+[잔다](../../../sleep/marshmallow.md)
