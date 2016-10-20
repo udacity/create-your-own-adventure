@@ -50,4 +50,4 @@
 
 [인스타그램에 인증샷을 올린다] (instagram/insta.md)
 
-이 상황에 대하여 [지식인에 물어본다](ask-kin/ask-kin.md)
+[그림을 그린다](draw-picture/tool.md)
