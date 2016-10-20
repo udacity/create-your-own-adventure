@@ -4,4 +4,4 @@
 
 손을 씼고 싶은 이 찝찝함...어떻게 할까요?
 
-[먹는다](../../eating-walls/eating-marshmallow.md)
+[먹는다](../../eating-walls/eating-marshmallows.md)
