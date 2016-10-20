@@ -1,0 +1,1 @@
+Você tem uma onda muito louca e andando pela terra do nunca e lutando com o capital gancho você tem a idéia para consertar o erro do bug.
