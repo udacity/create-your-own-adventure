@@ -35,3 +35,7 @@ Werden Sie:
 [Ein Dorf aufsuchen um das Boot reparieren zu lassen. Eventuell gibt es dort einen Bootsbauer](Dorf/dorf.md)
 
 [Nase zuhalten und ins Wurstwasser springen](Wurstwasser/wurstwasser.md)
+
+[Strecken Ihre Rücken auf dem Wasser und beginnen zu singen](Singen/singen.md)
+
+[Zum fliegenden Spaghettimonster beten, damit sie ueberleben?](beten/beten.md)

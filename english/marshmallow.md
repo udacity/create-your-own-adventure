@@ -25,6 +25,8 @@ Oh so many decisions - what will you do??
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
+[Build time machine](time-machine/time-machine.md)
+
 Take some [time](meditation/meditation.md) off!
 
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
@@ -36,6 +38,7 @@ Who is better?
 [Click Here] (ironman/ironman.md) to vote for Iron Man
 
 [Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
+[click here] (london/london.md) to vote for london
 
 January 2017 approaches. You have two presidential candidates to vote for.
 
@@ -188,6 +191,27 @@ The type of extreme mortal danger that so often accompanies confectionary inspir
 Quickly surveying your immediate surrounds, you notice a garishly dressed,
 vacant-eyed young man lounging on a nearby sofa.
 
+The man is not large but not small, but not average either.
+He is reciting poetry in a language you assume to be Egyptian, 
+though you are not familiar with Egyptian. You only assume this
+because of the small pictograms that seem to rise into the 
+air above his head when he speaks. One looks like a small bird.
+Another a small insect. A third is for all appearances the 
+third car your father ever bought you, a small Fiat 500, which
+though in the picture above the man's head is purple, was 
+in reality more of a mauve. It had a tendency to bark whenever
+you drove it over hills, not like the proud great dane from 
+Nova Scotia that most smaller cars tend to imitate when taking
+on tasks greater than their strengths, but rather more like 
+the small pomerainian who is now barking at the blue music notes
+hovering over the man's large-ish head, now peeing on the 
+back of the sofa, making it difficult for you to remember the
+name of that dude you totally scored with in the back of your 
+Fiat 500. You're finding it difficult to think. You sit down on
+the sofa to gather your thoughts. You think of all the men 
+you slept with on your hitch hiking journeys across the southern
+american continent.
+
 [Pinch yourself to see if this is a dream.](./is-this-a-dream/is-this-a-dream.md)
 
 You recall what a man said to you once: "Live as one of them, Kal-El, to discover
@@ -322,6 +346,8 @@ Where is Hermione Granger when you need her? Where I ask you?
 Oh, I know. Click [here](hermione/hermioneHere.md)
 
 You pick up the fork and wrap it in rope to fashion a crappy wand.
+
+For more on wand history [here](./wand/wand.md).
 
 Pointing it at the door, eyes closed, "Alohomora..."
 
@@ -1115,3 +1141,13 @@ Do you like [stargazing](stargazing/stargazing.md) ?
 Let's learn some [mandarin](learn-mandarin/learn-mandarin.md)
 
 Neurons for social memories, [more info](http://news.mit.edu/2016/scientists-identify-neurons-social-memory-0929)
+
+What is the meaning of life?
+To find out click [here](meaning-of-life/meaning-of-life.md).
+
+What is that shiny in the window?  Come in and take a
+[look](Computer-Man/Computer-Man.md)
+
+Wanna trip yourself? Hue has a place you would like to [enter](Trip-Yourself-Hue/trippy.md)
+
+You decide to [slapa-da-bass](slapa-da-bass/slapa-da-bass.md)

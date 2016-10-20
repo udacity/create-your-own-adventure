@@ -11,3 +11,5 @@ The question is do you keep using the free courses or plump for the nano-degree?
 Never stop learning!
 
 But when things are getting really difficult, are you going to [quit](../quit/quit.md)
+
+No you aren't going to quit. There are a ton of other resouces, just please keep trying!'
