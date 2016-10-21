@@ -19,7 +19,7 @@ Hizo un gesto de [cansancio](cansancio/cansancio.md)
 
 [Llegó el periodista miope con noticias importantes.](noticias/noticias.md)
 
-Pero pronto apareció un [pony rosa](ponyrosa/ponyrosa.md) acaparando todo el protagonismo.
+Pero de repente apareció un [pony rosa](ponyrosa/ponyrosa.md) acaparando todo el protagonismo.
 
 [Suddenly realized he was far from home
 and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyArrives.md)
