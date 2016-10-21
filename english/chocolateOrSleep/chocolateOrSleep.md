@@ -5,4 +5,4 @@ would you like to [sing](../sing/sing.md)?
 
 would you like to [play](../play-music/playmusic.md)?
 
-Or maybe you'd like to [drive the cat to your sisters house](../dop-person/dog.md)?
+Or maybe you'd like to [drive the cat to your sisters house](../dog-person/dog.md)?
