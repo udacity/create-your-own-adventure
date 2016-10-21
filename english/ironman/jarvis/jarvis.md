@@ -5,4 +5,4 @@ J.A.R.V.I.S. is now merged with Vision [Source](http://marvel-movies.wikia.com/w
 
 Now, checkout the story of Spiderman.
 
-[Spiderman](Spiderman.md)
+[Spiderman](TheSpider/Spiderman.md)
