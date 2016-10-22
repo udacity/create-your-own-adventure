@@ -5,3 +5,4 @@ I was pretty thirsty. There is a lemonade stand over there.
 I head over and buy some [lemonade](../drink/lemonade/lemonade.md)
 
 I choose to get better at [English](../get-better-at-english/english.md)
+I saw an elephant in the Zoo
