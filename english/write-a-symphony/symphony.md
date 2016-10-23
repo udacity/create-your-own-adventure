@@ -10,4 +10,4 @@ Do you:
 
 [Ask your cat to finish it for you](../ask-a-cat/cat.md)
 
-Watch your [dog eat the world](../dog-eat-world.md)
+Watch your [dog eat the world](../dog-eat-world/dog-eat-world.md)
