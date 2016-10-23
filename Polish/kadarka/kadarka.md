@@ -1,18 +1,17 @@
-To dobra decyzja, bo pragnienie coraz bardziej siê wzmaga. Co z tego, ¿e nie masz na sobie
-spodni? Kogo to obchodzi, skoro jak widzisz, w tej krainie wszyscy chodz± bez majtek.
-W Biedronce litr dobrej pó³s³odkiej Kadarki kosztuje 10 z³. To niewiele, za tak
-dobre wino i przy okazji jest jego tyle, ¿e mo¿esz podzieliæ siê z nim z wszystkimi krasnoludkami,
-skrzatami i dobrymi duszkami, które zamieszkuj± poblisk± ³±kê, tam gdzie jest ujêcie wody miejskiej.
-W pobliskiej Biedronce kupujesz Kadarkê.
+ï»¿To dobra decyzja, bo pragnienie coraz bardziej siÄ™ wzmaga. Co z tego, Å¼e nie masz na sobie
+spodni? Kogo to obchodzi skoro jak widzisz, w tej krainie wszyscy chodzÄ… bez majtek.
+W Biedronce litr dobrej pÃ³Å‚sÅ‚odkiej Kadarki kosztuje 10 zÅ‚. To niewiele jak za tak
+dobre wino a przy okazji jest jego tyle, Å¼e moÅ¼esz podzieliÄ‡ siÄ™ nim z wszystkimi krasnoludkami,
+skrzatami i dobrymi duszkami, ktÃ³re zamieszkujÄ… pobliskÄ… Å‚Ä…kÄ™. Tam na Å‚Ä…ce jest teÅ¼ ujÄ™cie wody miejskiej.
+W pobliskiej Biedronce kupujesz KadarkÄ™ za 9,99 zÅ‚. Kasjerka nie wydaÅ‚a Ci grosza. "BÄ™dÄ™ winna grosika" rzekÅ‚a.
 
-Mo¿e masz ochotê przej¶æ siê na poblisk± ³±kê?
+MoÅ¼e masz ochotÄ™ przejÅ›Ä‡ siÄ™ na pobliskÄ… Å‚Ä…kÄ™ i sprawdziÄ‡ czy Kadarka na pewno jest pÃ³Å‚sÅ‚odka?
 
 Co robisz?
 
+[Wracasz na poczÄ…tek](../ptasieMleczko.md)
 
-[Wracasz na pocz±tek](../ptasieMleczko.md)
+[Jeszcze raz chcesz to sobie przemyÅ›leÄ‡](./kadarka.md)
 
-[Jeszcze raz chcesz to sobie przemy¶leæ](./kadarka.md)
-
-[Idziesz na ³±kê](laka/laka.md)
+[Idziesz na Å‚Ä…kÄ™](laka/laka.md)
 
