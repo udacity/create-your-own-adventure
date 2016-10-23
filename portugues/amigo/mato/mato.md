@@ -1,0 +1,1 @@
+A sorte é que com git não recisa de internet.
