@@ -1,0 +1,1 @@
+Ainda bem que com Git não precisa de internet! 
