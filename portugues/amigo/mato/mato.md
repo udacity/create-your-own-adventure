@@ -1,1 +1,1 @@
-A sorte é que com git não recisa de internet.
+A sorte é que com git não precisa de internet.
