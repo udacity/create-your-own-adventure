@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-NGE is [here] (NGE/NGE.md)
+Would you [choose](killing-monsters/witchery.md) the lesser evil?
 
 [start](mad/mad.md) your journey into world of mad 
 
