@@ -47,3 +47,4 @@ Our hearts, always as one.
 - Anthony Kolos - 
 
 God is love.
+Love.
