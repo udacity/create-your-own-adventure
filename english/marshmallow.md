@@ -948,7 +948,7 @@ The understanding of git [go here](Booyah/booyah.md)
 
 [link to google website] (kumar/kumar.md)
 
-What's is the [git disadvantage?] (git/git_disadvantage.md)
+What's is the [git disadvantage?] (git_disadvantage/git_disadvantage.md)
 
 Hi i got this one for udacity team.
 
