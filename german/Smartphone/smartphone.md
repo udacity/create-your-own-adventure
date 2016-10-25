@@ -4,8 +4,8 @@ ein um zu prüfen wie voll der Akku noch ist und ob du Internetempfang hast...
 
 Nachdem das Smartphone gebootet wurde siehst du...
 
-[dass du vollen Internetempfang hast!](Internet/Internet/Internet.md)
+[dass du vollen Internetempfang hast!](Internet/Internet.md)
 
-[kein Internetempfang hast.](Internet/keinInternet/keinInternet.md)
+[kein Internetempfang hast.](keinInternet/keinInternet.md)
 
-[nach nur 2 Sekunden geht das Smartphone wieder aus, da der Akku zu schwach ist.](Internet/keinAkku/keinAkku.md)
+[nach nur 2 Sekunden geht das Smartphone wieder aus, da der Akku zu schwach ist.](keinAkku/keinAkku.md)
