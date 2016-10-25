@@ -948,6 +948,8 @@ The understanding of git [go here](Booyah/booyah.md)
 
 [link to google website] (kumar/kumar.md)
 
+Do you want to know [Git disadvantage?] (git_disadvantage/git_disadvantage.md) 
+
 Hi i got this one for udacity team.
 
 As the sand encompassed her toes and
