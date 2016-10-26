@@ -1,4 +1,4 @@
-En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
+﻿En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
@@ -182,3 +182,5 @@ Gritó que se escribiría la más aburrida historia, basada en un mal comienzo.
 Y [Resines](resines/resines.md) despertó de lo quer parecía un mal sueño.
 
 Al despertar Resines te pregunta si eres [Batman](batman/Batman.md)
+
+Despues de unos segundos se dio cuenta de la confusion en que se encontraba y salio corriendo al [Lago Encantado](lago/encantado.md)
