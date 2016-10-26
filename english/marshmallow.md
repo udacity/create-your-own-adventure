@@ -1155,3 +1155,5 @@ Wanna trip yourself? Hue has a place you would like to [enter](Trip-Yourself-Hue
 You decide to [slapa-da-bass](slapa-da-bass/slapa-da-bass.md)
 
 If you want to play soccer, click [here](Soccer/soccer.md)
+
+If you are a soccer fan, see your team [here](soccerfan/soccerfan.md)
