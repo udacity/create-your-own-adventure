@@ -1,5 +1,10 @@
-Da! Dort drüben in der Ferne! Leicht über der Wassermarke zeichnet sich etwas ab.
-Jedes Mal, wenn die wiegenden Wogen es zu lassen späht ihr gen Strand.
-Vielleicht ein Stück Treibholz, eine verwahrloste Boje?
-Ihr könnt euren Kopf kaum über Wasser halten und schluckt jede Menge Salzwasser,
-aber ihr seit euch sicher: wenn ihr es nur bis dort hin schafft, überlebt ihr vielleicht.
+Da! Dort drÃ¼ben in der Ferne! Leicht Ã¼ber der Wassermarke zeichnet sich etwas ab.
+Jedes Mal, wenn die wiegenden Wogen es zu lassen spÃ¤ht ihr gen Strand.
+Vielleicht ein StÃ¼ck Treibholz, eine verwahrloste Boje?
+Ihr kÃ¶nnt euren Kopf kaum Ã¼ber Wasser halten und schluckt jede Menge Salzwasser,
+aber ihr seit euch sicher: wenn ihr es nur bis dort hin schafft, Ã¼berlebt ihr vielleicht.
+
+Was tut ihr?
+
+- An euch glauben und weiterschwimmen wie ihr noch nie geschwommen seid
+- Eigentlich ist das aber schon echt weit, ihr gebt auf und geht unter
