@@ -1,1 +1,1 @@
-You really should love soccer, it's a thrilling game. You should travel and watch your favorite team plae.
+You really should love soccer, it's a thrilling game. You should travel and watch your favorite team play.
