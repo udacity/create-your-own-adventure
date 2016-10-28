@@ -4,3 +4,4 @@ Almaidban talalkozol a malyvacukor kiralylannyal, es eszreveszed, hogy a kiralyl
 Mit teszel?
 
 [Megnézem](megnezem/megnezem.md)
+[Felébredek](../malyvacukor.md)
