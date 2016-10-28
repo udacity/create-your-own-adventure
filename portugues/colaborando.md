@@ -9,6 +9,8 @@ Você:
 
 [Caguei, vou ver um video no xvideos](xvideos/xvideos.md)
 
+[Encontra uns cogumelos na geladeira e decide consumi-los](cogumelos/cogumelos.md)
+
 [Procura o repositório do aplicativo?](colabora/colaborar.md)
 
 [Começa a pensar como solucionar o bug e resolve olhar no codigo fonte](pesquisa/codFonte.md)

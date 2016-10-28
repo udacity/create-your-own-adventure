@@ -19,6 +19,8 @@ Hizo un gesto de [cansancio](cansancio/cansancio.md)
 
 [Llegó el periodista miope con noticias importantes.](noticias/noticias.md)
 
+Pero de repente apareció un [pony rosa](ponyrosa/ponyrosa.md) acaparando todo el protagonismo.
+
 [Suddenly realized he was far from home
 and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyArrives.md)
 
@@ -176,3 +178,9 @@ Se servirian las siguientes arepas: Reina Pepeada, Mechada con amarillo, y Jamon
 Llego el [invierno](inverlandia/inverlandia.md).
 
 Gritó que se escribiría la más aburrida historia, basada en un mal comienzo.
+
+Y [Resines](resines/resines.md) despertó de lo quer parecía un mal sueño.
+
+Al despertar Resines te pregunta si eres [Batman](batman/Batman.md)
+
+A lo que respondes: "Yo solo vine aquí a hablar de mi [libro](libro/libro.md)".

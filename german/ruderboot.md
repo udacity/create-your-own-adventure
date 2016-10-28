@@ -8,6 +8,8 @@ Werden Sie:
 
 [Festellen, dass Sie doch kein Deutsch sprechen](../language.md)
 
+[Erschrocken prüfen, ob das Smartphone noch in der Hosentasche ist...](Smartphone/smartphone.md)
+
 [Zunächst einmal die zwei Leichen aus dem Boot werfen?](Leichen/Leichen.md)
 
 [Laut um Hilfe schreien?](Hilfeschrei/Hilfeschrei.md)
