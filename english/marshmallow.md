@@ -1150,6 +1150,8 @@ To find out click [here](meaning-of-life/meaning-of-life.md).
 What is that shiny in the window?  Come in and take a
 [look](Computer-Man/Computer-Man.md)
 
+The [shiny device](shiny-device/shiny-device.md)
+
 Wanna trip yourself? Hue has a place you would like to [enter](Trip-Yourself-Hue/trippy.md)
 
 You decide to [slapa-da-bass](slapa-da-bass/slapa-da-bass.md)
@@ -1157,3 +1159,4 @@ You decide to [slapa-da-bass](slapa-da-bass/slapa-da-bass.md)
 If you want to play soccer, click [here](Soccer/soccer.md)
 
 If you are a soccer fan, see your team [here](soccerfan/soccerfan.md)
+
