@@ -1145,3 +1145,5 @@ To find out click [here](meaning-of-life/meaning-of-life.md).
 
 What is that shiny in the window?  Come in and take a
 [look](Computer-Man/Computer-Man.md)
+
+The [shiny device](shiny-device/shiny-device.md)
