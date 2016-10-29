@@ -1160,3 +1160,4 @@ If you want to play soccer, click [here](Soccer/soccer.md)
 
 If you are a soccer fan, see your team [here](soccerfan/soccerfan.md)
 
+Help a [leprechaun](finger-pull/finger-pull.md)
