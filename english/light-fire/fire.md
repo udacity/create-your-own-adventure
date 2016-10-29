@@ -45,4 +45,6 @@ The rat smiles and says, "Come on, let's go!"
 [Sleep]
 [Have some chocolate coffee.](../coffee/coffee.md)
 
+[Hit that opening and get out of there!](/get-out/get-out.md)
+
 
