@@ -1,0 +1,1 @@
+With a long history of more than 1,800 years, dumplings are a traditional food widely popular in North China. Dumplings consist of minced meat and chopped vegetables wrapped into a thin piece of dough skin.
