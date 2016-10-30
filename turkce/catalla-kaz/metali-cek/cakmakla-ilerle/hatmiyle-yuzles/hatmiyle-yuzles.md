@@ -14,4 +14,5 @@ içireceğim. Ama yanılırsan seni hatmişekerinden bir denize atacağım."
 Hangi sanatçıyı seçerdin?
 
 [Barış Manço](baris-manco/baris-manco.md)
+
 [Göksel](goksel/goksel.md)
