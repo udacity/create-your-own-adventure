@@ -1,0 +1,1 @@
+Makizushi is sushi that's rolled into long cylinders. It may be cut into shorter pieces before being served. The word makizushi can be translated "sushi roll." It's often simply called maki. It usually has nori on the outside but can also be wrapped with leaves such as shiso. Maki is filled with sushi rice and ingredients such as raw fish, cooked fish and vegetables.
