@@ -1,0 +1,1 @@
+Yakitori can be literally translated "grilled chicken." It's a category of Japanese cuisine that includes dozens of items that are grilled on thin bamboo skewers including every imaginable part of the chicken as well as other meats, tofu and vegetables. Yakitori restaurants are typically lively drinking spots.
