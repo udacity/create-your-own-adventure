@@ -10,4 +10,5 @@ genauer gesagt: gleitet deine Hand vollkommen berührungslos durch eben diesen Z
 
 Offenbar ist dieser Strauch, ja ist der ganze Waldsaum nicht real, sonder eine Art Projektion.
 
+Du wendest dich dem älteren Herren zu um ihn zu fragen, was hier eigentlich passiert.
 [Zurück](../insel.md)
