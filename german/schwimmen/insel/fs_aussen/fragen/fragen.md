@@ -8,4 +8,4 @@ richtung, alles Andere würde ich Ihnen gerne später erklären. Wir haben Sie scho
 wir kennen Sie gut – nun wird es Zeit, dass Sie auch uns kennen lernen. Bitte begleiten Sie mich.  
 
 Du bist verwirrt aber gleichzeitig auch neugierig und 
-[folgst seiner Aufforderung ohne weitere Fragen.](./fs_innen/fs_innen.md)
+[folgst seiner Aufforderung ohne weitere Fragen.](../../fs_innen/fs_innen.md)
