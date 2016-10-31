@@ -18,3 +18,5 @@ The tiger, having watched all of this, is staring at you
 with a hungry look.
 
 You, armed with a parachute, have to make a choice. Should you...
+
+[Run at the tiger with the parachute.](run-again/run-again.md)
