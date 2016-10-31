@@ -1,0 +1,1 @@
+... Sitting at the bar, you order a neat quadruple whiskey. As it goes down, your vision narrows to a ["tunnel"](../blackout/blackout.md)
