@@ -7,4 +7,4 @@ you can see.
 
 [Go back inside and explore the motel room.](../explore-room/room.md)
 
-[Start walking east, on the highway](../explore-room/explore-east.md)
+[Start walking east, on the highway](create-your-own-adventure/english/33hours/explore-outside/explore-east.md)
