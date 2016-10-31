@@ -6,4 +6,5 @@ The motel parking lot is completely empty. It looks to be abandoned. There are n
 you can see.
 
 [Go back inside and explore the motel room.](../explore-room/room.md)
-[Start walking east, on the highway](./explore-east.md)
+
+[Start walking east, on the highway](/explore-east.md)
