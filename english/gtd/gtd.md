@@ -11,3 +11,7 @@ Come back to the marshmallow file and choose the
 "that" option when you're done with your work.
 
 Cheers!
+
+Click [here](http://www.google.com) to visit Google.
+
+Or follow the teachings of [Back to Work](http://5by5.tv/b2w/)

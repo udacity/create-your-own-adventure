@@ -2,6 +2,11 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
+Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
+(Zipi es el rubio)
+
+Hizo un gesto de [cansancio](cansancio/cansancio.md)
+
 [Hizo un gesto a Beatito](revolucion/revolucion.md)
 
 [Mandó llamar a Jordi Hurtado](jordiHurtado/jordiHurtado.md)
@@ -13,6 +18,8 @@ el Consejero:
 [Se arrodilló y se echó a rezar mientras Beatito salía por la puerta.](rezando/rezando.md)
 
 [Llegó el periodista miope con noticias importantes.](noticias/noticias.md)
+
+Pero de repente apareció un [pony rosa](ponyrosa/ponyrosa.md) acaparando todo el protagonismo.
 
 [Suddenly realized he was far from home
 and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyArrives.md)
@@ -139,3 +146,41 @@ se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
 Y llego spiderman a salvar el dia.
 
 Con sus acrobáticos movimientos y osadas frases
+
+Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)
+
+solo [Escapó](escapo/escapo.md)
+
+Y llego [Daynerys Targaryen](thrones/daynerys.md)
+
+[Temeroso, ordenó que lo guiaran al pasadizo que le llevaría fuera de la ciudad](pasadizo/pasadizo.md)
+
+Recordó algunos crímenes que pesaban sobre él y de la nada perdió el conocimiento(desmayo/desmayo.md)
+
+Revelo que venia del futuro y que le daba dos opciones: 
+- [Morir luchando como sabia que pasaria en el futuro](time/time.md)
+
+- [Seguir sus instrucciones y ganar](time1/time1.md)
+
+Indico a sus ayudantes que comenzaran los preparativos para el mayor banquete de la historia del imperio.
+
+[La eleccion](eleccion/eleccion.md)
+
+Y llego [Tyrion Lannister](Tyrion/Tyrion.md) 
+
+El Consejero y Beatito coincidieron en que en el banquete se servirian [arepas](https://es.wikipedia.org/wiki/Arepa).
+
+Y cada invitado podria comer [tantas como quisiera](exageracion/exageracion.md).
+
+
+Se servirian las siguientes arepas: Reina Pepeada, Mechada con amarillo, y Jamon con queso de cabra.
+
+Llego el [invierno](inverlandia/inverlandia.md).
+
+Gritó que se escribiría la más aburrida historia, basada en un mal comienzo.
+
+Y [Resines](resines/resines.md) despertó de lo quer parecía un mal sueño.
+
+Al despertar Resines te pregunta si eres [Batman](batman/Batman.md)
+
+A lo que respondes: "Yo solo vine aquí a hablar de mi [libro](libro/libro.md)".

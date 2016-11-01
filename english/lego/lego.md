@@ -4,6 +4,8 @@ He decides he likes you too, so he gets out his Lego's.
 
 He's got Star Wars, Lego Movie, space, technics, oh so much lego and you play with it all!
 
+I wish they had Pokemon lego too.
+
 After a while he starts to get a bit too much, he doesn't get out much, you're bored.
 
 You look around wondering what to do.

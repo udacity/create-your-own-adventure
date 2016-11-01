@@ -17,4 +17,6 @@ You remember your past and feel ashamed you know what those taste like.
 
 You begin to cry uncontrollably.
 
+But then you pick yourself up, and realize that in the distance is Ice Cream Sea!
+
 

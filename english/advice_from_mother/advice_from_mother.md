@@ -8,3 +8,5 @@ into the bar.
 just a random test
 
 My mother also told me that I should eat my vegetables.
+
+"[She answers.](../bear-story/bear-story.md)"

@@ -39,3 +39,13 @@
 라고 고민하지만 선택하기 위해서 [요가를 한다](yoga/yoga.md)
 
 [내가 나비인지 나비가 나인지 철학적인 고민을 한다](philosophy/philosophy.md)
+
+[방을 둘러본다](look-around/look-around.md)
+
+[카페 성수에 간다](cafe-sungsu/cafe-sungsu.md)
+
+[공부를 한다](study/study.md)
+
+[화장실에 간다] (restroom/restroom.md)
+
+[인스타그램에 인증샷을 올린다] (instagram/insta.md)

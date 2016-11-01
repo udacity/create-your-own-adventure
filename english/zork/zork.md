@@ -13,3 +13,7 @@ There is an object that looks like a [torch](../torch/torch.md) on the ground.
 There is also om twine on the ground.
 
 The work Zork brings back memories.
+
+Zork is life, Zork is love.
+
+Kick open the [door] (../duck/duck.md)

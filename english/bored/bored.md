@@ -9,3 +9,7 @@
 "Or should I go on an [ADVENTURE!](../eat-rainbows/rainbows.md)?"
 
 "Or maybe [escape to the wilderness](../escape-to-the-wilderness/wilderness.md)?"
+
+"You could always start [learning Japanese](../learn_japanese/japanese.md)?"
+
+["Maybe I should go to a jazz club?"](../jazz-guitar/jazz.md)

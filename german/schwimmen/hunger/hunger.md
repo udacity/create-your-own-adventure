@@ -5,3 +5,5 @@ Also hin dort!
 [Moment mal - Kiosk?](momentmal/momentmal.md)
 
 [Renn so schnell wie möglich, damit du der erste bist.](rennen/rennen.md)
+
+[Wieso Kiosk? Ich nehme lieber den Bierkeller.] (bierkeller/bierkeller.md)

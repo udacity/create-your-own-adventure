@@ -36,6 +36,8 @@ it is a dancing cat
 
 [Want coffee?](../coffee/coffee.md)
 
+[Make hot chocolate?](../hot-chocolate-time/makehotchocolate.md)
+
 [Want to read a story](../myStory/mayank.md)
 
 [Dance like it's 1999](https://www.youtube.com/watch?v=xWiUvn2KBu4)

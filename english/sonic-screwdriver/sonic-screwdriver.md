@@ -7,3 +7,5 @@ When you open the door back in Londo you realize that you left your trusty sidek
 Do you:
 
 [Go back and find the impossible girl?](../impossible-girl/impossible.md)
+
+[Go on without her...if the Tardis lets you](../sonic-screwdriver/sonic-screwdriver.md)

@@ -1,6 +1,7 @@
 Walking out of a hole created from gobbling marshmallows, you step into a
 valley full of odd sights and sounds, each beckoning, suggesting mystery, but promising adventure. 
 
+You see rose garden full of beautiful red roses. You stop and smell the roses.
 You see a yellow lake surrounded by towering blue trees. In the lake, there is a small green
 child fishing in a marshmallow boat that's beginning to melt. But the child doesn't seem
 to mind. The boat is thick enough for now. You are about to call to the child. But...

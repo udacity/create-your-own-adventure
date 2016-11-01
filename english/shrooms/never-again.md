@@ -18,3 +18,5 @@ Do you:
 [Pinch yourself to make sure the man is real?](../pinch/pinch.md)
 
 [Pinch the man to make sure your self is real?](../pinch/pinch.md)
+
+[Wake up from this nigthmare?](../wake-up/wake-up.md)

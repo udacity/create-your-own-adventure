@@ -15,3 +15,5 @@ Do you:
 [Spin the spinner on the table top?](spin_spinner/spin.md)
 
 [Exit through the door?](exit_room/exit_room.md)
+
+[Return to the previous room?](go_back/drink_me.md)

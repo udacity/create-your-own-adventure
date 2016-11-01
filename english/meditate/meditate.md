@@ -34,6 +34,8 @@ Afterwards, you decide to:
 
 [do Yoga for 30 min](../yoga/yoga.md)
 
+[write a symphony](../write-a-symphony/symphony.md)
+
 [go for a run](../run/run.md)
 
 [sleep a bit](../sleep/marshmallow.md)

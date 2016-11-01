@@ -6,6 +6,8 @@ It is best of the internet.
 
 It is free.
 
+Potato
+
 It is mesmerizing.
 
 It is transcendental.
@@ -30,6 +32,8 @@ but seemingly everyone makes use of Wikipedia!
 Until you get bored and go explore [here](https://www.urbandictionary.com) instead.
 
 Then after you explore the website, you learn a few neat tricks. 
+
+Then you want to show the world your new tricks by creating your own channel on [YouTube](https://www.youtube.com/). 
 
 [Play minecraft](../you-are-in-minecraft/minecraft.md)
 
