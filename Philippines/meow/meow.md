@@ -1,4 +1,4 @@
 meow meow meow meow meow meow meow?
 meow meow meow.
 meow!
-meow meow... MEWO!
+meow meow... [MEWO!](../salamat.md)
