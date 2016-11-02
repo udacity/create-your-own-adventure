@@ -160,3 +160,4 @@ if you understand maithli, click [here...](maithli/maithli.md)
 
 if (you.understand("C#")) here.click();
 
+if you speak Bahasa Indonesia [klik disini](indonesia/bahasa-indonesia.md)
