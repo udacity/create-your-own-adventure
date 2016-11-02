@@ -29,3 +29,5 @@
 هذه التجربة رائعة 
 
 [أحب هذا الكورس](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)
+
+[تعلم لغة جديدة](new_lang/new_lang.md)
