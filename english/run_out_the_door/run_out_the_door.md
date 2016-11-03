@@ -18,3 +18,5 @@ You...
 [Go back inside](../marshmallow.md) and reclaim your rightful position in mediocrity.
 
 Decide to [start dancing bachata](../start-dancing/startDancing.md) and everybody start to clap and cheer you up.
+
+[Trip and stumble into a pitch-black cave.](grue/grue.md)
