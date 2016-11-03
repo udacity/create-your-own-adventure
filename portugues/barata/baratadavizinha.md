@@ -15,4 +15,6 @@ a barata da vizinha está na minha cama.
 
 [Diz aí Alexandre o que "cê" vai fazer:](Alexandre/alexandre.md)
 
+[Diz aí Biluguinha o que "cê" vai fazer:](Biluga/biluga.md)
+
 E vc? O que "cê" vai fazer?
