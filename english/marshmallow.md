@@ -6,6 +6,8 @@ NGE is [here] (NGE/NGE.md)
 
 or
 
+Read up on a great radio station called [kexp] (kexp/kexp.md)
+
 spend your time [wisely](http://www.pythonchallenge.com/)
 
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
