@@ -1,9 +1,9 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
 Do you know Brazil?
-If not, [come here](https://github.com/udacity/create-your-own-adventure/blob/master/Brazil/brazil.md)!
+If not, [come here](../Brazil/brazil.md)!
 
-or 
+or
 
 NGE is [here] (NGE/NGE.md)
 
