@@ -1,7 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
 Do you know Brazil?
-If not, [come here](../Brazil/brazil.md)!
+If not, [come here](../portugues_br/brazil.md)!
 
 or
 
