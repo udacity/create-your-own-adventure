@@ -29,7 +29,7 @@ The rat smiles and says, "Come on, let's go!"
 
 [Turn on the chocolate sprinkler!](sprinkler/eating-chocolate.md)
 
-[Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
+[Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)?
 
 [Burn brightly](burn-brightly/burn-brightly.md)
 
