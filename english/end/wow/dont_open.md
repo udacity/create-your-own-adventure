@@ -1,4 +1,4 @@
-Why did you click the link,
+Why did you click the link
 it clearly says to not open the link
 well since your here and not to leave you disappointed
 here is a cat 😺
