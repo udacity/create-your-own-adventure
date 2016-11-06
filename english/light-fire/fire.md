@@ -16,6 +16,7 @@ walls for you to squeeze through.
 But then you notice a rat entering that opening too.
 
 The rat smiles and says, "Come on, let's go!"
+This.
 
 [Enter that opening](magic-world/alice.md)
 
@@ -44,5 +45,4 @@ The rat smiles and says, "Come on, let's go!"
 [Drink some coffee.](../coffee/coffee.md)
 [Sleep]
 [Have some chocolate coffee.](../coffee/coffee.md)
-
 
