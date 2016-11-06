@@ -7,4 +7,4 @@ turn around after half a kilometer. Better than nothing!
 
 Or...
 
-Your inspired to run a marathon! [marathon](marathon/marathon.md)
+You're inspired to run a marathon! [marathon](marathon/marathon.md)
