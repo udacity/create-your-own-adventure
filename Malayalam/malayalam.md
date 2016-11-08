@@ -12,3 +12,5 @@
 
 [ശശി] (../english/tintumon-mallu/tintu-main.md)
 
+[ടിന്റുവും മാഷും] (../malayalam/tintu/tintu-teacher.md)
+
