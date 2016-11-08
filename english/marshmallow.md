@@ -12,7 +12,7 @@ spend your time [wisely](http://www.pythonchallenge.com/)
 
 Are you a:
 
-[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) 
+[cat person](http://www.cbc.ca/news/canada/british-columbia/bobcat-goes-fishing-in-burnaby-1.3837812) 
 
 or a 
 
