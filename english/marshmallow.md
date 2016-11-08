@@ -291,7 +291,8 @@ I see that you may be from the North. [How's it going?](./north/north.md)
 
 "Well- OK," you admit to yourself, "perhaps I do indulge in the occasional intoxicant!"
 
-In a brief moment of clarity, you decide it's time for a change and start to [cycle forwards](./cycling-forwards/cycling-forwards.md).
+In a brief moment of clarity, you decide it's time for a change and start to 
+[cycle forwards](./cycling-forwards/cycling-forwards.md).
 
 You hear a small bird sound in the distance.
 
