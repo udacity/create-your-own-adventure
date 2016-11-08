@@ -10,7 +10,7 @@
 
 ടിന്റുമോന്റെ ചങ്ങതിആയിരുന്നു ശശി
 
-[ശശി] (english/tintumon-mallu/tintu-main.md)
+[ശശി] (../english/tintumon-mallu/tintu-main.md)
 
-[ടിന്റുവും മാഷും] (malayalam/tintu/tintu-teacher.md)
+[ടിന്റുവും മാഷും] (../Malayalam/tintu/tintu-teacher.md)
 
