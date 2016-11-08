@@ -1,2 +1,2 @@
-Of course pogo fish were at a natural advantage; while they always need to hop forwards, 
-it's also possible to travel upwards.
+Of course pogo fish were at a natural advantage; while they always needed to generally hop forwards, 
+it was also possible to travel upwards and downwards, repeatedly.
