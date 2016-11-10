@@ -12,3 +12,9 @@ You climb out of the water dripping wet. The bees have gone. The sweet honey
 beckons to you. You saunter forward, remembering your first sip of mead. You 
 quickly scoop a jar of honey from the thrashed beehive, stash it in your 
 waterskin, and scamper back to camp unscathed.
+
+Do you think 
+
+[this was enough hard work for today and take a nap under a tree](nap/nap.md)
+
+[or do you go for another hunt into the forest?](forest/forest.md)
