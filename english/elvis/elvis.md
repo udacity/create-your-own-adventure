@@ -1,0 +1,1 @@
+You see the king. But something is different about him. He has transformed into a black mouth cur wearing a white jumpsuit and gold rimmed shades. Hail to the king, baby!
