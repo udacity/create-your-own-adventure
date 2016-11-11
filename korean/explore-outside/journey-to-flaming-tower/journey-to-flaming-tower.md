@@ -3,4 +3,5 @@
 어떻게 할까요?
 
 [친구를 만나느라 샤샤샤를 외치며 다시 마시멜로 구조물로 돌아간다](../../marshmallow.md)
+
 [계속 불붙은 탑을 향해 간다] (./flamingtower/toweroffire.md)
