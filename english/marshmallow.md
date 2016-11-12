@@ -1168,3 +1168,5 @@ I am also a soccer fan, I am a Man U fan from EPL. To see Man U click [here](Man
 Wow, you made it to the end!  You are determined, [see](persistent/persistent.md) what awaits.
 
 Wait! This is not the end! OMG [click me](never_ended/never_ended.md) 
+
+have you already heard the story of the Choking Doberman? [click me](dog_finger/dog_finger.md)
