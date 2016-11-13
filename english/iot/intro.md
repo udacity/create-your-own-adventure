@@ -24,3 +24,4 @@ Hours rolled by and the plight didn't seem to change. Terror soon took over him.
 What will he do? 
 
 [Will he scan the network for other devices?](../iot/scan-network/scan-network.md)
+[Want to explore projects for IOT](../iot/projects/proDriveCam.md)
