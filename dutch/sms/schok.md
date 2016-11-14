@@ -1,0 +1,1 @@
+OH NEE, de stroopwafels zijn op!! Wat nu? Zal ik nieuwe kopen, stelen of bakken?
