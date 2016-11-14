@@ -7,4 +7,6 @@ Make it better next time.
 
 Wait, what was that noise?
 
+Large bats fly over your head.
+
 [Investigate](../cave/cave.md)
