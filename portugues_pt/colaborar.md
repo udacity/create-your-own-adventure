@@ -32,3 +32,7 @@ Para visitar Portugal clica [aqui](https://www.visitportugal.com/pt-pt).
 [O que fazer](http://www.timeout.com/city-guides/things-to-do-in-lisbon/) em Lisboa.
 
 Pensava numa forma de criar [emprego](emprego/criar_emprego.md) na minha terra natal.
+
+Iria passear na [Itália](italia/italia.md)
+
+Investiria no [saturnov](http://www.saturnov.com/) 
