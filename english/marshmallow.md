@@ -1170,3 +1170,5 @@ Wow, you made it to the end!  You are determined, [see](persistent/persistent.md
 Wait! This is not the end! OMG [click me](never_ended/never_ended.md) 
 
 have you already heard the story of the Choking Doberman? [click me](dog_finger/dog_finger.md)
+
+Join me in [Tree of Savior!](tos/tos.md)
