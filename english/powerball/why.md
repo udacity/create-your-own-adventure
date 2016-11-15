@@ -1,0 +1,1 @@
+The chance of winning are 1 in over 300,000,000.
