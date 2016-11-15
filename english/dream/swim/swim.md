@@ -12,4 +12,4 @@ flipper wrapped tightly in the ends of licorice whips.
 
 You are trapped. Your dream is going horribly wrong. You have been ensnared by... 
 
-[Snake](../dream/swim/snake/snake.md)
+[Snake](../swim/snake/snake.md)
