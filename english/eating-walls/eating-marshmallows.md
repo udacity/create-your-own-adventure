@@ -1,5 +1,5 @@
 After taking more than a few bites, you start to feel sick.  You're not sure this was a
-good idea.  On the other hand, it sure is tasty! In fact, you decide to eat even more marshmallows!
+good idea to take few more bites.  On the other hand, it sure is tasty! In fact, you decide to eat even more marshmallows!
 
 You gouge and dig at the walls with your fingers or a fork or both or whatever implement
 this story happened to provide you. Shoveling the fluffy, whipped sugar into your mouth,
