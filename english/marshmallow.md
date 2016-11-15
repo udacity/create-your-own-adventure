@@ -1172,3 +1172,5 @@ Wait! This is not the end! OMG [click me](never_ended/never_ended.md)
 have you already heard the story of the Choking Doberman? [click me](dog_finger/dog_finger.md)
 
 Join me in [Tree of Savior!](tos/tos.md)
+
+Let's do the [Front-end Web Developer Nanodegree](front_end/front_end.md) together!
