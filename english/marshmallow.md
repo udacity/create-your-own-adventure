@@ -1174,3 +1174,5 @@ have you already heard the story of the Choking Doberman? [click me](dog_finger/
 Join me in [Tree of Savior!](tos/tos.md)
 
 Let's do the [Front-end Web Developer Nanodegree](front_end/front_end.md) together!
+
+How about we all [learn android](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) !
