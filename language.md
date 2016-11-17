@@ -161,5 +161,3 @@ if you understand maithli, click [here...](maithli/maithli.md)
 if (you.understand("C#")) here.click();
 
 if you speak Bahasa Indonesia [klik disini](indonesia/bahasa-indonesia.md)
-
-如果你喜欢李白的将进酒. Click [Here］(Chinese/Jiangjinjiu/Jiangjinjiu.md)
