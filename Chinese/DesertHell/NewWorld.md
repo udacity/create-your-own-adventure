@@ -7,4 +7,4 @@ end
 
 [我不想听，继续往前走。](./Walk/Walk.md)
 
-老头子说，李白的将进酒，你们听过吗？ [没听过](./Walk/Jiangjinjiu.md)
+老头子说，李白的将进酒，你们听过吗？ [没听过](./Jiangjinjiu/Jiangjinjiu.md)
