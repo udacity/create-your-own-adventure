@@ -24,6 +24,8 @@ If you speak the language of love, [kiss here](love/love.md)
 
 如果你说中文而且想要了解一个新的世界，[请点击这里](Chinese/DesertHell/NewWorld.md).
 
+如果你喜欢李白的将进酒，［点击这里］(Chinese/Jiangjinjiu/Jiangjinjiu.md).
+
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
 اذا كنت تتحدث العربية، [اضغط هنا](arabic/salamoAlikom.md)
