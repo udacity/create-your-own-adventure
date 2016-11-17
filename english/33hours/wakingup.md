@@ -3,7 +3,7 @@ from the brightness. You're still in your clothes and are lying in the middle of
 cheap motel room. You have no idea where you are or how you got here.
 
 You sit up and immediately feel pain on the back of your head. Some dried blood cakes the pillow you were lying on. Your
-wallet and mobile phone are gone. In fact, your pockets are completely empty.
+wallet and mobile phone are gone. In fact, your pockets are completely empty. This is not what you expected to have happen.
 
 [Explore the motel room.](explore-room/room.md)
 
