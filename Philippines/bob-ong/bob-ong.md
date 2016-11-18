@@ -13,4 +13,4 @@ Bakit mo binasa ang libro ni Bob Ong?
 
 Sino ang mas paborito mo si Bob Ong o Jericho Rosales?
 
-Nahilo ka na ba? Sige ito ang gamot [gamot] (../salamat.md)sa hilo. 
+Nahilo ka na ba? Sige ito ang gamot [gamot] (../salamat.md) sa hilo. 
