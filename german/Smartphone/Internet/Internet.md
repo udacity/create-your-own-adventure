@@ -9,3 +9,5 @@ Da du Internetempfang und einen aktzeptablen Akkustand hast, ...
 ob er dich an deiner aktuellen GPS Position abholen kann.
 
 [erstmal deine Lieblings Nachrichten-Website aufrufen...](Internet.md)
+
+[Isst du einen Bissen Schokolade zur Beruhigung...](../../Essen/Schokolade/Schokolade.md)
