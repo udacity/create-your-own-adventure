@@ -1,0 +1,2 @@
+Un libro para el público desconocedor del tema, que quieren iniciar o ya son ingenieros en sistemas, y no tienen problemas, con ver contenidos
+por docenas, incluso centenas, tú al igual que yo estarás viendo [historias obscenas](../canudos.md). Sin embargo queremos expandir nuestro conocimiento, le he dedicado unos días a [git](https://git-scm.com) y no me arrepiento, sin duda es una herramienta que surgió del talento, pues crearon un sistema de control de versiones y [github](https://github.com), una plataforma para colaboraciones.
