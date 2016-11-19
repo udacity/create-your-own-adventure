@@ -10,4 +10,4 @@ YOU HAVE FOUND ME. I HOLD THE WORLD'S SECRETS OF HUMANKIND KNOWLEDGE OF THE 21ST
 
 You read the eerie forewarning, and you looked at the options below and decided to choose one of them.
 
-[MOVIES](./movies/movies.md)
+[MOVIES](./english/movies/movies.md)
