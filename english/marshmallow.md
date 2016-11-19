@@ -1180,3 +1180,5 @@ Let's do the [Front-end Web Developer Nanodegree](front_end/front_end.md) togeth
 How about we all [learn android](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) !
 
 Let's finish a small goal, [for example](set_up_a_small_goal/setup_a_small_goal.md)
+
+You decide to teach google to be a [Pictionary](https://quickdraw.withgoogle.com/) champion.
