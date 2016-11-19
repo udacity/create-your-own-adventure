@@ -19,3 +19,7 @@ O kung gusto mo namang kumain, tara [kain] (kain/kain.md) tayo !
 Kinsay balo mag binisaya dinhi?
 
 meow meow meow? [meow!](meow/meow.md)
+
+Sumali sa usapan ng mga fan ni Bob Ong [Bob Ong] (bob-ong/bob-ong.md).
+Alamin kung gaano mo kakilala ang iyong idolo.
+Petsa: Nobyembre 17, 2016
