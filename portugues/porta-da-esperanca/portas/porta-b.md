@@ -1,6 +1,6 @@
 Você encontrou a macaca Monga 
 
-não existe solução parao seu bug.
+não existe solução para o seu bug.
 
 ié ié Pegadinha do malandro.
 
