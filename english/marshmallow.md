@@ -1,5 +1,7 @@
 ﻿Once upon a time many authors collaborated to make meaningless linked story.
 
+hi~
+
 NGE is [here] (NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
@@ -1171,3 +1173,15 @@ I am also a soccer fan, I am a Man U fan from EPL. To see Man U click [here](Man
 Wow, you made it to the end!  You are determined, [see](persistent/persistent.md) what awaits.
 
 Wait! This is not the end! OMG [click me](never_ended/never_ended.md) 
+
+have you already heard the story of the Choking Doberman? [click me](dog_finger/dog_finger.md)
+
+Join me in [Tree of Savior!](tos/tos.md)
+
+Let's do the [Front-end Web Developer Nanodegree](front_end/front_end.md) together!
+
+How about we all [learn android](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) !
+
+Let's finish a small goal, [for example](set_up_a_small_goal/setup_a_small_goal.md)
+
+You decide to teach google to be a [Pictionary](https://quickdraw.withgoogle.com/) champion.
