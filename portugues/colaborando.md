@@ -3,7 +3,7 @@ aplicativo, você detecta um bug.
 
 Você:
 
-[Vai para a porta da esperança do Silvio Santos](porta-daesperanca/porta.md)
+[Vai para a porta da esperança do Silvio Santos](porta-da-esperanca/porta.md)
 
 [Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
 
