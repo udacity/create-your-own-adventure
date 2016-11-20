@@ -3,5 +3,5 @@ The bear is now twice as big, and looks angry.
 You turn to ask for help from the shawman, but he's vanished.
 You slowly turn to the bear, and feel a hot breath on the back of your neck.
 You decide you have two choices; [try to conjure new powers,] (conjure.md)
-[or keep running] (running.md)
+or [keep running] (running.md)
 
