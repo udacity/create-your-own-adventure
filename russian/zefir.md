@@ -26,8 +26,6 @@
 
 Ваши действия:
 
-[Зайти на двач](2ch/2ch.md)
-
 [Пригласить профессора Воробьева](invite-proffesor/invite-proffesor.md)
 
 [Попросите девушку ущепнуть вас](girlfriend-pinch-you/girlfriend-pinch-you.md)
@@ -117,3 +115,5 @@
 [Включите музыку](music/turn_music.md)
 
 [Наделаю селфи](selfie/make_selfie.md)
+
+[Зайти на двач](2ch/2ch.md)
