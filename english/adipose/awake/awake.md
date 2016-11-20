@@ -13,4 +13,4 @@ you died in your dreams.
 
 It sucks.
 
-It really sucks.
+It really sucks. Truly and sincerely.
