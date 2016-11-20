@@ -37,6 +37,8 @@ Who is better?
 
 [Click Here](captain/captain.md) to vote for Captain America
 
+[Click Here](https://twitter.com) to go to twitter
+
 [Click Here] (ironman/ironman.md) to vote for Iron Man
 
 [Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
