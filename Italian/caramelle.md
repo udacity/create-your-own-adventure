@@ -30,3 +30,5 @@ Che fai?
 [Lavorare](lavorare/lavorare.md)
 
 [Accendo la luce](luce/luce.md)
+
+[Cerco lo smartphone] (smartphone/smartphone.md)

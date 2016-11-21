@@ -115,3 +115,5 @@
 [Включите музыку](music/turn_music.md)
 
 [Наделаю селфи](selfie/make_selfie.md)
+
+[Зайти на двач](2ch/2ch.md)
