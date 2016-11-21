@@ -1,8 +1,10 @@
-Just then, a crazed ostrich smacks into you at full-speed.  Your phone flies out of your hands and you hit the pavement.  
+Just then, a crazed ostrich smacks into you at full-speed.
 
-You wake up in the hospital tied down to your bed. IV's trickle into your veins. You shout, but you're all alone.  You see your phone at your side, but it's just out of reach.  What do you do?
+You wake up in the hospital. You see your phone, but it's just out of reach.  
 
-[Wait, and hope for the best] (..existential-dread/existential-dread.md)
+What do you do?
 
-[Ask the cat that just walked in for help] (..ask-a-cat/cat.md)
+[Wait, and hope for the best] (../existential-dread/existential-dread.md)
+
+[Ask the cat that just walked in for help] (../ask-a-cat/cat.md)
 
