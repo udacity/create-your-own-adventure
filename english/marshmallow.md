@@ -1182,3 +1182,6 @@ How about we all [learn android](https://www.udacity.com/course/android-develope
 Let's finish a small goal, [for example](set_up_a_small_goal/setup_a_small_goal.md)
 
 You decide to teach google to be a [Pictionary](https://quickdraw.withgoogle.com/) champion.
+
+Jason Calacanis is one of the best interviewers I've seen. 
+[Here](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A) they are
