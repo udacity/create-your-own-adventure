@@ -1,1 +1,0 @@
-What should I do with this vacuum?
