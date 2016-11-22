@@ -1,1 +1,0 @@
-Nadie quiere ser Robin, mejor vuelve al inicio de [todo](../canudos.md)

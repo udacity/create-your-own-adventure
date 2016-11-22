@@ -1,1 +1,0 @@
-But the bird starts running after you, and you don't seem to know how to get rid of it.
