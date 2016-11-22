@@ -11,10 +11,9 @@ In a dash, you throw the marshmallow at your ex-girlfriend and bail.
 
 But then you realize that you forgot your parachute!
 
-During free fall, with only seconds to live, your mind races when
+Your body hurtles through the air as you race towards a grisly death.
+Time slows to a crawl, when you notice something away in the distance:
 
-
-suddenly:
 You realize that your ex-girlfriend has a jet-pack prototype and
 she's coming at you for payback!
 
