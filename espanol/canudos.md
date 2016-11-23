@@ -184,3 +184,5 @@ Y [Resines](resines/resines.md) despertó de lo quer parecía un mal sueño.
 Al despertar Resines te pregunta si eres [Batman](batman/Batman.md)
 
 A lo que respondes: "Yo solo vine aquí a hablar de mi [libro](libro/libro.md)".
+
+Del [libro](libro/libro.md) donde vienen ejercicios, videos e instrucciones. Donde aprendes a manejar el [sistema control de versiones](git/git.md).
