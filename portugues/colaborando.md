@@ -69,3 +69,7 @@ BR BR BR Hue hue hue!!!!
 [Crio um novo branch,olho o bug e uso o github para obter ajuda] (http://gitref.org/)
 
 [Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
+
+Xingo muito o desenvolvedor do aplicativo e começo a aprender a codificar Android para ajudar na correção do bug.
+
+Uso o GitHub para [criar uma issue](https://help.github.com/articles/creating-an-issue/) e avisar a comunidade de que há um erro no código.
