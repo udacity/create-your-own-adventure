@@ -32,3 +32,5 @@ Che fai?
 [Accendo la luce](luce/luce.md)
 
 [Accendo il PC, apro Youtube e...](https://www.youtube.com/watch?v=Ct6BUPvE2sM)
+
+[Trovo una lettera misteriosa sul tavolo e sono indeciso su cosa fare](luca/hogwarts.md)
