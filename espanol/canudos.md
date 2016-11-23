@@ -184,3 +184,5 @@ Y [Resines](resines/resines.md) despertó de lo quer parecía un mal sueño.
 Al despertar Resines te pregunta si eres [Batman](batman/Batman.md)
 
 A lo que respondes: "Yo solo vine aquí a hablar de mi [libro](libro/libro.md)".
+
+[Mi libro Magico] lleno de hechisos , posimas y acertijos. (libroMagico/libroMagico.md) 
