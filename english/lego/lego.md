@@ -2,7 +2,7 @@ The mallow man seems nice so you chat to him after walking up to him.
 
 He decides he likes you too, so he gets out his Lego's.
 
-He's got Star Wars, Lego Movie, space, technics, oh so much lego and you play with it all!
+He's got Star Wars, Lego Movie, Harry Potter, space, technics, oh so much lego and you play with it all!
 
 I wish they had Pokemon lego too.
 
