@@ -1,4 +1,4 @@
-Dreams to Memories – Wisdom in Ladakh.To read this click [here](language.md)
+Dreams to Memories – Wisdom in Ladakh. 
 A ride to ladakh requires a lot of preparation and begins 
 with convincing folks back home and also at the office.
 As a popular quote says “Four Wheels move the body and two wheels move the soul”
