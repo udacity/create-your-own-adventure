@@ -184,3 +184,5 @@ Y [Resines](resines/resines.md) despertó de lo quer parecía un mal sueño.
 Al despertar Resines te pregunta si eres [Batman](batman/Batman.md)
 
 A lo que respondes: "Yo solo vine aquí a hablar de mi [libro](libro/libro.md)".
+
+Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/tiempo/maquina_del_tiempo.md).
