@@ -16,3 +16,5 @@ Mlada radnica ga je ljubazno gledala. Rekla je:
 "Možda bi Vam prijao niški burek sa eurokremom?" [klikni ovde](burekKrem/krem.md)
 
 Mislio se dugo šta bi mu najbolje za mamurluk prijalo i onde se dosetio.
+
+"Daćete mi jedan sa sirom, jedan jogurt i jedan niški za dezert, molim vas."
