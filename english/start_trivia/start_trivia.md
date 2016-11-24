@@ -12,3 +12,4 @@ You read the eerie forewarning, and you looked at the options below and decided 
 
 [MOVIES](./movies/movies.md)
 [BOOKS](./books/books.md)
+[GAMES](./games/games.md)
