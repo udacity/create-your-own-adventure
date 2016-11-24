@@ -1,4 +1,4 @@
-Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odyssey/HO.md)
+Dreams to Memories – Wisdom in Ladakh.To read this click [here](language.md)
 A ride to ladakh requires a lot of preparation and begins with convincing folks back home and also at the office. 
 As a popular quote says “Four Wheels move the body and two wheels move the soul” just riding 2500 Kms in 15 days was not the only objective
 of the dream I had for some time now. 
