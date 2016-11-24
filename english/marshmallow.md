@@ -1188,4 +1188,4 @@ Jason Calacanis is one of the best interviewers I've seen.
 
 My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.
 
-If you want to become a pokemon trainer, click [here](pokemon-trainer/pokemon-trainer.md)
+If you want to become a Pokemon trainer, click [here](pokemon-trainer/pokemon-trainer.md)
