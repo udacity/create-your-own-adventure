@@ -13,6 +13,10 @@ Everyone turns to stare at you!
 
 People begin to point fingers and laugh.
 
+The sound of riddicule quickly becomes deafening, to the poitn of madness.
+
+You realize you need to do something and do it quickly.
+
 You...
 
 [Go back inside](../marshmallow.md) and reclaim your rightful position in mediocrity.
