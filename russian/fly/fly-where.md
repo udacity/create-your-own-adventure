@@ -8,8 +8,8 @@
 Вы осматриваетесь по сторонам и решаете ...
 
 
-[ отправиться в пустыню](../desert/desert.md)
+[ отправиться в пустыню](../travelling/desert/desert.md)
 
-[ пройти через джунгли](../jungle/jungle.md)
+[ пройти через джунгли](../travelling/jungle/jungle.md)
 
-[ покорить гору](../mountain/mountain.md)
+[ покорить гору](../travelling/mountain/mountain.md)
