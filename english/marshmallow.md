@@ -1185,3 +1185,5 @@ You decide to teach google to be a [Pictionary](https://quickdraw.withgoogle.com
 
 Jason Calacanis is one of the best interviewers I've seen. 
 [Here](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A) they are
+
+My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.

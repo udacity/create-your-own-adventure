@@ -6,6 +6,8 @@ He's got Star Wars, Lego Movie, space, technics, oh so much lego and you play wi
 
 I wish they had Pokemon lego too.
 
+Not to mention Harry Potter!
+
 After a while he starts to get a bit too much, he doesn't get out much, you're bored.
 
 You look around wondering what to do.
