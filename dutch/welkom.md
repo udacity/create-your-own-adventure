@@ -19,6 +19,8 @@ U denkt
 ... maar de Iphone heeft weer geen batterij want deze gaat snel op. 
 Dus pak je maar je android die wel drie dagen lang meegaat!
 
+... op mijn android verschijnt een bericht over de leuke sport genaamd [padel](padel/padel.md).
+
 
 
 [Google translate NL](https://translate.google.com/#nl/en/)
