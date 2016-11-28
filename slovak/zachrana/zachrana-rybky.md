@@ -1,1 +1,2 @@
 Rybku sa rýchlo pokúsiš vytiahnuť z nosa. Po chvíli sa ti to podarí a hneď na to hľadáš spôsob ako ju zachrániť.
+Použi zaklínadlo "abrakadabra"
