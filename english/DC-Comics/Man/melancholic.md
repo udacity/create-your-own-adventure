@@ -11,5 +11,4 @@ The scene opens with an unshaven man in his bathrobe.  He lounges on his couch n
 "What if they just all move to the end of the bus that's NOT over the cliff?"
 
 "OK, OK, just let me call for an Uber..."
-:if expand("%") == ""|browse confirm w|else|confirm w|endif
 
