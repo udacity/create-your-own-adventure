@@ -1187,3 +1187,6 @@ Jason Calacanis is one of the best interviewers I've seen.
 [Here](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A) they are
 
 My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.
+
+Speaking of potatoes. Only the best ones make it to the french fries. Do you have a minute to speak about potato life?
+[Yes](english/potato-story/correct-answer.md) [No](english/potato-story/correct-answer.md)
