@@ -1,4 +1,6 @@
-The scene opens with an unshaven man in his bathrobe.  He lounges on his couch next to a mostly-empty pizza box.  The phone rings; he answers but we only hear his side of the conversation...
+The scene opens with an unshaven man in his bathrobe.  
+He lounges on his couch next to a mostly-empty pizza box.  
+The phone rings; he answers but we only hear his side of the conversation...
 
 "Hey."
 
