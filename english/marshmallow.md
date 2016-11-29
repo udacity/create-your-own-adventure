@@ -2,6 +2,8 @@ Once upon a time many authors collaborated to make meaningless linked story.
 
 hi~
 
+Life to live [here] (life-to-live/willo.md)
+
 NGE is [here] (NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
