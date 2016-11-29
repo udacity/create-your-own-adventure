@@ -24,4 +24,4 @@ Afterwards, you decide to:
 
 [swim](../swim/swim.md)
 
-[become a tender defender](/tender-defender/tender-defender.md)
+[become a tender defender](../tender-defender/tender-defender.md)
