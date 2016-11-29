@@ -25,4 +25,4 @@ DO BE: ready for anything
 DON'T BE: completely oblivious or totally anxious
 
 If you can do all these things, you will be on your way to becoming 
-[what women want](https://www.amazon.com/Mate-Become-Man-Women-Want-ebook/dp/B00RTY0FKK)
+[what women want](http://google.com)
