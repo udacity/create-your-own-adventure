@@ -18,7 +18,7 @@ Que faites-vous ?
 
 [J'appelle mon prof de musique](telephone/prof_musique.md)
 
-[J'appelle mon prof de maths](telephone/prof_maths.md)
+[J'appelle mon prof de maths](riddle/prof_maths.md)
 
 [Je dessine une porte avec un syphon de crème chantilly qui traine](dessine/porte.md)
 
