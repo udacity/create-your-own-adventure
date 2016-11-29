@@ -23,3 +23,5 @@ Afterwards, you decide to:
 [Drink a nice cup of tea](../tea/tea.md)
 
 [swim](../swim/swim.md)
+
+[become a tender defender](/tender-defender/tender-defender.md)
