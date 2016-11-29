@@ -26,4 +26,5 @@ DON'T BE: completely oblivious or totally anxious
 
 If you can do all these things, you will be on your way to becoming 
 [what women want](http://google.com)
+
 [this is the correct link:](http://www.goodreads.com/book/show/24396873-mate)
