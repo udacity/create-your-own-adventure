@@ -9,7 +9,7 @@ Which part of the world, and what time you want to travel? And why?
 
 [You travel to 2017 and meet with an Apple Engineer](https://www.youtube.com/watch?v=-XSC_UG5_kU)
 
-[Yout travel to the year 2400, an arbitrarily selected year
+[You travel to the year 2400, an arbitrarily selected year
 banking on there being time machines already invented](.year-2400/year2400.md)
 
 [You turn back](../marshmallow.md)
