@@ -19,3 +19,7 @@ Your cat doesn't care.
 [Give the cat to your sister and become a dog person.](../dog-person/dog.md)
 
 [Eh, it wasn't that great a symphony anyway. Settle in for kitty cuddles](../cuddle-the-cat/cuddle-cat.md)
+
+[Say "Oh, kitty.  I love you, but you do cause trouble.](../cat-symphony-trouble/rewrite-symphony.md)
+
+
