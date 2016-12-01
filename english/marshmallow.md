@@ -20,6 +20,10 @@ or a
 
 [dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
 
+or a 
+
+[pug person](https://www.youtube.com/watch?v=3pPR7vk-e3Y) ?
+
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
