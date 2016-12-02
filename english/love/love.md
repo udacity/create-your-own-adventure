@@ -48,3 +48,6 @@ Our hearts, always as one.
 
 God is love.
 Love.
+
+PS: it's bullshit
+
