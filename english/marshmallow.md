@@ -1,4 +1,4 @@
-﻿Once upon a time many authors collaborated to make meaningless linked story.
+Once upon a time many authors collaborated to make meaningless linked story.
 
 hi~
 
