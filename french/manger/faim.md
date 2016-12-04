@@ -8,3 +8,5 @@ A force de manger vous faites un trou dans le mur
 [Je me faufille par le trou](trou/trou.md)
 
 [Je continue à manger](continue/continue.md)
+
+[J'arrête de manger, je referme le trou](arreter/arreter.md)
