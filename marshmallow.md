@@ -1193,7 +1193,7 @@ Maybe this is a [dream](dream/dream.md)?
 Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 
-but then, at last, it is [time to rest]((go2sleep/go2sleep.md))
+but then, at last, it is [time to rest](go2sleep/go2sleep.md)
 
 
 
