@@ -1,4 +1,4 @@
-﻿Ako pričate Bosanski jezik [kliknite ovdje](Bosnian/Bosnian_story2.md)
+﻿Ako pričate Bosanski jezik [kliknite ovdje](Bosnian/Mesa/Bosnian_story2.md)
 
 If you speak English, [go here](english/marshmallow.md).
 
