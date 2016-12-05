@@ -48,7 +48,7 @@ mrske ljude poraziti
 
 Click [here](http://www.spiritofbosnia.org/volume-2-no-3-2007-july/gorcin/) for English version
 
-Trebalo bi ubijati prošlost sa svakim danom što se ugasi. 
-Izbrisati je kako ne bi boljela. 
-Lakše bi se podnosio dan što traje, ne bi se mjerio onim što više ne postoji. 
-Ovako se miješaju utvare i život, pa nema ni čistog sjećanja ni čistog života.
+-Trebalo bi ubijati prošlost sa svakim danom što se ugasi.
+-Izbrisati je kako ne bi boljela.
+-Lakše bi se podnosio dan što traje, ne bi se mjerio onim što više ne postoji.
+-Ovako se miješaju utvare i život, pa nema ni čistog sjećanja ni čistog života.
