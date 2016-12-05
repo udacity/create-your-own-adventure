@@ -7,4 +7,4 @@
 
 
 
-[盘丝洞怎么走？](../sell_film/sell_film.md)
+[盘丝洞怎么走？](sell_film/sell_film.md)
