@@ -9,5 +9,5 @@ Attempt to get super swole by lifting some [weights](weights/weights.md)?
 
 Or......
 
-maybe a [personal trainer](personal-trainer/
-personal_trainer.md) 
+maybe a [personal trainer](create-your-own-adventure/
+english/work-out/personal-trainer/personal_trainer.md) 
