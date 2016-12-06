@@ -6,6 +6,5 @@ you were in highschool. Struggling to press the bar back up, you concede to grav
 and sheepishly roll the bar down off yourself.
 
 or you go with the [personal trainer]
-(https://github.com/cvillere/create-you
-r-own-adventure/blob/local-user/english/
+(https://github.com/cvillere/create-your-own-adventure/blob/local-user/english/
 work-out/personal-trainer/personal_trainer.md)
