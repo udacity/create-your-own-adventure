@@ -19,3 +19,5 @@ El capitan miró hacia el cielo y encontró:
 [Chuky el muñeco diabólico](chuky/chuky.md)
 
 [Aventurero](aventurero/aventurero.md)
+
+[Pegaso](../pegaso/pegaso.md)
