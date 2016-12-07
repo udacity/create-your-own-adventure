@@ -5,11 +5,12 @@
 
  امثلة مواقع الكورسات اونلاين :
 
--Udacity
--coursera
--Udemy
--Khan Academy
--thenewboston
+-[Udacity] (https://www.udacity.com/)
+-[coursera] (https://www.coursera.org/)
+-[Udemy] (https://www.udemy.com/)
+-[Khan Academy] (https://www.khanacademy.org/)
+-[thenewboston] (https://www.youtube.com/user/thenewboston)
+-[Alison] (https://alison.com/)
 
 وفيه كتير بس انت عليك تدور
 
