@@ -6,13 +6,12 @@ You make a few steps further, when suddenly a lightning strikes your little shel
 
 Shreds of wood and plants are blasted away and your parachute blazes in flames. 
 You would have surely died if you had stayed in there.
-You feel an unexpected pain: a piece of wood pierced your left leg, causing a deep wound that keeps bleeding.
 Still dazzled and half deafened by the lighting, 
 you see a figure on a distant hill dancing wildly under the storm rains. 
 You think it could be a shawman.
 
-
 With your shelter destroyed, you have no reasons to stay here anymore. 
+The wound on your right leg is getting worse.
 You need help, or you will die soon.
 
 
