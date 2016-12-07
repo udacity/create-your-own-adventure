@@ -13,6 +13,7 @@ You think it could be a shawman.
 
 
 With your shelter destroyed, you have no reasons to stay here anymore. 
+The wounds on your legs are getting worse.
 You need help, or you will die soon.
 
 
