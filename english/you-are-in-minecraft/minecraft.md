@@ -23,6 +23,8 @@ HxM7nBml4E4_W9eLNTDyp4X9nZX7IcNuDO3a7KC7p_A)
 
 [Sing a song?](../sing-song/sing.md)
 
+[Build a House?](house/house.md)
+
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 
 [Dig down?](dig_down/dig_down.md)
