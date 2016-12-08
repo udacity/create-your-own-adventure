@@ -8,3 +8,5 @@ on its way, so you bolt out of the bathroom to the front door. After paying the 
 man, you turn around to see the owner of the ass looking at you with a smile on her face.
 
 After having some pizza together you both go into a hallucinogenic [slumber](../marshmallow.md)...
+
+And then wake up and do it all over again!
