@@ -1,0 +1,1 @@
+You go to my site [quarterpast4.com](https://quarterpast4.com) and realize I just may be a dev ninja! 
