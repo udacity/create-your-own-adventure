@@ -1,5 +1,5 @@
 You take a deep breath, your chest puffing out against your restrictive jacket.
-As you exhale, the walls stiffen, becoming less like marshmallow, and more like
+As you exhale, the walls stiffen, becoming less like marshmallows, and more like
 the interior of your cell. The walls are a toasted-marshmallow kind of dirty white
 color, not like the institutionalized white you remember from movies.
 
