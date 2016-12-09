@@ -3,4 +3,6 @@ con el universo.
 
 Después de mucho rato llegó a una conclusión:
 
-El universo lo somos TODOS.
+El universo lo somos TODOS. No existen universos paralelos ni únicos por cada persona. ¡El secreto está en ser consciente de ello!
+
+Luego de analizar internamente su conclusión, dijo: 
