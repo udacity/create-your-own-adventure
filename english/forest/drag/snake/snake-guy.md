@@ -9,4 +9,4 @@ is yelling. You can tell they are scared. Here they come! Quick! What do you do?
 
 [Slither down a hole to safety](slither/safety.md)
 
-[Eat them to keep them quiet]
+[Eat them to keep them quiet](eat/eat.md)
