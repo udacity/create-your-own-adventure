@@ -7,6 +7,6 @@ is yelling. You can tell they are scared. Here they come! Quick! What do you do?
 
 [Slither in their direction, hoping they will help](slither/help.md)
 
-[Slither down a hole to safety]
+[Slither down a hole to safety](slither/safety.md)
 
 [Eat them to keep them quiet]
