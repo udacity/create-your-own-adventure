@@ -117,3 +117,5 @@
 [Наделаю селфи](selfie/make_selfie.md)
 
 [Зайти на двач](2ch/2ch.md)
+
+[Попросить ключ на 14](kluch-na-14/kluch.md)
