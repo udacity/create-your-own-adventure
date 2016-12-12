@@ -18,4 +18,4 @@ public transportation.
 
 [Sleep till morning](../../marshmallow.md)
 
-[Go on the airplane](../airplane.md)
+[Go on the airplane](airplane.md)
