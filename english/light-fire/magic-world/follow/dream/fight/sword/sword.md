@@ -12,4 +12,4 @@ The rat smirks as you sink into the unknown.
 
 [Go into the light](/../master/language.md)
 
-Nope, no way you're going back to that hellhole. [You weren't born yesterday](dead.md), you know.
+Nope, no way you're going back to that hellhole. [You weren't born yesterday](dead/dead.md), you know.
