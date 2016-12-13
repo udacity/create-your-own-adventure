@@ -35,4 +35,6 @@ Google can't help you right now. You are on your own.
 
 [Succumb to amnesia](./forest.md)
 
+[Give up and lay down](./death.md)
+
 [Go back whence you came](../marshmallow.md)
