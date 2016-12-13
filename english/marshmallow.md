@@ -1195,5 +1195,5 @@ Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 Have you ever heard any unusual sounds 
 when you're alone? 
 They're not what you think. 
-Get to know them [here](blackAndwhite/Chapter 1/blackandWhiteShortStory.md)
+Get to know them [here](blackandWhiteShortStory.md)
 
