@@ -7,7 +7,7 @@
 I'm very lucky to live in the Avalon 
 Back Bay apartment complex, it is not 
 only very close to Copley Square, but 
-it is also inside a shopping mall!
+it is also inside a shopping mall!!
 
 [Go on vacation](../licked-cat/vacation.md)
 
