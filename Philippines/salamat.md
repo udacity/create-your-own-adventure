@@ -20,6 +20,10 @@ Kinsay balo mag binisaya dinhi?
 
 meow meow meow? [meow!](meow/meow.md)
 
+Pwede rin pumindot dito kung gusto mo ng maikling [joke] (joke/joke.md)
+
 Sumali sa usapan ng mga fan ni Bob Ong [Bob Ong] (bob-ong/bob-ong.md).
 Alamin kung gaano mo kakilala ang iyong idolo.
 Petsa: Nobyembre 17, 2016
+
+Samahan si Benj sa kanyang paglalakbay! [Tara!](tara/tara.md)
