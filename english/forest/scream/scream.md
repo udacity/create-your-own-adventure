@@ -1,6 +1,6 @@
 You decide to call out for help.
 
-"HEEEEEEEEELP!" you scream.
+"HEEEEEEEEELP!" you scream widly.
 
 Nothing.
 
