@@ -16,6 +16,10 @@ wearing a leather hood and jeans, smirks seeing Christy tremble in fear.
 Christy sprints to the window to check if someone is hiding there and sees no one. Stranger drifts into the eternal dark
 and leaves a puzzle behind for her.
 
-Christy's phone vibrates and drops off the table and Christy screams in dismay waking up the entire dorm. 
+Christy's phone vibrates and drops off the table 
+and 
+Christy screams in dismay waking up the entire dorm. 
 
-Everyone wakes up and walk into her messy room trying to figure out what happened. Christy's best friends Bella and Marie  console her and calm her from trembling.
+Everyone wakes up and walk into her messy room trying to figure out what happened. 
+
+Christy's best friends Bella and Marie  console her and calm her from trembling.
