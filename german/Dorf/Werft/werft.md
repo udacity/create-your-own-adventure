@@ -11,6 +11,10 @@ In dem Moment wo ihr eure Aufmerksamkeit wieder ans hier und jetzt richtet steht
 "Da hast du aber Glück gehabt du alter Streuner. Wie man unschwer erkennen kann bin ich Bootsbauer.
 Deine Kleine Nussschale hab ich wohl im Handumdrehen wieder heile."
 
+Er lacht laut.
+
+"Gib mir 2 Tage und sie wird wieder in Ordnung sein."
+
 -----------------------------------------------------------------------------------------------------------------------
 
 [Zurück zum Steg](../dorf.md)
