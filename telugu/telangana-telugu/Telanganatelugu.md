@@ -14,3 +14,4 @@
    క్రమంలో చేసే కవితా గానమే.
 
 Starting with a prayer. Please click [here](../prayer-telugu/prayer-telugu.md).
+My chages
