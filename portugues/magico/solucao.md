@@ -1,0 +1,1 @@
+ A situação torna-se complicada para solucionar o bug e a equipe resolve contratar um mágico para tentar solucionar o código.
