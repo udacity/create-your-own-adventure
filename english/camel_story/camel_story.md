@@ -1,0 +1,3 @@
+This is story of very ancient time, there was a camel. If someone talks to him the only reply from him was 'Humph' just 'Humph' and no more ...
+
+Click [here](https://americanliterature.com/author/rudyard-kipling/short-story/how-the-camel-got-his-hump) link to see complete story
