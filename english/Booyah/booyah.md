@@ -5,3 +5,5 @@ The world is now my [oyster.](https://en.wikipedia.org/wiki/Pacific_oyster)
 
 Have some booyah stew
 or call a [spirit](../call-spirit/call-spirit.md)
+
+Look at [puppies](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
