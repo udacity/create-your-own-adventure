@@ -14,7 +14,8 @@ Along the direction of the wind, through the window next to the bed, A tall and 
 wearing a leather hood and jeans, smirks seeing Christy tremble in fear.
 
 Christy sprints to the window to check if someone is hiding there and sees no one. Stranger drifts into the eternal dark
-and leaves a puzzle behind for her.
+
+leaving a puzzle behind for her.
 
 Christy's phone vibrates and drops off the table 
 and 
