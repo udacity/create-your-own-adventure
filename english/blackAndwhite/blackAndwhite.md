@@ -17,8 +17,9 @@ Christy sprints to the window to check if someone is hiding there and sees no on
 
 leaving a puzzle behind for her.
 
-Christy's phone vibrates and drops off the table and Christy screams in dismay waking up the entire dorm. Everyone wakes
-up and walk into her messy room trying to figure out what happened. Christy's best friends Bella and Marie console her 
+Christy's phone vibrates and drops off the table and Christy screams in dismay waking up the entire dorm. 
+
+Everyone wakes up and walk into her messy room trying to figure out what happened. Christy's best friends Bella and Marie console her 
 and calm her from trembling.
 
 Bella scans the surroundings and finds nothing suspicious.
