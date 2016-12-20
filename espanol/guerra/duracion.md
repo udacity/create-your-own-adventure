@@ -1,1 +1,0 @@
-Y muy a su pesar, aún quedarían muchos años hasta verla finalizar.

@@ -1,1 +1,0 @@
-![Burning Building](https://media.giphy.com/media/7XqRXKYV9odtm/giphy.gif)
