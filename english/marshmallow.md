@@ -1207,3 +1207,6 @@ Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
 
 What if I told that all this is just a bunch of [files](see-files/files.md)
 >>>>>>> upstream/master
+
+A Story of Being Alone
+Read it [here](alone/alone.md)
