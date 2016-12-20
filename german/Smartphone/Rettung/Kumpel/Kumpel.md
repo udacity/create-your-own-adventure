@@ -1,1 +1,0 @@
-Dein Kumpel kommt dich tatsächlich abholen und du wirst gerettet!

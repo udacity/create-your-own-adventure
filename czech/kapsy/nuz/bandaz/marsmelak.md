@@ -1,8 +1,0 @@
-Tak je to jasné, je to zatraceně dobrá simulace, protože kdyby to byla realita, 
-tak jsi už dávno omdlel z pohledu na krev.
-
-Teď už jen potřebuješ najít, kde se za stěnou z maršmeláku skrývá ovládací ovládací panel, 
-pak přečteš manuál v činštině a zazračně prolomíš administrátorské heslo a jsi vítěz....
-... a nebo by ses mohl podívat, co se skrývá za těmi otevřenými dveřmi...
-
-["Koukneš za dvere"](dvere/dvere.md)
