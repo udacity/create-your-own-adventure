@@ -5,7 +5,7 @@ dobre wino i przy okazji jest jego tyle, ¿e mo¿esz podzieliæ siê z nim z wszystk
 skrzatami i dobrymi duszkami, które zamieszkuj± poblisk± ³±kê, tam gdzie jest ujêcie wody miejskiej.
 W pobliskiej Biedronce kupujesz Kadarkê.
 
-Mo¿e masz ochotê przej¶æ siê na poblisk± ³±kê? A moze lepiej za sklep?
+Mo¿e masz ochotê przej¶æ siê na poblisk± ³±kê? A moze lepiej impreza za sklep?
 
 Co robisz?
 
