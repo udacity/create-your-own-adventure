@@ -22,3 +22,5 @@ figure out what happened. Christy's best friends Bella and Marie console her
 and calm her from trembling.
 
 Bella scans the surroundings and finds nothing suspicious.
+
+Marie sorts the mess around and the make the room look normal.
