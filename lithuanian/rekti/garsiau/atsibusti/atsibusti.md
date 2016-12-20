@@ -1,1 +1,0 @@
-Atsibusdo visiškoje tamsoje, o vilkai - dingę.
