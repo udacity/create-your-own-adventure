@@ -13,9 +13,9 @@ Christy walks back to her bed and slide into her quilt.
 Along the direction of the wind, through the window next to the bed, A tall and toned young man, 
 wearing a leather hood and jeans, smirks seeing Christy tremble in fear.
 
-Christy sprints to the window to check if someone is hiding there and sees no one. Stranger drifts into the eternal dark
-
-leaving a puzzle behind for her.
+Christy sprints to the window to check if someone is hiding there and sees no one. 
+Stranger drifts into the eternal dark
+and leaves a puzzle behind for her.
 
 Christy's phone vibrates and drops off the table and 
 Christy screams in dismay waking up the entire dorm. 
