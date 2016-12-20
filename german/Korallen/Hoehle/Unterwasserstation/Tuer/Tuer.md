@@ -1,4 +1,5 @@
-Der Raum ist groß und beleuchtet. Es scheint nur einen Ausgang zu geben und der ist mit einer großen Metalltür verschlossen.
+Der Raum ist groß und beleuchtet. Es scheint nur einen Ausgang zu geben
+und der ist mit einer großen Metalltür verschlossen.
 
 Was machen Sie?
 
