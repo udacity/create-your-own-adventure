@@ -3,3 +3,7 @@ You see before you train tracks and a softly glowing light on the wall facing yo
 The train tracks extend to your left and right.
 
 Which way should you go?
+
+[Left](turn-left/turn-left.md)
+
+[Right](turn-right/turn-right.md)
