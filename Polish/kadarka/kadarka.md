@@ -5,7 +5,7 @@ dobre wino i przy okazji jest jego tyle, ¿e mo¿esz podzieliæ siê z nim z wszystk
 skrzatami i dobrymi duszkami, które zamieszkuj± poblisk± ³±kê, tam gdzie jest ujêcie wody miejskiej.
 W pobliskiej Biedronce kupujesz Kadarkê.
 
-Mo¿e masz ochotê przej¶æ siê na poblisk± ³±kê?
+Mo¿e masz ochotê przej¶æ siê na poblisk± ³±kê? A moze lepiej za sklep?
 
 Co robisz?
 
@@ -15,4 +15,6 @@ Co robisz?
 [Jeszcze raz chcesz to sobie przemy¶leæ](./kadarka.md)
 
 [Idziesz na ³±kê](laka/laka.md)
+
+[Idziesz za sklep](zaSklepem/zaSklepem.md)
 
