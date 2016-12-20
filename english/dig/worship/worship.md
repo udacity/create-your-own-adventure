@@ -1,0 +1,1 @@
+Everyone is this material world is lost my dear bird, you should try to go to your eternal parents 

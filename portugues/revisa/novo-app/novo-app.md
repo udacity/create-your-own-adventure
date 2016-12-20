@@ -1,0 +1,1 @@
+Vá ao Google Play e baixe um novo app, pare de sofrer :)

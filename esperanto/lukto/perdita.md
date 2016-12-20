@@ -1,0 +1,3 @@
+La grundo ŝajnas komforta. Vi faligi kaj sorbas vin, kiel vestaĵoj.
+Laŭgrade komencas atingi viajn orelojn ritmon kun la notoj de piano. 
+En la malproksimo venas la sono de trumpeto. Estas kanto. Ĝi ŝajnas preni por ĉiam kaptita en la melcocha...
