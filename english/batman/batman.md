@@ -47,3 +47,5 @@ John Cena comes busting through the wall and screams:
 And in typical smark fashion, the crowd boos and chants "John Cena Sucks"
 
 Another shouts "Who is John Cena"
+
+"John Cena is batman ? Who is John Cena"
