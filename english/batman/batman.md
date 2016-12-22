@@ -45,3 +45,5 @@ John Cena comes busting through the wall and screams:
 "I'm batman!"
 
 And in typical smark fashion, the crowd boos and chants "John Cena Sucks"
+
+Another shouts "Who is John Cena"
