@@ -1210,5 +1210,6 @@ What if I told that all this is just a bunch of [files](see-files/files.md)
 
 A Story of Being Alone
 Read it [here](alone/alone.md)
+
 Information on some famous tv series
-[read it here](famous-tv-series/famous-tv-series.md)
+[click here](famous-tv-series/famous-tv-series.md)
