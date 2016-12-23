@@ -9,3 +9,6 @@ She gets off the bed and carefully look around for anything suspicious.
 She senses a movement along the wall on the other side of the dorm room.
 
 She sneaks next to the wall and tries to hear anyone on the other side of the wall.
+
+She hears someone gasping heavily and trembles in fear.
+
