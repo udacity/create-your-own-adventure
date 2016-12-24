@@ -11,3 +11,5 @@ A combination your oponent will fail to visualize, characteristic of his/her imp
 And you go back to reality.
 
 This game is getting [boring](../bored/bored.md).
+
+ugh.
