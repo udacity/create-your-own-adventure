@@ -12,3 +12,6 @@ She sneaks next to the wall and tries to hear anyone on the other side of the wa
 
 She hears someone gasping heavily and trembles in fear.
 
+Kristy gets drenched in sweat and sits on the edge
+of her bed gulping a bottle of water.
+
