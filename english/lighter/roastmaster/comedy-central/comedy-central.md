@@ -6,4 +6,8 @@ Justin Bieber is not amused at Jeff's jokes. Justin glares at you and threatens 
 
 After he disappears like an apparition..
 
+The curtain falls and rises. Behold, appears an old sage with four turtles.
+Blue turtle, red turtle, yellow turtle and a black turtle. Each turtle holds
+an egg that matches its own color.
+
 Do you:

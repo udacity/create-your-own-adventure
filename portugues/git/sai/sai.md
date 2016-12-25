@@ -1,0 +1,1 @@
+Rapaz, era pra você sair. O que faz aqui ainda?

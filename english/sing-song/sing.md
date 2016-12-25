@@ -15,3 +15,5 @@ Eventually you realize this is not very adventurous and decide to:
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 
 [Make Taffy!](../marshmallow-taffy/taffy.md)
+
+[The bird is the word!](../birdistheword/birdistheword.md)

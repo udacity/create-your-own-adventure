@@ -1,0 +1,2 @@
+孙悟空变成了recipe，被fork了好几千次。
+后来汤森对recipe发送了pull request，修改了孙悟空的配方。

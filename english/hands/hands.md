@@ -8,3 +8,5 @@ Do you:
 [Dig at the walls with a fork](../dig/dig.md)
 
 [Use the rope and the lighter to build up a door?](door/door.md)
+
+[scream appropriately at the fresh absence of your nails](../scream/scream.md)

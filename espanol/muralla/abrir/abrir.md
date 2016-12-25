@@ -4,6 +4,8 @@ En ese momento sintió que la piernas le temblaban y apresuradamente gritó:
 
 "¡Corred todo lo rápido que podáis!"
 
+En su interior aún esperaba oír las buenas noticias y que todo volviera a estar en paz.
+
 Sin embargo, estaba claro que el ejército enemigo llegaría 
 a la ciudad antes de los soldados. Beatito decidió:
 

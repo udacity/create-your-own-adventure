@@ -12,4 +12,16 @@ Here we provide a list of benefits:
 2. Increased muscle Strength and tone
 3. Enhanced gluten sensitivity 
 4. Kombucha cravings
-5. 
+5. Increase hipster status
+6. Weight reduction
+7. Protection from injury
+9. Increases happiness
+10. Meet righteous babes.
+11. Increases focus.
+12. Make you calm and manages anger.
+13. Help you connect with your soul and inner god.
+14. Take time off from from endless activity of mind and refocus and relax your mind
+
+It must be said though, that yoga is not a panacea. 
+It won't cure a serious illness, and we must be aware
+of this too.

@@ -1,5 +1,6 @@
-Sie besuchen Wiesn beim Oktoberfest. Sie sehen ein schönes Maedchen in einem grünen Dirndl. 
-Sie ist blond und hat lange geflochtene Haare. Als Sie sie anblickt, sie merkt das and laechelt zurück.
+
+Sie besuchen die Wiesn. Sie sehen ein schönes Mädchen in einem hellgrünen Dirndl. 
+Sie ist blond und hat lange geflochtene Haare. Als Sie sie anblickten, merkt sie das und lächelt zurück.
 
 [Laden Sie sie zum etwas zu trinken ein](../Einladen/einladen.md)
 

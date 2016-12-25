@@ -9,3 +9,9 @@
 ["Фристайла! Ракамакафо!"](freestyler/freestyler.md)
 
 [Летели облакааа...лалалалалалала](oblaka/oblaka.md)
+
+["Это не шутки, мы встретились в маршрутке..."](marshrutka/marshrutka.md)
+
+["Все бегут бегут бегут бегут бегут бегут бегут, а он им светит..."](svetophor/svetophor.md)
+
+[Эх, дубинушка, уууухнем...](dubinushka/dubinushka.md)

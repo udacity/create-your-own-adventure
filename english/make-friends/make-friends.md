@@ -11,3 +11,7 @@ Do you:
 [Do not tell him you're hungry!](hungry/hungry.md)
 
 [Attempt to speak the marshmallowish language](marshmallowish/marshmallowish.md)
+
+[Have a cup of coffee?](../coffee/coffee.md)
+
+[Ask the marshmellow man, "What's it all for?"](question/question.md)

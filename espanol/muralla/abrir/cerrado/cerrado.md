@@ -5,4 +5,6 @@ El ejército cayó implacable sobre los soldados.
 
 La batalla había comenzado.
 
+En el pueblo todos se rebelaron contra Beatito.
 
+Como podía abandonarlos solo a su suerte.

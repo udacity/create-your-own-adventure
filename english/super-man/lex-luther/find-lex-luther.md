@@ -7,3 +7,4 @@ After circling the global a few times you spot Lex walking into the Daily
 Planet. You immediately fear that he may have a nefarious plan for Lois Lane.
 
 Do you:
+Go find batman to find Lex together.

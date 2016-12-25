@@ -3,3 +3,5 @@ The little red fellow kind of creeps you out
   because these wishes might just come in handy ...
 
 [Wish that you and him teleport to the tower](./teleport/teleport.md)
+
+[Wish that you and him get an eagle to ride on](./eagle/eagle.md)

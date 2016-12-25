@@ -13,6 +13,16 @@ The walls around you begin to melt, globs of flaming marshmallow falling all aro
 As you somehow avoid the globs of marshmallow using your reflexes, you notice a big enough opening in the melted 
 walls for you to squeeze through.
 
+But then you notice a rat entering that opening too.
+
+The rat smiles and says, "Come on, let's go!"
+I add them.
+There is no conflict！
+
+[Enter that opening](magic-world/alice.md)
+
+[Start screaming seeing the rat](fire/alone.md)
+
 [Save yourself!](run-away/outside.md)
 
 [Begin to eat!](eating/inside.md)
@@ -23,11 +33,18 @@ walls for you to squeeze through.
 
 [Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
 
+[Burn brightly](burn-brightly/burn-brightly.md)
+
 [Call the marshmallow wall repair guy, Marshall M. Aloe](call-marshall/call-marshall.md)
 
 [Pull graham crackers from inside your jacket](graham-crackers/graham-crackers.md)
 
 [Say xyzzy.](xyzzy/xyzzy.md)
 
+[Extinguish fire.](extinguish-fire/extinguish-fire.md)
+
 [Drink some coffee.](../coffee/coffee.md)
 [Sleep]
+[Have some chocolate coffee.](../coffee/coffee.md)
+
+

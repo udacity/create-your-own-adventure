@@ -5,3 +5,6 @@ Am Rande der seltsamen Party entdecken Sie einen alten
  sowie eine huebsche junge Frau, die neben ihm steht. 
 
 Sie entschliessen sich, ...
+
+... zu den beiden hinzugehen und [grüßen freundlich](gruessen_freundlich/gruessen_freundlich.md).
+

@@ -3,4 +3,4 @@ Your stomach growls, but you know better.
 
 Do you:
 
-[Start your day over?] (../../marshmallow.md)
+[Start your day over?](../../marshmallow.md)

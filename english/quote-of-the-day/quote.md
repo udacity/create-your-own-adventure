@@ -15,6 +15,10 @@ Quote for [friends](friends/friends.md)
 
 Quote for [life](life/life.md)
 
+Quote for [inspiration](inspiration/inspiration.md)
+
+Quote for [luck](luck/luck.md)
+
 
 
 [Go back to marshmallow](../marshmallow.md)

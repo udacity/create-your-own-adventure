@@ -10,4 +10,8 @@ rubs his eyes, radiating disappointment.
 "I'm sorry," the doctor says. "Dr. Sakamoto will be here later on for another round 
 of shock treatments."
 
+"What? More shock treatments? I can't take those.. I am scared!" you say to the doctor.
+
+"Well, we dont have a choice. Do we? You are seeing marshmallow walls for heavens sake" the doctor says.
+
 [Sit and wait.](../../marshmallow.md)

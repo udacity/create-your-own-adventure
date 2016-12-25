@@ -17,3 +17,9 @@ just realize you have diabetes.
 
 
 [Magic](magic/magic.md)
+
+[Taste The Rainbow](rainbow/rainbow.md)
+
+[Inspect The Melted Marshmallow](swim/swim.md)
+
+[Sign Up For Obamacare](obamacare/signup.md)

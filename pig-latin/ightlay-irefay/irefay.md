@@ -5,3 +5,7 @@ ecomesbay everyay osay ightlyslay ownbray ustjay aboveyay ethay irefay.
 
 Ethay allsway aroundyay youyay eginbay otay eltmay, obsglay ofyay amingflay arshmallowmay allingfay
 allyay aroundyay youyay.
+
+Oday ouyay:
+
+[Ogay ithway ethay owflay andyay artstay eatingyay](artstay-eatingyay/artstay-eatingyay.md)?

@@ -19,3 +19,5 @@ You decide you in fact do not want to know the answer to the question,
 so you turn back and head into the forest again.
 
 [Head back to the forest](../forest.md)
+
+[Press Sara for answer anyway](./press-for-answer/press-for-answer.md)

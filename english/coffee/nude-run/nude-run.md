@@ -15,3 +15,5 @@ How do you respond?
 ["Cold."](../nude-run/cold-water/cold-water.md)
 
 ["... You're a badger."](../nude-run/badger/badger.md)
+
+["You remain silent...](../nude-run/silent/silent.md)

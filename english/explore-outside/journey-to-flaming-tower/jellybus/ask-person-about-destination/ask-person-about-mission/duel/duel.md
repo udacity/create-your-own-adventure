@@ -7,3 +7,7 @@ to stop me and I'll prove that I'm the most
 powerful warrior in Chocosnackland!", you shout.
 
 He instantly leaps to his feet and lets out a roar.
+
+Do you? 
+
+[Attack!](./attack/attack.md)
