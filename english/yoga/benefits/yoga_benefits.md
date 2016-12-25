@@ -1,4 +1,4 @@
-Yoga is a great way to work on your flexibility and strength. Just 
+Yoga is a great way to work on your flexibility and mental strength. Just 
 about everyone can do it, too -- it's not just for people who can 
 touch their toes or want to meditate.
 
