@@ -1,2 +1,2 @@
 为了拯救即将废弃的学校，他们选择了成为偶像。
-我来啦！[大贵族]（../nobleless/noblesless.md）
+我来啦！[大贵族](./nobleless/noblesless.md)
