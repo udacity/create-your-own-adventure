@@ -19,3 +19,6 @@ Kristy hears someone approaching her room. She sneaks
 beneath the bed and shuts her mouth to mute her 
 anxiety.
 
+A stranger in jeans and hoodie, covering larger portion of his
+face with his hood walks into the room and looks around.
+
