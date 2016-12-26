@@ -15,3 +15,7 @@ She hears someone gasping heavily and trembles in fear.
 Kristy gets drenched in sweat and sits on the edge
 of her bed gulping a bottle of water.
 
+Kristy hears someone approaching her room. She sneaks 
+beneath the bed and shuts her mouth to mute her 
+anxiety.
+
