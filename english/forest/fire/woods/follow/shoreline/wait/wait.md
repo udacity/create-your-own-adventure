@@ -1,4 +1,5 @@
 You wait, and the ominous creature appears. A giant 8-headed dragon appears.
+
 Over 30 feet tall, and each head spewing fire from their nostrils, the winged monster growls at you.
 While you stand there trembling with fear, the dragon approaches slowly.
 
