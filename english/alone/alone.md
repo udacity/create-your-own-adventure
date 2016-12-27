@@ -22,3 +22,6 @@ anxiety.
 A stranger in jeans and hoodie, covering larger portion of his
 face with his hood walks into the room and looks around.
 
+He walks across the room and scans the surroundings and
+hide in the walk-in closet.
+
