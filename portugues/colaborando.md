@@ -71,3 +71,5 @@ BR BR BR Hue hue hue!!!!
 [Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
 
 [Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
+
+A simpatia não resolveu o bug, então você resolve subir o morro do corcovado, até o Cristo Redentor, para pedir ajuda a entidades metafísicas cristãs.
