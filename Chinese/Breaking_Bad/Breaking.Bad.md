@@ -1,4 +1,4 @@
-[Breaking Bad](https://en.wikipedia.org/wiki/Breaking_Bad), 
+[Breaking Bad](http://www.imdb.com/title/tt0903747/?ref_=ttep_ep_tt), 
 又名《绝命毒师》，
 剧情主要内容是讲述一位在某中学教书的天才化学家得了肺癌，
 并且仅有数月的存活时间，
