@@ -32,6 +32,8 @@ You decide to drop everything you're doing and [run out the door](run_out_the_do
 
 Take some [time](meditation/meditation.md) off!
 
+Go to a [halloween party!](halloween/halloween.md)
+
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
 Who is better?
