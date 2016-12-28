@@ -25,3 +25,4 @@ face with his hood walks into the room and looks around.
 He walks across the room and scans the surroundings and
 hide in the walk-in closet.
 
+Kristy locks the closet from outside and screams on top of her voice.
