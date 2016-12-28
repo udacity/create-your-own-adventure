@@ -1,4 +1,8 @@
 Once upon a time many authors collaborated to make meaningless linked story.
+
+A few learned to [tango](tango/tango.md)
+
+Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
 hi~
