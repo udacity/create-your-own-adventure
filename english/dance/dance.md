@@ -1,5 +1,5 @@
 
-[Argentine tango](tango/tango.md)
+[Argentine tango](../tango/tango.md)
 
 ballet:
 
