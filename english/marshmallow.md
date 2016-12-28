@@ -1191,7 +1191,7 @@ My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.
 
 Maybe this is a [dream](dream/dream.md)?
 
-Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
+Or maybe you love [pugs](https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 <<<<<<< HEAD
 Have you ever heard any unusual sounds 
@@ -1201,7 +1201,7 @@ Get to know them [here](blackAndwhite/blackAndwhite.md)
 
 =======
 Like football or soccer(as many others call it)? Must Watch 
-[The_Greatest_Battle_Ever] (https://www.youtube.com/watch?v=KyHDZqp2ThU)
+[The_Greatest_Battle_Ever](https://www.youtube.com/watch?v=KyHDZqp2ThU)
 
 Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
 
