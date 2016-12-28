@@ -1,3 +1,5 @@
+Once upon a time in a land far far away in neverland lived a king called [Ghostman] (ghostman/ghost.md)
+
 Once upon a time many authors collaborated to make meaningless linked story.
 Enter [The Forest!] (forest/forest.md)
 
