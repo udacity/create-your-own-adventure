@@ -1,0 +1,3 @@
+"It's so cold, today."<br/>
+"Well, you are right." <br/>
+...
