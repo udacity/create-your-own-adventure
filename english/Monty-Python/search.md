@@ -1,6 +1,6 @@
 You set out on a search for the holy grail.
 
-[Ride to the nearest castle.]
+[Ride to the nearest castle.](castle/castle.md)
 
 Meet the black knight
 
