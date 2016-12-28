@@ -22,4 +22,6 @@ Or [attempt to communicate via telepathy](telepathy/telepathy.md).
 
 You begin playing [charades](charades/charades.md).
 
-[Panic!!](panic/panic.md)
+[Panic!!](panic/panic.md) 
+
+or [have a Monty-Pythonesque experience](Monty-Python/Monthy-Python.md)
