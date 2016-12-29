@@ -1,6 +1,6 @@
 You set out on a search for the holy grail.
 
-[Look for Gold](../grue/grue.md)
+[Look for Grue](../grue/grue.md)
 
 Ride to the nearest castle.
 
