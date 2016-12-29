@@ -26,3 +26,7 @@ He walks across the room and scans the surroundings and
 hide in the walk-in closet.
 
 Kristy locks the closet from outside and screams on top of her voice.
+
+Everyone in the dorm rushes to Kristy's room and her friends alert
+the security. Security storms into the room and carefully opens the
+closet door.
