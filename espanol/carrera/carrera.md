@@ -1,3 +1,0 @@
-Y el caballero arriba del dragón peleaba por llegar antes que su enemigo a la meta...
-
-[Premio](premio/premio.md)

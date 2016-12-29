@@ -1,0 +1,1 @@
+At that moment, you realize you're trapped in a mirrored reality of what you used to know! Everything you touch turns to air and at every horizon there's nothing but grayness and melancholy. Your life is over and sadly you can't do much about it as there is [no way](../bounce.md) back unless you look carefully.
