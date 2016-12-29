@@ -8,4 +8,4 @@ mit dem Mann nicht zu stimmen. Nach einem Augenblick wird Ihnen klar, dass er bl
 
 Sie entschließen sich 
 
-[dazu vor den beiden abzuhauen](abhauen/abhauen.md)
+[dazu vor den beiden abzuhauen](../abhauen/abhauen.md)
