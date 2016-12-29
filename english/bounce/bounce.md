@@ -8,3 +8,5 @@ bouncing around you bounce right through one of the marshmallow walls to find yo
 back at the beginning.
 
 [Beginning] (../marshmallow.md)
+
+[Mirrored Beginning](../mirbounce/mirbounce.md)
