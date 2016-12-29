@@ -1,10 +1,7 @@
 Domestic
 
-League
-First Division (until 1992) and Premier League:[nb 3] 20
-1907–08, 1910–11, 1951–52, 1955–56, 1956–57, 1964–65, 1966–67, 1992–93, 1993–94, 1995–96, 1996–97, 1998–99, 1999–2000, 2000–01, 2002–03, 2006–07, 2007–08, 2008–09, 2010–11, 2012–13 (record)
+League First Division (until 1992) and Premier League: 20
 
 Second Division: 2
-1935–36, 1974–75
 
 Now you know :)
