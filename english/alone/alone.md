@@ -30,3 +30,6 @@ Kristy locks the closet from outside and screams on top of her voice.
 Everyone in the dorm rushes to Kristy's room and her friends alert
 the security. Security storms into the room and carefully opens the
 closet door.
+
+Security checks inside and finds no one. Kristy scatters everything in the closet
+and finds nothing. Everyones leaves cursing Kristy and they think that it's a prank.
