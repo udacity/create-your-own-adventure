@@ -1,1 +1,1 @@
-Beim Griff nach dem Messer finden Sie in Ihrer Hosentasche auch noch Draht, Sprengstoff und Kaugummi.
+Beim Griff nach dem Messer finden Sie in Ihrer Hosentasche auch noch einen Draht, Sprengstoff und nen Kaugummi.
