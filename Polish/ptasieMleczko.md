@@ -14,3 +14,4 @@ Co robisz?
 
 [Idziesz kupiæ Kadarkê](kadarka/kadarka.md)
 i
+[Nic nie robisz](nic/nic.md)
