@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
 
 A few learned to [tango](tango/tango.md)
 
@@ -1220,4 +1220,4 @@ Information on some famous tv series
 
 I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
 
-It's time to have lots of fun! Wanna know how? [Just com here!](fun/fun.md)
+It's time to have lots of fun! Wanna know how? [Just come here!](fun/fun.md)
