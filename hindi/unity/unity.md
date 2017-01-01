@@ -1,0 +1,1 @@
+Unity without uniformity, diversity without fragmentation.
