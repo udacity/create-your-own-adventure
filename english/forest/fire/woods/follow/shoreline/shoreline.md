@@ -2,6 +2,10 @@ A sense of relief passes through you as you scramble onto the rocky shoreline of
 
 Deep within the dense forest comes an ominous growl. Something far larger,more dangerous than a bear.You freeze in fear
 
+It's coming closer, closer. Each footstep the creature takes shakes the ground like a mini earthquake. The growl is now a thunderous roar. Off to your right, nesteled behind the tall sea grass, you see a hut that looks like it's made of bamboo. 
+
 [Wait for what's coming](wait/wait.md)
 
 [Continue flowing down the river](river/river.md)
+
+[Run to the hut](hut/hut.md)
