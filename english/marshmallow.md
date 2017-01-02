@@ -1,4 +1,8 @@
 Once upon a time many authors collaborated to make meaningless linked story.
+
+A few learned to [tango](tango/tango.md)
+
+Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
 hi~
@@ -1213,3 +1217,7 @@ Read it [here](alone/alone.md)
 
 Information on some famous tv series
 [click here](famous-tv-series/famous-tv-series.md)
+
+I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
+
+
