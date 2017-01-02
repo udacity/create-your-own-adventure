@@ -35,3 +35,5 @@ Security checks inside and finds no one. Kristy scatters everything in the close
 and finds nothing. Everyones leaves cursing Kristy and they think that it's a prank.
 
 Kristy collapses and weeps uncontrollably. 
+
+Kristy's friends Bella and Ana console her and checks her surroundings.
