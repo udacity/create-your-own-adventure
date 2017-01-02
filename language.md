@@ -165,3 +165,7 @@ if you speak Bahasa Indonesia [klik disini](indonesia/bahasa-indonesia.md)
 Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odyssey/HO.md)
 
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
+
+If you speak Gaelic, [Click Here] (gaelic/gaelic_languages.md)
+
+If you speak Scottish Gaelic, [Click Here] (gaelic/scottish_gaelic/scottish_gaelic.md)

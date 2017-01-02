@@ -1,0 +1,1 @@
+Scottish Gaelic or Scots Gaelic, sometimes also referred to as Gaelic, is a Celtic language native to Scotland. A member of the Goidelic branch of the Celtic languages, Scottish Gaelic, like Modern Irish and Manx, developed out of Middle Irish. It is thus ultimately descended from Old Irish.
