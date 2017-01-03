@@ -16,3 +16,5 @@ Do you...
 [Use your phone to ask the Quora community what to do](../ask-on-quora/ask-on-quora.md)
 
 [Grab a cup of coffee and hope to piss everything out](../coffee/coffee.md)
+
+[Order another six pack, because you know... free beer](../another-six-pack/more-beer.md)
