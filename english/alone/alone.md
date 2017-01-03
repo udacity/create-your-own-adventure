@@ -33,3 +33,10 @@ closet door.
 
 Security checks inside and finds no one. Kristy scatters everything in the closet
 and finds nothing. Everyones leaves cursing Kristy and they think that it's a prank.
+
+Kristy collapses and weeps uncontrollably. 
+
+Kristy's friends Bella and Ana console her and checks her surroundings.
+
+They find no one around, everything in Kristy's room is untouched. Stranger
+sneaks behind the window and watch her weep.
