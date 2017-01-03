@@ -40,3 +40,6 @@ Kristy's friends Bella and Ana console her and checks her surroundings.
 
 They find no one around, everything in Kristy's room is untouched. Stranger
 sneaks behind the window and watch her weep.
+
+Kristy sees him at the window and runs into it. Her nose bleeds with the impact and 
+stranger fades into the dark leaving no clue.
