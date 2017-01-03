@@ -1,0 +1,1 @@
+Za sklepem spotykasz Ziutka i Mietka. Są bardzo elokwentni i od dzisiaj będą nazywać Cię per "SZEFO".
