@@ -8,3 +8,4 @@ The prompt pops up.
 
 
 
+Want a cool lego story? [Go here](../lego/lego.md)

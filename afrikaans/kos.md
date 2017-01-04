@@ -7,3 +7,5 @@ Jy voel honger. Jy besluit om iets eg Afrikaans te eet. Jy besluit om een van di
 - [Biltong] (./biltong/biltong.md)
 
 - [Koeksisters] (./koeksisters/koeksisters.md)
+
+- [Bobotie] (./bobotie/bobotie.md)
