@@ -43,3 +43,6 @@ sneaks behind the window and watch her weep.
 
 Kristy sees him at the window and runs into it. Her nose bleeds with the impact and 
 stranger fades into the dark leaving no clue.
+
+Bella holds Kristy from behind and usher her to the bed and Ana locks the window.
+Bella grabs the first aid kit and treats Kristy.
