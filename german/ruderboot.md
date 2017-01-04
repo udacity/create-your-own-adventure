@@ -41,3 +41,5 @@ Werden Sie:
 [Strecken Ihre Rücken auf dem Wasser und beginnen zu singen](Singen/singen.md)
 
 [Zum fliegenden Spaghettimonster beten, damit sie ueberleben?](beten/beten.md)
+
+[Das MacGyver-Messer aus der Hosentasche zu holen und das Ruderboot zu einem U-Boot umbauen] (MacGyver/uboot.md)
