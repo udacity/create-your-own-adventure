@@ -1,2 +1,2 @@
-Faci focul si te pui sa manci nalebele.
-Dupa care:
+Faci focul si te pui sa mananci nalbele rumenite.
+Dupa [care...] (../nalba.md)
