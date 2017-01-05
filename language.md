@@ -137,7 +137,6 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
-=======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
 If you speak Gujarati, go [here](Gujarati/gujarati.md).
@@ -165,3 +164,6 @@ if you speak Bahasa Indonesia [klik disini](indonesia/bahasa-indonesia.md)
 Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odyssey/HO.md)
 
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
+
+Click [here] (urdu/cinderella-in-urdu/cinderella-in-urdu.md) for Cinderella in Urdu
+ 
