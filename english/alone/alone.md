@@ -46,3 +46,6 @@ stranger fades into the dark leaving no clue.
 
 Bella holds Kristy from behind and usher her to the bed and Ana locks the window.
 Bella grabs the first aid kit and treats Kristy.
+
+Bella stops the blood flow and plasters Kristy's nose and Ana scans surroundings
+to check for anything suspicious.
