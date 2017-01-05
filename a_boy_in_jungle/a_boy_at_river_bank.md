@@ -1,11 +1,11 @@
-	One day a boy went in Jungle. He walks through the trees and grass.
+   One day a boy went in Jungle. He walks through the trees and grass.
 He still walks, So far he reach deep inside the forrest and still he 
 continues to walk after some time while walking he reach to a river 
 bank. He see that the other side of river edge have very nice trees 
 with huge fruits on it, he think that i shall have them. So now he 
 decides to go on that side of the river. Now he start thinking that 
 "How can I go there?"
-	The boy is alone along the river bank and start thinking "How can 
+    The boy is alone along the river bank and start thinking "How can 
 I go there and eat those fruit?". Mean while, a monkey come along side 
 the boy, that monkey also wants to eat those fruits. Without any delay 
 the mokey starts on walking on the water and reach to that end of the 
