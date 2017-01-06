@@ -4,6 +4,7 @@ Internet of Things(IoT) is a network of synchronised physical 'things' - gadgets
 automobiles, buildings - embedded with sensors and powerful electronic circuits
 powered by intelligent code that enable them to talk to each other without human
 interference.
+
 Click [here](https://en.wikipedia.org/wiki/Internet_of_things) for iot wiki.
 
 The story begins here ...
