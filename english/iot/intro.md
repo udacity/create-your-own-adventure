@@ -5,6 +5,8 @@ automobiles, buildings - embedded with sensors and powerful electronic circuits
 powered by intelligent code that enable them to talk to each other without human
 interference.
 
+Click [here](https://en.wikipedia.org/wiki/Internet_of_things) for iot wiki.
+
 The story begins here ...
 
 The Internet of Things(IoT) is a new digital world that has a varied population.
