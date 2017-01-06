@@ -5,5 +5,5 @@
 
 Ви відповіли...
 
-[П](../../../Jackson/jackson.md)
+[Відповідь](jackson/jackson.md)
 
