@@ -49,3 +49,6 @@ Bella grabs the first aid kit and treats Kristy.
 
 Bella stops the blood flow and plasters Kristy's nose and Ana scans surroundings
 to check for anything suspicious.
+
+Kristy eventually crashes on her bed but the stranger come back to strangle her
+with pillow.
