@@ -51,3 +51,8 @@ Love.
 
 PS: it's bullshit
 
+
+Love is not an emotion it is your very existance
+
+
+
