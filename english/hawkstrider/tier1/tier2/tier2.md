@@ -2,7 +2,7 @@ The hawkstrider looks quite happy:
 
 "Reeeeeeaarrr. Uuuuuurr."
 
-A. [How ya doin fam?](../../error/error.md)
+A. [Here birdy birdie bird](../../error/error.md)
 
 B. [Kim'jael!](../../rude/rude.md)
 

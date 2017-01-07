@@ -1,8 +1,11 @@
-The hawkstrider steps closer then says:
+The hawkstrider shifts it's weight every word:
 
-"Urrrrr. Reaarrr. Urrrrr."
+"Rrrrearrrr!"
 
-A. [How ya doin fam?](../error/error.md)
-B. [Doral ana-diel?](../error/error.md)
-C. [Rearrrrr](../error/error.md)
-D. [Urrrrrrr](../error/error.md)
+A. [Let's Dance!](../../../../error/error.md)
+
+B. [Anaria Shola](../../../../error/error.md)
+
+C. [Rearrrrr](../../../../error/error.md)
+
+D. [Urrrrrrr!](./tier5/tier5.md)
