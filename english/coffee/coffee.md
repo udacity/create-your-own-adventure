@@ -1,4 +1,5 @@
 Do not mistake my yawn.
+
 It is a silent scream for coffee.
 
 The bitter-sweet flavor of roasted coffee beans invigorates your soul.
@@ -43,4 +44,4 @@ After having your coffee do you want to:
 .
 
 Coffee creates a great medium for people to have conversations about ideas and visions.
-Have chocolate coffee in the morning and [enjoy.](another-coffee/another-coffee.md) 
+Have chocolate coffee in the morning and [enjoy.](another-coffee/another-coffee.md)
