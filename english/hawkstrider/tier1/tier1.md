@@ -8,4 +8,4 @@ B. [Sinu A'manore](./tier2/tier3/tier3.md)
 
 C. [Rearrrrr](../error/error.md)
 
-D. [Urrrrrrr](../error/error.md)
+D. [Urrrrrrr](./tier2/tier2.md)

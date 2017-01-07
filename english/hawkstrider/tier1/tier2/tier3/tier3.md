@@ -1,8 +1,11 @@
 The hawkstrider steps closer then says:
 
-"Urrrrr. Reaarrr. Urrrrr."
+"Uuurrrrr. Reaaaaar. Urrrrrr."
 
-A. [How ya doin fam?](../error/error.md)
-B. [Doral ana-diel?](../error/error.md)
-C. [Rearrrrr](../error/error.md)
-D. [Urrrrrrr](../error/error.md)
+A. [You Are You too buddy](../../../rude/rude.md)
+
+B. [Felo'melorn](../../../rude/rude.md)
+
+C. [Rearrrrr](./tier4/tier4.md)
+
+D. [Urrrrrrr](../../../error/error.md)
