@@ -4,8 +4,8 @@ The hawkstrider pauses for a moment then says:
 
 A. [How ya doin fam?](../error/error.md)
 
-B. [Doral ana-diel?](../tier1/tier2/tier2.md)
+B. BREAK
 
-C. [Rearrrrr](../tier1/tier1.md)
+C. BREAK [Rude](../rude/rude.md)
 
 D. [Urrrrrrr](../error/error.md)
