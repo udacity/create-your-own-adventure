@@ -1225,3 +1225,5 @@ I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald 
 Why are you reading this line? smile and move on.
 
 -
+
+[Chat](./hawkstrider/start.md) with a Hawkstrider.
