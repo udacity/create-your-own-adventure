@@ -52,3 +52,6 @@ to check for anything suspicious.
 
 Kristy eventually crashes on her bed but the stranger come back to strangle her
 with pillow.
+
+Kristy protests and grabs the lamp next to her bed and hit him on his head.
+Stranger's head starts bleeding and he run away from her room.
