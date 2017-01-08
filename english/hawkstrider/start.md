@@ -10,4 +10,4 @@ D. [Rearrrrr](./startu/startu.md)
 
 E. [Urrrrrrr](./startr/startr.md)
 
-Adding a dumb link here to get past limit [Stemp](https://www.google.com/)
+Adding a dumb link here to get past limit [Stemp](./rude/rude.md)
