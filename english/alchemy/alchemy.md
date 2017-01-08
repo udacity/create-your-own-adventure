@@ -7,9 +7,9 @@ mysterious small wooden box from your backpack, open it, and remove a ceramic co
 from inside. After placing the mold in front of your feet, you carefully pour the molten
 metal into the mold.
 
-Time passes, and the coin solidifies as it cools.
+As time passes the coin solidifies as it cools. It begins to look interesting...
 
-You gain 1 gold coin.
+You've gained 1 gold coin!
 
 You decide to play it safe and repeat the process a few times. Who knows how many coins
 the high-score currently is or how many you will need on your adventure?
