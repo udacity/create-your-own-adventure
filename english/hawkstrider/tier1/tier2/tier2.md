@@ -4,7 +4,7 @@ The hawkstrider looks quite happy:
 
 A. [Here birdy birdie bird](../../error/error.md)
 
-B. [Kim'jael!](../../rude/rude.md)
+B. [Aranal Kim'jael!](../../rude/rude.md)
 
 C. [Rearrrrr](./tier3/tier3.md)
 
