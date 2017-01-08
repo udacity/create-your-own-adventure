@@ -5,6 +5,8 @@ A few learned to [tango](tango/tango.md)
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
+If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
+
 hi~
 
 NGE is [here] (NGE/NGE.md)
