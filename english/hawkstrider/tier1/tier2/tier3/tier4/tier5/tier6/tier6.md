@@ -1,4 +1,4 @@
-The hawkstrider steps closer then says:
+The hawkstrider thinks for a moment then says:
 
 "Urrrrr. Reaarrr. Urrrrr."
 
