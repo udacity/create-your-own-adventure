@@ -6,3 +6,5 @@ dans ce miel.
 Exténué par tant d'efforts, vous décidez alors de...
 
 [Faire une sieste pour reprendre des forces](repos/sieste.md)
+
+[Vous effondrer en pleurant et en récriminant contre le sort qui s'acharne contre vous.](winnie/winnie.md)
