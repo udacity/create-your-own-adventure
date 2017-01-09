@@ -62,4 +62,4 @@ Kristy screams again but no one bothers to check on her.
 Kristy sobs in despair but gets a nasty idea to smoke him out. She sets her room on 
 fire.
 
-And the screams continues to come again and again.
+And the screams continues to come again and again
