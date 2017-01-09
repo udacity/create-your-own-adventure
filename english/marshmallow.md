@@ -5,6 +5,8 @@ A few learned to [tango](tango/tango.md)
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
+If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
+
 hi~
 
 NGE is [here] (NGE/NGE.md)
@@ -35,6 +37,8 @@ You decide to drop everything you're doing and [run out the door](run_out_the_do
 [Build time machine](time-machine/time-machine.md)
 
 Take some [time](meditation/meditation.md) off!
+
+[Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
 
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
