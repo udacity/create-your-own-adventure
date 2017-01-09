@@ -57,3 +57,6 @@ Kristy protests and grabs the lamp next to her bed and hit him on his head.
 Stranger's head starts bleeding and he run away from her room.
 
 Kristy screams again but no one bothers to check on her.
+
+Kristy sobs in despair but gets a nasty idea to smoke him out. She sets her room on 
+fire.
