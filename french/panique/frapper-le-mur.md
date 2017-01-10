@@ -8,4 +8,4 @@ Maintenat que vous etes dehors, quoi faire?
 
 [Il fait froid. Je rentre](../feu-de-camp.md)
 
-[Je reste là, on est bien là](.)
+[Je reste là, on est bien là](./frapper-le-mur.md)
