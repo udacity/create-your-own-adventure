@@ -63,3 +63,6 @@ Kristy sobs in despair but gets a nasty idea to smoke him out. She sets her room
 fire.
 
 And the screams continues to come again and again
+
+Bella sprint to Kristy's room and finds her getting terrified seeing herself
+in the mirror.
