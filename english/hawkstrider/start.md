@@ -4,7 +4,7 @@ A. [Greetings, noble bird!](./error/error.md)
 
 B. [Tweet, tweet](./error/error.md)
 
-C. Anu belore dela'na
+C. [Anu Belore Dela'na](./startr/startr.md)
 
 D. [Rearrrrr](./startu/startu.md)
 
