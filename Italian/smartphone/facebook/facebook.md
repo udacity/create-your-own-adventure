@@ -1,5 +1,5 @@
 Accidenti!
-Ho un milione di amici ma non riconosco nessuno.  
+Ho un milione di amici ma non riconosco nessuno.
 
 La situazione non è delle più rosee, ma devi pur far qualcosa, quindi decidi di
 
