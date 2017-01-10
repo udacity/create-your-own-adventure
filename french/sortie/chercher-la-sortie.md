@@ -9,3 +9,5 @@ issue soit une porte en caramel avec une poignée de réglisse.
 [Vous vous rendormez](../feu-de-camp.md)
 
 [Vous découvrez une trappe](trappe/trappe.md)
+
+[Vous vérifez le monde derrière la porte](verifier/verifier.md)
