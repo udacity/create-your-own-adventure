@@ -190,3 +190,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 [En su viaje al pasado pudo conoció a Aquiles, quien le enseñó como invocar a Pegaso](pegaso/pegaso.md)
 
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
+
+El pegaso muestra todo su [poder](poder-pegaso/poder-pegaso.md) ante el ejercito invasor.
