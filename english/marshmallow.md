@@ -32,7 +32,8 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
-In the end you will realize that it [doesn't really matter](http://www.smithsonianmag.com/smithsonian-institution/what-gives-robert-frosts-road-not-taken-its-power-180956200/).
+In the end you will realize that it [doesn't really matter]
+(https://goo.gl/1fd4wU).
 The path you choose is as good as any.
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
