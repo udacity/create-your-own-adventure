@@ -4,4 +4,4 @@ You smash through the canopy, but are able to grab for something soft and swing 
 
 Looking at the vine, the vine looks back at you! It's a snake! Oh noes!
 
-Panic surges through you. You [let go of the snake!](/let-go/let-go.md)
+Panic surges through you. You [let go of the snake!](let-go/let-go.md)
