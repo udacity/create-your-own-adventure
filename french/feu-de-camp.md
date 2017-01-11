@@ -36,4 +36,4 @@ Que faites-vous ?
 
 [Je ne fais rien](rien/rien.md)
 
-[Je commande du foie-gras](foie-gras/foie-gras.md)
+[Je commande du foie gras](foie-gras/foie-gras.md)
