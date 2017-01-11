@@ -2,8 +2,8 @@ In free fall now, you crash down through the canopy, hitting seemingly every bra
 
 It hurts like the dickens, but slows you down enough to lessen your impact with the forest floor.
 
-After a moment, you collect yourself and scan your surroundings. You lift yourself onto your elbows and notice
+After a moment, you collect yourself and lift yourself onto your elbows. You notice something strange.
 
-something strange. You can smell something burning, and can hear what seems to be a deep, rhythmic pulsing
+You can smell something burning, and can hear what seems to be a deep, rhythmic pulsing nearby.
 
-nearby. What in the world could this be?
+What in the world could this be?
