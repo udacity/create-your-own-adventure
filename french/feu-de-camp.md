@@ -35,3 +35,5 @@ Que faites-vous ?
 [Je me lève et me dirige vers la sortie](sortie/pousser-porte/pousser-porte.md)
 
 [Je ne fais rien](rien/rien.md)
+
+[Je commande du foie gras](foie-gras/foie-gras.md)
