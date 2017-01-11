@@ -66,3 +66,5 @@ And the screams continues to come again and again
 
 Bella sprint to Kristy's room and finds her getting terrified seeing herself
 in the mirror.
+
+Bella records it with her phone and shivers seeing Kristy.
