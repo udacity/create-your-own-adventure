@@ -29,4 +29,4 @@ Petsa: Nobyembre 17, 2016
 Samahan si Benj sa kanyang paglalakbay! [Tara!](tara/tara.md)
 
 Para sa mga gusto kumanta [kanta] (kanta/minsan.md)
-January 12, 2017
+Enero 12, 2017
