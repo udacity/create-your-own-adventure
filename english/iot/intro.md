@@ -5,6 +5,8 @@ automobiles, buildings - embedded with sensors and powerful electronic circuits
 powered by intelligent code that enable them to talk to each other without human
 interference.
 
+Click [here](https://en.wikipedia.org/wiki/Internet_of_things) for iot wiki.
+
 The story begins here ...
 
 The Internet of Things(IoT) is a new digital world that has a varied population.
@@ -24,3 +26,4 @@ Hours rolled by and the plight didn't seem to change. Terror soon took over him.
 What will he do? 
 
 [Will he scan the network for other devices?](../iot/scan-network/scan-network.md)
+Yes that is one of the option what if he can sense the devices. One way of doing it can be using NFC!
