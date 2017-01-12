@@ -32,3 +32,5 @@ Che fai?
 [Accendo la luce](luce/luce.md)
 
 [Cerco lo smartphone] (smartphone/smartphone.md)
+
+[Canto](canto/canto.md)
