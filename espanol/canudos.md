@@ -190,3 +190,6 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 [En su viaje al pasado pudo conoció a Aquiles, quien le enseñó como invocar a Pegaso](pegaso/pegaso.md)
 
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
+
+Le preguntó a Benatio, a ti que te gusta el fútbol, [¿quién es el mejor Cristiano Ronaldo o Messi?](cr7_vs_messi/cr7_vs_messi.md)
+
