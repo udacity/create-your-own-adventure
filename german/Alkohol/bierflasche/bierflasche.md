@@ -1,4 +1,4 @@
-Sie finden eine Bierflasche. Welch ein Glück!
+Sie finden eine Bierflasche. Was für ein Glück!
 Aber wie öffnen Sie die Flasche nun?
 
 
