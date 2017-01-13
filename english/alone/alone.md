@@ -68,3 +68,5 @@ Bella sprint to Kristy's room and finds her getting terrified seeing herself
 in the mirror.
 
 Bella records it with her phone and shivers seeing Kristy.
+
+Bella sees Kristy seeing herself in the mirror and tremble.
