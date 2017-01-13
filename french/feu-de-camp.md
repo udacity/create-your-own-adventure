@@ -37,3 +37,5 @@ Que faites-vous ?
 [Je ne fais rien](rien/rien.md)
 
 [Je commande du foie gras](foie-gras/foie-gras.md)
+
+[J'organise une soirée pain d'épices](soiree/soiree.md)
