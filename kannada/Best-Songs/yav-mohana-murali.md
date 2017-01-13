@@ -1,6 +1,8 @@
 Below is a kannada song, which is favourite of many people.
 
-Translation of song in english can be read [here](http://kannadahaadulyrics.blogspot.com/2011/05/yava-mohana-murali-kareyitu.html)
+Translation of song in english can be read 
+
+[here](http://kannadahaadulyrics.blogspot.com/2011/05/yava-mohana-murali-kareyitu.html)
 
 Song can be viewed [here](https://www.youtube.com/watch?v=iJ5EjxeBO3U)
 
