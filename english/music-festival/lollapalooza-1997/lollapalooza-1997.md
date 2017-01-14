@@ -15,4 +15,4 @@ The Orb,
 Snoop Dog with Tupac,
 and the closing act, Tool
 
-Afterwards, you find yourself [holding the door](../hold_the_door/hodor.md)
+Afterwards, you find yourself [holding the door](../../hold_the_door/hodor.md)
