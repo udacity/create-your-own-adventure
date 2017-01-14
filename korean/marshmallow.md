@@ -49,3 +49,5 @@
 [화장실에 간다] (restroom/restroom.md)
 
 [인스타그램에 인증샷을 올린다] (instagram/insta.md)
+
+[주위를 살펴보며 정신을 차린다] (first-room/check.md)
