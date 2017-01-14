@@ -13,6 +13,15 @@ But being this is a .44 Magnum, the most powerful handgun in the world, and
 would blow your head clean off, you've got to ask yourself one question: 
 'Do I feel lucky?' Well, do ya, punk?
 
+You think to your self...  
+
+"you know... I DO [feel LUCKY](lucky/lucky.md)" 
+
+OR
+
+"I've never been lucky... nothing ever goes right for me...  now I've got a gun
+pointed in my face put there by me!  This goes down as a pretty bad day."
+
 You're about to start talking to them, when you realize you can't actually open
 your mouth. It's kind of sealed. "What shall I do to communicate then?", you think:
 
