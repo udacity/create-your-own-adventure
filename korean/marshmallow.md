@@ -50,4 +50,7 @@
 
 [인스타그램에 인증샷을 올린다] (instagram/insta.md)
 
+[게임을 시작한다] (playgame/playgame.md)
+
 [주위를 살펴보며 정신을 차린다] (first-room/check.md)
+
