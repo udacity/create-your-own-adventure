@@ -19,8 +19,6 @@ U denkt
 ... maar de Iphone heeft weer geen batterij want deze gaat snel op. 
 Dus pak je maar je android die wel drie dagen lang meegaat!
 
-... u wandelt nog even door en komt op een [verlaten weg](verlaten-weg/verlaten-weg.md) terecht.
-
 
 
 [Google translate NL](https://translate.google.com/#nl/en/)
