@@ -2,6 +2,8 @@
 
 [Fire Lord Ozai](http://avatar.wikia.com/wiki/Ozai) wanted to conquer the other nations and rule the world.
 
+[Aang the last air bender](http://avatar.wikia.com/wiki/Aang) But there was one who stood in his way.
+
 The next step is other planets.
 
 

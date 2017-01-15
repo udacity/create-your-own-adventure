@@ -8,3 +8,10 @@ Jetzt, da ihr euch frei im Wasser bewegen könnt, dringt das eigentliche Problem 
 
 Ihr werdet immer kraftloser und es werden immer größere Wellen.
 Lange haltet ihr das nicht mehr durch.
+
+Plötzlich spürt Ihr wie etwas eure Beine streift. Was vermutet Ihr ist es:
+
+Ein [Haifisch] (Haifisch/Haifisch.md)
+
+Ein [U-Boot] (UBoot/UBoot.md) der UdSSR 
+

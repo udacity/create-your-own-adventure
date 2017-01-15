@@ -21,6 +21,11 @@ in its centre.
 You hold the malformed coin up to to light and study it moving backwards and
 forwards - studying its imperfection - a ring like shape.
 
+Looking through the hole, the air shimmers, giving the other side a
+hazy appearance.
+The objects on the other side appear to be vacillating, as if they were
+breathing.
+
 You slip the ring over your finger and ...
 
 [A polar bear suddenly appears and charges towards you](../polar-bear-attack/polar-bear-attack.md)
@@ -30,3 +35,10 @@ You slip the ring over your finger and ...
 [quickly decide to take the ring off and try using its unknown powers later](../android-v6/use-android-v6.md)
 
 [Congratulations!](../marshmallow.md)
+
+[Transform!](../transform/transform.md)
+
+[You teleport to the Incantation Forrest](../incantation-forrest/incantation-forrest.md)
+
+and puff! you turn into a blob fish while only a few feet remain between you 
+and the polar bear...

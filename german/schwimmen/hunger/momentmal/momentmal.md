@@ -9,3 +9,5 @@ du von einer Gruppe von kleinen, fast nackten Männern mit Speeren
 umringt, die wild gestikulieren.
 
 Du wirst versuchen: [die Männer zu verstehen?](verstehen/verstehen.md)
+
+Du wirst versuchen: [dich zu verteidigen](verteidigen/verteidigen.md)

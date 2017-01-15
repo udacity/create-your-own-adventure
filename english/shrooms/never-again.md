@@ -7,6 +7,8 @@ Then you notice a small, old man grinning toothlessly back at you from across th
 He seems somehow detached from reality, and his features appear to both move and stay still,
 like a statue in the shadows or a painting in the corner of your eye.
 
+His face looks familiar although you cannot be sure.
+
 As he begins to levitate, you realize that it's already too late.
 
 Do you:
@@ -16,3 +18,5 @@ Do you:
 [Pinch yourself to make sure the man is real?](../pinch/pinch.md)
 
 [Pinch the man to make sure your self is real?](../pinch/pinch.md)
+
+[Wake up from this nigthmare?](../wake-up/wake-up.md)

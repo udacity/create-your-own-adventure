@@ -34,3 +34,5 @@ No way! I don't have the guts to follow my dreams like that!
 Knees weak, arms spaghetti, vomit on spaghetti already
 
 [Back to reality](../marshmallow.md) ohp there goes spaghetti
+
+[Seventh Hokage](../naruto/seventh-hokage.md)

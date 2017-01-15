@@ -12,6 +12,8 @@
 
 Ξαφνικά συνειδητοποιείς ότι το ζαχαρωτό έχει αυτογνωσία!
 
+Και εκει που δεν το περιμενεις ετοιμαζεται να σου μιλησει...
+
 Συγκράτησε την εικόνα του ζαχαρωτού και ...
 
 [Βγάζεις την κάλτσα σου](put_socks_off/put-socks-off.md)
@@ -20,6 +22,14 @@
 
 [Προσφέρεις στο ζαχαρωτό τσιγάρο](offer_marshmallow_a_cigar/offer_marshmallow_a_cigar.md)
 
+[Πιάνεις το σχοινί](use_the_rope/use_the_rope.md)
+
+[Βλέπεις... τον Marshmallow από το Frozen](frozen_marshmallow/frozen-marshmallow.md)
+
 Τελικά συνειδητοποιείς ότι ο Stay Puft Marshmallow Man από το Ghostbusters ήταν στη πραγματικότητα το 
 ζαχαρωτό και σε πιάνει τρόμος ... 
 μπου α χα χα...
+
+Όμως, μέσα στον πανικό σου, σου έρχεται στο μυαλό μια ιδέα. 
+
+[Γεμίζεις μια λεκάνη με νερό](fill_water_tank/fill_water_tank.md)

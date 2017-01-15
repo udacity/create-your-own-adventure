@@ -6,4 +6,6 @@ You pull and pull and pull on the cord, but it just won't start.
 
 What do you do?
 
+Buy a new one!
+
 [Give up and keep exploring?](../explore-outside/explore-outside.md)

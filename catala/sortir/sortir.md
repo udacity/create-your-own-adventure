@@ -6,3 +6,7 @@ uns peus que es belluguen amb impaciència... aquestes sabates
 et sonen... Ets tu!
 Tanques els ulls de nou, amb força, i dessitges que tot el que 
 has vist sigui fruit de la teva imaginació.
+
+Però veus que no pots agafar son i t'acabes despertant.
+
+Clica [aquí](../catala.md) per tornar a començar...

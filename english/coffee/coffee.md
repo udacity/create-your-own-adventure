@@ -9,6 +9,8 @@ Nothing like a cup of coffee to start your day when you wake up.
 
 Can you feel the caffeine rush inside of you? It's taking hold, controlling you. You're so high.
 
+You settle into the table for a good long drink before you consider your next steps.
+
 After having your coffee do you want to:
 
 [Have another cup of coffee?](another-coffee/another-coffee.md)
@@ -37,4 +39,8 @@ After having your coffee do you want to:
 
 [Procrastinate?](procrastinate/procrastinate.md)
 
+[Go to bed?](bed/bed.md)
 .
+
+Coffee creates a great medium for people to have conversations about ideas and visions.
+Have chocolate coffee in the morning and [enjoy.](another-coffee/another-coffee.md) 

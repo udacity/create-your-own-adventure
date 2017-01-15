@@ -4,6 +4,9 @@
 
 You close your eyes.
 
+You smell your favorite Starbucks Latte and you take a sip.
+Then you take a bite of marshmallow.
+
 Suddenly there is a horrible pain in your mouth! Who would have
 thought marshmallows, so white, so innocent, could cause such
 excruciating pain! But come to think of it, you've never gone

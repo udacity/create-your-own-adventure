@@ -9,3 +9,5 @@ sobre la ciudad.
 Sin perder tiempo, Beatito exclamó:
 
 [¡Cerrad el portón!](cerrad/cerrad.md)
+
+[¡Hay que encontrar al capitan Hernandez!](../../../barracas/capitan.md)

@@ -1,1 +1,3 @@
 "Bueno Beatito, yo también tengo algo que confesarte", dijo Juarema. Luego ella...
+
+añadió: ["No vas a poder desposarme porque..."](inesperado/inesperado.md)

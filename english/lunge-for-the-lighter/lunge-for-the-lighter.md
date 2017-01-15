@@ -12,3 +12,5 @@ At one end, a marshmallow staircase going up. At the other a steep slope downwar
 You grab the rope, fork, and remains of the leather jacket and get ready to run.
 
 [Run to the opening with the steep slope](steep-slope/steep-slope.md)
+
+[Run to the marshmallow staircase](staircase/staircase.md)

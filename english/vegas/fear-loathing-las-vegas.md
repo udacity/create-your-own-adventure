@@ -13,3 +13,5 @@ in, freak out, get beaten.
 Too weird to live, too rare to die!
 
 [Leaving Las Vegas] (../marshmallow.md)
+
+[See an ostrich?] (../hospital_bed/hospital_bed.md)

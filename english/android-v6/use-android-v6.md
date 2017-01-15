@@ -18,3 +18,7 @@ A 3D green droid figure displays with V6.0 stamped on its metallic chest. In its
 arms is a single marshmallow.
 
 The green droid figure bows down to a silvery apple.
+
+In haste you take up the marshmallow as your charge.
+
+As you depart the little droid calls you to "Seek out from whence you came, and find the nougat..."

@@ -3,7 +3,7 @@ i funghi "speciali" che ho mangiato ieri in realtà erano allucinogeni.
 
 Non avresti dovuto fidarti di quella ragazza conosciuta alla festa.
 
-Hai pochi, confusi ricordi di quello che è successo. Con la test che gira per l'intossicazione, provi ad alzarti.
+Hai pochi, confusi ricordi di quello che è successo. Con la testa che gira per l'intossicazione, provi ad alzarti.
 Le gambe ti reggono a malapena e, in pochi difficili passi, riesci a raggiungere la libreria che sta di fronte al letto.
 
 Sugli scaffali trovi solo vecchi libri di leggende francesi e alcune fotografie sbiadite.

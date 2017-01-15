@@ -13,3 +13,5 @@ Do you:
 [Push the lever](push-lever/bear.md)
 
 [Break the window](break-window/coldroom.md)
+
+[Wait a while](go-sleep/go-sleep.md)

@@ -7,3 +7,14 @@ an IV bag.
 
 Footsteps grow louder, then faster. The room starts to fade. Voices. Darkness. 
 
+...
+
+You awake with a sense of groggy dread and force your eyelids to open up (very much 
+against their wishes). At first the bright light blinds you and hurts your poor 
+retinas, but after a few seconds you adjust and take a look around. You appear to be 
+strapped to a gurney in a narrow (but brightly lit) corridor. The walls and ceiling 
+are white and spotlessly clean. The floor... well, you can't see the floor. In the 
+distance you can hear a faint humming sound, but you appear to be all alone at the 
+moment. Well, now what? Perhaps you could [call out](call-out/calling.md)?
+
+You could also quietly [struggle](escape/escape.md) against your restraints.

@@ -8,3 +8,4 @@ Je gaat snel [terug naar de hei](../welkom.md)
 
 Je blijft stiekem [meekijken](ontvoering/ontvoering.md)
 
+Je kijkt rond in de [struiken](struiken/in_de_struiken.md)

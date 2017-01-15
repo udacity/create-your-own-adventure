@@ -42,4 +42,8 @@ Skažite
 Za vjernost
 Moju
 
+Djevu idem traziti
+crnom dolinom
+mrske ljude poraziti
+
 Click [here](http://www.spiritofbosnia.org/volume-2-no-3-2007-july/gorcin/) for English version

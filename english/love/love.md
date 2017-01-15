@@ -14,3 +14,46 @@ Of course, there is no substitute for the experince of it. It must be
 lived in order to be understood. All the words there are in the world 
 cannot make you understand the feeling of it. Anyways, [here's 
 something comepletely different.](../marshmallow.md)
+
+If all else fails, you could [try this.](../read-a-book/read-a-book.md)
+
+Love feels eternal but the 
+pain it adds to your heart is painful 
+[The Pain] (https://www.quora.com/What-is-it-like-when-you-feel-the-pain-of-loving-someone-when-its-one-sided) 
+to see how people manage the pain
+
+An Entrapment
+
+My love, I have tried with all my being
+to grasp a form comparable to thine own,
+but nothing seems worthy;
+
+I know now why Shakespeare could not
+compare his love to a summer’s day.
+It would be a crime to denounce the beauty
+of such a creature as thee,
+to simply cast away the precision
+God had placed in forging you.
+
+Each facet of your being
+whether it physical or spiritual
+is an ensnarement
+from which there is no release.
+But I do not wish release.
+I wish to stay entrapped forever.
+With you for all eternity.
+Our hearts, always as one.
+
+- Anthony Kolos - 
+
+God is love.
+Love.
+
+PS: it's bullshit
+
+Love is dependent on the person.
+Each person can experience love in different ways.
+It does not always have to be with a person.
+Love can be a passion.
+But depending on the person.
+Love can be anything.

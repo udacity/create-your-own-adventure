@@ -48,6 +48,8 @@ Si ii dadu zanei nalbele, iar zana se puse pe treaba, sa faca potiunea cea ferme
 
 Plictisita, Gina pleca sa-si cumpere Orbit.
 
+Si merse, merse, cale lunga pana la [magazinul cel mare](magazin/oferta-speciala.md).
+
 Ginel continua sa se holbeze la zana cand, dintr-odata, puhhh! Un nor rosu
 cuprinse zana de la genunchi pana peste cap, asa incat inca i se mai vedeau
 pantofi albastrii...
@@ -68,3 +70,18 @@ Bineinteles ca o sa bea. Ginel stia ca asta inseamna sa fii mafiot la urma urmei
 
 [Beau tot](Beau/Beau_paharul_pana_la_fund.md)
 
+Apoi ma trezesc chinuit de ganduri stranii. 
+
+[Adevarate framantari filosofice](panda/marmota.md).
+
+Incep sa ma percep la persoana a III-a.
+
+Subit se simtea usor si isi imagina ca zboara - buna [potiunea](potiune_fermecata/potiune.md) asta, gandi el.
+
+Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
+
+[crocobalaurului](padurea_violet/croco/croco.md).
+
+Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
+
+Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)

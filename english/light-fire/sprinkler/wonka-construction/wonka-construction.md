@@ -8,3 +8,5 @@ Start eating the graham grackers?
 Ask the Wonk constuction work crew to identify themselves?
 
 Fill the chocolate pool with graham crackers?
+
+[Make a graham cracker surfboard and go for a ride] (surfthecrackers/surfthecrackers.md)?

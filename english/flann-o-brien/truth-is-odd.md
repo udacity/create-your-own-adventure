@@ -5,3 +5,5 @@ Becoming increasingly aware that the situation
     is safety in a triad, chastity is truth and truth is an odd 
 number. And your statement that kangaroos are not human is highly 
 debatable."
+
+choose to eat [flan] (../flan/flan.md) 
