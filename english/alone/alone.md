@@ -70,3 +70,5 @@ in the mirror.
 Bella records it with her phone and shivers seeing Kristy.
 
 Bella sees Kristy seeing herself in the mirror and tremble.
+
+Bella ushers Kristy on to her bed and calm her down.
