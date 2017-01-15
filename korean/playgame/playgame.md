@@ -4,4 +4,4 @@
 
 [FM을 시작한다] (playfm/playfm.md)
 
-[그냥 카카오TV를 본다] (watchKAKAOTv/kakao.md)
+[그냥 카카오TV를 본다] (watchkakaotv/kakao.md)
