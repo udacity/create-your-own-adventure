@@ -1238,4 +1238,4 @@ Smile and move on gingerly.
 
 What is your [passion?](passion/passion.md)
 
--
+-this is [wake up story](wakeup/wake.md)
