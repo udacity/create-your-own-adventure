@@ -4,7 +4,7 @@ Password is still in your pocket. Weather is nice, birds are tweeting.
 
 *Pstst*. Can of soda is opened. You drink slowly and enjoy it. 
 
-However your inner voice stars raising up. You think you noticed some movement. 
+However your inner voice starts raising up. You think you noticed some movement. 
 
 [Look around](outside1/outside.md)
 
