@@ -3,7 +3,7 @@ Desde la muralla pudo observar como los hombres de su ejercito venian muy conten
 Debido a los últimos acontecimientos, el ambiente del pueblo estaba enrarecido y lo último que necesitaban 
 eran más problemas.
 
-El consejero emocionado ordeno a  Beatito:
+El consejero emocionado ordeno a Beatito:
 
 [Abrir la puerta de la  muralla](abrir/abrir.md)
 
@@ -11,5 +11,12 @@ El consejero emocionado ordeno a  Beatito:
 
 [Apuntalar la puerta de la muralla](apuntalar/apuntalar.md)
 
-
 [Volver a poner al minotauro en su sitio](minotauro/minotauro.md)
+
+De la misma manera ordeno a los demás contingentes:
+
+[Buscar al dragon.](../dragon/dragon.md)
+
+[Preparar la comida.](../comida/comida.md)
+
+[Ir con los enanos.](../enanos/enano.md)
