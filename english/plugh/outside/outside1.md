@@ -6,5 +6,5 @@ Password is still in your pocket. Weather is nice, birds are tweeting.
 
 However your inner voice stars raising up. You think you noticed some movement. 
 
-[Look around](outside/outside1/outside.md)
-[Keep drinking](outside/outside2/outside.md)
+[Look around](outside1/outside.md)
+[Keep drinking](outside2/outside.md)
