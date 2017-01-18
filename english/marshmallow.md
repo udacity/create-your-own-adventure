@@ -1238,6 +1238,7 @@ Smile and move on gingerly.
 
 What is your [passion?](passion/passion.md)
 
+and what are the [implications](Implication/Implications.md)of your passion?
 -
 
 searching for [good](tvf-play/watch.md) content.
