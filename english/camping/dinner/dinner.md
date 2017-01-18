@@ -1,0 +1,1 @@
+You riffle through your bag to pull out the dinner you prepared, but... Oh no! You realize you left it at home. Luckily, you see you've packed your ingredients to make [smores](smores/smores.md).

@@ -1,0 +1,1 @@
+Your mouth is watering as you tear open the marshmallow bag. You place two large marshmallows on a long stick and toast them just above the fire. The smell is sweet! You can't wait and you pull a mallow off a little early... The soft marshmallow makes your fingers sticky as you eat. :)
