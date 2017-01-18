@@ -76,3 +76,5 @@ Bella ushers Kristy on to her bed and calm her down.
 Bella palms her head while Kristy gets normalized.
 
 Stranger smirks seeing Kristy and escape into the dark.
+
+CUT TO: Kristy walking alone in the park with no one around
