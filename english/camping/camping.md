@@ -1,0 +1,3 @@
+So you've found the perfect spot in the woods. You've unpacked your tent and set it up. Your sleeping bag is unrolled and your pillow has been fluffed. You gather sticks in the woods and place them carefully in the center of a your fire pit. The warmth of the fire grows quickly after you light it.
+
+The sun has set. Now the only question is, do you make [smores](smores/smores.md) or [dinner](dinner/dinner.md) first? 
