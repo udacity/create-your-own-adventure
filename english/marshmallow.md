@@ -34,6 +34,9 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
+I used to be adventurous like all of you out there, 
+but then I took an [arrow in the knee](arrow/arrow.md).
+
 In the end you will realize that it [doesn't really matter]
 (https://goo.gl/1fd4wU).
 The path you choose is as good as any.
