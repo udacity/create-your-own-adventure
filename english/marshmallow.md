@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
@@ -112,6 +112,9 @@ Once you're warmed up, why not try a [work out?](work-out/work-out.md)
 or maybe [eat that delicious cucumber sandwich?](sandwich/sandwich.md)
 
 After warming up, take a minute and reflect on your [love for udacity](love-udacity/love-udacity.md)
+
+After thinking about love for some time, you realise monogamy is not for you and 
+decide to try on [polyamory](polyamorous/poly.md).
 
 You are are man (or woman) for all seasons but need help in choosing
 your travel destinations.. Of course we are happy to help you with these
