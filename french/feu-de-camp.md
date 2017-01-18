@@ -20,6 +20,8 @@ Que faites-vous ?
 
 [J'appelle mon prof de maths](riddle/prof_maths.md)
 
+[J'arrete la drogue](arreter-la-drogue/arreter-la-drogue.md)
+
 [Je dessine une porte avec un syphon de crème chantilly qui traine](dessine/porte.md)
 
 [Je ne parle pas francais](../english/marshmallow.md)
@@ -39,3 +41,4 @@ Que faites-vous ?
 [Je commande du foie gras](foie-gras/foie-gras.md)
 
 [J'organise une soirée pain d'épices](soiree/soiree.md)
+
