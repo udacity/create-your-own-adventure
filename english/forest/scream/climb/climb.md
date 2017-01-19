@@ -23,3 +23,5 @@ your parachute is still 15 meters above you. You fasten a tourniquet and pass
 out.
 
 The tiger finishes his quick feast and gazes upward, mouth agape, panting.
+
+[Fifteen minutes later...](fifteen-minutes-later/fifteen-minutes-later.md)
