@@ -23,7 +23,7 @@ spend your time [wisely](http://www.pythonchallenge.com/)
 
 Are you a:
 
-[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) 
+[cat person](https://procatinator.com) 
 
 or a 
 
