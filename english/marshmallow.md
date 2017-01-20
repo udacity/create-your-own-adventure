@@ -213,7 +213,8 @@ He is reciting poetry in a language you assume to be Egyptian,
 though you are not familiar with Egyptian. You only assume this
 because of the small pictograms that seem to rise into the 
 air above his head when he speaks. One looks like a small bird.
-Another a small insect. A third is for all appearances the 
+Another a small [insect](magic2/magic2.md). A third is for all 
+appearances the 
 third car your father ever bought you, a small Fiat 500, which
 though in the picture above the man's head is purple, was 
 in reality more of a mauve. It had a tendency to bark whenever
@@ -224,8 +225,9 @@ the small pomerainian who is now barking at the blue music notes
 hovering over the man's large-ish head, now peeing on the 
 back of the sofa, making it difficult for you to remember the
 name of that dude you totally scored with in the back of your 
-Fiat 500. You're finding it difficult to think. You sit down on
-the sofa to gather your thoughts. You think of all the men 
+Fiat 500. You're finding it difficult to think. He offers you 
+[wine](wine/wine.md). You sit down on the sofa to gather your 
+thoughts. You think of all the men 
 you slept with on your hitch hiking journeys across the southern
 american continent.
 
