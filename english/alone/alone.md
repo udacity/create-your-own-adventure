@@ -78,3 +78,6 @@ Bella palms her head while Kristy gets normalized.
 Stranger smirks seeing Kristy and escape into the dark.
 
 CUT TO: Kristy walking alone in the park with no one around
+
+Kristy is sad and depressed about the incidents and she takes a stroll in the
+park.
