@@ -81,3 +81,6 @@ CUT TO: Kristy walking alone in the park with no one around
 
 Kristy is sad and depressed about the incidents and she takes a stroll in the
 park.
+
+she walks randomly and feels something is not right and turn back to see
+if anyone is following her.
