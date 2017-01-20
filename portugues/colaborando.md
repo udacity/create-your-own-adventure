@@ -71,3 +71,5 @@ BR BR BR Hue hue hue!!!!
 [Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
 
 [Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
+
+[Tenta descobrir o repositório da app no GitHub, e contribuir para a solução do problema] (contribuir/contribuir.md)
