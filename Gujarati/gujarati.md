@@ -7,7 +7,7 @@ Tha best way to predict the future is to create.
 
 Gujarati language is great. Lord Krishna spoke or led to it. Mahatma Gandhi spoke and wrote in it.
 
-ગુજરાતી ભાષાનાં પરાક્રમી સફરોમાં આપનું સ્વાગત છે. અગણીત સફરો માંથી તમે કયું પસંદ કરશો?
+ગુજરાતી ભાષાનાં પરાક્રમી સફરોમાં આપનું સ્વાગત છે. ગણીત સફરો માંથી તમે કયું પસંદ કરશો?
 તમારી ખરી કસોટી શરુ થાય છે. તમને ખુબ શુભકામના.
 
 [ઉત્તરાયણમાં ખેંચ કે ઢીલ?](ઉત્તરાયણ/ઉત્તરાયણમાં ખેંચ કે ઢીલ.md)
@@ -19,3 +19,5 @@ This is my favourite Gujarati proverb copied from [here](http://gujarati-proverb
 
 જાગ્યા ત્યાંથી સવાર
 Mine favourite(@ http://gujarati-proverbs.tumblr.com/)
+
+[Diwali](Diwali/Dipawali.md)
