@@ -16,3 +16,9 @@ Fong's serves delicious Asian Pizza and also offers exceptional
 [Tiki Drinks](http://liquor.com/slideshows/10-tiki-cocktails-to-kick-off-summer/).
 
 Add bacon to your pizza. Bacon makes everything taste better.
+
+A third [menu](https://www.dominos.com/) appears for Domino's Pizza!
+
+What will you order?
+
+[Pepperoni pizza](../eat-pizza/eat-pizza.md)
