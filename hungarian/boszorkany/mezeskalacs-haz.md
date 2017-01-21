@@ -4,3 +4,5 @@ Juliska ott vannak egy ketrecben... hirtelen elfog a szorongas: lehet, hogy amne
 Mit teszel?
 
 [Megnezem bevettem-e a tengapi gyogyszert](gyogyszer/gyogyszer.md)
+
+[Megcsiped magadat](csipas/csipas.md)
