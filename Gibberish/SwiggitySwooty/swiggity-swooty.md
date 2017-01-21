@@ -23,4 +23,4 @@ Integral(5x^3 - htan(x), dx) titila [MATHEMATICS](NiNi-sigh/NiNi.md)?
 
 [Hamana](Hamanana/hamana-hamana.md)? 
 
-[Swiggity Swooty] (SwiggitySwooty/swiggity-swooty.md) 
+[Swiggity Swooty](SwiggitySwooty/swiggity-swooty.md) 
