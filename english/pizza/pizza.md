@@ -1,4 +1,4 @@
-... reaching over to put the phone down you catch a whiff of your own B.O. and realize
+... reaching over to put the phone down you catch a whiff of your world famous own B.O. and realize
 you need to become clean. First, you reach over and slap the ass next to you attempting
 to wake the owner. No reaction, so you get up and go into the shower.
 
