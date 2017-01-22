@@ -28,3 +28,5 @@ There is no telugu story added as of yet. So, I'll just start the thread by addi
 ప్రజల్పతి ప్రభాతకే హృది స్మరన్గణేశ్వరమ్ |
 అరోగతామదోషతాం సుసాహితీం సుపుత్రతాం
 సమాహితాయురష్టభూతిమభ్యుపైతి సోచిరాత్ || ౬ ||
+
+To know about some facts of telugu film industry, please click [here](../tollywood/tollywood.md).
