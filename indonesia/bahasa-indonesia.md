@@ -1,1 +1,3 @@
 Selamat datang kawan...
+
+Sebentar lagi pemilu nih. Pilih siapa ya?
