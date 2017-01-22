@@ -55,3 +55,24 @@ with pillow.
 
 Kristy protests and grabs the lamp next to her bed and hit him on his head.
 Stranger's head starts bleeding and he run away from her room.
+
+Kristy screams again but no one bothers to check on her.
+
+
+Kristy sobs in despair but gets a nasty idea to smoke him out. She sets her room on 
+fire.
+
+And the screams continues to come again and again
+
+Bella sprint to Kristy's room and finds her getting terrified seeing herself
+in the mirror.
+
+Bella records it with her phone and shivers seeing Kristy.
+
+Bella sees Kristy seeing herself in the mirror and tremble.
+
+Bella ushers Kristy on to her bed and calm her down.
+
+Bella palms her head while Kristy gets normalized.
+
+Stranger smirks seeing Kristy and escape into the dark.
