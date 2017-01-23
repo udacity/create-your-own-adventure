@@ -1,1 +1,0 @@
-Jy geniet die tuisgebake beskuit en jy mis jou ma.

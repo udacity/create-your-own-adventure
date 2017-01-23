@@ -1,1 +1,0 @@
-You have chosen to accept the anhilation of your people.
