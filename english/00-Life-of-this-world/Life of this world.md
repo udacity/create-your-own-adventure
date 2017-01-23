@@ -13,3 +13,4 @@ whereas the life of this world is only a deceiving enjoyment“.
 
 "Explore another dimension[dimension](../dimensions/dimension.md). It's fun"
 "life of the world is the opportunity to make a purpose and have certainity of thought"
+"life is beautiful"
