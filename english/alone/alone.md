@@ -84,3 +84,5 @@ park.
 
 she walks randomly and feels something is not right and turn back to see
 if anyone is following her.
+
+Kristy sees the same stranger from the night with a sharp knife in hand.
