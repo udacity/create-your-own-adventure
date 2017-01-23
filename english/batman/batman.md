@@ -51,3 +51,8 @@ Another shouts "Who is John Cena"
 "Goodluck talking to John Cena"
 
 "This is the last time i am talking to John Cena"
+
+John Cena is an American professional wrestler.
+
+John Cena said "Batman's uniform does not fit me!"
+
