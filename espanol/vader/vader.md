@@ -1,0 +1,3 @@
+Sintio el poder del lado oscuro llamando, seduciendolo... 
+Solo para darse cuenta que Vader lo llamaba para arrelglar 
+cuentas con el. No podria escapar de su destino.
