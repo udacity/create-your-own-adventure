@@ -14,4 +14,4 @@ read: "VORSICHT. LEBENSGEFAHR."
 An ominious steel door beckons from the corner of the room. You think you
 hear the sound of something scratching against the floor in the distance.
 
-[Wake up.](/wakingup.md)
+[Wake up.](../wakingup.md)
