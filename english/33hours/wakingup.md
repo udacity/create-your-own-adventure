@@ -8,3 +8,5 @@ wallet and mobile phone are gone. In fact, your pockets are completely empty.
 [Explore the motel room.](explore-room/room.md)
 
 [Go outside.](explore-outside/outside.md)
+
+[Sleep some more.](sleep-world/sleep.md)
