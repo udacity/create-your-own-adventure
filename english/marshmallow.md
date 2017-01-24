@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+what about practicing [do nothing meditation](yoga/do-nothing/doing-nothing.md)
