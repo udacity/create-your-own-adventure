@@ -88,3 +88,6 @@ if anyone is following her.
 Kristy sees the same stranger from the night with a sharp knife in hand.
 
 Stranger starts running towards Kristy and Kristy starts to sprint.
+
+Stranger swings his knife towards Kristy and Kristy hits a rock and miss the
+swinging knife.
