@@ -32,6 +32,8 @@
 
 [Сховаюся в куток та буду плакати](Crying/crying-in-the-corner.md)
 
+[Покладу речі у кишеню і просуну руку крізь зефірну стіну](hand-into-wall/hand-into-wall.md)
+
 І, так, я теж не розумію, для чого мотузка, але в голову лізуть підозрілі думки!
 
 [Look around](look-around/look-around.md)
