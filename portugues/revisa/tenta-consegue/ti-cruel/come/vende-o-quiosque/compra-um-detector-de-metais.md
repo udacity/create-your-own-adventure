@@ -1,0 +1,1 @@
+Depois de pagar algumas dívidas com o dinheiro da venda do quiosque, você compra um detector de metais. Então você saí pela praia procurando coisas de valor que as pessoas perdem na água e revende tudo que puder e o resto você revende para reciclagem mesmo para ganhar o pão de cada dia e salvar a vida marinha!
