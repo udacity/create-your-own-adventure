@@ -91,3 +91,5 @@ Stranger starts running towards Kristy and Kristy starts to sprint.
 
 Stranger swings his knife towards Kristy and Kristy hits a rock and miss the
 swinging knife.
+
+The flying knife hits the tree and Kristy continues to sprint.
