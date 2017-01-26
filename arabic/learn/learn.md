@@ -10,7 +10,10 @@
 -Udemy
 -Khan Academy
 -thenewboston
-
+-edx
+-alison
+-pluralsight
+-lynda
 وفيه كتير بس انت عليك تدور
 
 freelancing اشهر مواقع العمل الحر 
