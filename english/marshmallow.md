@@ -1239,5 +1239,6 @@ Smile and move on gingerly.
 What is your [passion?](passion/passion.md)
 
 -
-
 searching for [good](tvf-play/watch.md) content.
+
+We should all change the world for the [better] (change-the-world) !
