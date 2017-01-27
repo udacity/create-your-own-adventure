@@ -1,0 +1,1 @@
+Mahatma Gandhi is considered the father of the Nation, India. To know more about him, Click [here](https://en.wikipedia.org/wiki/Mahatma_Gandhi) to visit wikipedia and learn about him.
