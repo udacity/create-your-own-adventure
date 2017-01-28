@@ -1,0 +1,1 @@
+Tracisz poczucie czasu i medytujesz bez perzerwy przez 20 godzin. Nagle dostrzegasz jednosc wszechswiata i dostepujesz oswiecenia. Reszta nie ma znaczenia. Zrozumiales nature istnienia i swiadomosci.
