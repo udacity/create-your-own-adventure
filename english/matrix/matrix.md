@@ -28,4 +28,4 @@ While you don't believe that you might be the One,
 
 [There is no darkness - or fluffiness - without the Light.](matrix2inception/matrix2inception.md)
 
-[There is always Linear Algebra ahead of you] (matrix_derivative)
+[There is always Linear Algebra ahead of you] (matrix_derivative/matrix_derivative.md)
