@@ -18,3 +18,7 @@ Come reagisci?
 [Crei una bambola voodoo per addomesticarlo](tour/tour.md)
 
 [Attiri il tappeto] (attira-il-tappeto/attira-il-tappeto.md)
+
+[Cominci a cantare come Gigi d'Alessio] (canti/canticomegigi.md)
+
+
