@@ -19,6 +19,8 @@ Quote for [inspiration](inspiration/inspiration.md)
 
 Quote for [luck](luck/luck.md)
 
+Quote for [dancing](dancing/dancing.md)
+
 
 
 [Go back to marshmallow](../marshmallow.md)
