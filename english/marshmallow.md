@@ -44,6 +44,8 @@ You decide to drop everything you're doing and [run out the door](run_out_the_do
 
 Take some [time](meditation/meditation.md) off!
 
+Fight some [monsters](https://builtvisible.com/something-under-the-bed/)
+
 [Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
 
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
