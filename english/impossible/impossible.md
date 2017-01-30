@@ -8,7 +8,8 @@ You begin to [ponder](../ponder/ponder-about-life.md).
 
 Suddenly you have a flashback to being in a [forest](../forest/forest.md)
 
-But your eyes begin to blink rapidly. "Focus.", you shout to yourself.
+But your eyes begin to blink rapidly. "Focus.", you [shout](https://www.youtube.com/watch?v=bfdUWOsWJss) to yourself at [Durdle Door](https://en.wikipedia.org/wiki/Durdle_Door).
+
 Why all those steps? Where has it taken me? Have I become what I once thought was impossible?
 
 Have I become a [front-end web developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
