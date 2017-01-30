@@ -13,7 +13,7 @@ Everyone turns to stare at you!
 
 People begin to point fingers and laugh.
 
-The sound of riddicule quickly becomes deafening, to the poitn of madness.
+The sound of riddicule quickly becomes deafening, to the point of madness.
 
 You realize you need to do something and do it quickly.
 
