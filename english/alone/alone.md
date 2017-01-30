@@ -96,3 +96,5 @@ The flying knife hits the tree and Kristy continues to sprint.
 
 Kristy sprints hard and drains her energy. She stops for a second and looks back
 to find no one.
+
+Kristy complaints to the security but they laugh at her.
