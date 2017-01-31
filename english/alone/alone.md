@@ -98,3 +98,5 @@ Kristy sprints hard and drains her energy. She stops for a second and looks back
 to find no one.
 
 Kristy complaints to the security but they laugh at her.
+
+Security checks the cameras to find nothing.
