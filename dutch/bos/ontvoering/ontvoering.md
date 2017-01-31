@@ -2,9 +2,9 @@ Ondanks de kater, heb je door de adrenaline even een helder moment.
 Je staat er bij stil dat je telefoon niet in stille modus staat.
 Voorzichtig haal je je telefoon uit je broekzak om hem te muten.
 
-Terwijl je toekijkt hoe de mannen een gat graven krijg je last van je knieën.
-Voorzichtig probeer je in een andere pose te zitten, maar door het geritsel
-van de struiken trek je de aandacht van de mannen.
+Je zet het geluid van je gsm af maar denkt er niet bij na
+om ook de vibratie uit te zetten. Op dat moment krijg je plots een telefoon
+van je schoonmoeder. Door het vibreren trek je de aandacht van de mannen.
 
 Je besluit terug naar [de hei](../../welkom.md) te rennen.
 
