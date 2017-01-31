@@ -6,4 +6,4 @@
 
 
 
-[I've made a mistake...](./forest.md)
+[I've made a mistake...](../forest.md)
