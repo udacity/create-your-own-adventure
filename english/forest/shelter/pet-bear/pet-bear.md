@@ -3,3 +3,5 @@ bear. It scurries backwards out of the tent and runs away.
 
 
 [Get out of the shelter.](../play-dead/get-out/get-out.md)
+
+[Follow bear into forest.'](create-your-own-adventure/english/forest/drag/drag.md)
