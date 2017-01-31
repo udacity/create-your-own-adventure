@@ -1,0 +1,1 @@
+Todos los hombres disponibles comenzaron a reforzar el portón con todo el material disponible.
