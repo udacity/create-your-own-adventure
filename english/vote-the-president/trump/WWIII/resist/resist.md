@@ -1,0 +1,1 @@
+You decide to take action and join the marches to defend american values. After all your are the son of Irish immigrants escaping persecution. You [#resist](https://twitter.com/hashtag/resist?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag)
