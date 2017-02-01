@@ -1,0 +1,1 @@
+You snap out of your momentary daze, and rush to action, scrambling around looking for a weapon, any weapon.  Your eyes rest upon a small knife lying on the ground.  As your eyes lock onto it, the dragon roars, it's sixteen eyes changing from a sad blue to an angery gold and red.  Smoke begins venting out of the nostrils on six of the heads while the other two begin to growl.

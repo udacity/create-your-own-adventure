@@ -1,0 +1,1 @@
+You take a deep breath, steady yourself, and inch closer to the massive dragon.  You realize the look in the dragon's many eyes are sad, not hungry.  As you reach out to pet him, he lowers his head down toward you.  As you pet him, another head begins to lower, and it looks like he may want to whisper something in your ear.
