@@ -51,3 +51,5 @@ Another shouts "Who is John Cena"
 "Goodluck talking to John Cena"
 
 "This is the last time i am talking to John Cena"
+
+Feeling foolish, John Cena puts his hands down. Looks at the crowd while walking backwards and slowly fades away into the shadows. John Cena was never seen again! 
