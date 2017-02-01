@@ -100,3 +100,5 @@ to find no one.
 Kristy complaints to the security but they laugh at her.
 
 Security checks the cameras to find nothing.
+
+Kristy screams at them and smashes everything near by.
