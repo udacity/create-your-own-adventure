@@ -11,6 +11,8 @@ If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
 
+You could also work on [solving some of the world's engineering problems.](http://engineeringchallenges.org/challenges.aspx)
+
 NGE is [here] (NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
