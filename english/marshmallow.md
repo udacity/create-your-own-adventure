@@ -19,6 +19,10 @@ or
 
 spend your time [wisely](http://www.pythonchallenge.com/)
 
+Alternatively, you could move to California,
+settle into a workable living situation,
+and [get to work on solving the world's problems.](http://engineeringchallenges.org/challenges.aspx)
+
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
 Are you a:
