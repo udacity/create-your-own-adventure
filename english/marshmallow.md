@@ -1236,6 +1236,8 @@ Why are you reading this line? smile and move on.
 
 Smile and move on gingerly.
 
+Sigh.
+
 What is your [passion?](passion/passion.md)
 
 -
