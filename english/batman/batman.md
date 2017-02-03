@@ -50,7 +50,7 @@ And in typical smark fashion, the crowd boos and chants "John Cena Sucks"
 
 Another shouts "Who is John Cena"
 
-"Goodluck talking to John Cena, he sucks!"
+"Goodluck talking to John Cena, he sucks! yeah he does!"
 
 "This is the last time i am talking to John Cena"
 
