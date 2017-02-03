@@ -1,0 +1,1 @@
+W trakcie biegu czujesz jak ³amie Cie w koœciach, pewnie dlatego ¿e nigdy nie biegasz.. ?

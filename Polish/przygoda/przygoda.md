@@ -9,4 +9,6 @@ Co robisz?
 
 [Zaczynasz jeść ptasie mleczko](jedzenie/jedzenie.md)
 
+[Idziesz to wybiegac](bieganie/bieganie.md)
+
 [Szukasz rozwiązania u wujka Google](http://www.google.pl)
