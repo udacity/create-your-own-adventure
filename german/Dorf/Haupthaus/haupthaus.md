@@ -1,4 +1,4 @@
-Sie treten näher an das Große, Punktvoll aussehende Haupthaus heran.
+Sie treten näher an das große, prunkvoll aussehende Haupthaus heran.
 
 Zwei mit Streitaxt bewaffnete finster drein schauende Krieger versperren ihnen den Weg.
 
