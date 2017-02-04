@@ -1,0 +1,1 @@
+Devam etmeyecek.
