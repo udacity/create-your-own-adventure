@@ -9,3 +9,5 @@ Je gaat snel [terug naar de hei](../welkom.md)
 Je blijft stiekem [meekijken](ontvoering/ontvoering.md)
 
 Je kijkt rond in de [struiken](struiken/in_de_struiken.md)
+
+Je wandelt nog even door en komt op een [verlaten weg](verlaten-weg/verlaten-weg.md) terecht.

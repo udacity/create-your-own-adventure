@@ -16,3 +16,5 @@ Co robisz?
 
 [Idziesz na ³±kê](laka/laka.md)
 
+[Idziesz za sklep](zaSklepem/zaSklepem.md)
+

@@ -1,5 +1,16 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
+
+A few learned to [tango](tango/tango.md)
+
+Some preferred to
+Enter [The Forest!] (forest/forest.md)
+
+If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
+
+hi~
+
 NGE is [here] (NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
@@ -23,9 +34,17 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
+In the end you will realize that it [doesn't really matter]
+(https://goo.gl/1fd4wU).
+The path you choose is as good as any.
+
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
+[Build time machine](time-machine/time-machine.md)
+
 Take some [time](meditation/meditation.md) off!
+
+[Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
 
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
@@ -36,6 +55,7 @@ Who is better?
 [Click Here] (ironman/ironman.md) to vote for Iron Man
 
 [Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
+[click here] (london/london.md) to vote for london
 
 January 2017 approaches. You have two presidential candidates to vote for.
 
@@ -188,6 +208,27 @@ The type of extreme mortal danger that so often accompanies confectionary inspir
 Quickly surveying your immediate surrounds, you notice a garishly dressed,
 vacant-eyed young man lounging on a nearby sofa.
 
+The man is not large but not small, but not average either.
+He is reciting poetry in a language you assume to be Egyptian, 
+though you are not familiar with Egyptian. You only assume this
+because of the small pictograms that seem to rise into the 
+air above his head when he speaks. One looks like a small bird.
+Another a small insect. A third is for all appearances the 
+third car your father ever bought you, a small Fiat 500, which
+though in the picture above the man's head is purple, was 
+in reality more of a mauve. It had a tendency to bark whenever
+you drove it over hills, not like the proud great dane from 
+Nova Scotia that most smaller cars tend to imitate when taking
+on tasks greater than their strengths, but rather more like 
+the small pomerainian who is now barking at the blue music notes
+hovering over the man's large-ish head, now peeing on the 
+back of the sofa, making it difficult for you to remember the
+name of that dude you totally scored with in the back of your 
+Fiat 500. You're finding it difficult to think. You sit down on
+the sofa to gather your thoughts. You think of all the men 
+you slept with on your hitch hiking journeys across the southern
+american continent.
+
 [Pinch yourself to see if this is a dream.](./is-this-a-dream/is-this-a-dream.md)
 
 You recall what a man said to you once: "Live as one of them, Kal-El, to discover
@@ -227,6 +268,8 @@ An umbrella (closed) automagically appears in your left hand. You tentatively
 
 You are feeling very anxious at this point.
 
+You can't decide if anything is worth it anymore so you loose yourself at a [David Gray concert.](concert/concert.md)
+
 Goosebumps appear.
 
 This is because you do not like leather for ethical reasons.
@@ -257,11 +300,16 @@ You decide to try to light a fire to melt some of the marshmallows so you look f
 
 You see a polar bear searching for food.
 
+I see that you may be from the North. [How's it going?](./north/north.md)
+
 [A Shotgun appears!](./shotgun/shotgun.md)
 
 [Whilst cycling backwards.](./cycling-backwards/cycling-backwards.md)
 
 "Well- OK," you admit to yourself, "perhaps I do indulge in the occasional intoxicant!"
+
+In a brief moment of clarity, you decide it's time for a change and start to 
+[cycle forwards](./cycling-forwards/cycling-forwards.md).
 
 You hear a small bird sound in the distance.
 
@@ -318,6 +366,8 @@ Where is Hermione Granger when you need her? Where I ask you?
 Oh, I know. Click [here](hermione/hermioneHere.md)
 
 You pick up the fork and wrap it in rope to fashion a crappy wand.
+
+For more on wand history [here](./wand/wand.md).
 
 Pointing it at the door, eyes closed, "Alohomora..."
 
@@ -918,6 +968,8 @@ The understanding of git [go here](Booyah/booyah.md)
 
 [link to google website] (kumar/kumar.md)
 
+Do you want to know [Git disadvantage?] (git_disadvantage/git_disadvantage.md) 
+
 Hi i got this one for udacity team.
 
 As the sand encompassed her toes and
@@ -1105,3 +1157,87 @@ so lazy [here](lazy/lazy.md)
 Click [here](walrus/walrus.md)
 
 Click here to learn more about the MEAN stack [here](mean-stack/mean.md)
+
+Do you like [stargazing](stargazing/stargazing.md) ?
+
+Let's learn some [mandarin](learn-mandarin/learn-mandarin.md)
+
+Neurons for social memories, [more info](http://news.mit.edu/2016/scientists-identify-neurons-social-memory-0929)
+
+What is the meaning of life?
+To find out click [here](meaning-of-life/meaning-of-life.md).
+
+What is that shiny in the window?  Come in and take a
+[look](Computer-Man/Computer-Man.md)
+
+The [shiny device](shiny-device/shiny-device.md)
+
+Wanna trip yourself? Hue has a place you would like to [enter](Trip-Yourself-Hue/trippy.md)
+
+You decide to [slapa-da-bass](slapa-da-bass/slapa-da-bass.md)
+
+If you want to play soccer, click [here](Soccer/soccer.md)
+
+If you are a soccer fan, see your team [here](soccerfan/soccerfan.md)
+
+I am also a soccer fan, I am a Man U fan from EPL. To see Man U click [here](ManU/ManU.md)
+
+Wow, you made it to the end!  You are determined, [see](persistent/persistent.md) what awaits.
+
+Wait! This is not the end! OMG [click me](never_ended/never_ended.md) 
+
+have you already heard the story of the Choking Doberman? [click me](dog_finger/dog_finger.md)
+
+Join me in [Tree of Savior!](tos/tos.md)
+
+Let's do the [Front-end Web Developer Nanodegree](front_end/front_end.md) together!
+
+How about we all [learn android](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) !
+
+Let's finish a small goal, [for example](set_up_a_small_goal/setup_a_small_goal.md)
+
+You decide to teach google to be a [Pictionary](https://quickdraw.withgoogle.com/) champion.
+
+Jason Calacanis is one of the best interviewers I've seen. 
+[Here](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A) they are
+
+My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.
+
+Maybe this is a [dream](dream/dream.md)?
+
+Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
+
+Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
+
+<<<<<<< HEAD
+Have you ever heard any unusual sounds 
+when you're alone? 
+They're not what you think. 
+Get to know them [here](blackAndwhite/blackAndwhite.md)
+
+=======
+Like football or soccer(as many others call it)? Must Watch 
+[The_Greatest_Battle_Ever] (https://www.youtube.com/watch?v=KyHDZqp2ThU)
+
+Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
+
+What if I told that all this is just a bunch of [files](see-files/files.md)
+>>>>>>> upstream/master
+
+A Story of Being Alone
+Read it [here](alone/alone.md)
+
+Information on some famous tv series
+[click here](famous-tv-series/famous-tv-series.md)
+
+I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
+
+Why are you reading this line? smile and move on.
+
+Smile and move on gingerly.
+
+What is your [passion?](passion/passion.md)
+
+-
+
+searching for [good](tvf-play/watch.md) content.

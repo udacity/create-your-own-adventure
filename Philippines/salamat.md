@@ -15,3 +15,18 @@ Ngayon ay ating sundan ang mga kaganapan sa Pilipinas.
 Kamakailan ay nanalong Presidente si [Duterte] (duterte/duterte.md).
 
 O kung gusto mo namang kumain, tara [kain] (kain/kain.md) tayo !
+
+Kinsay balo mag binisaya dinhi?
+
+meow meow meow? [meow!](meow/meow.md)
+
+Pwede rin pumindot dito kung gusto mo ng maikling [joke] (joke/joke.md)
+
+Sumali sa usapan ng mga fan ni Bob Ong [Bob Ong] (bob-ong/bob-ong.md).
+Alamin kung gaano mo kakilala ang iyong idolo.
+Petsa: Nobyembre 17, 2016
+
+Samahan si Benj sa kanyang paglalakbay! [Tara!](tara/tara.md)
+
+Para sa mga gusto kumanta [kanta] (kanta/minsan.md)
+Januart 12, 2017

@@ -41,3 +41,13 @@ Now that Bruce Wayne is grown old, he has proclaimed that I should take over his
 Over my dead body!! Says Robin.
 
 John Cena comes busting through the wall and screams:
+
+"I'm batman!"
+
+And in typical smark fashion, the crowd boos and chants "John Cena Sucks"
+
+Another shouts "Who is John Cena"
+
+"Goodluck talking to John Cena"
+
+"This is the last time i am talking to John Cena"

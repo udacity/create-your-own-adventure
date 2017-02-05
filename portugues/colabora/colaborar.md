@@ -9,3 +9,5 @@ Ao encontrar o repositório do GitHub o que você faz?
 [Procura os contribuintes do código e começa a seguí-los.](follow/follow.md)
 
 [Infelizmente, lê o código, não encontra erro algum e CHORA.](chora/chora.md)
+
+[Toma um cogumelo muito legal e acaba na terra do nunca](../cogumelos/cogumelos.md)

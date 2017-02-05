@@ -6,3 +6,5 @@
 
 Na gut, wenigstens bin ich hier sicher, denkst du noch, da siehst du, wie
 sich mit Highspeed zwei große Schlauchboote voller Bewaffneter dem Schiff nähern ...
+
+[Du entscheidest dich für die Flucht durch das Wasser und springst von Bord](../../../../../../schwimmen/schwimmen.md)

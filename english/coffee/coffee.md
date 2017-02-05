@@ -39,6 +39,7 @@ After having your coffee do you want to:
 
 [Procrastinate?](procrastinate/procrastinate.md)
 
+[Go to bed?](bed/bed.md)
 .
 
 Coffee creates a great medium for people to have conversations about ideas and visions.

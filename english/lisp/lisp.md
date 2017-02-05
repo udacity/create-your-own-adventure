@@ -4,3 +4,8 @@ It thunders, "We hold the path of the Righteous. Blessed be he who follows the s
 
 The prompt pops up.
 "Long live the lambda!"
+
+
+
+
+Want a cool lego story? [Go here](../lego/lego.md)

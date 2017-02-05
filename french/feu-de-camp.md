@@ -18,6 +18,8 @@ Que faites-vous ?
 
 [J'appelle mon prof de musique](telephone/prof_musique.md)
 
+[J'appelle mon prof de maths](riddle/prof_maths.md)
+
 [Je dessine une porte avec un syphon de crème chantilly qui traine](dessine/porte.md)
 
 [Je ne parle pas francais](../english/marshmallow.md)
@@ -33,3 +35,7 @@ Que faites-vous ?
 [Je me lève et me dirige vers la sortie](sortie/pousser-porte/pousser-porte.md)
 
 [Je ne fais rien](rien/rien.md)
+
+[Je commande du foie gras](foie-gras/foie-gras.md)
+
+[J'organise une soirée pain d'épices](soiree/soiree.md)
