@@ -104,3 +104,5 @@ Security checks the cameras to find nothing.
 Kristy screams at them and smashes everything near by.
 
 They usher her out of the room.
+
+Kristy kicks their door in fury.
