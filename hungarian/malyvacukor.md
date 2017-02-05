@@ -13,3 +13,5 @@ Mit csinálsz?
 Jól belerúgsz az [oxigén generátorba](oxygen/oxygen.md)
 
 [megnezem, hogy a boszorkany mezeskalacs hazaban vagyok-e](boszorkany/mezeskalacs-haz.md)
+
+[iszol egy kavet](kave/kave.md)
