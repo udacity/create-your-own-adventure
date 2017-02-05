@@ -1,0 +1,3 @@
+You wake up in an empty room with 3 doors before you...
+From the left, which one do you enter?
+[first](f.md)   [second](s.md)   [third](t.md)
