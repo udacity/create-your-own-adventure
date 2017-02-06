@@ -1,0 +1,1 @@
+Descubre el enemigo que Canudos tiene muchos arqueros a disposición y tienen que hacer retroceder a sus tropas.
