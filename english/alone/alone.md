@@ -106,3 +106,5 @@ Kristy screams at them and smashes everything near by.
 They usher her out of the room.
 
 Kristy kicks their door in fury.
+
+She yells profanities and stumble towards exit and collapse.
