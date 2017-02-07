@@ -47,6 +47,8 @@ O Git te parece ser util, mas como você ainda não vive no século XXI, você e
 
 Mas te bateu uma fome danada e você não tem nada na geladeira e nenhum tostão.
 
+Mas, então vc se lembra que tem bastante bitcoins, pede uma pizza e paga em bitcoins usando seu smartphone e percebe então que seu PC não serve mais pra nada...
+
 Vende seu PC?
 [SIM](venda/sim.md)
 
