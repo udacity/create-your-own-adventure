@@ -1,0 +1,1 @@
+Caminando solitario encontró una mina de oro en el camino
