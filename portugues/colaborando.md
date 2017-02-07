@@ -1,17 +1,17 @@
-Você é usuário de um aplicativo open source de Android, o qual usa o Github para manter o código. Durante o uso do
+Você é usuário de um aplicativo open source de Android Nougat (7.0), o qual usa o Github para manter o código. Durante o uso do
 aplicativo, você detecta um bug.
 
 Você:
 
-[Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
+[Faz um canal no youtube para falar do jogo Minecraft](youtube/minecraft.md)
 
-[Chora descontroladamente até que sua fada madrinha aparece e te dá 1 desejo](fada/fada.md)
+[Chora descontroladamente até que sua fada madrinha aparece e te dá 3 desejos](fada/fada.md)
 
 [Caguei, vou ver um video no xvideos](xvideos/xvideos.md)
 
 [Encontra uns cogumelos na geladeira e decide consumi-los](cogumelos/cogumelos.md)
 
-[Procura o repositório do aplicativo?](colabora/colaborar.md)
+[Procura o reposit�rio do aplicativo?](colabora/colaborar.md)
 
 [Começa a pensar como solucionar o bug e resolve olhar no codigo fonte](pesquisa/codFonte.md)
 
