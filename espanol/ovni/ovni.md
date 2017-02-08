@@ -1,0 +1,1 @@
+Un día iba caminando por el bosque cuando vi una intensa luz roja que se acercaba. Despues me desperté en un planeta desconocido. 
