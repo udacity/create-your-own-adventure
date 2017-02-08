@@ -1,1 +1,3 @@
 You are really confused, you faint again, wake up and get a migraine.
+Once your vision finally clears up, you realize, you are just where you started.
+
