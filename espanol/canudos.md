@@ -59,6 +59,9 @@ accediendo a un [estado de meditación transcendente](transcender/transcender.md
 
 [Propone reconfigurar la máquina del tiempo](maquina/maquina.md)
 
+Pero en esto llego un extranjero presentando al [daguerrotipo](daguerrotipo/daguerrotipo.md ) como su solucion 
+al problema anterior, pero solo quedo un loco en el salón
+
 [Saco la guitarra y empezo a bailar en una pata](bailar/bailar.md)
 
 [Un perro llego corriendo y se puso a bailar con él, pero en 2 patas](perro/perro.md)
