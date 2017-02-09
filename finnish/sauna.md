@@ -7,3 +7,5 @@ Katsellessasi tyyntä järveä kuulet kuikan huudot hämärtyvässä elokuun alu
 Mene uimaan painamalla [tästä](järvi/järvi.md)
 
 Palaa [löylyyn](loyly/loyly.md)
+
+Hae uusi [olut](jääkaappi/jääkaappi.md)
