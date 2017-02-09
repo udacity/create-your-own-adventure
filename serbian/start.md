@@ -19,4 +19,4 @@ Mislio se dugo šta bi mu najbolje za mamurluk prijalo i onde se dosetio.
 
 "Daćete mi jedan sa sirom, jedan jogurt i jedan niški za dezert, molim vas."
 
-"Ko je pomenuo cevape?" [klikni ovde](noveIdeje)
+"Ko je pomenuo cevape?" [klikni ovde]noveIdeje\cevapcici
