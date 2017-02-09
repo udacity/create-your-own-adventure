@@ -5,3 +5,5 @@ Dicho orificio deslumbraba luz indicanto que habia algo si entrabas a traves de 
 El Consejero le dijo a Beatito, "ve qué hay del otro lado y me informas".
 
 Beatito cruza el umbral, mientras el Consejero le observa.
+
+Beatito perplejo se da la vuelta lentamente, su cara se veia sorprendida y confundida al mismo tiempo
