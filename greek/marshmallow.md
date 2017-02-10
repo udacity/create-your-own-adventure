@@ -33,3 +33,5 @@
 Όμως, μέσα στον πανικό σου, σου έρχεται στο μυαλό μια ιδέα. 
 
 [Γεμίζεις μια λεκάνη με νερό](fill_water_tank/fill_water_tank.md)
+
+[Παίρνεις τον αναπτηρα](take_the_lighter/take-the-lighter.md)
