@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+If you are from Goa and speak Konkani भास, [वस](konkani/article.md)
+
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
 Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
