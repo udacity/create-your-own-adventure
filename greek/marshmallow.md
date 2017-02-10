@@ -34,4 +34,4 @@
 
 [Γεμίζεις μια λεκάνη με νερό](fill_water_tank/fill_water_tank.md)
 
-[Παίρνεις τον αναπτηρα](take_the_lighter/take-the-lighter.md)
+[Παίρνεις τον αναπτηρα](take-the-lighter/take-the-lighter.md)
