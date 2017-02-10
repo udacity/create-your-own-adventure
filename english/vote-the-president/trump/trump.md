@@ -3,6 +3,7 @@ You made America great again. Now its time to build a wall. Call 987654321 to co
 It's gonna be huuuuge!
 
 Let me tell you something about ...
+https://i.imgflip.com/1foury.jpg
 
 Are you ready for [WWIII](./WWIII/WWIII.md)?
 
