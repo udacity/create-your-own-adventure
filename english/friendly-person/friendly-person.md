@@ -1,6 +1,8 @@
 As you get closer, you suddenly realize that the person on the path is you!
 You look different somehow. You look good, happy, peaceful.
 
+You approach yourself and realize, you are stuck in a [Time Loop.](../marshmallow.md)
+
 You ask yourself a question:
 
 Is this me in a parallel world maybe? 
