@@ -7,4 +7,6 @@ ya no era mas que una masa de colores amorfa que aún se diferenciaba del "fondo
 Pero aún persistian sus pensamientos. Debería desprenderse de esos también, si quería transcender 
 debidamente.
 
+Por supuesto, su intención era trascender, estaba entre sus metas vitales
+
 Y lo hubiera hecho... Sin embargo, [una hora antes había sellado su propio destino](destino/destino.md).
