@@ -9,3 +9,5 @@ Nachdem das Smartphone gebootet wurde siehst du...
 [kein Internetempfang hast.](keinInternet/keinInternet.md)
 
 [nach nur 2 Sekunden geht das Smartphone wieder aus, da der Akku zu schwach ist.](keinAkku/keinAkku.md)
+
+schemenhaft einen Gegenstand hinter der Glasscheibe Deines Displays. Du nimmst Deine Brille ab um ihn genauer zu betrachten. Es scheint eine kleine Frucht. Doch wie kommt diese da hin?
