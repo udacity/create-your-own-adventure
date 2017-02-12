@@ -1,0 +1,1 @@
+The Yoga Sutra, widely regarded as the authoritative text on yoga, is a collection of aphorisms, outlining the eight limbs of yoga. These "threads" (as sutra translates from Sanskrit) of wisdom offer guidelines for living a meaningful and purposeful life. Learn more about the sutras and Patanjali, the sage who wrote them.
