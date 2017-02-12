@@ -1,5 +1,5 @@
-Do you know what social media platforms like Facebook(https://facebook.com),
-Instagram(https://instagram.com) and Snapchat(https://snapchat.com) are for?
+Do you know what social media platforms like [Facebook](https://facebook.com),
+[Instagram](https://instagram.com) and [Snapchat](https://snapchat.com) are for?
 
 The sole purpose they serve is falsely feeding our egos by making us feel
 that people actually care about our lives, about what we do, where we go, who
@@ -25,8 +25,8 @@ and what-not and why people like Justin Bieber are.
 
 The choice is yours:
 
-1. Do what every idiot does(https://www.google.co.in/search?q=puppy+filter&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj10LKipovSAhVMqY8KHVQ4CCMQ_AUICCgB&biw=1366&bih=610)
+1. [Do what every idiot does](https://www.google.co.in/search?q=puppy+filter&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj10LKipovSAhVMqY8KHVQ4CCMQ_AUICCgB&biw=1366&bih=610)
 
 OR
 
-2. Do something big, something different, something REAL(http://more-sky.com/data/out/12/IMG_513957.png)
+2. [Do something big, something different, something REAL](http://more-sky.com/data/out/12/IMG_513957.png)
