@@ -129,7 +129,7 @@ Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 [Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
 
-One morning, you wake up in a strange room with marshmallows for walls.
+One morning, you wake up in a strange room with peanut-butter-flavored marshmallows for walls.
 
 Marshmallows smell funny. What is a marshmallow anyway?
 
