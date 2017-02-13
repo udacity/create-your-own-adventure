@@ -30,3 +30,8 @@ Samahan si Benj sa kanyang paglalakbay! [Tara!](tara/tara.md)
 
 Para sa mga gusto kumanta [kanta] (kanta/minsan.md)
 Januart 12, 2017
+
+Sa mga gustong sundan ang paglalakbay ni Jollibee sa Pilipinas 
+para sirain ang relasyon ngbawat Pilipino. Wag mo to iclick
+masasaktan ka lang emotionally and politically. [jollibee-adventures] 
+(jollibee-adventure/intro.md)
