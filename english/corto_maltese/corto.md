@@ -1,1 +1,1 @@
-If you like to read a great adventures of [Corto Maltese](http://euro.idwpublishing.com/catalog/corto/) from one of the greatest storytellers [Hugo Pratt](https://en.wikipedia.org/wiki/Hugo_Pratt) just follow the links.
+If you like to read a wonderful adventures of [Corto Maltese](http://euro.idwpublishing.com/catalog/corto/) from one of the greatest storytellers, [Hugo Pratt](https://en.wikipedia.org/wiki/Hugo_Pratt), just follow the links.
