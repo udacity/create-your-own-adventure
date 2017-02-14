@@ -9,3 +9,5 @@ Co robisz?
 [Kładziesz się na podłodze i zasypiasz](./spanie/spanie.md)
 
 [W rogu pudełka zauważasz leżące zapałki](./zapalki/zapalki.md)
+
+[Zdajesz sobie sprawę, że śnisz, ale...](./sen/sen.md)
