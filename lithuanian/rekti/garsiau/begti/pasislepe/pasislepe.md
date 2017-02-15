@@ -1,0 +1,1 @@
+Pamatęs šalia krūmus juose pasislėpė

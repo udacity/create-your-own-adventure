@@ -1,0 +1,1 @@
+Išsigandęs sustojo vilkų priešakyje
