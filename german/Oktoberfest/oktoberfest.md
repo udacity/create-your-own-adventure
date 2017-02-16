@@ -6,4 +6,4 @@ Sie ist blond und hat lange geflochtene Haare. Als Sie sie anblickten, merkt sie
 
 [Fragen Sie sie "Wie spaet ist es?"](../Fragen/fragen.md)
 
-[Sie schauen an sich hinunter ...](GleichesDirndl/gleichesDirndl)
+[Sie schauen an sich hinunter ...](GleichesDirndl/gleichesDirndl.md)
