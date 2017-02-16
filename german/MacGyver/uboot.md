@@ -2,4 +2,5 @@ Beim Griff nach dem Messer finden Sie in Ihrer Hosentasche auch noch einen Draht
 In der Zwischenzeit läuft das Boot weiter mit Wasser voll und beginnt zu sinken.
 
 Sie...
-...schnappen sich Kaugummi, Messer und Draht und versuchen das [U-Boot rechtzeitig fertigzustellen](../build-uboot/uboot2.md).
+
+...schnappen sich Kaugummi, Messer und Draht und versuchen das [U-Boot rechtzeitig fertigzustellen](../MacGyver/build-uboot/uboot2.md).
