@@ -1,0 +1,1 @@
+Noch während das Boot sinkt, brechen Sie mit dem Messer ein paar Planken aus dem Boot und verkleben Sie mit dem Kaugummi zu einem U-Boot. Den Draht behalten Sie für alle Fälle auf Reserve.
