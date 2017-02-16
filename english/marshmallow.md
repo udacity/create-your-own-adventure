@@ -63,6 +63,8 @@ January 2017 approaches. You have two presidential candidates to vote for.
 
 [Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
 
+[Click](vote-the-president/michelle/Michelle.md) here if you know what #michelle2020 means!
+
 You don't like either of these candidates.
 So instead, you decide to [write a symphony](write-a-symphony/symphony.md)
 or
