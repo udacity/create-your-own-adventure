@@ -1,0 +1,2 @@
+Con un rápido movimiento sacó unas pinturas  y cambió el nombre del pueblo, a continuación hizo un cartel con el nombre auténtico de pueblo y una flecha que indicaba al sur.
+Cuando el ejército enemigo llegó les saludaron efusivamente con la manos abiertas a lo que el ejército enemigo contestó con igual gesto mientras se dirigían al sur con mucha prisa.

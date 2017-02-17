@@ -1,0 +1,2 @@
+Y efectivamente, 5 días más tarde empezaron a morir de hambre los hombres del ejército invasor que no tuvieron la decencia de planificar la guerra.
+Moraleja: "Estudia un poco que si no te morirás de hambre a nada que hagas"
