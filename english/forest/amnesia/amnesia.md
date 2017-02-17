@@ -1,6 +1,6 @@
 You come to, eventually. How long as it been?
 Who are you?
-What is this?
+Where did you end up?
 What is man, and are we alone in the Universe?
 
 Well, one thing you do know: you have no idea. And you're sort of fine with that.
