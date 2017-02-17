@@ -13,3 +13,4 @@ Which part of the world, and what time you want to travel? And why?
 
 [You turn back](../marshmallow.md)
 
+[Now that you know git, travel back in time and teach it to the masses as your first step to take over the world.](https://www.youtube.com/watch?v=CDeG4S-mJts)
