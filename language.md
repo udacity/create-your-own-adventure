@@ -1,4 +1,4 @@
-﻿If you speak English, [go here](english/marshmallow.md).
+﻿If you speak legit English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
@@ -116,7 +116,7 @@ click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
 Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 
-നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ, 
+നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ,
 [ഇവിടെ ക്ലിക്ക് ചെയ്യുക](Malayalam/malayalam.md)
 
 [ئەگەر کوردی ئەزانیت کلیک بکە](kurdish/kurdi.md)
