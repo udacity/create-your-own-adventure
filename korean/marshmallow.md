@@ -2,6 +2,8 @@
 
 어떻게 할까요?
 
+[카톡을 켠다](kakaotalk/no-message.md)
+
 [국회로 간다](filibuster/filibuster.md)
 
 [벽을 먹는다](eating-walls/eating-marshmallows.md)?
