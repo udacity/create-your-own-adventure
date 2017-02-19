@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+If you speak or want to know about Sanskrit, [यदि त्वम् संस्कृतम् वदति।] (Sanskrit/sanskrit.md)
+
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
 Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
