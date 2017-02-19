@@ -1,0 +1,1 @@
+[Click here] (http://sanskrit.inria.fr/manual.html)
