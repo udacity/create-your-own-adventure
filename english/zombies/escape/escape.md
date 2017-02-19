@@ -1,0 +1,1 @@
+As you attempt to get up, an enormous amount of pain causes you to yell. You move your hands and feet, only to realize your broken leg is caught between unmoveable debris. Knowing their is nothing you can do, you lay uncomfortably, accepting your fate, as zombies are running in the distance.
