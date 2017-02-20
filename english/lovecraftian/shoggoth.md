@@ -5,4 +5,4 @@ This really hurts.
 
 But just then you:
 
-[See an ostrich?] (../hospital_bed/hospital_bed.md)
+[See an ostrich?](../hospital_bed/hospital_bed.md)
