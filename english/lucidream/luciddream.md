@@ -19,3 +19,5 @@ Flys to the moon
 Spin like a Whirling Dervish
 
 [Sent to the hospital](../hospital_bed/hospital_bed.md)
+
+[Vacuum](../vacuum/vacuum.md)
