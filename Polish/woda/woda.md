@@ -1,0 +1,3 @@
+Lezysz na lozku i powoli gasisz pragnienie woda z cytryna.
+
+Zaczynasz czuc sie wysmienicie. Twoje samopoczucie zaczyna wywierac wplyw na twoje otoczenie. W scianie z ptasiego mleczka zaczyna pojawiac sie otwor, przez który twym oczom ukazuje sie przepiekny widok...
