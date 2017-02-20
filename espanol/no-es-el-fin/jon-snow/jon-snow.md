@@ -1,0 +1,1 @@
+El nombre real de Jon Snow debe ser Jon Targaryen, pues es hijo de Lyanna Stark y Rhaegar Targaryen.
