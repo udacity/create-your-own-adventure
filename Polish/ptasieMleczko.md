@@ -1,8 +1,8 @@
-Pewnego ranka obudziłeś się w dziwnym pokoju ze ścianami z ptaskiego mleczka.
+Pewnego ranka obudziÅ‚eÅ› siÄ™ w dziwnym pokoju ze Å›cianami z ptaskiego mleczka.
 
-Okazało się również, że masz na sobie niewygodną kurtkę i nie masz na sobie spodni...
+OkazaÅ‚o siÄ™ rÃ³wnieÅ¼, Å¼e masz na sobie niewygodnÄ… kurtkÄ™ i nie masz na sobie spodni...
 
-Czujesz, �e wzmaga si� w tobie pragnienie, czy to nie jest dobry pomys�, �eby napi� si� Kadarki?
+Czujesz, ¿e wzmaga siê w tobie pragnienie, czy to nie jest dobry pomys³, ¿eby napiæ siê Kadarki?
 
 Co robisz? 
 
@@ -10,7 +10,8 @@ Co robisz?
 
 [Czujesz zew przygody](przygoda/przygoda.md)
 
-[Chcesz się przebrać](ubranie/ubranie.md)
+[Chcesz siÄ™ przebraÄ‡](ubranie/ubranie.md)
 
-[Idziesz kupi� Kadark�](kadarka/kadarka.md)
-i
+[Idziesz kupiæ Kadarkê](kadarka/kadarka.md)
+
+Poniewaz Kadarka nadaje sie jedynie do udrazniania rur a tobie bardzo chce się pic postanawiasz napic sie [Wody z cytryna](woda/woda.md)
