@@ -1241,3 +1241,6 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Read clever stories about [swami-vivekananda](swami-vivekananda/swami-vivekananda.md) and continue
+further. 
