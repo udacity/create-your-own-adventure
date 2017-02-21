@@ -14,3 +14,5 @@ Co robisz?
 
 [Idziesz kupiæ Kadarkê](kadarka/kadarka.md)
 i
+
+[Widzisz lochy](lochy/lochy.md)
