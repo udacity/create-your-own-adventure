@@ -70,7 +70,9 @@ not even the thunderbolts of heaven -- but stand up and work!
 14. Where can we go to find God if we cannot see Him ,
     In our own hearts and in every living being.
 
+[GOTO](http://isha.sadhguru.org/blog/sadhguru/masters-words/stories-swami-vivekananda-life-inspired/)
 
+[GOTO](https://www.youtube.com/channel/UCKCv-eq-3qMSfWJ8076YaDg)
 
 [Read More](http://www.awakeningindia.org/life/Teachings.aspx)
 
