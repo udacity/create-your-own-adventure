@@ -51,3 +51,7 @@ Another shouts "Who is John Cena"
 "Goodluck talking to John Cena"
 
 "This is the last time i am talking to John Cena"
+
+A frustrated John Cena then pulls out a game board from under the arena and asks if you want to play:
+
+[Play Dungeons and Dragons](../dungeons-and-dragons/dungeons-and-dragons.md)
