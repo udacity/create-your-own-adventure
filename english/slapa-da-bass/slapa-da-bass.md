@@ -1,4 +1,4 @@
-You start with a funky [canned heat by Jamiroquai](https://www.youtube.com/watch?v=Z7lSfg6QR78).
+You start with a funky [canned heat by Jamiroquai](https://www.youtube.com/watch?v=vE4VlA_9OrI).
 The audience loves it. You play some more groovy numbers and end with the classic
 [Aeroplane by Red Hot Chili Peppers](https://www.youtube.com/watch?v=tpFk2RTxoE8).
 
