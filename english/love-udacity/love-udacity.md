@@ -6,6 +6,8 @@ She has been the difference and now I am confident I can be a developer.
 
 I am glad you also met [Udacity](http://www.udacity.com)
 
+Q&A:
+
 The question is do you keep using the free courses or plump for the nano-degree?
 
 Never stop learning!
@@ -14,6 +16,6 @@ But when things are getting really difficult, are you going to [quit](../quit/qu
 
 No you aren't going to quit. There are a ton of other resouces, just please keep trying!'
 
-Thanks alot Udacity for teaching me git and github
+Thanks very much  Uacity for teaching me git and github
 
-[Udacity taught me Spanish](../../espanol/canudos.md)
+Career info: please get in touch with a connector!
