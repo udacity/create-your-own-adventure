@@ -5,3 +5,5 @@ colapse onto the ground and try to remain motionless.
 
 The tiger comes near you and sniffs at you.. Your heartbeats are
 beating faster than ever...
+
+[as the tiger is sniffing you, you panic and jump up to climb a nearby tree](/jump-and-climb/jump-and-climb.md)
