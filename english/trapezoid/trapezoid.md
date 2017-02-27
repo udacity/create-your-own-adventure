@@ -15,4 +15,5 @@ However, you could essentially be pick the wrong type
 of dance which in turn will land you
 in a world with where people only spoke like Deepak Chopra 
 where the mind is purely a consonant in the existence 
-of all there is to be. Click [here](train-ride/train-ride.md)
+of all there is to be. 
+Click [here](create-your-own-adventure/english/train-ride/train-ride.md)
