@@ -14,3 +14,5 @@ Co robisz?
 
 [Idziesz kupi� Kadark�](kadarka/kadarka.md)
 i
+
+Coś jest nie tak. [Przyglądasz się ścianom bliżej](percepcja/percepcja.md)
