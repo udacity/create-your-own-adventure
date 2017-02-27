@@ -6,6 +6,8 @@
 
 The next step is other planets.
 
+But before that, there's [Korra](../avatar/korra.md)
+
 
 
 You feel stranded.
