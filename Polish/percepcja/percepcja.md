@@ -4,7 +4,7 @@ Ze zdziwieniem stwierdzasz, że ściany nie są jednolite, a stworzone z czegoś
 
 Co robisz?
 
-Starasz się [ustalić proporcje ptasiego mleczka do lukrecji](lukrecja/lukrecja.md).
+Starasz się [ustalić proporcje ptasiego mleczka do lukrecji](lukrecja/proepidemia.md).
 
 Niewiele myśląc, [zaczynasz jeść ściany](../przygoda/jedzenie/jedzenie.md) nie zważając na lukrecję.
 
