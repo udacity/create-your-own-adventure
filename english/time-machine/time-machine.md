@@ -13,3 +13,5 @@ Which part of the world, and what time you want to travel? And why?
 
 [You turn back](../marshmallow.md)
 
+[you travel back straight to the 70's to enjoy Woodstock and the sexual revolution](../woodstock/woodstock.md)
+
