@@ -5,4 +5,4 @@ and poke your head in, when a voice speaks:
 
 "COME JOIN US"
 
-and it pulls you into the darkness.
+[...and it pulls you into the darkness.](grue/grue.md)
