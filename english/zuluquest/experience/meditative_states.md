@@ -13,3 +13,7 @@ mean a lot for you.
 Just allow the flow of generative process to happen.
 
 [Learn more about generative states of consciousness](http://stephengilligan.com)
+
+Or
+
+You could [enter the matrix](../../in-matrix)
