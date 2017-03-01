@@ -16,4 +16,4 @@ Just allow the flow of generative process to happen.
 
 Or
 
-You could [enter the matrix](../../in-matrix)
+You could [enter the matrix](../../in-matrix/matrix.md)
