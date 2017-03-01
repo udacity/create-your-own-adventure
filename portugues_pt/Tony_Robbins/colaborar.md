@@ -37,4 +37,4 @@ Iria passear na [Itália](italia/italia.md)
 
 Investiria no [saturnov](http://www.saturnov.com/) 
 
-Conhecia o [homem dos porquês](Tony_Robbins/why.md).
+Conhecia o [homem dos porquês](Tony_Robbins\why.md).
