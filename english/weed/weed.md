@@ -23,6 +23,7 @@ Decide to go to [sleep] instead?(../sleep/marshmallow.md)
 Opt for a [chemical-free nirvana]?(../sleep/sit-down-to-meditate.md)
 
 Choose [Blue Pill](https://www.youtube.com/watch?v=1GFkN4deuZU)
+	- That was crazy lol.
 
 Or
 
