@@ -47,4 +47,6 @@ There is no conflict！
 [Sleep]
 [Have some chocolate coffee.](../coffee/coffee.md)
 
+[Get the info about various chocolates](https://en.wikipedia.org/wiki/Types_of_chocolate)
+
 
