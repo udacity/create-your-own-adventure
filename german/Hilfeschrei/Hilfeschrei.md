@@ -14,4 +14,6 @@ sich umentscheiden und [zurück zur Auswahl](../ruderboot.md) gehen?
 
 dem [Blauwal vertrauen](Vertrauen/Vertrauen-zum-Blauwal.md)?
 
+vor Schreck untertauchen und so schnell wie möglich [in die entgegengesetzte Richtung des Waals schwimmen](../schwimmen/schwimmen.md)
+
 [Aus dem Traum aufwachen und Oktoberfest besuchen](../Oktoberfest/oktoberfest.md)
