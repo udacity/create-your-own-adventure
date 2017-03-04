@@ -57,3 +57,10 @@ It does not always have to be with a person.
 Love can be a passion.
 But depending on the person.
 Love can be anything.
+
+Maybe love is an illusion. 
+When it is long enough, it becomes an habit. 
+This habit will get you addicted,
+keep longing for someone
+even you know she won't love you back. 
+PS: I love you, cc. 
