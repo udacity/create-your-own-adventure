@@ -1,3 +1,0 @@
-- Tengo que confesarte que no puedes desposarme. ¿Recuerdas el enano que me
-acompañaba en mi regreso? Quizás debas hablar con él. Yo no tengo fuerzas para
-contarlo...

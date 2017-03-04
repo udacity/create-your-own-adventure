@@ -1,1 +1,0 @@
-Ide fent nagyon konnyu hallucinalni [zuhanyzas](../zuhanyzas/zuhanyzas.md) elott 

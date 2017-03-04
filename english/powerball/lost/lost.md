@@ -1,1 +1,0 @@
-Guess you gotta get up for [work tomorrow](http://i.giphy.com/pFwRzOLfuGHok.gif).

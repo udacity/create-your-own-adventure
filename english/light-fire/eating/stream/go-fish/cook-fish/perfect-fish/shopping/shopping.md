@@ -1,1 +1,0 @@
-You start your search for the local supermarket.
