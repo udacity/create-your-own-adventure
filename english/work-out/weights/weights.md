@@ -5,4 +5,6 @@ After getting under the bar, you quickly realize you are no longer as strong as
 you were in highschool. Struggling to press the bar back up, you concede to gravity
 and sheepishly roll the bar down off yourself.
 
+Afterwards, you wish to yourself that you were strong enough to lift Keroppi.
+
 or you go with the [personal trainer](../personal-trainer/personal_trainer.md)
