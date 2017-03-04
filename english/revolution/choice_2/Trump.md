@@ -1,1 +1,0 @@
-You have chosen to give up your persuit of financial independence.
