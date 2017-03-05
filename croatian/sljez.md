@@ -15,3 +15,7 @@ Napokon shvatis da je sljez samosvjestan!
 Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
 
 Vani pada kisa.
+
+[Izlazis van.] (vani/vani.md)
+
+[Ostajes unutra.](unutra/unutra.md)
