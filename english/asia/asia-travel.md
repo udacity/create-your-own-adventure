@@ -1,0 +1,1 @@
+Asia is a wonderful place to visit any time of year!
