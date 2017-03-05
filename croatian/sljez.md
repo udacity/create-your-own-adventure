@@ -18,4 +18,4 @@ Vani pada kisa.
 
 [Izlazis van.] (vani/vani.md)
 
-[Ostajes unutra.](unutra/soba.md)
+[Ostajes unutra.](unutra/unutra.md)
