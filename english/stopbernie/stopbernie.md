@@ -1,6 +1,9 @@
 Nothing is free. [Even the middle class will pay more under Bernie Sanders](http://goo.gl/uZIN0d)
 
-Did you know Bernie Sanders has even flirted with a [maximum income](http://goo.gl/AvGGSv)?
+Did you know Bernie Sanders has even flirted with a [maximum income](http://goo.gl/AvGGSv)? which surprisingly is very effective. Force people to spend their 
+money instead of having it sit and not move around which creates jobs which
+increases wealth for the general population and guess who benefits once again?
+Yup, the rich guys who spent their money. Win-win for everyone.
 
 Go [back to menu](../marshmallow.md)
 
