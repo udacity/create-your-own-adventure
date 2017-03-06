@@ -193,4 +193,6 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
 
+Preguntó: ["¿Nada de esto te parece familiar?"](dejavu/dejavu.md)
+
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
