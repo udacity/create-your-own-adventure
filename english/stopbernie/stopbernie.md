@@ -1,6 +1,13 @@
 Nothing is free. [Even the middle class will pay more under Bernie Sanders](http://goo.gl/uZIN0d)
 
-Did you know Bernie Sanders has even flirted with a [maximum income](http://goo.gl/AvGGSv)?
+Did you know Bernie Sanders has even flirted with a [maximum income](http://goo.gl/AvGGSv)? Surprisingly a maximum income makes sense. You are forced
+to use your money which oils the gears of the economy. What good is all of your
+billions if it is sitting there? But if you use it then you get actual benefit
+as well as helping hte economy continiously move forward. There will be more 
+innovation, people as a whole will make more, you yourself can earn more easily,
+everyone essentially wins.
+
+
 
 Go [back to menu](../marshmallow.md)
 
