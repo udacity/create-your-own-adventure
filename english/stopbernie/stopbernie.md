@@ -7,8 +7,6 @@ as well as helping hte economy continiously move forward. There will be more
 innovation, people as a whole will make more, you yourself can earn more easily,
 everyone essentially wins.
 
-
-
 Go [back to menu](../marshmallow.md)
 
 Instead of going back you wonder... Can the truth and validity about a tax plan
