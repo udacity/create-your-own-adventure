@@ -26,4 +26,4 @@ Irgendwie muss ich versuchen sie los zu werden!
 
 Die Situation scheint meinen Verstand vernebelt zu haben. 
 Die Kälte und das Wasser scheint ihr übriges zu tun. 
-Aber in einem lichten Moment erinnere ich mich an meine [Superkraefte](Superkraefte/Superkraefte.md).
+Aber in einem lichten Moment erinnere ich mich an meine [Superkräfte](Superkraefte/Superkraefte.md).
