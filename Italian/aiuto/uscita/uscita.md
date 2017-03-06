@@ -1,1 +1,0 @@
-In realtà non si esce da questo posto, ci si può solo entrare

@@ -1,1 +1,0 @@
-and then he built a giant wall, which destroyed the habit of eating delicious spicy nachos during the superbowl. So sad!
