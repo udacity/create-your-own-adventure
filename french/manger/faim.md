@@ -8,3 +8,5 @@ A force de manger vous faites un trou dans le mur
 [Je me faufille par le trou](trou/trou.md)
 
 [Je continue à manger](continue/continue.md)
+
+[Je deteste le pain d'épices](../panique/frapper-le-mur.md)
