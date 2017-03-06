@@ -1,1 +1,0 @@
-Never fear!  A hurdle to one man is an [opportunity to another](https://www.youtube.com/watch?v=VmU6BChuiBs).

@@ -1,1 +1,0 @@
-Me Drivol :( [Essali](../dothraki_evoli.md)
