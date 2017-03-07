@@ -7,3 +7,5 @@ Japanese to the test and see what you can do.
 [help the woman in Japanese](../../japanese/cold/cold.md)
 
 You realise she`s actually Chinese. [Learn Mandarin instead.](../learn-mandarin/learn-mandarin.md)
+
+You try to speak but cannot [Try speak](../try-speak/try-speak.md)
