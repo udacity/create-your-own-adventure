@@ -41,3 +41,5 @@ Afterwards, you decide to:
 [sleep a bit](../sleep/marshmallow.md)
 
 [realize that you are in a dream](../dream/dream.md)
+
+[take power nap](../power-nap/power-nap.md)
