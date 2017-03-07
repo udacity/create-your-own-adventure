@@ -1,0 +1,1 @@
+Ajudar os mais desfavorecidos.
