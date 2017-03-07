@@ -20,6 +20,8 @@ Kinsay balo mag binisaya dinhi?
 
 meow meow meow? [meow!](meow/meow.md)
 
+Lisanin ang mundong ito at simulang [maglakbay] (paglalakbay/paglalakbay.md) sa ibang uri ng daigdig!
+
 Pwede rin pumindot dito kung gusto mo ng maikling [joke] (joke/joke.md)
 
 Sumali sa usapan ng mga fan ni Bob Ong [Bob Ong] (bob-ong/bob-ong.md).
