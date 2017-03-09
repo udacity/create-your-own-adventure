@@ -1,1 +1,0 @@
-It is pitch black. You are likely to be eaten by a [grue](http://www.web-adventures.org/cgi-bin/webfrotz?s=ZorkDungeon).
