@@ -1,1 +1,0 @@
-I really like Man U. Though the 2016 team is not so great, I still support my team.

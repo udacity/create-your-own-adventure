@@ -1,1 +1,0 @@
-Akka vojjor zala hilelat Daenerys, vosma laz vo. [Essali](../dothraki_evoli.md)

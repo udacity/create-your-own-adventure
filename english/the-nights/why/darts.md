@@ -1,1 +1,0 @@
-They will throw darts at your face but don't let their disgrace enter your space
