@@ -15,3 +15,5 @@ Chop off his limbs
 Go off to find a nice shrubbery
 
 [Run into the Knights who say "Ni!" again!](https://www.youtube.com/watch?v=zIV4poUZAQo)
+
+[It's only a model...](https://www.youtube.com/watch?v=m3dZl3yfGpc)
