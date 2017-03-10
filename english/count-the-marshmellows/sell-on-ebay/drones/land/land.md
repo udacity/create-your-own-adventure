@@ -8,4 +8,4 @@ newfound fame into fortune.
 
 You decide to [sell the prize](sell/sell.md).
 
-You go on a [world peace tour[(tour/tour.md).
+You go on a [world peace tour](tour/tour.md).
