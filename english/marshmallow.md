@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Do you feel [art of life](art-of-life/art-of-life.md)?
