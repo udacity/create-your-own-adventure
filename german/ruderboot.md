@@ -43,3 +43,5 @@ Werden Sie:
 [Zum fliegenden Spaghettimonster beten, damit sie ueberleben?](beten/beten.md)
 
 [Das MacGyver-Messer aus der Hosentasche zu holen und das Ruderboot zu einem U-Boot umbauen] (MacGyver/uboot.md)
+
+[Eine Jacht am Horizon sehen, auf das Wasser springen und richtung Jacht schwimmen](Jacht/Jacht.md)
