@@ -24,3 +24,5 @@ You...
 Decide to [start dancing bachata](../start-dancing/startDancing.md) and everybody start to clap and cheer you up.
 
 [Trip and stumble into a pitch-black cave.](grue/grue.md)
+
+You are dreaming, [wake up](../memories/ground-hog/wakeup.md)!
