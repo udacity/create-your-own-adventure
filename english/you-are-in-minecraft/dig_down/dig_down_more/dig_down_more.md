@@ -8,6 +8,6 @@ Things are going well, so you try to dig down for diamonds.
 
 You did it! At height 9, you found diamonds! 
 
-You dig straight down into your first diamond and land in lava.
+You dig straight down past your first diamond and land in lava.
 
 The lava kills you.
