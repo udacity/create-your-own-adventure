@@ -1,3 +1,5 @@
+[Click here](https://www.youtube.com/watch?v=NKY93vCiPIo&t=912s) to view Smartphone Awards for year 2016 by MKBHD.
+
 Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
