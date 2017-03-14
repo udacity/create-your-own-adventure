@@ -1,3 +1,7 @@
+Research has shown that coffee before a workout improves circulation, lessens pain, 
+improves memory for exercises and routines, and preserves and fuels muscles.
+now a days people adicted to having a coffie before break fast 
+why cant ther be more coffee
 Research has shown that coffee before a workout improves circulation, lessens pain,
 improves memory for exercises and routines, and preserves and fuels muscles.
 
@@ -13,3 +17,5 @@ You need to get pumped up in order to run. Do you:
 [Listen to some music.](../listen-to-music/listen-to-music.md)
 
 [Not listen to any music.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+

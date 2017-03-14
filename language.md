@@ -1,4 +1,4 @@
-﻿If you speak English, [go here](english/marshmallow.md).
+If you speak English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
@@ -21,6 +21,8 @@ If you speak Punjabi, [go here](punjabi/punjabi.md).
 If you speak the language of love, [kiss here](love/love.md)
 
 如果你说中文，[点击这里](Chinese/大话西游.md).
+
+挤挤，[click me](Chinese/ZBW/Study.txt)
 
 如果你说中文而且想要了解一个新的世界，[请点击这里](Chinese/DesertHell/NewWorld.md).
 
@@ -167,3 +169,5 @@ Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odys
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
 Si Latine legere vis, [hic preme](latin/arena.md)
+
+
