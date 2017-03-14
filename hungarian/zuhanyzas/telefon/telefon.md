@@ -4,6 +4,6 @@ Miközben azon gondolkozol, hogy működik-e még, hírtelen elkezd csörögni.
 
 Mihez kezdesz?
 
-[felveszed a telefont] (felvesz/felvesz.md)
+[felveszed a telefont](felvesz/felvesz.md)
 
-[törülközőért nyúlsz] (../torulkozo/torulkozo.md)
+[törülközőért nyúlsz](../torulkozo/torulkozo.md)

@@ -11,7 +11,7 @@ Fear grips you and your brain start to whirl with ideas.
 
 Do you:
 
-[Begin to stab with walls with the fork?] (fork/fork-stab.md)
+[Begin to stab with walls with the fork?](fork/fork-stab.md)
 
-[Begin a fire by burning the rope?] (rope/rope-burn.md)
+[Begin a fire by burning the rope?](rope/rope-burn.md)
 

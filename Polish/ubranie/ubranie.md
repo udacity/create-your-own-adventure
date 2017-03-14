@@ -6,5 +6,7 @@ Chyba warto sprawdzić co jest w środku.
 
 [Otwierasz kieszen](kieszen/otworz-kieszen.md)
 
+[Macasz kieszeń i próbujesz odgadnąć co jest w środku](macasz/macasz.md)
+
 
 

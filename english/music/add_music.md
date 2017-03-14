@@ -9,3 +9,7 @@ For Kruschev and Kennedy
 At anytime an invitation
 You can't decline
 
+[And listen to it too!](https://www.youtube.com/watch?v=2ZBtPf7FOoM)
+
+Listen to this beautiful song:
+[Soy Colombia](https://www.youtube.com/watch?v=GtgkAaaab_E)

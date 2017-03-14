@@ -1,0 +1,2 @@
+Você começa a estudar no duolingo inglês e lembra que não aprofundou na época de escola pois teve dificuldade em 
+responder uma importante questão em uma prova "TO BE OR NOT TO BE, THAT IS THE QUESTION"

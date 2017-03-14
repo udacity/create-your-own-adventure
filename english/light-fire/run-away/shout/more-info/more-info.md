@@ -8,8 +8,8 @@ As you try to catch your breath from your marshmallow room escape, the boy sizes
 
 Do you:
 
-[Help him find his dog] (find-dog/find-dog.md)
+[Help him find his dog](find-dog/find-dog.md)
 
-[Explain to him about your escape] (explain-escape/explain-escape.md)
+[Explain to him about your escape](explain-escape/explain-escape.md)
 
-[Ask him to take you to the town] (goto-town/goto-town.md)
+[Ask him to take you to the town](goto-town/goto-town.md)

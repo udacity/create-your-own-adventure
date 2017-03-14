@@ -16,3 +16,5 @@ Where do you go?
 [Asia?](./asia/asia.md)
 
 [Space?](./space/space.md)
+
+[Back inside and wait to wake up](../../sleep/marshmallow.md)

@@ -6,4 +6,8 @@ entrar a tiempo.
 El último soldado entró cuando el ejército enemigo se cernía 
 sobre la ciudad.
 
+Sin perder tiempo, Beatito exclamó:
+
 [¡Cerrad el portón!](cerrad/cerrad.md)
+
+[¡Hay que encontrar al capitan Hernandez!](../../../barracas/capitan.md)

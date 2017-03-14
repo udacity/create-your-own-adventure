@@ -14,4 +14,8 @@ El capitan miró hacia el cielo y encontró:
 
 [Un Hipogrifo](hipogrifo/hipogrifo.md)
 
-[Una Impresionante Carrera] (../carrera/carrera.md)
+[Una Impresionante Carrera](../carrera/carrera.md)
+
+[Chuky el muñeco diabólico](chuky/chuky.md)
+
+[Aventurero](aventurero/aventurero.md)

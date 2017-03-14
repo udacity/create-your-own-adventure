@@ -9,7 +9,7 @@ The walls begin to cramp in towards you, and the room begins to fill with smoke 
 
 Do you:
 
-[Quickly extinguish the fire] (extinguish/extinguish.md)
+[Quickly extinguish the fire](extinguish/extinguish.md)
 
-[Cover your nose with your shirt and hope the fire burns through the marshmallow soon] (wait/wait.md)
+[Cover your nose with your shirt and hope the fire burns through the marshmallow soon](wait/wait.md)
 

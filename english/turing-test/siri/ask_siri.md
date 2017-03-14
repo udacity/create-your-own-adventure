@@ -6,8 +6,16 @@ Repeat You launch Siri
 
  Siri: Here is a list of recipes using giant marshmallows.
 
+You: Hmmm....marshashmallows sound delicious.  Are there any Android themed ones.
+
+Siri:  Here is list of recipes in honour of the new Android release.  Is that all?
+
  You: No! I need help!
 
  Siri: Ok. How can I help you?
 
 Until battery dies…
+
+Do you:
+
+[Wait](../ghostbusters/ghostbusters.md)

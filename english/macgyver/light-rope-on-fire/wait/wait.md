@@ -15,6 +15,8 @@ You realize you've begun your descent, and are falling into a large forest.
 
 Do you:
 
-[Close your eyes and hope for the best] (../../../experience/experience.md)
+[Close your eyes and hope for the best](../../../experience/experience.md)
 
-[Aim for a soft landing on the forest floor] (../../../find-exit/into-forest/forest.md)
+[Aim for a soft landing on the forest floor](../../../find-exit/into-forest/forest.md)
+
+[Place the fork in your teeth and grab for the highest branches!](../../../forest-canopy/forest-canopy.md)

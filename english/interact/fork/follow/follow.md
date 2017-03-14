@@ -5,3 +5,4 @@ With the fork still in hand, you pace yourself towards the hopping Mr marshmallo
 At one corner of the marshmallow room, you notice a large dark hole and marshmallow just jump straight into it!
 
 Do you:
+[Ponder the hole?](ponder/ponder-the-hole.md)

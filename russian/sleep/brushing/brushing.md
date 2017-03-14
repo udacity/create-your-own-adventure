@@ -2,6 +2,6 @@
 красная и синяя, и вы застываете в размышлении и задаете себе вопрос: 
 "Какую из зубных счеток выбрать?"
 
-[Вы выбрали синюю щетку] (bluebrush/blue-toothbrush.md)
+[Вы выбрали синюю щетку](bluebrush/blue-toothbrush.md)
 
-[Вы выбрали красную щетку] (redbrush/red-toothbrush.md)
+[Вы выбрали красную щетку](redbrush/red-toothbrush.md)

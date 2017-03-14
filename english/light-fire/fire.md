@@ -15,6 +15,10 @@ walls for you to squeeze through.
 
 But then you notice a rat entering that opening too.
 
+The rat smiles and says, "Come on, let's go!"
+I add them.
+There is no conflict！
+
 [Enter that opening](magic-world/alice.md)
 
 [Start screaming seeing the rat](fire/alone.md)
@@ -29,6 +33,8 @@ But then you notice a rat entering that opening too.
 
 [Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
 
+[Burn brightly](burn-brightly/burn-brightly.md)
+
 [Call the marshmallow wall repair guy, Marshall M. Aloe](call-marshall/call-marshall.md)
 
 [Pull graham crackers from inside your jacket](graham-crackers/graham-crackers.md)
@@ -39,4 +45,6 @@ But then you notice a rat entering that opening too.
 
 [Drink some coffee.](../coffee/coffee.md)
 [Sleep]
+[Have some chocolate coffee.](../coffee/coffee.md)
+
 
