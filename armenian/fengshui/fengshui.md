@@ -1,1 +1,1 @@
-Do you like feng shui click [here](fengshui/fengshuidesc.md) 
+Ֆեն Շուին ծանոթանալու համար սեղմեք [այստեղ](fengshui/fengshuidesc.md):
