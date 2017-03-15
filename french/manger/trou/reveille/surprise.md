@@ -4,12 +4,12 @@ En effet, vous vous réveillez bien au milieu d'un plan d'eau.
 Et votre peau est toujours recouverte d'une fine pellicule caramélisée.
 
 Cependant, à la place du crapeau se tient maintenant une sirène d'eau douce.
-Et votre nénuphare est devenu un radeau doublé d'un lit de mousse.
-En guise de propulsion une colonie de loutre vous rend service.
+Et votre nénuphar est devenu un radeau doublé d'un lit de mousse.
+En guise de propulsion une colonie de loutres vous rend service.
 
-Au loin vous entendez des voix humaines; plus proche de vous la sirène vous sourie tendrement.
+Au loin vous entendez des voix humaines; plus proche de vous la sirène vous sourit tendrement.
 
-Que faites vous ?
+Que faites-vous ?
 
 [Le concert est merveilleux, je me rapproche](sirene/crapaud.md)
 
