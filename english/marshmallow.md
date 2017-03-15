@@ -9,6 +9,8 @@ Enter [The Forest!] (forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
+Go ahead and learn to use [Git](learn-git/learn-git.md)
+
 hi~
 
 NGE is [here] (NGE/NGE.md)
