@@ -4,14 +4,14 @@ Sans vous arrêter, frénétiquement vous engloutissez le mur entier.
 
 . . .
 
-Vous mourrez d'intoxication.
+Vous mourez d'intoxication.
 
 . . .
 
 Mais non, mais non ! Vous avez eu peur, hein ? Respirez, vous êtes toujours en
-vie. Cependant, vous respirez très difficilement, vous avez très mal a
+vie. Cependant, vous respirez très difficilement, vous avez très mal à
 l'estomac et la température de la chambre baisse rapidement maintenant que le
-mur qui vous protegeait du vent glaciale n'est plus. Que faites vous ?
+mur qui vous protégeait du vent glacial n'est plus. Que faites-vous ?
 
 [J'allume une allumette pour me réchauffer](allumette/l-extinction.md)
 

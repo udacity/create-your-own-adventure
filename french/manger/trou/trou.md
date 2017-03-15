@@ -1,6 +1,6 @@
 Après être passé par le trou vous êtes tout gluant... 
-Un beau soleil brille et vous sêche, 
-mais le chamallow séché caramélise et vous rend de plus en plus gêné dans vos mouvements.
+Un beau soleil brille et vous sèche, 
+mais le chamallow sèché caramélise et vous rend de plus en plus gêné dans vos mouvements.
 
 
 Vous apercevez un étang.
