@@ -1,8 +1,8 @@
 An overwhelming pain echoes through your head. You feel the taste of dirt in
 your mouth. Your hands are moist and you can feel the impression of twigs and
-moss in your cheeks. You're in the forest.
+moss in your cheeks. You're in the forest. It's silent.
 
-You try to regain your thoughts, still dazed by the pain.
+You try to regain your thoughts, still dazed by the penetrating sun and the pain.
 
 "Where am I?" you think. "How did I get here?"
 
