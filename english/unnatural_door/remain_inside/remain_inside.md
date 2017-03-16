@@ -1,1 +1,1 @@
-You think to yourself, "I've always been mad. I know I've been mad, like the most of us...very hard to explain why your are mad, even if you're not mad..." Mad for eternity? Perhaps not?
+You think to yourself, "I've always been mad. I know I've been mad, like the most of us...very hard to explain why your are mad, even if you're not mad..." Mad for eternity? Perhaps. Perhaps not?
