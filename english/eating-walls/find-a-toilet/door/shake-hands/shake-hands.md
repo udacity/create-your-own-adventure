@@ -5,3 +5,5 @@ Your hands went straight through the dark figure! Is it a ghost?
 You and then the thing scream again in renewed fright!
 
 You beging to feel light-headed and pass-out.
+
+[then you wake up](wake up/wake up.md)
