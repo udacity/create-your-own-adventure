@@ -19,4 +19,4 @@ Come reagisci?
 
 [Attiri il tappeto] (attira-il-tappeto/attira-il-tappeto.md)
 
-[Cerchi l'uscita](create-your-own-adventure/Italian/scappare/cercare-uscita.md)
+[Cerchi l'uscita](../scappare/cercare-uscita.md)
