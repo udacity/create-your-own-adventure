@@ -17,3 +17,7 @@ Valar morghulis
 Valar dohaeris
 
 These words spoken and you are now a faceless man, a merceiless assassin, on your way back to Braavos. 
+
+You are hungry and want to eat some oysters.
+
+[Eat some oysters](oyster/oyster.md)
