@@ -85,3 +85,9 @@ Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
 Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
 
 Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
+
+Intre timp se intoarse Ginuta, cioflaind Orbit. Zana Albastra zise:
+
+- Ginuta, vrei si tu niste potiune?
+
+- Nu, multumesc, ca am niste guma, zise ea. In sinea ei se [gandea](gand/gand.md)...
