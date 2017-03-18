@@ -16,6 +16,10 @@ Watch the Passion of the Christ instead
 
 Until you realised you hate Mel Gibson
 
+Then you realize you can just pop in your DVD of Archer. 
+
 So instead watch [Breaking Bad](../breaking-bad/breaking-bad.md) for the 12th time.
 
 Couldn't finish it, where are the new movies, netflix?!
+
+Watch [Archer](../archer/archer.md)
