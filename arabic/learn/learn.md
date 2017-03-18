@@ -19,6 +19,7 @@ freelancing اشهر مواقع العمل الحر
 
 -[freelancer](https://www.freelancer.com/)
 
+-[toptal](https://www.toptal.com/)
 ولكن قبل ذلك، عليك أن تحدد ماذا تريد أن تتعلم:
 
 - [البرمجة](whattolearn/programming/programming.md)
