@@ -19,3 +19,9 @@ Vani pada kisa.
 Dobivaš udarac u glavu odozada sa tupim predmetom.
 
 Budiš se u polumračnoj prostoriji sa strašnom glavoboljom.
+
+U daljini čuješ korake kako se približavaju.
+
+[Pokušavaš ustati iz kreveta.](ustajes-iz-kreveta/ustajes.txt)
+
+[Praviš se da spavaš.](pravis-se-da-spavas/spavas.txt)
