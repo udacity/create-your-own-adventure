@@ -13,3 +13,5 @@ Read the articles on procrastination.
 Have (pseudo) fun in your Dark Playground!
 
 But [be careful](grue/grue.md)!
+
+"JUST DO IT!" - Shia LaBeouf
