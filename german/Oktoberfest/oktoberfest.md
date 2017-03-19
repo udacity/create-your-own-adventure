@@ -1,6 +1,6 @@
 
-Sie besuchen die Wiesn. Sie sehen ein sch�nes M�dchen in einem hellgr�nen Dirndl.
-Sie ist blond und hat lange geflochtene Haare. Als Sie sie anblickten, merkt sie das und l�chelt zur�ck.
+Sie besuchen die Wiesn. Sie sehen ein schönes Mädchen in einem hellgrünen Dirndl.
+Sie ist blond und hat lange geflochtene Haare. Als Sie sie anblickten, merkt sie das und lächelt zurück.
 
 [Laden Sie sie zum etwas zu trinken ein](../Einladen/einladen.md)
 
