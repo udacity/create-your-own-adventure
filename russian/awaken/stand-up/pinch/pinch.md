@@ -5,4 +5,4 @@
 
 [Начать танцевать](../../../dance/dance.md)
 [Задернуть шторы](../../../draw-curtain/drawing-curtain.md)
-[Хочу полетать! Прыгнуть в окно](/window-jump/window-jump.md)
+[Хочу полетать! Прыгнуть в окно](window-jump/window-jump.md)
