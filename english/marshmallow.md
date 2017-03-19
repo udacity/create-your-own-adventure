@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Learn the ways of [alchemy](alchemy/alchemy.md) to make food yourself
