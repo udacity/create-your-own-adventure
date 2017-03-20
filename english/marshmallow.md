@@ -1234,6 +1234,8 @@ I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald 
 
 Why are you reading this line? smile and move on.
 
+casey-collab didn't work [here](german/ruderboot.md). So I try here instead!
+
 Smile and move on gingerly.
 
 What is your [passion?](passion/passion.md)
