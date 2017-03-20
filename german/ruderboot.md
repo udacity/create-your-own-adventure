@@ -1,6 +1,6 @@
 Sie wachen von der Sonne geblendet auf und stellen ziemlich benommen fest, dass Sie 
 
-in einem Ruderboot auf einem grossen See treiben. Ihre Hose ist vollkommen durchnässt, und
+in einem Ruderboot auf einem grossen See treiben. Ihre Hose ist vollkommen durchnÃ¤sst, und
 
 Sie bemerken, dass durch ein Loch in der Bootswand Wasser ins Boot dringt.
 
@@ -8,9 +8,9 @@ Werden Sie:
 
 [Festellen, dass Sie doch kein Deutsch sprechen](../language.md)
 
-[Erschrocken prüfen, ob das Smartphone noch in der Hosentasche ist...](Smartphone/smartphone.md)
+[Erschrocken prÃ¼fen, ob das Smartphone noch in der Hosentasche ist...](Smartphone/smartphone.md)
 
-[Zunächst einmal die zwei Leichen aus dem Boot werfen?](Leichen/Leichen.md)
+[ZunÃ¤chst einmal die zwei Leichen aus dem Boot werfen?](Leichen/Leichen.md)
 
 [Laut um Hilfe schreien?](Hilfeschrei/Hilfeschrei.md)
 
@@ -26,20 +26,22 @@ Werden Sie:
 
 [Versuchen, mit Ihrer Kleidung das Loch zu stopfen](Stopfen/stopfen.md)
 
-[Durchlöcherte Bootwand einfach wegschneiden](wegschneiden/wegschneiden.md)
+[DurchlÃ¶cherte Bootwand einfach wegschneiden](wegschneiden/wegschneiden.md)
 
 [Handeln ist anstrengend. Warum nicht einfach abwarten was passiert?](abwarten/abwarten.md)
 
-[Sie spüren einen höllischen Schmerz im Gesicht](Sonnenbrand/vor-sonne-schutzen.md)
+[Sie spÃ¼ren einen hÃ¶llischen Schmerz im Gesicht](Sonnenbrand/vor-sonne-schutzen.md)
 
-[Kopfüber ins Wasser springen](Kopfsprung/Kopfsprung.md)
+[KopfÃ¼ber ins Wasser springen](Kopfsprung/Kopfsprung.md)
 
 [Ein Dorf aufsuchen um das Boot reparieren zu lassen. Eventuell gibt es dort einen Bootsbauer](Dorf/dorf.md)
 
 [Nase zuhalten und ins Wurstwasser springen](Wurstwasser/wurstwasser.md)
 
-[Strecken Ihre Rücken auf dem Wasser und beginnen zu singen](Singen/singen.md)
+[Strecken Ihre RÃ¼cken auf dem Wasser und beginnen zu singen](Singen/singen.md)
 
 [Zum fliegenden Spaghettimonster beten, damit sie ueberleben?](beten/beten.md)
 
 [Das MacGyver-Messer aus der Hosentasche zu holen und das Ruderboot zu einem U-Boot umbauen] (MacGyver/uboot.md)
+
+[Entspannt Ihre Luftmatratze aufblasen?](Luftmatratze/luftmatratze.md)
