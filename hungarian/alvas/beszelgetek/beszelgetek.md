@@ -1,0 +1,1 @@
+Szia királylány! De jó az ízlésed ruha terén! Van barátod?
