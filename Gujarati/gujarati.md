@@ -19,3 +19,8 @@ This is my favourite Gujarati proverb copied from [here](http://gujarati-proverb
 
 જાગ્યા ત્યાંથી સવાર
 Mine favourite(@ http://gujarati-proverbs.tumblr.com/)
+
+કૃપા બસ એટલી ઈશ્વર થવા દે,
+તું મારા ઘર ને મારું ઘર થવા દે
+ઘણી મેહનત કરી છે જિંદગી ભર,
+હવે પરસેવા ને અત્તર થવા દ This is my favourite Gujarati proverb copied from [here](http://www.updatepedia.com/gujarati-shayari/)
