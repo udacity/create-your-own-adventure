@@ -966,6 +966,8 @@ The understanding of git [go here](Booyah/booyah.md)
 
 [Link to Git Official Website] (git/git.md)
 
+Learn more git [here](https://git-scm.com/book/).
+
 [link to google website] (kumar/kumar.md)
 
 Do you want to know [Git disadvantage?] (git_disadvantage/git_disadvantage.md) 
