@@ -1241,3 +1241,6 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+And that's the way it is for this Wednesday, March 22nd, 2017. For more news, 
+[click here](more-news/index.md).
