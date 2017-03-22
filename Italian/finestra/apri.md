@@ -1,7 +1,7 @@
 
 Ti appare un paesaggio fiabesco,
 
-noti subito un tappeto volante che 
+noti subito un tappeto volante che
 
 staziona ad una ventina di metri da te
 
@@ -17,4 +17,4 @@ Come reagisci?
 
 [Crei una bambola voodoo per addomesticarlo](tour/tour.md)
 
-[Attiri il tappeto] (attira-il-tappeto/attira-il-tappeto.md)
+[Attiri il tappeto](attira-il-tappeto/attira-il-tappeto.md)
