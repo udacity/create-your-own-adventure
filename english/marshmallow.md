@@ -1246,4 +1246,4 @@ Now you are choosing a book from shelf to defeat the demons, which one will pick
 
 The one can summon the giant dragon from ancient times called [deep dark magic](deep-dark-magic/deep-dark-magic.md).
 
-Or the one can manipulate the time and space called [dimention taveler](dimention-taveler)(dimention-traveler.md).
+Or the one can manipulate the time and space called [dimention taveler](dimention-traveler/dimention-traveler.md).
