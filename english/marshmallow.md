@@ -1241,3 +1241,9 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Now you are choosing a book from shelf to defeat the demons, which one will pick it up?
+
+The one can summon the giant dragon from ancient times called [deep dark magic](deep-dark-magic/deep-dark-magic.md).
+
+Or the one can manipulate the time and space called [dimention taveler](dimention-traveler/dimention-traveler.md).
