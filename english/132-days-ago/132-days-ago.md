@@ -10,4 +10,4 @@ Maybe even a [fart] (../eat-farts/eat-farts.md)or two?
 
 sick of it
 
-Maybe carry on with [farts] (../eat-farts/eat-farts.md)
+Maybe carry on with [rainbows] (../eat-rainbows/rainbows.md)
