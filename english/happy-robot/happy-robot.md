@@ -11,3 +11,5 @@ a) Grabs a [weapon](./robot-help/robot-weapon.md), or
 b) Enjoys some [refreshments](./robot-refresh/refreshments.md).
 
 c) Plays some [pictionary](../quick_draw/AI_Pictionary.md) with an AI.
+
+Maybe one day this Robot will be so happy he can dance at partys.
