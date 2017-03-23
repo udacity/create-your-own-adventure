@@ -1241,3 +1241,8 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Would you rather listen to 
+[self-titled](mgmt/self-titled/an-orphan-of-fortune.md), 
+[Congratulations](mgmt/congratulations/congratulations.md) or 
+[Oracular Spectacular](mgmt/oracular-spectacular/of-moons-birds-and-monsters.md)?
