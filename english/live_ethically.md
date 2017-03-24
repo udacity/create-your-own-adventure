@@ -1,0 +1,1 @@
+Find out more about cool energy projects around the globe [here](http://blog.solarcity.com/island-in-the-sun/)
