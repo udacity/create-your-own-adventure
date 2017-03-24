@@ -4,6 +4,8 @@ And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.
 
 A few learned to [tango](tango/tango.md)
 
+Some more learned about [sustainable living](live-ethically/live-ethically.md)
+
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
