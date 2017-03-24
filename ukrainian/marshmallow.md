@@ -26,9 +26,11 @@
 
 [Просто трошки почекаю](wait-more/wait.md)
 
+[Спробую вистрибнути з кімнати ] (jump/jump.md)
+
 [Візьму виделку і ] (make-a-hole/in-the-wall.md)
 
-[Спробую вистрибнути з кімнати ] (jump/jump.md)
+
 
 [Test!](test/test.md)
 
