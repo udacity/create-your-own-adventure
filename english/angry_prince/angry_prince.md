@@ -11,3 +11,7 @@ Satisfied with the sword, He asked for the craftsman to come in his palace to th
 Little did he know, that sword will change everything he knows....
 
 But more on that later. For now, the prince must tend to his royal duties.
+
+One of which was wooing the local village girls. It was a 50/50 chance
+that he would impress them with his new sword or accidentally
+cut himself, but what's life without risk?
