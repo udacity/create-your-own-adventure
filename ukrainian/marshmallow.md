@@ -28,6 +28,8 @@
 
 [Візьму виделку і ] (make-a-hole/in-the-wall.md)
 
+[Спробую вистрибнути з кімнати ] (make-a-hole/in-the-wall.md)
+
 [Test!](test/test.md)
 
 [Сховаюся в куток та буду плакати](Crying/crying-in-the-corner.md)
