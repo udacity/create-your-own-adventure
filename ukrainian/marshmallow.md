@@ -28,7 +28,7 @@
 
 [Візьму виделку і ] (make-a-hole/in-the-wall.md)
 
-[Спробую вистрибнути з кімнати ] (make-a-hole/in-the-wall.md)
+[Спробую вистрибнути з кімнати ] (jump/jump.md)
 
 [Test!](test/test.md)
 
