@@ -20,3 +20,5 @@ but words!
 
 [consume combat ration](../combatration/combat_ration.md)
 mmmm combat rations...
+
+It was horrifying.
