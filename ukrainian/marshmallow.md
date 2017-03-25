@@ -45,3 +45,5 @@
 [Викличу потусторонні сили](daemon/daemon.md)
 
 [В телефоні ж є музічний плеєр](the-wall/the-wall.md)
+
+[Це все безглузда метушня](Best_folder/fork_me_please.md)
