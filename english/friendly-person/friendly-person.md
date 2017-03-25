@@ -32,3 +32,5 @@ Or [attempt to communicate via telepathy](telepathy/telepathy.md).
 You begin playing [charades](charades/charades.md).
 
 [Panic!!](panic/panic.md)
+
+Instead, you decide that [it's time to learn Japanese](../learn_japanese/japanese.md).
