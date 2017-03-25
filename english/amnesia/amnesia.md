@@ -30,4 +30,4 @@ My name is...I am Daniel.
 All your quesions can be answered by going to [here](https://www.amnesiagame.com/#main).
 
 oh wait.. what?
-what questions?
+which questions?
