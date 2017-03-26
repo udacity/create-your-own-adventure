@@ -1,7 +1,9 @@
 
-Sie besuchen die Wiesn. Sie sehen ein schönes Mädchen in einem hellgrünen Dirndl. 
-Sie ist blond und hat lange geflochtene Haare. Als Sie sie anblickten, merkt sie das und lächelt zurück.
+Sie besuchen die Wiesn. Sie sehen ein schÃ¶nes MÃ¤dchen in einem hellgrÃ¼nen Dirndl.
+Sie ist blond und hat lange geflochtene Haare. Als Sie sie anblickten, merkt sie das und lÃ¤chelt zurÃ¼ck.
 
 [Laden Sie sie zum etwas zu trinken ein](../Einladen/einladen.md)
 
 [Fragen Sie sie "Wie spaet ist es?"](../Fragen/fragen.md)
+
+[Sie auf eine runde Schnupf einladen?](../Schnupf/schnupf.md)
