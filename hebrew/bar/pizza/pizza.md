@@ -10,4 +10,4 @@
 
 אתה מסביר לה בכובד ראש שזה לא בסדר ושתמצא מישהו בגילה?
 
-או שאתה מזיין אותה בכל זאת?
+או שאתה מזיין אותה בכל זאת? אם כן לחץ [כאן](https://github.com/nivo33/create-your-own-adventure/blob/mybranch/hebrew/bar/pizza/ladyboy/ladyboy.md)
