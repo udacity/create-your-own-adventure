@@ -18,6 +18,9 @@ What do you do next to stimulate and excite you!
 
 But you ought to be careful, the power of the legos is not a joke!
 
+The power of legos is not a joke because with great power comes
+with great responsibility. 
+
 Would you like to?
 
 [practice flying?](../super-powers/practice-flying.md)
