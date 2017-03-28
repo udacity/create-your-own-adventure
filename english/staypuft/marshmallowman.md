@@ -1,4 +1,7 @@
 You scoop up piles of marshmallow and build a giant stay puft marshmallow snowman.
+After a while, his poofy smile begins to look a bit more menacing and a whole lot creepy.
+In fact, you are no longer sure if the marshmallow man is simply settling under his ginormous weight, 
+or if, in fact, he has begun to move toward you!
 
 When you're done, do you:
 
