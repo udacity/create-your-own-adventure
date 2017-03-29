@@ -1,0 +1,3 @@
+Oh the irony of clicking on a link called 'paralyzed by inaction!'
+
+A quantum superposition of action & inaction if you will...
