@@ -5,3 +5,7 @@ Finalement, emporté par votre élan, vous finissez par frapper un mur et vous v
 Maintenat que vous etes dehors, quoi faire?
 
 [Je sens des fleurs](sentir/fleurs.md)
+
+[Je reste là, on est bien là](./frapper-le-mur.md)
+
+[Il fait froid. Je rentre](../feu-de-camp.md)

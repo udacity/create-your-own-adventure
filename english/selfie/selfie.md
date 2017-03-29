@@ -6,6 +6,8 @@ You use the fork as a make-shift selfie-stick and try again.
 
 Oh no! You are made of marshmallow!
 
+Did your fairy godmother come back again? How did this happen?
+
 This sudden revelation has now complicated the matter.
 
 You hate marshmallows but can you really hate yourself?  

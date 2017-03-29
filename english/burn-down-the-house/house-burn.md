@@ -7,3 +7,5 @@ slip into the abyss of eternity. Just before that happens, you hear a loud noise
 of a bang coming from downstairs. This may be the firemen or more destruction as
 a result of the flames, as you continue to wonder the cause of the noise, you slip
 into a coma and wake up only to realise it was just a dream. 
+
+[Open your eyes...](../marshmallow.md)

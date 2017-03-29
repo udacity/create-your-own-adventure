@@ -1,0 +1,1 @@
+Furious for being rejected, the Ice Queen created the Ice Monster!

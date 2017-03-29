@@ -6,6 +6,7 @@ I had Thai food once and it was hot!
 
 Please try to taste Tom Yum Kung when you found Thai restaurant around you.
 
+You may also want to try Kang-kiew-wan.
 Do you:
 
 [eat Thai food with Japanese beer](../../japanese/beer/beer.md)
@@ -13,3 +14,7 @@ Do you:
 [sing a song while having Thai food](../../english/sing-song/sing.md)
 
 [ดูทีวี eat Thai food and watch TV](https://www.youtube.com)
+
+[I will fly to Thailand to have it there](../travel.md)
+
+Actually I prefer Thai Green Curry better!

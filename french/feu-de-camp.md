@@ -1,6 +1,6 @@
-Par un beau matin, vous vous rÈveillez dans une piËce Ètrange aux murs en pain d'Èpice.
+Par un beau matin, vous vous r√©veillez dans une pi√®ce √©trange aux murs en pain d'√©pice.
 
-On aurait p˚ faire que les murs soient fait en p‚te de guimave, mais ce sont des murs franÁais. ;)
+On aurait p√ª faire que les murs soient fait en p√¢te de guimave, mais ce sont des murs fran√ßais. ;)
 
 Que faites-vous ?
 
@@ -18,10 +18,24 @@ Que faites-vous ?
 
 [J'appelle mon prof de musique](telephone/prof_musique.md)
 
-[Je dessine une porte avec un syphon de crËme chantilly qui traine](dessine/porte.md)
+[J'appelle mon prof de maths](riddle/prof_maths.md)
+
+[Je dessine une porte avec un syphon de cr√®me chantilly qui traine](dessine/porte.md)
 
 [Je ne parle pas francais](../english/marshmallow.md)
 
-[J'appelle ma mËre immÈdiatement](appel-maman/appeler-maman.md)
+[Je parle un peu arabe](../arabic/salamoAlikom.md)
+
+[J'appelle ma m√®re imm√©diatement](appel-maman/appeler-maman.md)
 
 [Je demande de l'aide a Google](google/google.md)
+
+[J'appelle le genie](appelle-genie/appelle-genie.md)
+
+[Je me l√®ve et me dirige vers la sortie](sortie/pousser-porte/pousser-porte.md)
+
+[Je ne fais rien](rien/rien.md)
+
+[Je commande du foie gras](foie-gras/foie-gras.md)
+
+[J'organise une soir√©e pain d'√©pices](soiree/soiree.md)

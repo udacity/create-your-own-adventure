@@ -26,11 +26,15 @@ Afterwards, you decide to:
 
 [dance with joy](../dance/dance.md)
 
+[bake cookies!](../bake-cookies/cookies.md)
+
 [invite friends to party with you](../invite-friends/friends.md)
 
 [begin your journey](../explore-outside/explore-outside.md)
 
 [do Yoga for 30 min](../yoga/yoga.md)
+
+[write a symphony](../write-a-symphony/symphony.md)
 
 [go for a run](../run/run.md)
 

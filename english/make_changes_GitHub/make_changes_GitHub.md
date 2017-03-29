@@ -14,3 +14,5 @@ local copy of the repository. Do you:
 [Clone the source repository](clone_source/stuck.md)
 
 [Google what to do because you have no idea](google/die.md)
+
+[Might be want to start again…](../marshmallow.md)

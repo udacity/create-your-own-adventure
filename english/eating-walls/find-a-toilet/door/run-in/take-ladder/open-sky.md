@@ -5,3 +5,7 @@ as you are tens-of-thousands of feet up in the clouds, just like Luke Skywalker.
 After many hours you are resigned to the fact that you will die here or will you?
 
 What do you do:
+
+[Let go.](../../../../../wake-up/wake-up.md)
+
+[Continue the climb down](../../../../../strange-room/room.md) and bust through a door.

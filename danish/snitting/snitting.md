@@ -1,4 +1,5 @@
 Günther siger "It is not so lige til", og fortsætter med at snitte.
+Og det kan han jo ha ret i.
 
 Vælger du at:
 

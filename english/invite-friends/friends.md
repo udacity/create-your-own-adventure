@@ -20,3 +20,5 @@ Do you:
 [don't sing karaoke?](../karaoke/nope.md)
 
 [do a flip](flip/flip.md)
+
+[eat breakfast?](../breakfast/breakfast.md)

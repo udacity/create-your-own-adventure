@@ -6,3 +6,5 @@ read at least 100 adventures.
 Let's get started, go to the [beginning](../marshmallow.md)
 
 Have fun!
+
+Unless ... it's really your dog [licking your face ...](../your-dog/your-dog.md)

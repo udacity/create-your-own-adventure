@@ -47,3 +47,9 @@ Do you:
 [Remember the advice your mother gave you:](../advice_from_mother/advice_from_mother.md)
 
 [Succumb] (../madness/cthulhu.md) to the madness.
+
+[Goto] (../goto/goto.md) google.
+
+[raidersfile] (../Raiders/LetsgoRaiders.md) Raiders.
+
+[Stop and listen to the sound of birds that came out of nowhere] (sound-of-birds/sound-of-birds.md).

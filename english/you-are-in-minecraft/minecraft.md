@@ -14,11 +14,16 @@ Do you:
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
 
+[Take a look at your map?](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR09wlFl-
+HxM7nBml4E4_W9eLNTDyp4X9nZX7IcNuDO3a7KC7p_A)
+
 [Go exploring outside?](../explore-outside/explore-outside.md)
 
 [Light-fire?](../light-fire/fire.md)
 
 [Sing a song?](../sing-song/sing.md)
+
+[Build a House?](house/house.md)
 
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 

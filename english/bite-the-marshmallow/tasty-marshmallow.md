@@ -1,6 +1,11 @@
-"Mmmmm... these marshmallows are soooo good" 
+[A nose length away from the wall, a twinkle in your mind makes you pause.](padded-room/first-blackout.md)
+
+"Mmmmm... these marshmallows are soooo good. They would be delicious with a cup of coffee." 
 
 You close your eyes.
+
+You smell your favorite Starbucks Latte and you take a sip.
+Then you take a bite of marshmallow.
 
 Suddenly there is a horrible pain in your mouth! Who would have
 thought marshmallows, so white, so innocent, could cause such

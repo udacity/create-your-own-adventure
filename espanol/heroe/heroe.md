@@ -17,3 +17,5 @@ El capitan miró hacia el cielo y encontró:
 [Una Impresionante Carrera](../carrera/carrera.md)
 
 [Chuky el muñeco diabólico](chuky/chuky.md)
+
+[Aventurero](aventurero/aventurero.md)

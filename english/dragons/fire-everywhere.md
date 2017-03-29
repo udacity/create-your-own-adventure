@@ -21,6 +21,8 @@ Who knew that one day you will have to use Valyrian tongue for survival...
 The biggest of the dragon - [Drogon](http://gameofthrones.wikia.com/wiki/Drogon) - stares at you with his 
 big eyes...
 
+His penetrating gaze holds me transfixed...
+
 You wonder if he understood the situation...
 
 He comes closer and bends....You realize that he is asking you to ride on him...You hop on without any 
@@ -47,3 +49,4 @@ When you wake up its noon and you come to know that it was all a dream !
 
 
 
+...or was it?!

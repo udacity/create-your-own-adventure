@@ -6,4 +6,13 @@ Want to know about Yoga lifestyle? Click [here](../lifestyle/yoga_lifestyle.md)
 
 Most people have discovered that exercising can lift their mood.
 
+By focusing on breathing only you can take your mind into the present moment.
+
 Meditation is simply training your mind to focus and concentrate
+
+However, you are now calm and just as you begin to meditate you notice you
+are suddenly in a strange room with marshmallows for walls.
+
+Marshmallows smell funny. What is a marshmallow anyway?
+
+Unexpectedly, the Chief Marshmallow demands to see your [references](../../references/references.md)

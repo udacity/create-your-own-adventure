@@ -6,3 +6,9 @@
 [庭に出る](garden/garden.md)
 
 今日食べた[カツ丼](katsudon/katsudon.md)美味しかったなー。
+
+[ここ](happy/happy.md)を踏むと幸せになれます。
+
+[寒い](cold/cold.md)
+
+[なぜかいきなりラーメンを食いたくなっちまった](ramen/ramen.md)

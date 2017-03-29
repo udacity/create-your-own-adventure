@@ -4,3 +4,6 @@
 お前が落としたのは、
 
 この[プラスチック製のiPhoneか?](../smartphone/iphone-plastic.md)
+
+
+それとも[この松茸か？](../mattake/mattake.md)

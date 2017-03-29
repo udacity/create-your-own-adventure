@@ -2,7 +2,11 @@
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
+Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
+
 If you speak Telugu, మీరు తెలుగులొ మాట్లాడుతార [ఇక్కడ నొక్కండి](telugu/telangana-telugu/Telanganatelugu.md).
+
+If you understand Tamil, for Thirukural in Education [இங்கே அழுத்தவும்](Tamil/Thirukkural_Learning/Learning.md)
 
 If you understand Tamil, தமிழ் வணக்கம் [இங்கே அழுத்தவும்](Tamil/Thirukural.md)
 
@@ -14,7 +18,11 @@ If you speak Punjabi, [go here](punjabi/punjabi.md).
 
 यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।](nepali/about_nepal.md)
 
+If you speak the language of love, [kiss here](love/love.md)
+
 如果你说中文，[点击这里](Chinese/大话西游.md).
+
+如果你说中文而且想要了解一个新的世界，[请点击这里](Chinese/DesertHell/NewWorld.md).
 
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
@@ -37,6 +45,8 @@ Si vous parlez français, [suivez-moi](french/feu-de-camp.md)
 Ha beszélsz magyarul, [kövess](hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
+
+Калі вы размаўляеце па-беларуску, вам [сюды] (belarussian/zefir.md)
 
 Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
 
@@ -77,6 +87,8 @@ Ja runā latviski, [dodies šeit](./latvian/zefirs.md).
 Hvis du taler dansk, [tryk her](danish/velkommen.md)
 
 Ifall du pratar svenska, [tryck här](swedish/start.md)
+
+Hvis du snakker norsk, [trykk her](norwegian/start.md)
 
 Ako govoris hrvatski, [klikni ovdje](croatian/sljez.md)
 
@@ -121,4 +133,37 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 
 ئەگەر ئۇيغۇرچە سۆزلىسىڭىز، [بۇ يەرگە كىرىڭ](uyghurish/uyghurish-story.md)
 
+Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
+
+As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
+
+=======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
+
+If you speak Gujarati, go [here](Gujarati/gujarati.md).
+
+If you want learn Telugu, click [here](Telugu/Telugu.md).
+
+If you want to know more about IoT, click [here](english/iot/intro.md).
+
+If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
+
+તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
+
+To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
+
+If you speak oriya, click [here](oriya/oriya.md).
+
+If you understand Tamil, திருநாவுக்கரசர் அருளிய தேவாரம் [இங்கே அழுத்தவும்](Tamil/Thevaram/thevarm.md)
+
+if you understand maithli, click [here...](maithli/maithli.md)
+
+if (you.understand("C#")) here.click();
+
+if you speak Bahasa Indonesia [klik disini](indonesia/bahasa-indonesia.md)
+
+Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odyssey/HO.md)
+
+Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
+
+Si Latine legere vis, [hic preme](latin/arena.md)
