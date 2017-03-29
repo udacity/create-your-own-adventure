@@ -1,2 +1,2 @@
 
-I am one with the [force](chinese/theForceIsWithMe/theForceIsWithMe.md),
+I am one with the [force](theForceIsWithMe/theForceIsWithMe.md),
