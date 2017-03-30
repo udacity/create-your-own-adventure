@@ -4,6 +4,8 @@ Sie erfaheren nach einiger Panik, wenn Sie Ihren Rücken strecken.
 
 Sie beginnen, ein geeignetes Lied zu singen. z.B. [Cold Water](https://www.youtube.com/watch?v=a59gmGkq_pw)
 
+Erscheint ein Engel, der voll Licht und Wärme und der streckt Dir seine Hand. [Engel](Engel/engel.md)
+
 Plötzlich :O
 
 [Eine hohe Welle kommt.](Welle/welle.md)
