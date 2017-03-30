@@ -1,4 +1,7 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+Once upon a time in a galaxy far far away...
+many authors collaborated to make meaningless linked story.
+Waste your time by visiting [this](http://iwastesomuchtime.com/) page.
+
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
