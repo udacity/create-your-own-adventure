@@ -72,8 +72,6 @@
 
 [Позвоните охотникам за привидениями.](call-ghostbusters/ghostbusters.md)
 
-[Поставите запятую после "цветы".] (comma/comma.md)
-
 [Начинайте танцевать от радости.](dance/dance.md)
 
 [Вспомните интересную шутку](Holms-Watson/Holmes-Watson.md)
@@ -90,7 +88,7 @@
 
 [Поговорю с соседями](speak_to_neighbor/speak_to_neighbor.md)
 
-[Внезапно безумно начну просить сломать меня] (break-me-completelly/break-me.md)
+[Внезапно безумно начну просить сломать меня](break-me-completelly/break-me.md)
 
 [Зевну, откушу кусок зефира и снова усну...](dream/dream.md)
 
@@ -102,11 +100,11 @@
 
 [Бросить "уделанную" футболку Slayer в стирку и отправиться на заутреннюю молитву](prayer/morning_prayer.md)
 
-[Почувствуете ужасный голод] (hunger/feel-hunger.md)
+[Почувствуете ужасный голод](hunger/feel-hunger.md)
 
 [Начнёте медитировать](meditate/meditate.md)
 
-[Решите программировать] (programming/to-program.md)
+[Решите программировать](programming/to-program.md)
 
 [Отправитесь путешествовать](travelling/go-to-travel.md)
 
