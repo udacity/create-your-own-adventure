@@ -3,3 +3,5 @@ The happy robot thinks he might need some 'assistance' to help anyone that might
 He opts for the Super-strength skinny latte.
 
 But he is also considering the Increased Voice Control Smoothie.
+
+The happy robot visits Dr. Deep Learning to train his machine brain.
