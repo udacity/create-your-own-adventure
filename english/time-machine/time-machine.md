@@ -13,3 +13,7 @@ Which part of the world, and what time you want to travel? And why?
 
 [You turn back](../marshmallow.md)
 
+You decide to travel to the last stiking of the 
+             [10,000 year clock](http://video.nationalgeographic.com/video/short-film-showcase/why-build-a-clock-that-will-last-10-000-years)
+near 
+             [Van Horn, Tx](https://www.google.com/maps/place/Van+Horn,+TX+79855/@31.1925646,-105.6037204,202059m/data=!3m1!1e3!4m5!3m4!1s0x86e5e8aea9ce1e61:0xe82d23f4dd52a793!8m2!3d31.0398558!4d-104.8307698)
