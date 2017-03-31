@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Can you pull off a good response to this clearing the dance floor [fail?](djing/djing.md)
