@@ -1,3 +1,7 @@
+By discoverying music they were able to start learning it,
+they started playing simple instruments until being able to play beautiful
+songs like [ocean] (Jhon-Butler-Trio/ocean.md)
+
 Add Music for your cake recipe?
 
 She keeps Moët et Chandon

@@ -2,6 +2,9 @@ Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
+But cricket became boring after a couple of days playing it, so they were looking
+for something else with a deeper meaning so they discovered [music] (music/add_music.md)
+
 A few learned to [tango](tango/tango.md)
 
 Some preferred to
