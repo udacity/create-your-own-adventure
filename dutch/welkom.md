@@ -17,8 +17,8 @@ U denkt
 ... u hoort uw iphone een geluidje maken en kijkt het is een sms [sm](sms/sms.md)
 
 ... maar de Iphone heeft weer geen batterij want deze gaat snel op. 
-Dus pak je maar je android die wel drie dagen lang meegaat!
-
+Dus pak je maar je Android die wel drie dagen lang meegaat!
+Of nog beter die nieuwe(?) Nokia 3310 die gaat wel 12 dagen mee.
 
 
 [Google translate NL](https://translate.google.com/#nl/en/)
