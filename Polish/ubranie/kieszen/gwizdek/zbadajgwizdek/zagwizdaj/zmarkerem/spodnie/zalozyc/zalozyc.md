@@ -1,3 +1,0 @@
-Próbujesz załozyć rysunek spodni Alladyna jak spodnie. Nie udaje Ci się to i zastanawiasz się dlaczego ...
-
-[Zastanow sie co zrobic dalej](../spodnie.md)
