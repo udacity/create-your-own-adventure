@@ -1,1 +1,0 @@
-De un río cercano, el maestro desvió su cauce sobre el enemigo, obligándolos a retirarse.
