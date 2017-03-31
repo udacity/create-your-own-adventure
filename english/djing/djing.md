@@ -1,0 +1,1 @@
+you're djing in front of a thousand people, you go to make a mix, your hand slips and accidentally shut off the current track. What do you do?
