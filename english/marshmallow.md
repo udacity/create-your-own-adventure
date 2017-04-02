@@ -32,6 +32,19 @@ or a
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
+However, your decision will shape your future.
+
+If faced with hard decisions in life what should you do?
+Crumble under the pressure and systematically score each option
+to select the best one?
+Or not thinking at all, just taking a random road?
+
+Think about who you want to be. Hard decisions are your 'branches',
+even though they won't ever be merged into your 'master'. 
+Hard decisions are hard because cannot be compared or scored agains each other. So your only option:
+
+Choose who you want to be, not what you want to do.
+
 Oh so many decisions - what will you do??
 
 In the end you will realize that it [doesn't really matter]
