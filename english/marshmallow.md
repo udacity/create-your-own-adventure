@@ -1,9 +1,13 @@
 ﻿Once upon a time many authors collaborated to make meaningless linked story.
 
+And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
+
 A few learned to [tango](tango/tango.md)
 
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
+
+If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
 
@@ -30,11 +34,17 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
+In the end you will realize that it [doesn't really matter]
+(https://goo.gl/1fd4wU).
+The path you choose is as good as any.
+
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
 [Build time machine](time-machine/time-machine.md)
 
 Take some [time](meditation/meditation.md) off!
+
+[Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
 
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
@@ -1197,6 +1207,8 @@ Maybe this is a [dream](dream/dream.md)?
 
 Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
+Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
+
 <<<<<<< HEAD
 Have you ever heard any unusual sounds 
 when you're alone? 
@@ -1221,3 +1233,13 @@ Information on some famous tv series
 I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
 
 It's time to have lots of fun! Wanna know how? [Just come here!](fun/fun.md)
+
+Why are you reading this line? smile and move on.
+
+Smile and move on gingerly.
+
+What is your [passion?](passion/passion.md)
+
+-
+
+searching for [good](tvf-play/watch.md) content.
