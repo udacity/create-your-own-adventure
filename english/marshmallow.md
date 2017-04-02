@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
@@ -1231,6 +1231,8 @@ Information on some famous tv series
 [click here](famous-tv-series/famous-tv-series.md)
 
 I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
+
+It's time to have lots of fun! Wanna know how? [Just come here!](fun/fun.md)
 
 Why are you reading this line? smile and move on.
 
