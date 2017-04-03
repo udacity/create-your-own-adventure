@@ -25,3 +25,12 @@ eveywhere. Hundreds of squirrels! You're surrounded. You've walked
 straight into their trap.
 
 The hunter has become the hunted...
+
+Just as you think you're going to become squirrel jurky, you feel 
+something brush against your left leg. You look down and you see
+a small Bengal cat rubbing against your leg. It gives out an inviting 
+meow. When the squirrels hear this, they all run for cover!
+
+Saved by a ferral cat, but where did he come from...
+
+
