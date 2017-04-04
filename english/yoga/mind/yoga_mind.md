@@ -16,3 +16,8 @@ are suddenly in a strange room with marshmallows for walls.
 Marshmallows smell funny. What is a marshmallow anyway?
 
 Unexpectedly, the Chief Marshmallow demands to see your [references](../../references/references.md)
+
+Kundalini is a bundle of energy that lives at the base of the spine, otherwise known as sacrum.It is often represented by a coiled female serpent.
+
+The purpose of Kundalini meditation is to awaken the serpent and encourage it up through the energy channels of the body and into the seven chakras, or spiritual centers.
+
