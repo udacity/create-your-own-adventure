@@ -268,6 +268,8 @@ An umbrella (closed) automagically appears in your left hand. You tentatively
 
 You are feeling very anxious at this point.
 
+And then in comes [Rick James] (https://www.youtube.com/watch?v=Ybv94PHccIQ)
+
 You can't decide if anything is worth it anymore so you loose yourself at a [David Gray concert.](concert/concert.md)
 
 Goosebumps appear.
