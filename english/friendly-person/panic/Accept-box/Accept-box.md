@@ -3,4 +3,4 @@ stuffy nose situation resolved and the panic over, you can turn back to the busi
 You hand back the box to Other You and thanks him. And then you ask who are you ?
 "I am from the future" , says Other You . I must go now , before I upset the time space continum. 
 "Wait !! , Before you leave , I must ask , do I find true Love "
-Other You smiles and [says](../True-Love/True-Love.md)
+Other You smiles and [says](True-Love/True-Love.md)
