@@ -16,11 +16,11 @@ You realize the unicorn is really your inner self.
 
 You decide to take a new path. Do you:
 
-Take a vow of [sobriety]?(../shrooms/never-again.md)
+Take a vow of [sobriety](../shrooms/never-again.md)?
 
-Decide to go to [sleep] instead?(../sleep/marshmallow.md)
+Decide to go to [sleep](../sleep/marshmallow.md) instead?
 
-Opt for a [chemical-free nirvana]?(../sleep/sit-down-to-meditate.md)
+Opt for a [chemical-free nirvana](../sleep/sit-down-to-meditate/sit-down-to-meditate.md)?
 
 Choose [Blue Pill](https://www.youtube.com/watch?v=1GFkN4deuZU)
 
@@ -28,4 +28,4 @@ Or
 
 Choose [Red Pill](https://www.youtube.com/watch?v=1EdUjlawLJM)
 
-Go [back to the room]?(../marshmallow.md)
+Go [back to the room](../marshmallow.md)?
