@@ -42,4 +42,6 @@ You see, there are two types of legos in this world.
 
 We all know and  love them lego brand legos, any other brand belongs in the trash heap. IMPOSTERS
 
+So that's exactly what I did. Picked up the imposter and threw into the trash.
+
 
