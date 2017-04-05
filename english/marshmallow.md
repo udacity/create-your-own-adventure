@@ -1245,6 +1245,6 @@ searching for [good](tvf-play/watch.md) content.
 Decide to take a piece of marshmallow from the wall and in so doing find
 a doorknob.  You:
 
-[Turn the doorknob without eating the piece of marshmallow.](../eating_marshmaollow/eating-marshmallow.md)
+[Turn the doorknob without eating the piece of marshmallow.](./eating_marshmallow/eating-marshmallow.md)
 
-[Turn the doorknob after eating the piece of marshmallow.](../escape-to-the-wilderness/wilderness.md)
+[Turn the doorknob after eating the piece of marshmallow.](./escape-to-the-wilderness/wilderness.md)
