@@ -5,6 +5,6 @@ You hear what sounds like a familiar voice that you can't quite make out.
 
 You:
 
-[Get up and look for the voice](advice_from_mother/advice_from_mother.md)
+[Get up and look for the voice](../advice_from_mother/advice_from_mother.md)
 
-[Decide to ignore the voice and fall asleep](bear-story/bear-story.md)
+[Decide to ignore the voice and fall asleep](../bear-story/bear-story.md)
