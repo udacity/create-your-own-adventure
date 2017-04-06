@@ -1,0 +1,1 @@
+Gumka jest zimny jak podnosisz ją do tablicy.

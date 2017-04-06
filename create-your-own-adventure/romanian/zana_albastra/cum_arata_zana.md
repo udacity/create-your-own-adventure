@@ -1,0 +1,1 @@
+Cu rochie albastra, cu pantofi din argint albastru si par albastru.

@@ -1,0 +1,2 @@
+"Da'l je moguće? Ne mogu da verujem. Kako nemate? Neću sir!" - razvijao se bes iz njegovih očiju.
+Galamom privukao je pažnju momaka koji su već tu sedeli i zadovoljno jeli svoje bureke s mesom i pili jogurt "Granice".
