@@ -7,3 +7,5 @@ Hvilken sang vælger du:
 [Synge “it's hard to be a nissemann“](https://www.youtube.com/watch?v=JqyjDQGS_Sg)
 
 [Spørge "Then I will go there over and drik some øl with Hansi"](../velkommen.md)
+
+[Tænd fjernsyn for at se, om der er noget spændende musik der](https://m.youtube.com/watch?v=SecZ8sfXFFE)
