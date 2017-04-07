@@ -16,4 +16,10 @@ Hint: you're a lyrical wordsmith
 
 [Write a hit song](../hit-song/hit-song.md)
 
-[buy a gameboy] (../buy-gameboy/buy-gameboy.md)
+[buy a gameboy](../buy-gameboy/buy-gameboy.md)
+
+[Play Pokemon Go](../pokemon-go/pokemon-go.md)
+
+[Play Dota2](..play-dota2/play-dota2.md)
+
+[Boom Headshot yourself](..boom-headshot/boom-headshot.md)
