@@ -7,3 +7,4 @@ Que no saps que les parets no poden ser de núvol de sucre?
 Què fas?
 
 [Et poses a buscar formigues](formigues/formigues.md)
+[Et transformes en un ós formiguer](os_formiguer/os_formiguer.md)
