@@ -17,3 +17,7 @@ What do you do now:
 [Do yoga](../../yoga/yoga.md)
 
 [Use Wikipedia](../../wikipedia/wiki.md)
+
+[bake something sweet?](../../../../../bake-cookies/cookies.md)
+
+[go explore the hallway?](../../../../../hallway/hallway.md)
