@@ -1241,3 +1241,7 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+You'd like good content? Ok then, let's go on a safari. 
+We're gonna head to [South Africa](south-african-leg/south-african-adventure.md) for ours!
+
