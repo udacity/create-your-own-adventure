@@ -13,3 +13,9 @@ while True {
     must still be present in their home. Soon enough, the former owner
     of the finger is found unconscious in the bedroom.
 }
+
+This is going to simply be an option of [choice](https://www.merriam-webster.com/dictionary/choice)
+
+How about [more choice](http://www.thefreedictionary.com/choice)? 
+
+Or what about [no choice](./dog_finger.md)?
