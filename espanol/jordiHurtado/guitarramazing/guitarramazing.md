@@ -2,4 +2,4 @@ Jordi sonríe con cara de paciencia, se gira y mira a cámara, agarrando la guit
 
 Sin perder un compás, Jordi golpea la recién nacida pelota de tenis con la anteriormente dicha guitarra, dirigiéndola con decisión hacia la cámara, hacia ti, lector, atraviesa la pantalla de tu ordenador y te golpea en las narices. De repente...
 
-[puedes hablar alemán.](../../german/ruderboot.md)
+[puedes hablar alemán.](../../../german/ruderboot.md)
