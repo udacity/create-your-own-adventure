@@ -1,6 +1,6 @@
 Jordi sonríe con cara de paciencia, se gira y mira a cámara, agarrando
 la guitarra con una mano sin mirar. Con su otra mano, tapa su nariz
-con los dedos y sopla su nariz sin dejar salir el aire, de modo que
+con los dedos y la sopla sin dejar salir el aire, de modo que
 una pelota de tenis sale disparada por su oreja (inevitablemente).
 
 Sin perder un compás, Jordi golpea la recién nacida pelota de tenis
