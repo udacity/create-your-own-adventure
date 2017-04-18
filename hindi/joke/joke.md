@@ -57,9 +57,9 @@ please enka pata bata do... yeah char loganne meri
 zindagi bachpan se ab tak baingan main mila de rehe
 varna enkay bolney ka khauff hamesha bana rahega!"
 
-Aaye ho meri zindagi mein tum chamar ban ke
-mere joote saaf karna, mere joote saaf karna
-jo baar baar chamke
+Aaye ho meri zindagi mein tum chamaar ban ke
+Mere joote saaf karna, mere joote saaf karna
+Jo baar baar chamke
 
 
 
