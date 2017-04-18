@@ -1,5 +1,5 @@
 as the sharp pain moves through your nervous system and reaches your brain, the marshmallow walls begin
-to tremble stronger and stronet and brighten up until they blow up around you in a shimmering white light
+to tremble stronger and stronger and brighten up until they blow up around you in a shimmering white light
 that engulfs you...you close your eyes from the strong light and when you open them up...the beautiful 	
 view from your 20th floor in central park NY and the sexy ass of the current babe you conquered last night 
 welcomes you :)
@@ -12,3 +12,5 @@ Joe's hallucination pizza bar. You know you want it cause life is short and ther
 Order the [pizza](../pizza/pizza.md).
 
 Nah.  I'm not hungry.  Let's get [back to the story.](../marshmallow.md)
+
+Go [here](https://giphy.com/search/weird) if you thought that was a bit weird...
