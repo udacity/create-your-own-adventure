@@ -1,0 +1,1 @@
+Desculpe, mas não há mais passagens disponíveis para Cuba. O que você faz?
