@@ -6,7 +6,7 @@ It is best of the internet.
 
 It is free.
 
-Potato
+Potatoes are everywhere in this magical place.
 
 It is mesmerizing.
 
@@ -16,11 +16,11 @@ Information, incalculable information, at your fingertips.
 
 You are blind to all but your exploration of the known and unknown universe.
 
-And you don't have to go to the library.
+And you don't have to go to the library, unless you don't have internet at home.
 
 [Behold!](http://en.wikipedia.org)
 
-You may also like it's sister site, wikiyoyage (https://www.wikivoyage.org) 
+You may also like it's sister site, wikivoyage (https://www.wikivoyage.org) 
 with more detailed information on travel destinations.
 
 You are so impressed with Wikipedia, you decide that you might even like to 
