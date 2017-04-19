@@ -2,4 +2,4 @@ The brush is coarse and ruthless. It hardens its bristles as it readies to tackl
 
 It's the lighter that siren threw at you earlier.
 
-You can try to [light](coconutty/fire/busted.md) the menacing brush on fire, or you can pelt it in the head and make a [dash](coconutty/dash/escape.md) for it.
+You can try to [light](fire/busted.md) the menacing brush on fire, or you can pelt it in the head and make a [dash](dash/escape.md) for it.
