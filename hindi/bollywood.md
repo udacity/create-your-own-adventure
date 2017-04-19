@@ -39,4 +39,6 @@ Check out [Tiger Shroff](https://www.instagram.com/tigerjackieshroff/?hl=en)
 
 Checkout [Babita Phogat](https://www.instagram.com/explore/tags/babitaphogat/)
 
+Checkout [Sports](sports/sports.md)
+
 Why are you reading this line?
