@@ -10,3 +10,5 @@ You don't know what to do.The pandas continue to walk towards you.
 You begin retreating slowly.Suddenly,one of the pandas speed up.
 
 How strong is scaffolding made of bamboo you ask?
+
+Then other pandas speed up and you feel the drum of your heart going faster. 
