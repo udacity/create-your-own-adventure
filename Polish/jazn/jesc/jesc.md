@@ -1,0 +1,1 @@
+Jesz za dużo mentalnego ptasiego mleczka i ogarniają cię mdłości. Nie znajdujesz odpowiedzi, poszukiwania dają coraz więcej pytań.

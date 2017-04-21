@@ -1,0 +1,1 @@
+Ocykasz się z powrotem w pokoju o ścianach z ptasiego mleczka. Krzyk i tupanie nóżkami.
