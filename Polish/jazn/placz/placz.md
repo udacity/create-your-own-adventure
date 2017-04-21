@@ -1,0 +1,1 @@
+Twoje łzy tworzą kałużę, która zaczyna rozpuszczać ptasie mleczko. Spadasz przez dziurę w ptasim mleczku i szybujesz w przestworze kosmicznym, wśród gwiazd. Zastanawiasz się, czy nie potrzebujesz powietrza, żeby oddychać, ale później przypominasz sobie, że jesteś w swojej jaźni, więc w sumie chyba nie potrzebujesz.

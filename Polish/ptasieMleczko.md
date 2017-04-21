@@ -14,3 +14,5 @@ Co robisz?
 
 [Idziesz kupiæ Kadarkê](kadarka/kadarka.md)
 i
+
+[Decydujesz siê poznaæ swoj± wewnêtrzn± ja¼ñ](jazn/jazn.md)
