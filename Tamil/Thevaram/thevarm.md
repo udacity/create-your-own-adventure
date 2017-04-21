@@ -12,5 +12,4 @@ Eesan endhai inayadi neezhalee.
 
 Meaning:
 The shelter under the parallel feet of the God, my boss,
-is like the nice melody of Veena (Musical Instrument), the early evening moon,
-pleasant breeze, the Spring, a pond where bees are in making sound.
+is like the nice melody of Veena (Musical Instrument), the early evening mopleasant breeze, the Spring, a pond where bees are in making sound.
