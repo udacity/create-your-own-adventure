@@ -1,4 +1,4 @@
-En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
+﻿En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
@@ -193,4 +193,8 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
 
+[A una dura batalla](batalla/batalla-ejercito-invasor.md)
+
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
+
+[O es solo el principio de una nueva historia.....]
