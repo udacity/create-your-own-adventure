@@ -1,1 +1,3 @@
 Selamat datang kawan...
+
+Yang mau belajar bikin gorengan tahu bisa kesini[https://www.youtube.com/watch?v=O5MoAvBd5jM].
