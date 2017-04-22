@@ -1,0 +1,1 @@
+Al llegar a las murrallas se la fortalez se encuentran con el nuevo aliado de sus enemigos. La ventaja que creian tener se desvanece y comienza la batalla.
