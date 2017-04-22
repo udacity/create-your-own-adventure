@@ -8,4 +8,4 @@ Bahan2:
 - Garam
 - Merica bubuk
 
-Untuk tau lebih jauh buka link youtube ini[https://www.youtube.com/watch?v=O5MoAvBd5jM]
+Untuk tau lebih jauh buka link youtube [ini](https://www.youtube.com/watch?v=O5MoAvBd5jM)
