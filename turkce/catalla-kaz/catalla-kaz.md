@@ -7,3 +7,5 @@ Ne yapacaksın?
 [Metali Çek](metali-cek/metali-cek.md)
 
 [Kus](kus/kus.md)
+
+[Hatmi Şekerini Çattalla Parçala](sekeri-parcala/sekeri-parcala.md)
