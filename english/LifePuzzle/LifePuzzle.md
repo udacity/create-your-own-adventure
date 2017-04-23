@@ -25,3 +25,7 @@ or
 or
 
 [Live Tweet the situation](../tweet-it/tweet-it.md)
+
+or 
+
+[Get Jiggly With It!](../jiggly/jiggly.md)
