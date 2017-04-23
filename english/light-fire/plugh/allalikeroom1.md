@@ -7,4 +7,3 @@ Go [South](../fire.md)
 
 Go [East](allalikeroom1.md)
 
-Go [West](allalikeroom1.md)
