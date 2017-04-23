@@ -1,10 +1,10 @@
 
 You Are In a Maze of Twisty Little Passages, All Alike
 
-Go [North](twistymazeallalike.md)
+Go [North](allalikeroom1.md)
 
-Go [South](../fire..md)
+Go [South](../fire.md)
 
-Go [East](twistymazeallalike.md)
+Go [East](allalikeroom1.md)
 
-Go [West](twistymazeallalike.md)
+Go [West](allalikeroom1.md)
