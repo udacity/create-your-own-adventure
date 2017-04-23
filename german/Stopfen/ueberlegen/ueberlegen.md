@@ -12,4 +12,4 @@ Sie schalten es ein und bemerken ...
 
 [Dass Sie keinen Internetempfang haben.](../../Smartphone/keinInternet/keinInternet.md)
 
-[Dass der Akku zu schwach ist und das Smartphone nach 2 Sekunden wieder aus geht.](../Smartphone/keinAkku/keinAkku.md)
+[Dass der Akku zu schwach ist und das Smartphone nach 2 Sekunden wieder aus geht.](../../Smartphone/keinAkku/keinAkku.md)
