@@ -41,7 +41,7 @@ There is no conflict！
 
 [Say xyzzy.](xyzzy/xyzzy.md)
 
-[Say plugh.](plugh/twistymazeallalike.md)
+[Say plugh.](plugh/allalikeroom1.md)
 
 [Extinguish fire.](extinguish-fire/extinguish-fire.md)
 
