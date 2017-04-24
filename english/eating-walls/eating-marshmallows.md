@@ -16,6 +16,8 @@ Then you remember the matches in your pocket.
 
 Do you:
 
+[frolick in the field of daffodils](http://naturalhealthtechniques.com/wp-content/uploads/2011/03/daffodils.jpg)
+
 [Search your pockets for a piece of chocolate?](../search_for_chocolate/search_for_chocolate.md)
 
 [Sit back down, and go to sleep?](../sleep/more-sleep/more-sleep.md)
