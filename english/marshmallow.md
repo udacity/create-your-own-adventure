@@ -9,6 +9,8 @@ Enter [The Forest!] (forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
+If you like river animals go [river-safari](http://www.riversafari.com.sg/)
+
 hi~
 
 NGE is [here] (NGE/NGE.md)
