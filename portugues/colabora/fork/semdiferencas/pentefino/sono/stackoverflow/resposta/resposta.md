@@ -1,1 +1,0 @@
-Você agora sabe resolver o problema.

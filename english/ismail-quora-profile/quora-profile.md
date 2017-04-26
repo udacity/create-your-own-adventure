@@ -1,1 +1,0 @@
-Click [here](https://www.quora.com/profile/Shaikh-Ismail) to see my quora profile. Have nice time!

@@ -7,3 +7,5 @@ Ten minutes later, you hear but do not see someone reminding
 you to take all of our medication.
 
 [Do you take your meds?](takemeds/takemeds.md)
+
+[Or offer meds to that voice](offer-voice/voice.md)
