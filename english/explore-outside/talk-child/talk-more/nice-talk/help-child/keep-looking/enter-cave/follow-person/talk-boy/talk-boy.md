@@ -1,3 +1,0 @@
-"Why?" you ask the green boy.
-
-"Because," he says, looking around, "THEY might be here." ...
