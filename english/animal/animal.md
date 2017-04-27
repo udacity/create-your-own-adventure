@@ -39,3 +39,5 @@ My mother was a butterfly. Is that true? No it is not.
 
 I love animals, they are delicious.
 
+Some say animals should roam free and should not be held captive by humans. But don't ask my cat. He wouldn't take one step outside to save his life. He rather sleep on my sofa and be fed to his heart's content.
+
