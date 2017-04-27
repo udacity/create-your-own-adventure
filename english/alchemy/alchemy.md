@@ -23,10 +23,13 @@ forwards - studying its imperfection - a ring like shape.
 
 Looking through the hole, the air shimmers, giving the other side a
 hazy appearance.
+
 The objects on the other side appear to be vacillating, as if they were
 breathing.
 
 You slip the ring over your finger and ...
+
+Suddenly a great ball of light whisks past your face
 
 [A polar bear suddenly appears and charges towards you](../polar-bear-attack/polar-bear-attack.md)
 
