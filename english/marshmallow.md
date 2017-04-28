@@ -1,15 +1,17 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+A story that is actually [impossible](impossible/impossible.md) to 
+understand because of the amount of totally nonsensical content, and 
+conflicting themes. Almost like reading the mind of a schizophrenic!
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
 
 Some preferred to
-Enter [The Forest!] (forest/forest.md)
+enter [The Forest!] (forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
-
-hi~
 
 NGE is [here] (NGE/NGE.md)
 
@@ -46,7 +48,7 @@ Take some [time](meditation/meditation.md) off!
 
 [Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
 
-Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
+Life is full of twists and turns but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
 Who is better?
 
