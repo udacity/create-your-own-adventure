@@ -13,6 +13,7 @@ But wait!  Just when you when you were about to start contemplating, you suddenl
 heading for the toilet or heading for the hills.  Either way, neither of your options look pretty.
 
 Do you:
+[go watch Willy Wonka](https://www.youtube.com/watch?v=B9L5ir3yAok)
 
 [checkout Susans website](http://www.susanjustin.com/wpsj)
 
