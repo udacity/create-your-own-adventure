@@ -11,6 +11,8 @@ und genüsslich an meinen Sachen nagen.
 
 Was tun Sie?
 
+[Abwarten](../abwarten/abwarten.md)
+
 Ich suche verzweifelt (aber gründlich und systematisch) nach Anzeichen, die darauf hindeuten,
 dass ich mich in einer [Simulation](Simulation/Simulation.md) befinde.
 
