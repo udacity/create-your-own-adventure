@@ -1,0 +1,1 @@
+Hindi, or Modern Standard Hindi is a standardised and Sanskritised register of the Hindustani language. Along with the English language, Hindi written in the Devanagari script, is the official language of the Government of India.
