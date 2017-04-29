@@ -1,1 +1,3 @@
 Selamat datang kawan...
+
+Baru ada 2 orang Indonesia disini ternyata. Kunjungi [blog](https://homesicktraveller.wordpress.com/) saya ya! 
