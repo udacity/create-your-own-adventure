@@ -168,4 +168,4 @@ Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
 Si Latine legere vis, [hic preme](latin/arena.md)
 
-If you speak Hindi click [here](Hindi/Hindi.md) .
+If you speak Hindi click [here](hindi/Hindi/Hindi.md) .
