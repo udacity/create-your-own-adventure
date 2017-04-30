@@ -14,5 +14,5 @@
 
 [ടിന്റുവും മാഷും] (../Malayalam/tintu/tintu-teacher.md)
 
-[Sangeetham](song/sangeetham.md) padikanam enna mohavumayi [sasi](sasi/pling.md) ethiyath oru simhathinte madayil ayirunnu.
+[Sangeetham](song/sangeetham.md) padikanam enna mohavumayi [sasi](sasi/pling.md) ethiyath oru simhathinte madayil ayirunnu. Thankyou!
 
