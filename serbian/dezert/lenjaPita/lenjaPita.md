@@ -1,0 +1,2 @@
+"A nikako, od lenje pite dobijem odmah napad gorušice!" odgovori mladić kao iz topa.
+"Radije sam za neku varijantu čokoladne torte, ako takvo što ova kuća ima u ponudi" odgovori joj široko se osmehnuvši.
