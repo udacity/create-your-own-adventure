@@ -1,0 +1,26 @@
+Após apertar o botão de ligar, você começa a contar os milésimos de segundos 
+na esperança de detectar qualquer sinal de vida por parte do seu aparelho...
+
+1 segundo se passa... 
+
+Nenhum sinal...
+
+2 segundos...
+
+Nada...
+
+3 segundos...
+
+Seu coração começa a apresentar sinais de infarto...
+
+4...
+
+Seu smartphone liga e apresenta a tela inicial!
+
+Ufa! Parece que você deu sorte!
+
+O que você faz?
+
+[Começa a pular de alegria completamente descontrolado!](pular/pulando.md)
+
+[Respira fundo e agradece a Papai do Céu pelo seu smartphone estar bem!](the-end/the-end.md)
