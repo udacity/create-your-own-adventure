@@ -1,0 +1,5 @@
+Bhojpuri (Devanagari: भोजपुरी ) is an Indo-Aryan language spoken in the Northern-Eastern part of India and Terai region of Nepal. It is chiefly spoken in eastern Uttar Pradesh, western Bihar, and in extreme north-western part of Jharkhand in India. Bhojpuri is one of the recognized national languages of Nepal and has official status in Fiji as Fiji Hindi. It is also a recognized language in Trinidad and Tobago, Guyana, Suriname, and Mauritius.
+
+Bhojpuri is also spoken in Pakistan, Jamaica, Belize, other parts of the Caribbean and South Africa.
+
+The variant of Bhojpuri of the Indo-Surinamese is also referred to as Sarnami Hindustani, Sarnami Hindi or just Sarnami and has experienced considerable Sranan Tongo Creole and Dutch lexical influence. More Indians in Suriname know Bhojpuri. In Mauritius a dialect of Bhojpuri remains in use, and it is locally called Bojpury. The day-to-day usage of the language in Mauritius is dropping and today, it is spoken by less than 5% of the population, according to latest census.
