@@ -6,3 +6,4 @@ to make it easier to get going:
 3. If lethargic, just start off with 1 minute of breathing.
 4. Commit to only 10-15 minutes of yoga a day- this is doable for most people!
 5. Use YouTube yoga videos if you can't get out of the house for a class.
+6. Do yoga first thing in the morning, before breakfast, when your mind and body are fresh and rested.
