@@ -1,4 +1,4 @@
-My worst fears have come true.  My cat is crying out for food.
+﻿My worst fears have come true.  My cat is crying out for food.
 The screams are the worst sound I’ve ever heard in my life.
 
 Even if it really start to drop tears or weep blood, it's the same to me ... no food.
@@ -38,4 +38,6 @@ together, just because you chose to get a hedgehog, rather than a mouse!!
 My mother was a butterfly. Is that true? No it is not.
 
 I love animals, they are delicious.
+
+I wish I had a robot cat and I didn't need to feed it.
 
