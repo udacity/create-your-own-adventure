@@ -3,7 +3,9 @@ knirkende. Vejen bugter sig langsomt ned gennem landskabet, langs marker,
 gårde og landsbyer.
 
 Dagen er nu ved at være på hæld, og du kan ikke se noget der kunne ligne et
-gæstgiveri i nærheden.
+gæstgiveri i nærheden. 
+
+Du er sulten.
 
 Hvad gør du?
 
