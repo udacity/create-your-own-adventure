@@ -10,6 +10,10 @@
 -Udemy
 -Khan Academy
 -thenewboston
+-[edx](https://www.edx.org/)
+-[code school](https://www.codeschool.com/)
+-[code academy](https://www.codecademy.com/)
+-[w3schools](https://www.w3schools.com/)
 
 وفيه كتير بس انت عليك تدور
 
