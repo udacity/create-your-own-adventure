@@ -1,0 +1,1 @@
+Resolvi desistir e sobreviver de artesanato, domindo em rodoviárias e postos de gasolina, atualmente no Vietnam! Au revoir!
