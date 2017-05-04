@@ -1,0 +1,1 @@
+Então, vou encarar essa longa estrada, mas por onde começar?
