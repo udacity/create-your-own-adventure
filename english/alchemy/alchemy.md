@@ -2,7 +2,7 @@ You take off your backpack and pull out your trusty acetylene torch. You place t
 marshmallow in a crucible and apply the flame. Chanting an incantation that has been
 passed down through generations of alchemists, you stare into the glowing crucible as the
 marshmallow melts into a cauldron of orange flame. As the fiery light coalesces into the
-shape of a coin at the bottom of the crucible, you turn off the flame. You remove a 
+shape of a coin at the bottom of the crucible, you turn off the flame. You remove a
 mysterious small wooden box from your backpack, open it, and remove a ceramic coin mold
 from inside. After placing the mold in front of your feet, you carefully pour the molten
 metal into the mold.
@@ -40,5 +40,7 @@ You slip the ring over your finger and ...
 
 [You teleport to the Incantation Forrest](../incantation-forrest/incantation-forrest.md)
 
-and puff! you turn into a blob fish while only a few feet remain between you 
+[You appear on Falcor's back](../appear-on-falkors-back/falkor.md)
+
+and puff! you turn into a blob fish while only a few feet remain between you
 and the polar bear...
