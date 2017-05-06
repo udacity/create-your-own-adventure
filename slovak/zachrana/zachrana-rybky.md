@@ -3,4 +3,5 @@ Rybku sa rýchlo pokúsiš vytiahnuť z nosa. Po chvíli sa ti to podarí a hne�
 Čo urobíš?
 
 [Zjem ju](../ranajky/koniec-rybky.md)
-[Urobím do zeme dierku a usporiadam jej poriadny pohreb](pohreb/pohreb.md)
+
+[Urobím do zeme dierku a usporiadam jej pohreb](pohreb/pohreb.md)
