@@ -1,4 +1,6 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
+
+Lightning cracks through the air on a [cloudless](outatime/flux.md) day.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
