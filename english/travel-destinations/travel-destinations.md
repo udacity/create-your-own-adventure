@@ -4,6 +4,8 @@ It's Summer! Time to explore these places:
 
 [Spectre](spectre/spectre.md)
 
+Visit [Ukraine](https://www.youtube.com/watch?v=Ggem1JBNc0w)
+
 [Sweden](https://youtu.be/5KYm1UpXiq0?t=53s)
 
 Visit the Rhine and Rothenburg
