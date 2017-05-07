@@ -11,3 +11,5 @@ Satisfied with the sword, He asked for the craftsman to come in his palace to th
 Little did he know, that sword will change everything he knows....
 
 But more on that later. For now, the prince must tend to his royal duties.
+
+The price attended to his royal duties and now back to the sword.
