@@ -6,3 +6,5 @@ Click [here](../cricket-rules/cricket-rule-book.md) to read the rules.
 you find cricket boring and instead want to learn about spirits 
 Click [here](../call-spirit/call-spirit.md) to learn..
 
+Click [here](https://en.wikipedia.org/wiki/Cricket_(insect)) to learn about a cooler type of cricket!
+
