@@ -24,6 +24,8 @@
 
 [Πιάνεις το σχοινί](use_the_rope/use_the_rope.md)
 
+[Βγαίνεις μια Selfie μαζί του](take_a_selfie/take_a_selfie.md)
+
 [Βλέπεις... τον Marshmallow από το Frozen](frozen_marshmallow/frozen-marshmallow.md)
 
 Τελικά συνειδητοποιείς ότι ο Stay Puft Marshmallow Man από το Ghostbusters ήταν στη πραγματικότητα το 
