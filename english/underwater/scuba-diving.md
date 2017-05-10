@@ -1,0 +1,1 @@
+70 % of this planet is water. The underwater world is beautiful with wildlife like corals and fish.

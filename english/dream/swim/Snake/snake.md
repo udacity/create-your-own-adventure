@@ -1,0 +1,1 @@
+You have been ensnared by a snake. You have been tied up by the snake's body.
