@@ -11,5 +11,6 @@ Which part of the world, and what time you want to travel? And why?
 
 [You decide to travel back in time to visit a founding father of America](https://www.youtube.com/watch?v=t0aX8Jy1tME)
 
-[You turn back](../marshmallow.md)
+[You go back to any random time in history, because the past was better than this grief-hole](https://www.gatesnotes.com/Books/The-Better-Angels-of-Our-Nature)
 
+[You turn back](../marshmallow.md)
