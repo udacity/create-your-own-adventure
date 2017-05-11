@@ -1,0 +1,3 @@
+Sus ojos no lo engañaban, las murallas eran más altas y robustas de lo imaginado
+y eso no era lo peor, el ejército enemigo era igual o mas grande aun a su ejército
+esa ventaja de 3 a 1 que creía tener no era más que fantasía...
