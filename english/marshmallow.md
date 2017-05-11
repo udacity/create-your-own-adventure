@@ -9,6 +9,8 @@ Enter [The Forest!] (forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
+If you like Quora you might [check this page](jojobudiman/quora-life.md)
+
 hi~
 
 NGE is [here] (NGE/NGE.md)
