@@ -1,6 +1,6 @@
-You decide that the best way out of this situation is boudering... hardcore bouldering.
+You decide that the best way out of this situation is bouldering... hardcore bouldering.
 
-There is a door at the top of the rock.
+There is a door at the top of the rock. You deftly climb your way to the top of the rock.
 
 Click [here](../froboznia/froboznia.md) to open the door.
 
