@@ -15,8 +15,8 @@ She hears someone gasping heavily and trembles in fear.
 Kristy gets drenched in sweat and sits on the edge
 of her bed gulping a bottle of water.
 
-Kristy hears someone approaching her room. She sneaks 
-beneath the bed and shuts her mouth to mute her 
+Kristy hears someone approaching her room. She sneaks
+beneath the bed and shuts her mouth to mute her
 anxiety.
 
 A stranger in jeans and hoodie, covering larger portion of his
@@ -34,14 +34,14 @@ closet door.
 Security checks inside and finds no one. Kristy scatters everything in the closet
 and finds nothing. Everyones leaves cursing Kristy and they think that it's a prank.
 
-Kristy collapses and weeps uncontrollably. 
+Kristy collapses and weeps uncontrollably.
 
 Kristy's friends Bella and Ana console her and checks her surroundings.
 
 They find no one around, everything in Kristy's room is untouched. Stranger
 sneaks behind the window and watch her weep.
 
-Kristy sees him at the window and runs into it. Her nose bleeds with the impact and 
+Kristy sees him at the window and runs into it. Her nose bleeds with the impact and
 stranger fades into the dark leaving no clue.
 
 Bella holds Kristy from behind and usher her to the bed and Ana locks the window.
@@ -59,7 +59,7 @@ Stranger's head starts bleeding and he run away from her room.
 Kristy screams again but no one bothers to check on her.
 
 
-Kristy sobs in despair but gets a nasty idea to smoke him out. She sets her room on 
+Kristy sobs in despair but gets a nasty idea to smoke him out. She sets her room on
 fire.
 
 And the screams continues to come again and again
@@ -76,3 +76,5 @@ Bella ushers Kristy on to her bed and calm her down.
 Bella palms her head while Kristy gets normalized.
 
 Stranger smirks seeing Kristy and escape into the dark.
+
+[chase the man](../chase/chase.md)
