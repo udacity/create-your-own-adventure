@@ -9,7 +9,7 @@ Apo udheton me ndonje menyre tjeter?
 
 Avioni ose treni duken pak larg nga ty.
 
-Vendos te perdoresh [Uber] (uber/uber.md)?
+Vendos te perdoresh [Uber](uber/uber.md)?
 
 Vendos te perdoresh [Tesla 3](tesla/tesla.md)?
 
