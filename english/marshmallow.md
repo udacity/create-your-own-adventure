@@ -1,4 +1,6 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+Once upon a time many authors collaborated to make meaningless linked story. 
+
+It's funny, so keep on [reading](marshmallow.md) (^_^)
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
