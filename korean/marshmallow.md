@@ -8,6 +8,8 @@
 
 [불을 지핀다](light-fire/fire.md)?
 
+[캠핑을 하러간다](camping/camping.md)
+
 [다시 잔다](sleep/marshmallow.md)?
 
 [이건 아니다 싶어 영어 버전으로 간다](../english/marshmallow.md)?
