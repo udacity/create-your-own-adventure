@@ -3,6 +3,6 @@ You decide to ignore it and keep walking. Either the voice is in your head and y
 either way, nothing you can do about it.
 As the sun sets, you realize you're getting tired and need rest.
 
-[Cry yourself to sleep on the highway](../explore-room/room.md)
+[Cry yourself to sleep on the highway](sleep/sleep.md)
 
-[Run back to the motel](explore-outside-east/explore-east.md)
+[Run back to the motel](../../explore-room/room.md)
