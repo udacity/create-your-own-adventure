@@ -1,0 +1,1 @@
+If you really want to read the new story, click [new story](new_story.md)
