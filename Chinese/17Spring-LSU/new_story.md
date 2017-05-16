@@ -1,1 +1,5 @@
-This is the true new story! The new story is about an EE student working on CS project!! Similar story please [Visit](../16fall_USA/Columbia_university/columbia I am coming.md) [Reture](../../Chinese) to go Chinese.
+This is the true new story! The new story is about an EE student working on CS project!! 
+Similar story please 
+[Visit](../16fall_USA/Columbia_university/columbia I am coming.md) 
+
+[Reture](../../Chinese) to go Chinese.
