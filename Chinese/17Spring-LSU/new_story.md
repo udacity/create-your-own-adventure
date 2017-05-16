@@ -1,5 +1,4 @@
 This is the true new story! The new story is about an EE student working on CS project!! 
-Similar story please 
-[Visit](../16fall_USA/Columbia_university/columbia I am coming.md) 
+For relax, please read the story [Breaking_Bad](../Breaking_Bad/Breaking_Bad.md) 
 
 [Reture](../../Chinese) to go Chinese.
