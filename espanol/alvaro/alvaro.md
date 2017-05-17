@@ -1,0 +1,1 @@
+Y les habló de las leyes del karma , los karma points, el prana y otras cosas
