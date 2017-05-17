@@ -13,6 +13,6 @@ a la ciudad antes de los soldados. Beatito decidió:
 
 [Mantener las puertas cerradas, dejando fuera a los soldados](cerrado/cerrado.md)
 
-
+[Suicidarse](suicidio/suicidio.md)
 
 
