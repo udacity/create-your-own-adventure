@@ -5,3 +5,8 @@ Or decide to play a game of chess [chess](../chess/chess.md).
 Or decide to learn about the world of bears [bears](../bear-story/bear-story.md)
 
 Or decide the learn about life of this world [life of this world](../00-Life-of-this-world/Life of this world.md)
+
+But, wait ... you remember there are a few loose ends you first must tie.
+First, you must sell those old tables that have been on your mind.
+You also need to balance the budget and, oh, wash your windows; they are too smudged to 
+let you clearly see what you learn.
