@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+[And we searched for the demonic force of the octave circle](demonic/demonic.md)
