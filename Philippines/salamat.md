@@ -30,3 +30,5 @@ Samahan si Benj sa kanyang paglalakbay! [Tara!](tara/tara.md)
 
 Para sa mga gusto kumanta [kanta] (kanta/minsan.md)
 Januart 12, 2017
+
+Maginaw na gabi papunta sa [UP Diliman] (dilim/UP.md)
