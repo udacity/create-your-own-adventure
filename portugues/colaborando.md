@@ -3,6 +3,8 @@ aplicativo, você detecta um bug.
 
 Você:
 
+Eu desmonto o aparelho para descobrir o que está errado no aplicativo.
+
 [Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
 
 [Chora descontroladamente até que sua fada madrinha aparece e te dá 1 desejo](fada/fada.md)
