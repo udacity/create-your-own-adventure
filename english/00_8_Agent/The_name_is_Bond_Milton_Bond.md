@@ -1,8 +1,8 @@
 You have entered into the world of a secret agent.
-If you used to be a Drill Master, you should aspire to become 
+If you used to be a Drill Master, you should aspire to become
 a [White Tiger](https://play.google.com/store/apps/details?id=com.linecorp.LGRGS) instead.
 
-If White Tiger is too dull, you may choose a 
+If White Tiger is too dull, you may choose a
 [Tiger Bear](http://i0.wp.com/listverse.com/wp-content/uploads/2011/05/liger.jpg?resize=548%2C426)
 
 You have entered into the world of one of Her Majesty's secret agent.
@@ -14,5 +14,7 @@ Need the requisite form for a new Aston-Martin for that high speed car chase?
 Ask Milton!
 Special ordering a bespoke tuxedo for a fancy dinner and with a side of fisticuffs?
 Milton's your man.
-Need someone to send in your end of mission expense report, complete with TPS cover letter. 
+Need someone to send in your end of mission expense report, complete with TPS cover letter.
 Milton's already one step ahead of you.
+Need to blend a pile of credit cards into a thought-provoking meditation on sadness and its pervasive nature in a modern world?
+The Rochester Register-Guard said his show was a heartbreaking work by a shattered genius in his prime.
