@@ -6,6 +6,6 @@
 
 4) "Man needs his difficulties because they are necessary to enjoy success." -APJ Kalam
 
-5) "Destiny is everything." - Uhtred, The Last Kingdom
+5) "Destiny is everything." - Uhtred Ragnarson, The Last Kingdom
 
 Click [hear](https://www.goodreads.com/quotes/tag/overcoming-fear) to find more quotes.
