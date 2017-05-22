@@ -7,3 +7,5 @@ deserves -- though not the one he wanted
 -- when Khal Drogo has molten gold poured onto his head.
 
 With no hope, but with a coin in the pocket, the only logical path is [here](../use-the-fork-luke/use-the-fork.md).
+
+Or you could just  click [here](../valarmorghulis/throne/throne.md) to try and find out who will get the throne 
