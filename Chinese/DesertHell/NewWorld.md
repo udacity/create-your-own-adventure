@@ -8,3 +8,5 @@ end
 [我不想听，继续往前走。](./Walk/Walk.md)
 
 [老头突然念起了李白的将进酒](./Jiangjinjiu/Jiangjinjiu.md)
+
+新世界不是日本的一個地名嗎

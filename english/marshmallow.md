@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+I am still confusing about GitHub. May I need to read [more](http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) about GitHub?
