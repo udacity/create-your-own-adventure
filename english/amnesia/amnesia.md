@@ -27,4 +27,6 @@ Who am I?  Where am I?  What am I doing?
 
 My name is...I am Daniel.
 
+My name is .....Am I Graycie?
+
 All your quesions can be answered by going [here](https://www.amnesiagame.com/#main).
