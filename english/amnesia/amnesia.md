@@ -29,4 +29,6 @@ My name is...I am Daniel.
 
 My name is .....Am I Graycie?
 
+I am in Nairobi Kenya
+
 All your quesions can be answered by going [here](https://www.amnesiagame.com/#main).
