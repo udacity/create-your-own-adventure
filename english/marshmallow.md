@@ -13,6 +13,8 @@ hi~
 
 NGE is [here] (NGE/NGE.md)
 
+The Return of [Lorde] (lorde/lorde.md)
+
 [start](mad/mad.md) your journey into world of mad 
 
 or
