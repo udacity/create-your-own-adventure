@@ -7,7 +7,7 @@ it's not butter! You won't belive it, they can't make you!
 Closing around you, the walls move. Inch by ince. They urge you to accept 
 reality! It is not butter. Its jam they seem to tell you.
 
-"NO!"
+"NO!" 
 
 The walls inch forward...
 
