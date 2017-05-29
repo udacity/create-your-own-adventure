@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Check the advantages and disadvantages of git [here](english/git_disadvantage/git_advan_disadvan.md).
