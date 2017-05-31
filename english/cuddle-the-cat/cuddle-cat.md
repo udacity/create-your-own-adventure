@@ -5,3 +5,5 @@ you happily purr back. Your cat looks at you like you're crazy, but what
 are you going to do?
 
 [Try to rub your cat's belly](rub-cat-belly/rub-cat-belly.md)
+
+[Look at your cat's domino tum from a safe distance](domino-tum/domino-tum.md)
