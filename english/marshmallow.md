@@ -1242,4 +1242,4 @@ What is your [passion?](passion/passion.md)
 
 searching for [good](tvf-play/watch.md) content.
 
-And I looked to heaven and wondered at the firmament and asked who created it? [heaven](haven/heaven.md)
+And I looked to heaven and wondered at the firmament and asked who created it? [heaven](heaven/heaven.md)
