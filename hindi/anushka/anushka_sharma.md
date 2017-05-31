@@ -1,0 +1,1 @@
+click [here](https://en.wikipedia.org/wiki/Anushka_Sharma) to know more about this cute indian actress.
