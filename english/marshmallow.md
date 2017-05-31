@@ -1242,4 +1242,4 @@ What is your [passion?](passion/passion.md)
 
 searching for [good](tvf-play/watch.md) content.
 
-add your list of favourite books to the [library] (books/book.md) 
+add your list of favourite books to the [library](books/books.md) 
