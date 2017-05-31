@@ -3,3 +3,5 @@
 وهذا ايضا [هنا](https://www.codeschool.com)
 
 وهذه بعض المحتوى العربي لتعلم البرمجة https://www.rwaq.org
+
+تعلم لعبة flappy bird [هنا](https://studio.code.org/flappy/1)
