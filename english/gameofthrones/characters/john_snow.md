@@ -1,3 +1,1 @@
-	I was the most famous John Snow to walk the earth before that old bugger George R.R Martin named a fictional character
-	Jon Snow) after me. 
-I was an English physician and a leader in the adoption of anaesthesia and medical hygiene. I was considered one of the fathers of modern epidemiology, in part because of my work in tracing the source of a cholera outbreak in Soho, London, in 1854. My findings inspired fundamental changes in the water and waste systems of London, which led to similar changes in other cities, and a significant improvement in general public health around the world.  Yeah,You are welcome for the knowledge I just dropped.
+I was the most famous [John Snow](https://en.wikipedia.org/wiki/John_Snow) to walk the earth before that old bugger George R.R Martin named a fictional character [Jon Snow](https://en.wikipedia.org/wiki/Jon_Snow_(character))after me.
