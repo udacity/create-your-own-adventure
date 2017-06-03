@@ -14,6 +14,8 @@ If you understand Tamil, தமிழ் வணக்கம் [இங்கே 
 
 தமிழ் வணக்கம்!To view ponmozhigal [Click Here](Tamil/Vivekanandha/ponmozhigal.md)
 
+If you are interested in Bharathiyar Kavithaigal, [இங்கே அழுத்தவும்](Tamil/Bharathiyar_Kavithaigal/prayer.md)
+
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
 यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।](nepali/about_nepal.md)
