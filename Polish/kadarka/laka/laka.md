@@ -1,5 +1,18 @@
-Dotar³e¶ w³a¶nie na ³±kê. Pijesz Kadarkê i jest ci dobrze. Rozgl±dasz siê dooko³a
-i zauwa¿asz, ¿e nikogo nie ma, ani ¿ywej duszy, ¿adnych skrzatów, duszków, czy 
-czegokolwiek innego. Wpadasz na pomys³, pustka towarzyska na ³±ce obok stacji
-uzdatniania wody zainspirowa³a ciê do spe³nienia twojego najskrytszego marzenia.
-Szybko podejmujesz decyzjê i ¶ci±gasz majtki (mo¿e bêdzie tam Dong?).
+DotarÂ³eÂ¶ wÂ³aÂ¶nie na Â³Â±kÃª. Pijesz KadarkÃª i jest ci dobrze. RozglÂ±dasz siÃª dookoÂ³a
+i zauwaÂ¿asz, Â¿e nikogo nie ma, ani Â¿ywej duszy, Â¿adnych skrzatÃ³w, duszkÃ³w, czy 
+czegokolwiek innego. Wpadasz na pomysÂ³, pustka towarzyska na Â³Â±ce obok stacji
+uzdatniania wody zainspirowaÂ³a ciÃª do speÂ³nienia twojego najskrytszego marzenia.
+Szybko podejmujesz decyzjÃª i Â¶ciÂ±gasz majtki (moÂ¿e bÃªdzie tam Dong?).
+
+Linia gumki dociera do miejsca gdzie plecy koÅ„czÄ… swÄ… szlachetnÄ… nazwÄ™ aÅ¼ tu...
+- Kierowniku, poratujesz zÅ‚otÃ³weczkÄ…?
+
+Co robisz?
+
+[Ignorujesz goÅ›cia i szukasz Donga] (dong.md)
+
+[Postanawiasz z nim porozmawiaÄ‡](lyk/lyk.md)
+
+
+
+
