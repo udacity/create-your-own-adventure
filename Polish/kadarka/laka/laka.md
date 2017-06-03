@@ -9,7 +9,7 @@ Linia gumki dociera do miejsca gdzie plecy kończą swą szlachetną nazwę aż 
 
 Co robisz?
 
-[Ignorujesz gościa i szukasz Donga] (./dong.md)
+[Ignorujesz gościa i szukasz Donga](./dong.md)
 
 [Postanawiasz z nim porozmawiać](lyk/lyk.md)
 
