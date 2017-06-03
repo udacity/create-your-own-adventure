@@ -7,4 +7,4 @@ Maybe hundreds of times.
 of shock treatments."
 
 [Sit and wait!.](../../marshmallow.md)
-[Run for the door.] (run-for-the-door/run-for-the-door.md)
+[Run for the door.](run-for-the-door/run-for-the-door.md)
