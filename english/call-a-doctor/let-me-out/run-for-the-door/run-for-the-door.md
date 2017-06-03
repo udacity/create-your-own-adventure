@@ -1,0 +1,2 @@
+As the doctor glances back at his folder, you realize this is your only chance. Taking a deep breath, you run for the open door. 
+The doctor yells in surprise as you knock him out of the way. You tumble into the hallway, looking for an escape route.
