@@ -1,6 +1,4 @@
-﻿If you speak Azerbaijani, [go here](azerbaijani/mehbus.md)
-
-If you speak English, [go here](english/marshmallow.md).
+﻿If you speak English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
@@ -169,3 +167,5 @@ Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odys
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
 Si Latine legere vis, [hic preme](latin/arena.md)
+
+If you speak Azerbaijani, [go here](azerbaijani/mehbus.md)
