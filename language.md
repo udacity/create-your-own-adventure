@@ -1,4 +1,6 @@
-﻿If you speak English, [go here](english/marshmallow.md).
+﻿If you speak Azerbaijani, [go here](azerbaijani/mehbus.md)
+
+If you speak English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
