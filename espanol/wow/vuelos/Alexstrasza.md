@@ -1,0 +1,3 @@
+Alexstrasza la Protectora, Aspecto del Vuelo Rojo, es la guardiana de la vida en Azeroth. Fue uno de los cinco grandes dragones elegidos por los titanes que recibió una parte del poder del Panteón para gobernar sobre sus congéneres y vigilar Azeroth y sus habitantes. Los titanes además la nombraron 'Reina de los Dragones'.
+
+Actualmente, Alexstrasza reside en lo alto del Templo del Reposo del Dragón en el Cementerio de Dragones, un lugar considerado sagrado para los Vuelos de Dragón.
