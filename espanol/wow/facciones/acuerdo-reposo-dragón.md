@@ -1,0 +1,1 @@
+Con el violento levantamiento del Vuelo Azul contra todos los usuarios de magia mortales, los vuelos restantes se han unido bajo el liderazgo del Vuelo Rojo para combatir a sus parientes díscolos.
