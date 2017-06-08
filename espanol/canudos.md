@@ -194,3 +194,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
+
+O eso hubiera deseado, pero cuando pensó que era el final se encontró en un claro donde descansaba [El Tejehechizos](wow/Malygos.md)
