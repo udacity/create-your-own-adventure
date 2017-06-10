@@ -22,3 +22,7 @@ Do you:
 [Remember that you're Batman](../../../I'm-batman/batman.md)
 
 [Tell your mother](../../../tell-mother/tell-mother.md)
+
+
+But wait! When you look closely this boy, you recognized him. It's me ! It's me when I was five years old. 
+I was forced to steal by a bad man after the divorce of my parents. I was too young to remember his face. While I am trying hard to recall his face, suddenly, all the blurred memory become clear. Then you hear the sound of [dragons](english\dragons\fire-everywhere.md) behind you.     
