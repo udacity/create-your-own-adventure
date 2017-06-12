@@ -5,13 +5,13 @@ And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.
 A few learned to [tango](tango/tango.md)
 
 Some preferred to
-Enter [The Forest!] (forest/forest.md)
+Enter [The Forest!](forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
 
-NGE is [here] (NGE/NGE.md)
+NGE is [here](NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
 
@@ -34,8 +34,7 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
-In the end you will realize that it [doesn't really matter]
-(https://goo.gl/1fd4wU).
+In the end you will realize that it [doesn't really matter](https://goo.gl/1fd4wU).
 The path you choose is as good as any.
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
@@ -52,10 +51,10 @@ Who is better?
 
 [Click Here](captain/captain.md) to vote for Captain America
 
-[Click Here] (ironman/ironman.md) to vote for Iron Man
+[Click Here](ironman/ironman.md) to vote for Iron Man
 
-[Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
-[click here] (london/london.md) to vote for london
+[Click here](00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
+[click here](london/london.md) to vote for london
 
 January 2017 approaches. You have two presidential candidates to vote for.
 
@@ -747,7 +746,7 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Screaming goat is screaming](https://youtu.be/kh6c0SOfkH4)
 
-[Play on miniclip!] (papa-louie/papa-louie.md)
+[Play on miniclip!](papa-louie/papa-louie.md)
 
 [Visit Sturgis 2015!](sturgis2015/sturgis.md)
 
@@ -775,7 +774,7 @@ Click [here](young/young.md) to listen to music.
 
 [Decide to browse Reddit instead](https://www.reddit.com/)
 
-[It's time to take a vacation] (licked-cat/vacation.md)
+[It's time to take a vacation](licked-cat/vacation.md)
 
 And then you realize that Burning Man is over, so no real vacations :(
 
@@ -803,7 +802,7 @@ whilst wandering through the vastness of this universe.
 
 Either way we are cool, right?
 
-This [miracle man] (copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
+This [miracle man](copper-plate-man/copper-plate-man.md) can read your mind without uttering a word.
 
 You decide that you do not want to visit the miracle man. [You check your
 phone to find something else to do](check-phone/check-phone.md).
@@ -885,7 +884,7 @@ to you when you speak to it.
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
 >>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
 
-["Train Ride!"] (train-ride/train-ride.md)
+["Train Ride!"](train-ride/train-ride.md)
 
 I consider publishing a spoiler to the new [Star Wars movie](star-wars-spoiler/star-wars.md)
 
@@ -912,7 +911,7 @@ You may either do [this](gtd/gtd.md),
 
 Wait a second, I actually meant to say that [Camelot](camelot/camelot.md) is where I really want to go!
 
-"Who will you [serve] (joshua_24_15/joshua_24_15.md)?" 
+"Who will you [serve](joshua_24_15/joshua_24_15.md)?" 
 
 Yourself?
 
@@ -964,11 +963,11 @@ The 3 Rules of Test Driven Development [Read the Rules](test-driven-development-
 
 The understanding of git [go here](Booyah/booyah.md)
 
-[Link to Git Official Website] (git/git.md)
+[Link to Git Official Website](git/git.md)
 
-[link to google website] (kumar/kumar.md)
+[link to google website](kumar/kumar.md)
 
-Do you want to know [Git disadvantage?] (git_disadvantage/git_disadvantage.md) 
+Do you want to know [Git disadvantage?](git_disadvantage/git_disadvantage.md) 
 
 Hi i got this one for udacity team.
 
@@ -983,7 +982,7 @@ Let it go, let it gooo...
 
 CANT HOLD IT BACK ANY MORE
 
-Do you want to build a [snowman?] (snowman/snowman.md)
+Do you want to build a [snowman?](snowman/snowman.md)
 
 It doesn't have [to be a snowman](to-be-a-snowman/to-be-a-snowman.md)
 
@@ -1041,7 +1040,7 @@ And then you look up and see it, you can't bealive is him but there he is [stari
 
 [Do nothing.](nothing/do-nothing.md)
 
-[Rent a hydroplaning dog sled to get you to the other side of the world] (dog-sled/dogsled.md)
+[Rent a hydroplaning dog sled to get you to the other side of the world](dog-sled/dogsled.md)
 
 Toasted [marshmallow](toasted/smores_pie.md)
 
@@ -1083,9 +1082,9 @@ You're reincarnated as a green starfish but wish you were [blue instead.](starfi
 You wake up as Harry Potter ... and are facing Voldemort in a duel? 
 What should you [do](magicaladventure/decision_time/decision_time.md)
 
-My tea's gone cold I'm wondering [why] (stan/stan.md) I got out of bed at all...
+My tea's gone cold I'm wondering [why](stan/stan.md) I got out of bed at all...
 
-[Click] (vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
+[Click](vote-the-president/bernie/Bernie.md) here to vote for Bernie Sanders.
 
 You decide you want to be a pirate and remember a show called
 [onepiece](onepiece/op.md)
@@ -1205,7 +1204,7 @@ My best girls are Toujou Nozomi, Aragaki Ayase, and Sendouin Kaede.
 
 Maybe this is a [dream](dream/dream.md)?
 
-Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
+Or maybe you love [pugs](https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
 
@@ -1217,7 +1216,7 @@ Get to know them [here](blackAndwhite/blackAndwhite.md)
 
 =======
 Like football or soccer(as many others call it)? Must Watch 
-[The_Greatest_Battle_Ever] (https://www.youtube.com/watch?v=KyHDZqp2ThU)
+[The_Greatest_Battle_Ever](https://www.youtube.com/watch?v=KyHDZqp2ThU)
 
 Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
 
