@@ -38,3 +38,5 @@ Google can't help you right now. You are on your own.
 [Go back whence you came](../marshmallow.md)
 
 [Pray to God](pray/pray.md)
+
+[Take the Road less traveled](less-traveled/less-traveled.md)

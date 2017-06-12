@@ -10,6 +10,6 @@ you to your core.
 
 Do you:
 
-[Run away](./forest.md)
+[Run away](../forest.md)
 
-[Pray to God](./pray/pray.md)
+[Pray to God](../pray/pray.md)
