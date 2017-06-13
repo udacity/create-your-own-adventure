@@ -20,3 +20,5 @@ Do you:
 [Pinch the man to make sure your self is real?](../pinch/pinch.md)
 
 [Wake up from this nigthmare?](../wake-up/wake-up.md)
+
+[Accept that all this is just a dream and go further into the rabbit hole](acceptance/acceptance.md)
