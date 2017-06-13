@@ -1,4 +1,6 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
+ 
+বাংলা জানলে [এখানে](bangla/yourworld.md) ঢুঁ মারতে পারেন।
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
