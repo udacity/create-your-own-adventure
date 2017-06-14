@@ -1,4 +1,4 @@
-Sie versuchen die letzte Nach zu rekonstruieren. Sie erinnern sich daran,
+﻿Sie versuchen die letzte Nach zu rekonstruieren. Sie erinnern sich daran,
 dass Sie angetrunken mit Ihren 3 besten Freunde ins Boot gestiegen sind,
 können sich jedoch seitdem an nichts mehr erinnern. Schließlich hatten Sie acht Tequila.
 Vorab tranken sie bereits 5 Bier.
@@ -20,3 +20,5 @@ was sie auf dem Boot finden können, zu behelfen.
 [Sie finden zwei Leichen](../Leichen/Leichen.md)
 
 [Sie finden eine Schatzkarte](Schatzkarte/Schatzkarte.md)
+
+[Sie finden eine leicht bekleidete Frau](Frau/Frau.md)
