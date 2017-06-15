@@ -1,6 +1,7 @@
 Alone
 
 Chapter 1:
+Then I woke up and discovered that it all was just a dream.
 
 Kristy wakes up to the strange sounds from the walls of her dorm.
 
