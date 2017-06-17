@@ -7,4 +7,4 @@ Or, I could suck-up all the air on the planet by calling
 [Mega-Maid!](https://www.youtube.com/watch?v=O7aeWQCF1jM)
 
 Or, I could become a super hero named "Super Vac" and
-join forces with [batman!](../I'm-batman)
+join forces with [batman!](../I'm-batman/batman.md)
