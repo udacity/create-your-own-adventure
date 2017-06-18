@@ -4,3 +4,5 @@ e rañar na porta para que espertasen. Porén, a diferenza do resto dos días, e
 [Era distinto](dixital/dixital.md)
 
 [Non espertaban](costumes/costumes.md)
+
+[Decidiu ir buscar a Xurxo](xurxo/xurxo.md)
