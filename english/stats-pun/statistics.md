@@ -1,0 +1,1 @@
+would you rather be mean or [MEAN](stats-pun/statistics.md)
