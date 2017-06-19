@@ -22,4 +22,6 @@ Your cat doesn't care.
 
 [Say "Oh, kitty.  I love you, but you do cause trouble.](../cat-symphony-trouble/rewrite-symphony.md)
 
+[Give up and go brew some tasty beer](../beer-brewer/beer-brewer.md)
+
 
