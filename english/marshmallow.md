@@ -1241,3 +1241,7 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+-
+
+# The most glorious adventer of all time begins [here](best/glorious.md)
