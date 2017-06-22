@@ -11,4 +11,6 @@
 dhanyabad tapai ko .md file ko lagi
 [tapai sanga kura garda ramro lagyo](gthfy/gthfy.md)
 
-[purano dhunga](aalchi lagyo/alchi.md)
+
+[naya and purano dhunga](aalchi lagyo/alchi.md)
+
