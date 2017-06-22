@@ -13,4 +13,4 @@ dhanyabad tapai ko .md file ko lagi
 
 [purano](aalchi lagyo/alchi.md)
 
-naya and purano
+old and new
