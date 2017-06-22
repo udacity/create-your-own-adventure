@@ -1,0 +1,3 @@
+Y el Chapulín aparece diciendo: "¡Yo!". Al mismo tiempo Beatito y
+el Consejero exclaman: "¡El chapulín colorado!". Inmediatamente 
+el Consejero le explica al Chapulin que ...
