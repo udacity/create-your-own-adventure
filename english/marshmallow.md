@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Perhaps you should [play](rock-paper-scissors-lizard-spock/rock-paper-scissors-lizard-spock.md) rock-paper-scissors-lizard-spock?
