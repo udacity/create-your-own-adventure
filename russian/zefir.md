@@ -119,3 +119,5 @@
 [Зайти на двач](2ch/2ch.md)
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
+
+[Выйти в окно](fly/up-or-down.md)
