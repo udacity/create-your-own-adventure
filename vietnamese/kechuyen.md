@@ -21,3 +21,5 @@ Tôi thì chưa từng đến Sài Gòn, tôi là người [Hà Nội gốc](Ha-
 Nhưng tôi là rể [Hải Phòng](Hai-Phong/Hai_Phong_thanh_pho_cang.md)
 
 Chuyen [kiem viec](TansStory/mystory.md) cua toi
+
+Tôi muốn được làm việc ở khắp nơi trên [thế giới](The-gioi-cua-toi/The-gioi-cua-toi.md)
