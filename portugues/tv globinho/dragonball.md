@@ -1,6 +1,6 @@
-Algum muito ruim aconteceu no Brasil.
+Algo muito ruim aconteceu no Brasil.
 Um programa INCRIVEL, foi substituido por um ruim.
-E a agora? as crianÁas ter„o de viver sem Dragon ball?
-Trocando sua vida divertida para assistir F·tima Bernades?
+E a agora? as crian√ßas ter√£o de viver sem Dragon ball?
+Trocando sua vida divertida para assistir F√°tima Bernades?
 
-Ser· que Goku e seus amigos poder„o conter essa ameaÁa?
+Ser√° que Goku e seus amigos poder√£o conter essa amea√ßa?
