@@ -1,0 +1,1 @@
+You immediately realize the sense of safety you thought you obtained has been a false one, and you are overcome with dread and regret as the chaos of the unknown rapidly grows unabated around you. You stand defenceless as this 'dragon' irreversably consumes and disintegrates the existence of your being and your culture.
