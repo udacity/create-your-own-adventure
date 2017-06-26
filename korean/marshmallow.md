@@ -51,3 +51,5 @@
 [인스타그램에 인증샷을 올린다] (instagram/insta.md)
 
 [게임을 시작한다] (playgame/playgame.md)
+
+[힘들 때 웃어야 일류다. 호탕하게 웃는다](laugh-loudly/laugh-loudly.md)
