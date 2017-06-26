@@ -1,0 +1,1 @@
+Whats the fuss about reskilling? [go here](english/about_reskilling/what/what.md).
