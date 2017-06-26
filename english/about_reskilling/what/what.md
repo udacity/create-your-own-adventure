@@ -1,0 +1,1 @@
+Is it possible that someone cannot be reskilled? Or is it just an excuse given by people who do not want certain people on their workforce? 

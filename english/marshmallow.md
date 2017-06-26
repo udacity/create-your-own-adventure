@@ -1,5 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+People started to talk about [reskilling](about_reskilling/index.md)
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
@@ -1240,4 +1242,5 @@ What is your [passion?](passion/passion.md)
 
 -
 
-searching for [good](tvf-play/watch.md) content.
+searching for [good](tvf-play/watch.md) content. 
+
