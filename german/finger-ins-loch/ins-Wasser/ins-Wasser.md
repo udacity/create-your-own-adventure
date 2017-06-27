@@ -5,6 +5,6 @@ für Sie, zurück ins Boot zu steigen!
 
 Sie haben folgende Möglichkeiten:
 
-[Sie lassen Ihr Boot zurück und schwimmen Richtung Land.](/an-land-schwimmen/an-land-schwimmen.md)
+[Sie lassen Ihr Boot zurück und schwimmen Richtung Land.](german/finger-ins-loch/ins-Wasser/an-land-schwimmen/an-land-schwimmen.md)
 
-[Sie halten sich mit aller Kraft an Ihrem Boot fest.](/an-boot-fest-halten/an-boot-fest-halten.md)
+[Sie halten sich mit aller Kraft an Ihrem Boot fest.](german/finger-ins-loch/ins-Wasser/an-boot-fest-halten/an-boot-fest-halten.md)
