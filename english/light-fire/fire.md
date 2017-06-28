@@ -15,6 +15,8 @@ walls for you to squeeze through.
 
 But then you notice a rat entering that opening too.
 
+A sly rat, at that.
+
 The rat smiles and says, "Come on, let's go!"
 I add them.
 There is no conflict！
