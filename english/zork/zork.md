@@ -18,4 +18,6 @@ Zork is life, Zork is love.
 
 Zork is udacious.
 
+Zork is.
+
 Kick open the [door] (../duck/duck.md)
