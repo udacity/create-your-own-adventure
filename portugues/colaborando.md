@@ -71,3 +71,5 @@ BR BR BR Hue hue hue!!!!
 [Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
 
 [Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
+
+Time do Capitão América clique [aqui](guerracivil/capitao_america.md), time do Homem de Ferro clique [aqui](guerracivil/homem_de_ferro.md).
