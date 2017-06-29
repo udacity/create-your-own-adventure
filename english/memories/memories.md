@@ -9,6 +9,8 @@ And why are they so fuzzy and unclear sometimes?
 
 The first thing I remember is the cold tile floor. 
 
+The next thing I remember is the soft light of morning.
+
 The last thing I remember is the dark moment as my eyelids fell as sleep came over me. 
 
 Then went the [alarm](ground-hog/wakeup.md).
