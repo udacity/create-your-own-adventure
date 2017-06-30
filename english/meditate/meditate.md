@@ -41,3 +41,5 @@ Afterwards, you decide to:
 [sleep a bit](../sleep/marshmallow.md)
 
 [realize that you are in a dream](../dream/dream.md)
+
+[but not any old dream...this is a dream within a dream](../inception/inception.md)
