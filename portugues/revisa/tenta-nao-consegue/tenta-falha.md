@@ -7,3 +7,5 @@ O desenvolvedor:
 [Te responde de forma amigável!](amigavel/amigavel.md)
 
 [Não te responde!](nao-responde/nao-responde.md)
+
+[Diz: "na minha máquina funciona!"](aqui-funciona/aqui-funciona.md)
