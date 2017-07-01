@@ -524,6 +524,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Go meditate and ponder about your next step?](meditate/meditate.md)
 
+Are ready to test your understanding of [recursion](recursion/recursion.md)?
+
 [Scream out of fear?](scream/scream.md)
 
 [Get to work on the best batch of cookies ever made?](bake-cookies/cookies.md)
