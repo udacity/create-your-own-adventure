@@ -8,5 +8,3 @@ end
 [我不想听，继续往前走。](./Walk/Walk.md)
 
 [老头突然念起了李白的将进酒](./Jiangjinjiu/Jiangjinjiu.md)
-
-这是关于白胡子海贼团和海贼王[路飞](./onepiece/luffy.md)的故事...
