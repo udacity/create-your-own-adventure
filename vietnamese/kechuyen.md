@@ -22,4 +22,4 @@ Nhưng tôi là rể [Hải Phòng](Hai-Phong/Hai_Phong_thanh_pho_cang.md)
 
 Chuyen [kiem viec](TansStory/mystory.md) cua toi
 
-Bạn đã biết về git và GitHub? Xem thêm ở [đây](../git/hoc-git.md)
+Bạn đã biết về git và GitHub? Xem thêm ở [đây](/git/hoc-git.md)
