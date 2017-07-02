@@ -195,4 +195,4 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
 
-Recordó el fin de la antigua [republica](repuplica/republica.md)
+Recordó el fin de la antigua [republica](republica/republica.md)
