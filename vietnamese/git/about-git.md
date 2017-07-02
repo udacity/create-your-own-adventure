@@ -4,4 +4,4 @@ GitHub is a web-based Git or version control repository and Internet hosting ser
 
 From Wikipedia
 
-Bắt đầu học ở [đây](git/hoc-git.md)
+<No more link as story request>
