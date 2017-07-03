@@ -1,5 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+But was it really [meaningless](meaningless/is-it-really.md)
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
