@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+I'm very bad at writing a story so....*shrug*. And a bear ran inside the house!
