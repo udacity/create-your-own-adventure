@@ -1,0 +1,7 @@
+In the simplest terms, [git pull] (git-pull/git-pull.md) does a [git fetch] (git-fetch/git-fetch.md) followed by a git merge.
+
+You can do a git fetch at any time to update your remote-tracking branches under refs/remotes/<remote>/.
+
+This operation never changes any of your own local branches under refs/heads, and is safe to do without changing your working copy.
+
+A git pull is what you would do to bring a local branch up-to-date with its remote version, while also updating your other remote-tracking branches.
