@@ -1,0 +1,2 @@
+git pull command syntax:
+git pull <remote>

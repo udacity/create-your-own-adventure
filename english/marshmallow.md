@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
@@ -1241,3 +1241,6 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Just in case you for got the [difference](differences-gitpull-gitfetch/difference-gitpull-gitfetch.md) between git pull and git fetch
+[git pull](git-pull/git-pull.md) and [git fetch](git-fetch/git-fetch.md)
