@@ -4,3 +4,4 @@ Com isto, a sua franquia estourou e você está sem acesso a internet.
 
 O que você faz?
 
+[Chora](../chorar/chorar.md)
