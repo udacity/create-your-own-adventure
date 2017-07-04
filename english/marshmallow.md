@@ -1209,20 +1209,17 @@ Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
 
-<<<<<<< HEAD
 Have you ever heard any unusual sounds 
 when you're alone? 
 They're not what you think. 
 Get to know them [here](blackAndwhite/blackAndwhite.md)
 
-=======
 Like football or soccer(as many others call it)? Must Watch 
 [The_Greatest_Battle_Ever] (https://www.youtube.com/watch?v=KyHDZqp2ThU)
 
 Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
 
 What if I told that all this is just a bunch of [files](see-files/files.md)
->>>>>>> upstream/master
 
 A Story of Being Alone
 Read it [here](alone/alone.md)
