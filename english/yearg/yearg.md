@@ -1,1 +1,0 @@
-You yell out "YEEEARGGHH!!" at the top of your lungs to indicate your sense of overwhelming freedom.
