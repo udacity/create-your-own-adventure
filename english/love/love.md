@@ -51,7 +51,7 @@ Love.
 
 PS: it's bullshit
 
-Love is dependent on the person.
+Love is dependent on the person. (sometimes animal)
 Each person can experience love in different ways.
 It does not always have to be with a person.
 Love can be a passion.
