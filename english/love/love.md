@@ -51,9 +51,12 @@ Love.
 
 PS: it's bullshit
 
-Love is dependent on the person.
+Love is dependent on the person. (sometimes animal)
 Each person can experience love in different ways.
 It does not always have to be with a person.
 Love can be a passion.
 But depending on the person.
 Love can be anything.
+But can not be food nor water.
+The only thing you have is love, you will die definitely.
+Man, be realistic.
