@@ -39,6 +39,6 @@ Check out [Tiger Shroff](https://www.instagram.com/tigerjackieshroff/?hl=en)
 
 Checkout [Babita Phogat](https://www.instagram.com/explore/tags/babitaphogat/)
 
-[Virat Kohli](virat-kohli/virat.md)
+[Virat Kohli](Virat-kohli/virat.md)
 
 Why are you reading this line?
