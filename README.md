@@ -1,3 +1,5 @@
+----THE LINKS WEREN'T WORKING, SO THIS LINE IS MY CHANGE.
+
 # Collaborative Create-Your-Own-Adventure
 
 This is a create-your-own-adventure story where at each step, the reader chooses
