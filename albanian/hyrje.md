@@ -4,4 +4,6 @@ Udheton me [avion](avion/avion.md)?
 
 Udheton me [tren](tren/tren.md)?
 
+Udheton me [makine](makine/makine.md)?
+
 Apo udheton me ndonje menyre tjeter?
