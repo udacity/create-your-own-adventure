@@ -14,6 +14,8 @@ Werden Sie:
 
 [Laut um Hilfe schreien?](Hilfeschrei/Hilfeschrei.md)
 
+[Die Fangleine einziehen und übersteigen auf die Yacht] (Yacht/Yacht.md)
+
 [Gefasst bleiben und ihre Kleidung ausziehen und aus dem Boot werfen?](gefasst-bleiben/gefasst-bleiben.md)
 
 [Versuchen den Finger ins Loch zu stecken?](finger-ins-loch/finger-ins-loch.md)
