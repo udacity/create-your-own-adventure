@@ -36,3 +36,5 @@ Che fai?
 [Canto](canto/canto.md)
 
 [Guardo l'orologio](orologio/orologio.md)
+
+[Vado a pescare](pescare/pescare.md)
