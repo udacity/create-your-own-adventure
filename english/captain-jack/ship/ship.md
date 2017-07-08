@@ -1,3 +1,3 @@
 
 
-[Or choose again] (../captain-jack.md)
+[Or choose again](../captain-jack.md)

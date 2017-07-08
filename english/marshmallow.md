@@ -52,12 +52,12 @@ Who is better?
 
 [Click Here](captain/captain.md) to vote for Captain America
 
-[Click Here] (captain-jack/captain-jack.md) to vote for Captain Jack Sparrow
+[Click Here](captain-jack/captain-jack.md) to vote for Captain Jack Sparrow
 
-[Click Here] (ironman/ironman.md) to vote for Iron Man
+[Click Here](ironman/ironman.md) to vote for Iron Man
 
-[Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
-[click here] (london/london.md) to vote for london
+[Click here](00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
+[click here](london/london.md) to vote for london
 
 January 2017 approaches. You have two presidential candidates to vote for.
 
