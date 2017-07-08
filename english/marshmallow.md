@@ -52,7 +52,7 @@ Who is better?
 
 [Click Here](captain/captain.md) to vote for Captain America
 
-[Click Here] (captain/captain-jack.md) to vote for Captain Jack Sparrow
+[Click Here] (captain-jack/captain-jack.md) to vote for Captain Jack Sparrow
 
 [Click Here] (ironman/ironman.md) to vote for Iron Man
 
