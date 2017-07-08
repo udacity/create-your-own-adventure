@@ -10,4 +10,4 @@ What would your first objective be?
 
 or 
 
-[Choose again](../../marshmallow.md)
+[Choose again](../marshmallow.md)
