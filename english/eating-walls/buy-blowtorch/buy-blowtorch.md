@@ -1,1 +1,1 @@
-Now that you have your blowtorch, you begin burning spots in the marshmallow walls, creating a beautiful, pointilistic painting.
+Now that you have your blowtorch, you begin burning spots in the marshmallow walls, creating a pointilistic painting.
