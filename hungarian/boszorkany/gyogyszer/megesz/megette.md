@@ -1,4 +1,4 @@
-Kellemes bizsergest erzel az izmaidban es a tukorben meglatod a csikka szukult szemeidet. 
+Kellemes bizsergest erzel az izmaidban es a tukorben meglatod az osszeszukult szukult szemeidet. 
 
 Valamint meglatod azt is, hogy nem vagy boszorkany.
 
