@@ -38,6 +38,11 @@ In the end you will realize that it [doesn't really matter]
 (https://goo.gl/1fd4wU).
 The path you choose is as good as any.
 
+As long as you don't know where you want to go, what does it matter 
+which way you go when you start?
+
+Roll a dice and click on a link that many links below!
+
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
 [Build time machine](time-machine/time-machine.md)
