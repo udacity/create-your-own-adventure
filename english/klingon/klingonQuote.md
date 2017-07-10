@@ -1,0 +1,1 @@
+nuqneH nuvpu' tera' yuQ, Ha' jIH noH ansd Hov jatlh trek sttar cha' tlhIH muqIH QaQ
