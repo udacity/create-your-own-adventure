@@ -25,3 +25,6 @@ Què fas?
 [Entres en pànic absolut](panic/panic.md)
 
 [Corres cap a la paret més propera](correr/correr.md)
+
+[Treus el ganivet d'en Rambo que sempre portes dissimulat a la sola de la
+sabata](ganivet_Rambo/ganivet_Rambo.md)
