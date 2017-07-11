@@ -1,4 +1,4 @@
-Lyrics by **Josie Carey** | Music by **Fred Rogers**
+Lyrics by Josie Carey | Music by Fred Rogers
 ....
 I like you
 I-L-I-K-E-Y-O-U
