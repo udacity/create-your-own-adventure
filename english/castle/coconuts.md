@@ -1,0 +1,1 @@
+You and your trusty sidekick Patsy ride up to a castle and the guard asks you, "where'd you get the coconuts."
