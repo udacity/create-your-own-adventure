@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+I like you [just the way you are](nepali/mrRoger/mrRogers.md)
+
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
 Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
