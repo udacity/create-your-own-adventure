@@ -1,4 +1,4 @@
 Vous voilà penché sur le bord du nuage à observer les alentours.
 C'est là que vous apercevez l'avion responsable du bruit assourdissant.
 
-[C'est un avion rouge piloté par un cochon] (cochon/cochon.md)
+C'est un [avion rouge piloté par un cochon](cochon/cochon.md)
