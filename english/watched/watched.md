@@ -8,3 +8,5 @@ Perhaps you'd like to lighten up and [bake some cookies.](../bake-cookies/cookie
 Or evade the tax collection and [settle in Canada](../Canada/Canada.md).
 
 On second (or third) thought, it might be time for [revolution](../revolution/revolution.md).
+
+Or maybe, just maybe, you just feel [lucky](../lucky/lucky.md).
