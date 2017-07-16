@@ -1,5 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+Do NOT click the following link. Seriously do NOT click it.   This link should Not be clicked lightly. [Do NOT click](investigate-glowing-pants/investigate-glowing-pants.md)
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
