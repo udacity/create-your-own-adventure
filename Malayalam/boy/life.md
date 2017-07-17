@@ -2,4 +2,4 @@
 ഈ കുട്ടിയുടെ പേര്?
 ടീച്ചർ ചോദിച്ചു...
 [ടിന്റു മോൻ](tintu/tintu.md)
-[ജയ്സണ്‍](jaison/jaison.md) 
+[ജയ്സണ്‍](jaison/jaison.md)
