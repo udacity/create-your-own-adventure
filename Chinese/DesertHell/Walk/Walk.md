@@ -2,6 +2,6 @@
 
 [还是回去吧。。。](../NewWorld.md)
 
-[往左邊走．．．](/LeftTurn.md)
+[往左邊走．．．](LeftTurn.md)
 
 [往右邊走．．．]
