@@ -15,4 +15,4 @@ Vad nu, då?
 
 [Somna om](somna-om/somna-om.md)
 
-[midsommar] (midsommar/midsommar.md)
+[midsommar](midsommar/midsommar.md)
