@@ -1,4 +1,4 @@
-Bhagat Singh the Great One.
+Shaheed Bhagat Singh the Great One.
 [Bhagat Singh The Great](http://freeindia.org/biographies/freedomfighters/bhagathsingh/index.htm).
 
 Bhagat Singh aka Shaheed Bhagat Singh (28 September 1907 – 23 March 1931) was an 
