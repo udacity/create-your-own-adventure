@@ -1241,3 +1241,7 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+you love fashion?
+
+would like to see about [fashion](fashion/fashion.md)?
