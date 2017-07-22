@@ -30,3 +30,6 @@ Samahan si Benj sa kanyang paglalakbay! [Tara!](tara/tara.md)
 
 Para sa mga gusto kumanta [kanta] (kanta/minsan.md)
 Januart 12, 2017
+
+Di ko akalain, may mga Pinoy pala dito kahit konti lang. Bisaya diay pud ko.
+I'm glad I'm almost finish with this course.
