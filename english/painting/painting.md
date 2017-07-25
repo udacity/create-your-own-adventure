@@ -5,4 +5,5 @@ They are all marching single file in line on a nice sunny day with a few clouds 
 
 [You start on running and jump into the painting](Another_World/another_world.md)
 
-There is also a paint-by-numbers picture of a clown, but never mind that.
+There is also a paint-by-numbers picture of a clown, but never mind that. You instead focus on a painting of dogs playing poker.
+
