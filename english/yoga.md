@@ -1,0 +1,1 @@
+Hot yoga is such a great workout.  But please no hotter than 100 degrees!
