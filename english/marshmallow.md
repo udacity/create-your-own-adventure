@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+My passion?  My passion is for beans.  Get to know [my friends] (mameshiba/mameshiba.md).
