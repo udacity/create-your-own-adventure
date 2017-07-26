@@ -16,6 +16,7 @@
 freelancing اشهر مواقع العمل الحر 
 
 -[UpWork](https://www.upwork.com/)
+من أفضل المواقع التي يمكن لك أن تعمل بها .. و قد قام بتجربته العديد من الأشخاص
 
 -[freelancer](https://www.freelancer.com/)
 
