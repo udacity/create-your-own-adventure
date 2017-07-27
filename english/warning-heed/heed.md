@@ -26,3 +26,4 @@ lining the jaws of the sharmanphant.
 
 You stand there drenched in the blodd of the old man with the crazy hair as the 
 sharmanphant slowly turns towards you, blood dripping from its teeth... 
+Before i know what i was doing i heard a hard slap on my cheeck which send me to ground.
