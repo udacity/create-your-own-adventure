@@ -1,0 +1,1 @@
+Congrats! You're finally free! Now close this browser to run away from it all.
