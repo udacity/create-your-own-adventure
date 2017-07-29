@@ -35,3 +35,5 @@ You hesitate just a moment before replying...
 [Can I phone a friend?](phone-a-friend/phone-a-friend.md)
 
 [Attack and eat one of the marshmallows](eat-marshmallow/hot.md)
+
+[End](end-of-story/the-end.md)
