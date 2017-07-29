@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Click [here] (https://www.reddit.com/r/random) to randomly discover some subreddit.
