@@ -1241,3 +1241,7 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+You find yourself lost in a stream of endless, meaningless lines masquerading as a story. Your mind can't take it anymore. Thankfully, you have an escape button right below.
+
+[Escape](escape-the-story/goodbye.md)
