@@ -20,3 +20,5 @@ but words!
 
 [consume combat ration](../combatration/combat_ration.md)
 mmmm combat rations...
+
+[Take calcium supplement](../calcium-supplement/calcium-supplement.md)
