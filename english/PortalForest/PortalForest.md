@@ -1,0 +1,3 @@
+You decide to venture down the path towards the forest ...
+
+... Feel free to add more to the story here!
