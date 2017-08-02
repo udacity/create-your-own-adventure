@@ -5,5 +5,6 @@ Pero esta no fue la mejor opción. El ejercito enemigo se acercó rápidamente, 
 Debemos actuar! Pero no hay tiempo para mas errores!
 
 [¡Hay que encontrar al capitan Hernandez!](../../../../../barracas/capitan.md)
+
 [Atrancar la puerta principal con rocas y otros objetos pesados](../rocas/rocas.md)
 
