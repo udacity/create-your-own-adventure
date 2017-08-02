@@ -76,3 +76,7 @@ Bella ushers Kristy on to her bed and calm her down.
 Bella palms her head while Kristy gets normalized.
 
 Stranger smirks seeing Kristy and escape into the dark.
+
+Bella leaves and Kristy falls asleep on her bed.
+
+Kristy wakes up to the strange sounds from the walls of her dorm.
