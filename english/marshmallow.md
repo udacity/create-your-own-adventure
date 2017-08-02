@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+How will it end?? Who is going to sit on the Iron Throne? [Vote](voteGOT/which_skeleton_rules.md)
