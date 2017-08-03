@@ -1241,3 +1241,6 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+
+If you're a college student, click [here](college-simulator/college.md) to play college simulator for no reason at all.

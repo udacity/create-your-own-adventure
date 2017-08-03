@@ -1,0 +1,1 @@
+So you applied to a public college. I wonder why.
