@@ -7,3 +7,7 @@ Oh, don't sigh heavily from fatigue:
 seek passion, seek passion, seek passion!
 
 Rumi
+
+Sometimes, however, pursuing passion is as
+dangerous as indulging fairytale hopes; it
+could drive one insane or lead them [asray](pursuing-passion/fairytale-hopes.md).
