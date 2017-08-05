@@ -3,6 +3,8 @@ aplicativo, você detecta um bug.
 
 Você:
 
+[Compoe uma amúsica e coloca no YouTube para aproveita o Git e malandramente divulgar? HAHAHA ](https://www.youtube.com/watch?v=e_xqTXs91hE)
+
 [Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
 
 [Chora descontroladamente até que sua fada madrinha aparece e te dá 1 desejo](fada/fada.md)
