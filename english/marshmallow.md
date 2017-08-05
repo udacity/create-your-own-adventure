@@ -1,11 +1,10 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+Once upon a time many authors collaborated to make a meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
 
-Some preferred to
-Enter [The Forest!] (forest/forest.md)
+Some preferred to enter [The Forest!] (forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
