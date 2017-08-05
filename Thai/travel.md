@@ -11,3 +11,5 @@ What do you want to do?
  I want to sleep on a beach and dream of [hiking](Activities/Hiking.md) a mountain in the Northern of Thailand.
 
 [Thai food aloy mak mak 555!](https://www.youtube.com/watch?v=yi6jw7EtryE)
+
+Sabai dee mai?
