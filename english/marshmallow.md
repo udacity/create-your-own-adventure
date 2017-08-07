@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+So, now i decided to be more [Social](https://github.com/Salsabeelyf/create-your-own-adventure/blob/master/english/Social/Social_media.md) and live my life.
