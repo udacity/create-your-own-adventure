@@ -15,5 +15,6 @@ Terá raiva, ódio, estresse, ficará noites sem dormir;
 Mas não desistirá, será persistente;
 Lançara seu primeiro jogo;
 E após varios dias verá que 10 pessoas adquiriram seu jogo (Uhuuuuuuuuuuuuuu);
+E seis delas não gostaram;
 
 Venha agora mesmo para essa incrível jornada!
