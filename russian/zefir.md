@@ -26,6 +26,8 @@
 
 Ваши действия:
 
+[Слетать на Солнце](go-to-sun/go-to-sun.md)
+
 [Пригласить профессора Воробьева](invite-proffesor/invite-proffesor.md)
 
 [Попросите девушку ущепнуть вас](girlfriend-pinch-you/girlfriend-pinch-you.md)
