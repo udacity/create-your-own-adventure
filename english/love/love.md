@@ -57,3 +57,5 @@ It does not always have to be with a person.
 Love can be a passion.
 But depending on the person.
 Love can be anything.
+
+Love is the most beautifull thing is this world.
