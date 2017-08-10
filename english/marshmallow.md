@@ -44,9 +44,11 @@ You decide to drop everything you're doing and [run out the door](run_out_the_do
 
 Take some [time](meditation/meditation.md) off!
 
+
 [Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
 
-Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
+Life is full of twists and turns like--but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
+
 
 Who is better?
 
@@ -883,7 +885,7 @@ to you when you speak to it.
 ["Ahem!"](my-adventure/my-adventure.md)
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
->>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
+
 
 ["Train Ride!"] (train-ride/train-ride.md)
 
@@ -1138,7 +1140,7 @@ Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random
 Learn about Ankesh [here](characters/ankesh.md)
 
 [Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
->>>>>>> b6c70ae2fc2160a4b1b9c8639b4567de6b5a4a93
+
 
 You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
@@ -1209,20 +1211,12 @@ Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
 
-<<<<<<< HEAD
-Have you ever heard any unusual sounds 
-when you're alone? 
-They're not what you think. 
-Get to know them [here](blackAndwhite/blackAndwhite.md)
-
-=======
 Like football or soccer(as many others call it)? Must Watch 
 [The_Greatest_Battle_Ever] (https://www.youtube.com/watch?v=KyHDZqp2ThU)
 
 Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
 
 What if I told that all this is just a bunch of [files](see-files/files.md)
->>>>>>> upstream/master
 
 A Story of Being Alone
 Read it [here](alone/alone.md)
