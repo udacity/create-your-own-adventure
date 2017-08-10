@@ -1,3 +1,6 @@
+First you need to find a quiet place. 
+That [forest](../forest/forest.md) looks fairly peaceful...
+
 You should relax, you completed the git course, good job!
 You feel relaxed and sleepy... Go to sleep?
 
