@@ -1,5 +1,13 @@
 Once upon a time many authors collaborated to make meaningless linked story.
+
+And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
+
+A few learned to [tango](tango/tango.md)
+
+Some preferred to
 Enter [The Forest!] (forest/forest.md)
+
+If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
 
@@ -26,13 +34,21 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
+In the end you will realize that it [doesn't really matter]
+(https://goo.gl/1fd4wU).
+The path you choose is as good as any.
+
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
 [Build time machine](time-machine/time-machine.md)
 
 Take some [time](meditation/meditation.md) off!
 
+
+[Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
+
 Life is full of twists and turns like--but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
+
 
 Who is better?
 
@@ -869,7 +885,7 @@ to you when you speak to it.
 ["Ahem!"](my-adventure/my-adventure.md)
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
->>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
+
 
 ["Train Ride!"] (train-ride/train-ride.md)
 
@@ -1124,7 +1140,7 @@ Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random
 Learn about Ankesh [here](characters/ankesh.md)
 
 [Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
->>>>>>> b6c70ae2fc2160a4b1b9c8639b4567de6b5a4a93
+
 
 You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
@@ -1193,23 +1209,29 @@ Maybe this is a [dream](dream/dream.md)?
 
 Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
-<<<<<<< HEAD
-Have you ever heard any unusual sounds 
-when you're alone? 
-They're not what you think. 
-Get to know them [here](blackAndwhite/blackAndwhite.md)
+Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
 
-=======
 Like football or soccer(as many others call it)? Must Watch 
 [The_Greatest_Battle_Ever] (https://www.youtube.com/watch?v=KyHDZqp2ThU)
 
 Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
 
 What if I told that all this is just a bunch of [files](see-files/files.md)
->>>>>>> upstream/master
 
 A Story of Being Alone
 Read it [here](alone/alone.md)
 
 Information on some famous tv series
 [click here](famous-tv-series/famous-tv-series.md)
+
+I have atlast found a way to heaven...Want to go [there](00_PortBlair's Emerald blue/PortBlairVoyage.md)
+
+Why are you reading this line? smile and move on.
+
+Smile and move on gingerly.
+
+What is your [passion?](passion/passion.md)
+
+-
+
+searching for [good](tvf-play/watch.md) content.

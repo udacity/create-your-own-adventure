@@ -117,3 +117,5 @@
 [Наделаю селфи](selfie/make_selfie.md)
 
 [Зайти на двач](2ch/2ch.md)
+
+[Стану вегетарианцем](vegetarian/vegetarian.md)
