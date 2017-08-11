@@ -8,3 +8,5 @@ will. Sie kommt auf Sie zu und legt Ihre Lippen sanft auf Ihre und...
 Wie geht es weiter?
 
 ...und sie gibt Ihnen eine Lunge voll Luft, die ausreicht, um wieder zurück ins Boot zu kehren.
+
+Doch während Sie zurück schwimmen, bemerken Sie, dass sie Ihnen weitaus mehr gegeben hat.
