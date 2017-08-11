@@ -59,6 +59,8 @@ Who is better?
 
 January 2017 approaches. You have two presidential candidates to vote for.
 
+These are Americas two best [candidates](candidates/candidates.md) for the presidency.
+
 [Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
 
 [Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
