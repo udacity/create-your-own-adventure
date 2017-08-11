@@ -57,7 +57,7 @@ Who is better?
 [Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
 [click here] (london/london.md) to vote for london
 
-January 2017 approaches. You have two presidential candidates to vote for.
+January 2017 approaches. You have two presidential [candidates](candidates/candidates.md) to vote for.
 
 [Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
 

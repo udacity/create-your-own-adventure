@@ -1,0 +1,1 @@
+Out of more than 300 million people, these two are your best candidates!!  This is not a democratic election. This was an auction.
