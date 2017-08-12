@@ -17,3 +17,5 @@ And despite a few less dollars for the rich, we will all be better off.
 You chuckle to yourself reading the additions, and are suddenly reminded of wiki talk pages.
 
 Hey, if the guy from the other party wins, you could always [move to Canada](../Canada/Canada.md).
+
+[So where is Bernie now that he was cheated out of the Dem nomination?](../vote-the-president/bernie/wheresbernie.md)
