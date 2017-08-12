@@ -5,3 +5,5 @@ Je leest nostalgisch een mail van je ex, nog een dringende mail van je baas, maa
 [Het bos](../bos/donker-bos.md) dan maar? 
 
 ... of [klimmen over het hek](../over-het-hek/hek.md)?
+
+... of [terug naar de hei](../welkom.md)
