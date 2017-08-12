@@ -1,0 +1,1 @@
+Rumour has it that Bernie's been in Venezuela advising Maduro how to put down an uprising once all the promises of free stuff evaporate.
