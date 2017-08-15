@@ -1,0 +1,1 @@
+Keith hears how sincere you are and believes that you will try and atone.  He throws the cigarette into an empty flowerpot and you watch it get waterlogged.  Keith says "Now lets get back to work".
