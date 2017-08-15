@@ -4,4 +4,4 @@ sure? You're meant to support me man, I'm dissapointed..."
 
 You feel awkward, realise that unicorns named Keith are overrated and decide to [wake up](../existence/existence.md).
 
-Apologize to Keith and tell him you'll [do better](dobetter/dobetter.md)
+Apologize to Keith and tell him you'll [do better] (dobetter/dobetter.md)
