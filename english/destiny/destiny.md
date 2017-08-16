@@ -32,4 +32,7 @@ On second thought, it might be safer to just lie low.
  The world is a dangerous place and to so strike out into it might be dangerous.
  [You decide obscurity is for you](../cowardice/cowardice.md).
 
+Let your [dreams](../dream/livethedream/livethedream.md) fly, for the broken in you.
+Seek in the destiny of your own monochrome.
+
 
