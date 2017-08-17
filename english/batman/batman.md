@@ -1,4 +1,4 @@
-wanna know a secret bruce wayne is the BAT 
+wanna know a secret bruce wayne is the BAT
 
 Batman is awesome!
 
@@ -29,7 +29,7 @@ Uncle Ben: With great power comes great responsibility.
 (Hey Uncle Ben was a character in Spiderman!!, doesn't belong here)
 
 The real hero is alfred the butler..
-Who is really 
+Who is really
 [Luke Skywalker's](http://fellowshipoftheminds.com/2015/11/23/star-wars-goes-to-illuminati-dark-side/) son!
 
 He also gets really weird with his [neighbors](http://imgur.com/gallery/Gi9cwgR).
@@ -51,3 +51,5 @@ Another shouts "Who is John Cena"
 "Goodluck talking to John Cena"
 
 "This is the last time i am talking to John Cena"
+
+Best [Batman](https://vignette2.wikia.nocookie.net/batman/images/d/d7/Batmobile_89_-_4.jpg/revision/latest?cb=20140301183341) ever!!
