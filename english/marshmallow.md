@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+[Here's](theocentricity/theocentric-fellow.md) how you too can become theocentric. (You can look up the meaning...)
