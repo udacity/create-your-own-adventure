@@ -12,6 +12,8 @@ Birden hatmi sekerinin canlandigini anliyorsunuz.
 
 Hatmi sekerini gozunuzun onune getirin ve..
 
+Dusunmeye baslayin...
+
 Bu durumda ne yapardiniz?
 
 [Duvarları yeme başla?](../turkce/duvarlari-ye/duvarlari-ye.md)
