@@ -9,3 +9,5 @@ Thanks for you help!
 You're welcome said George,
 
 I will gladly visit you in your tropical city.
+
+Okay let me buy the tickets.
