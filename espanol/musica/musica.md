@@ -1,0 +1,1 @@
+Y todo el pueblo de Canudos bailó al compás.
