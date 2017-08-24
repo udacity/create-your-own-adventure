@@ -6,3 +6,6 @@ de muesto que eso conllevaría, decidió entonces:
 [Hacer lo que cualquier hombre honorario haría: quitarse la vida] (suicidio/suicidio.md)
 
 [Confesar su crimen y evitar así la muerte] (confesion/confesion.md)
+
+[Acabar con todos y no dejar huellas] (masacre/masacre.md)
+
