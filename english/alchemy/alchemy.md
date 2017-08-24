@@ -26,6 +26,8 @@ hazy appearance.
 The objects on the other side appear to be vacillating, as if they were
 breathing.
 
+You can't believe what you see.
+
 You slip the ring over your finger and ...
 
 [A polar bear suddenly appears and charges towards you](../polar-bear-attack/polar-bear-attack.md)
