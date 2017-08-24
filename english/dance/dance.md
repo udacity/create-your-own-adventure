@@ -27,6 +27,8 @@ Now you should dance at least an hour a day.
 
 Do you:
 
+Nah...I'm good
+
 [Light a fire?](../light-fire/fire.md)
 
 [Look for a way out?](../find-exit/leave.md)
