@@ -11,6 +11,8 @@ His face looks familiar although you cannot be sure.
 
 As he begins to levitate, you realize that it's already too late.
 
+... to be jumping on turtles, because the [princess](princess/princess.md) is in another castle.
+
 Do you:
 
 [Share your decision with the man?](engage-man/engage-man.md)
