@@ -30,3 +30,5 @@ Pero no sabía controlar al dragón, así que decidió:
 [Devolverlo](devolverlo/devolverlo.md)
 
 [Darlo en adopción](adopcion/adopcion.md)
+
+[Tomó lecciones de control de dragones](lecciones/lecciones.md)
