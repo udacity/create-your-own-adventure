@@ -1,4 +1,5 @@
-Desafortunadamente el Dragón Earhart no tenía alas y no podía volar por lo que el Consejero moría de pena por no haber notado eso antes de comprar al dragón.
+Desafortunadamente el Dragón Earhart no tenía alas y no podía volar por lo que el Consejero moría de pena por no haber
+notado eso antes de comprar al dragón.
 
 ░░░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄░░░░░░░░░░░░
 ░░░░░░▄▄████▀▀▀▀▀░░░░░░▀▀█▄▄░░░░░░░░░
