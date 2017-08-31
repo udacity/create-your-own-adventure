@@ -20,3 +20,6 @@ something is seriously wrong with us
 
 No the others are the insane
 
+But really, what is insanity?
+
+Do the insane know they're insane?

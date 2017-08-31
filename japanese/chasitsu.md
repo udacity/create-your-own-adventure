@@ -10,3 +10,5 @@
 [ここ](happy/happy.md)を踏むと幸せになれます。
 
 [寒い](cold/cold.md)
+
+[なぜかいきなりラーメンを食いたくなっちまった](ramen/ramen.md)

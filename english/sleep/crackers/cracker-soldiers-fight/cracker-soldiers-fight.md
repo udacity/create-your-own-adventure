@@ -11,5 +11,6 @@ but in doing so, creates a gap in the shield.
 
 Do you...
 
+[wish yourself really small to try and shoot through the gap in the shield](get-tiny/get-tiny.md)
 
 

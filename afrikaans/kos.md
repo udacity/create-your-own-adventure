@@ -3,3 +3,9 @@ Jy voel honger. Jy besluit om iets eg Afrikaans te eet. Jy besluit om een van di
 - [Beskuit] (./beskuit/beskuit.md)
 
 - [braaivleis] (./braaivleis/braaivleis.md)
+
+- [Biltong] (./biltong/biltong.md)
+
+- [Koeksisters] (./koeksisters/koeksisters.md)
+
+- [Bobotie] (./bobotie/bobotie.md)

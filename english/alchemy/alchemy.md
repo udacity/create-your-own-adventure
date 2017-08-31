@@ -37,3 +37,8 @@ You slip the ring over your finger and ...
 [Congratulations!](../marshmallow.md)
 
 [Transform!](../transform/transform.md)
+
+[You teleport to the Incantation Forrest](../incantation-forrest/incantation-forrest.md)
+
+and puff! you turn into a blob fish while only a few feet remain between you 
+and the polar bear...

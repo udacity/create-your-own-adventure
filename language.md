@@ -157,3 +157,13 @@ If you speak oriya, click [here](oriya/oriya.md).
 If you understand Tamil, திருநாவுக்கரசர் அருளிய தேவாரம் [இங்கே அழுத்தவும்](Tamil/Thevaram/thevarm.md)
 
 if you understand maithli, click [here...](maithli/maithli.md)
+
+if (you.understand("C#")) here.click();
+
+if you speak Bahasa Indonesia [klik disini](indonesia/bahasa-indonesia.md)
+
+Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odyssey/HO.md)
+
+Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
+
+Si Latine legere vis, [hic preme](latin/arena.md)

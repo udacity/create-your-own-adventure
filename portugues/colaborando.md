@@ -9,6 +9,8 @@ Você:
 
 [Caguei, vou ver um video no xvideos](xvideos/xvideos.md)
 
+[Encontra uns cogumelos na geladeira e decide consumi-los](cogumelos/cogumelos.md)
+
 [Procura o repositório do aplicativo?](colabora/colaborar.md)
 
 [Começa a pensar como solucionar o bug e resolve olhar no codigo fonte](pesquisa/codFonte.md)
@@ -67,3 +69,5 @@ BR BR BR Hue hue hue!!!!
 [Crio um novo branch,olho o bug e uso o github para obter ajuda] (http://gitref.org/)
 
 [Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
+
+[Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)

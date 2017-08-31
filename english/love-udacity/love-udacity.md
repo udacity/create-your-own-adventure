@@ -13,3 +13,7 @@ Never stop learning!
 But when things are getting really difficult, are you going to [quit](../quit/quit.md)
 
 No you aren't going to quit. There are a ton of other resouces, just please keep trying!'
+
+Thanks alot Udacity for teaching me git and github
+
+[Udacity taught me Spanish](../../espanol/canudos.md)

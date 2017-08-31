@@ -8,6 +8,8 @@ Werden Sie:
 
 [Festellen, dass Sie doch kein Deutsch sprechen](../language.md)
 
+[Erschrocken prüfen, ob das Smartphone noch in der Hosentasche ist...](Smartphone/smartphone.md)
+
 [Zunächst einmal die zwei Leichen aus dem Boot werfen?](Leichen/Leichen.md)
 
 [Laut um Hilfe schreien?](Hilfeschrei/Hilfeschrei.md)
@@ -39,3 +41,5 @@ Werden Sie:
 [Strecken Ihre Rücken auf dem Wasser und beginnen zu singen](Singen/singen.md)
 
 [Zum fliegenden Spaghettimonster beten, damit sie ueberleben?](beten/beten.md)
+
+[Das MacGyver-Messer aus der Hosentasche zu holen und das Ruderboot zu einem U-Boot umbauen] (MacGyver/uboot.md)

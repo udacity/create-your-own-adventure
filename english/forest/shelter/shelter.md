@@ -10,3 +10,9 @@ But you do not despair
 
 And then you deploy your tent and sleep.
 
+Suddenly, you feel a warm, wet sensation on your face. You open your eyes and
+see a bear licking you.
+
+[Play dead.](play-dead/play-dead.md)
+
+[Pet the bear.](pet-bear/pet-bear.md)
