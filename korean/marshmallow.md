@@ -51,3 +51,7 @@
 [인스타그램에 인증샷을 올린다] (instagram/insta.md)
 
 [게임을 시작한다] (playgame/playgame.md)
+
+[지식인에 물어본다](ask-kin/ask-kin.md)
+
+[그림을 그린다](draw-picture/tool.md)
