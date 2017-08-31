@@ -9,4 +9,6 @@ you can see.
 
 [Start walking east, on the highway](explore-outside-east/explore-east.md)
 
+[Start walking east, on the highway](explore-outside-east/explore-east.md)
+
 [Start walking south, towards the lake](explore-outside-south/explore-south.md)
