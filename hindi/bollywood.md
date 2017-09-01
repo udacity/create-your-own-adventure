@@ -41,4 +41,4 @@ Checkout [Babita Phogat](https://www.instagram.com/explore/tags/babitaphogat/)
 
 Why are you reading this line?
 
-आज बात करतो है [Deepa malik](./athelete1/deepamalik.md)
+आज बात करतो है [Deepa malik](./athelete/deepamalik.md)
