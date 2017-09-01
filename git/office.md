@@ -26,8 +26,8 @@
 
 [+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++](../language.md)
 
-[+     Software Failure.   Press left mouse button to continue.      +](../language.md)
+[+      Software Failure.  Press left mouse button to continue.      +](../language.md)
 
-[+                Guru Meditation  #00000004.0000AAC0                +](../language.md)
+[+                Guru Meditation  #00000004.0000AAC0                +](../language.md)
 
 [+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++](../language.md)
