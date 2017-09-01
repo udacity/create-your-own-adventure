@@ -6,3 +6,4 @@ Click [here](../cricket-rules/cricket-rule-book.md) to read the rules.
 you find cricket boring and instead want to learn about spirits 
 Click [here](../call-spirit/call-spirit.md) to learn..
 
+If you would like a documentary about crickets, Click [here](https://www.youtube.com/watch?v=C2VsfxL03rg) YAY!
