@@ -7,5 +7,5 @@ Running low on air, you decide to...
 
 [swim to hide in a nearby cave](cave/blind.md)
 
-[Strike a bargain with the darkness](dark-divide/dark-divde.md)
+[Strike a bargain with the darkness](dark-divide/dark-divide.md)
  
