@@ -6,4 +6,6 @@ Running low on air, you decide to...
 [swim back up for air](caught_up/plants.md)
 
 [swim to hide in a nearby cave](cave/blind.md)
+
+[Strike a bargain with the darkness](dark-divide/dark-divde.md)
  
