@@ -4,9 +4,10 @@ Det er en varm kveld midt i sommerferien.
 
 Du sitter på en stein i vannkanten og ser noe flyte i fjæra.
 
-En måke skrikker over deg, det er da du ser meg.
+En måke skriker over deg, det er da du ser meg.
 
-Jeg går ned i fjæra og plukker opp gjennstanden som fløyt der.
+Jeg går ned i fjæra og plukker opp gjenstanden som fløyt der.
 
+[Faller i vannet](faller/faller.md)
 
-[faller i vannet](faller/faller.md)
+[Plukker opp gjenstanden](gjenstand/gjenstand.md)
