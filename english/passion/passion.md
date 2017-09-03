@@ -9,6 +9,7 @@ seek passion, seek passion, seek passion!
 Rumi
 
 When you find passion, be sure to lick it...
+
 Lick it off just like [these guys](http://rhettandlick.com/) did.
 
 Danny
