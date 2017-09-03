@@ -16,7 +16,7 @@
 
 [اقرأ](read/read.md)
 
-(https://mohammadshaker.com/2017/04/22/%D9%83%D8%AA%D8%A7%D8%A8-%D9%84%D8%A7-%D8%AA%D9%81%D9%83%D9%91%D8%B1-%D9%81%D9%8A-%D8%AD%D9%84%D9%8A%D8%A8-%D8%A3%D8%AD%D9%85%D8%B1/) [كتاب رائع جدا]
+[كتاب رائع جدا](https://mohammadshaker.com/2017/04/22/%D9%83%D8%AA%D8%A7%D8%A8-%D9%84%D8%A7-%D8%AA%D9%81%D9%83%D9%91%D8%B1-%D9%81%D9%8A-%D8%AD%D9%84%D9%8A%D8%A8-%D8%A3%D8%AD%D9%85%D8%B1/) 
 
 [أريد أن أحصل على Nanodegree](https://www.udacity.com/nanodegree)
 
