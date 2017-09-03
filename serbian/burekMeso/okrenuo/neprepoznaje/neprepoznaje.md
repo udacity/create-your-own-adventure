@@ -1,0 +1,1 @@
+"Nemoj sad da mi se praviš lud, znam da me prepoznaješ"
