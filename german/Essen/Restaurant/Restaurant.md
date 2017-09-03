@@ -1,0 +1,1 @@
+Als du bei dem Griff in deine Hosentasche gleich auch ein Fernglas gefunden hast, nutzt du es und schaust dir das Meer genauer an und plötzlich siehst du ein Restaurantboot: Du springst ins Wasser, schwimmst hin, und fragst nach einem saftigen Steak. Nach dem Essen bringt er dich auf eine Insel (link bitte nachrreichen!).
