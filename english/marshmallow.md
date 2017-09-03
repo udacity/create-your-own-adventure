@@ -1209,6 +1209,9 @@ Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
 
+You notice a flickering light out of the corner of your eye. It's a candle. Was that corner even there a moment ago?
+Gathering some courage, you [approach the corner](word-of-L/word-of-L.md).
+
 <<<<<<< HEAD
 Have you ever heard any unusual sounds 
 when you're alone? 
