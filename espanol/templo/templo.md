@@ -1,5 +1,5 @@
 Cuando estaban todos reunidos en las afueras del templo, el Consejero empezó a predicar como todas
-las tardes.
+las tardes, con su elegante traje y una copa de vino.
 Cuando de pronto...
 
 [Alguien alzó la mano](manos/manoArriba.md)
