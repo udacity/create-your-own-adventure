@@ -23,11 +23,11 @@ spend your time [wisely](http://www.pythonchallenge.com/)
 
 Are you a:
 
-[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) 
+[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0), by the way cats are so much better than dogs!!
 
 or a 
 
-[dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
+[dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI), one of the dumbest pets ever?
 
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
