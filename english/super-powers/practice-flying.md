@@ -24,4 +24,4 @@ Do you:
 
 [Shine the Bat Signal?](../batman/batman.md)
 
-[Float akwardly](./float_awkwardly.md)
+[Float awkwardly](./float_awkwardly.md)
