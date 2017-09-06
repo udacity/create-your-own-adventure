@@ -1,11 +1,11 @@
 Jy voel honger. Jy besluit om iets eg Afrikaans te eet. Jy besluit om een van die volgende te eet
 
-- [Beskuit] (./beskuit/beskuit.md)
+- [Beskuit](beskuit/beskuit.md)
 
-- [braaivleis] (./braaivleis/braaivleis.md)
+- [braaivleis](braaivleis/braaivleis.md)
 
-- [Biltong] (./biltong/biltong.md)
+- [Biltong](biltong/biltong.md)
 
-- [Koeksisters] (./koeksisters/koeksisters.md)
+- [Koeksisters](koeksisters/koeksisters.md)
 
-- [Bobotie] (./bobotie/bobotie.md)
+- [Bobotie](bobotie/bobotie.md)
