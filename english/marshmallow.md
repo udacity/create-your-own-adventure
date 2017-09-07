@@ -1,5 +1,8 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+Then one late comer came into this field and he has redefined who he was. Later on, 
+He decided to help other to [redfine](redefine/redefine).
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
