@@ -7,3 +7,5 @@ mental, pues en ocasiones hacían todo lo contrario a lo que él quería.
 
 En vista de este percance, hizo sucumbir a los que provocaban este desperfecto para evitar 
 futuros problemas en sus planes de dominacion.
+
+Por lo tanto el mutante se encontro con un humano y eso hizo que pensara que no estaba solo en el mundo.
