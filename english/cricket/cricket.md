@@ -6,4 +6,4 @@ Click [here](../cricket-rules/cricket-rule-book.md) to read the rules.
 you find cricket boring and instead want to learn about spirits 
 Click [here](../call-spirit/call-spirit.md) to learn..
 
-You look around and find an [ink ribbon](../ink-ribbon/ink-ribbon.md)
+You look around and find an [ink ribbon](../ink-ribbon/ink-ribbon.md), a green herb, and a red herb.
