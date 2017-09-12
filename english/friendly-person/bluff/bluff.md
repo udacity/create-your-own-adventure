@@ -1,0 +1,1 @@
+you walk toward him, he laughs and shoots, the bullet hits you in the head...but bounces off, you are unharmed.
