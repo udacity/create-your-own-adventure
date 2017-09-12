@@ -10,3 +10,5 @@ Jeg går ned i fjæra og plukker opp gjennstanden som fløyt der.
 
 
 [faller i vannet](faller/faller.md)
+
+[plukket opp av en ørn](ørn/ørn.md)
