@@ -1,1 +1,1 @@
-Y Jordi Hurtado creò Saber y Ganar.
+Y Jordi Hurtado creó Saber y Ganar y le puso al ejército [despacito](https://www.youtube.com/watch?v=kJQP7kiw5Fk) para que bailara.
