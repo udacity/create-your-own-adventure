@@ -1,0 +1,1 @@
+Esco in balcone e guardo il cielo davanti a me. Il suo colore non è più blu profondo, ma inizia ad incresparsi di cremisi e oro. Un nuovo giorno sta arrivando, ma io mi sento come se questa lunga notte non sia ancora del tutto trascorsa.
