@@ -17,3 +17,5 @@ Hint: you're a lyrical wordsmith
 [Write a hit song](../hit-song/hit-song.md)
 
 [buy a gameboy] (../buy-gameboy/buy-gameboy.md)
+
+[Start you Pokemon Go adventure](../pokemon-go/pokemon-go.md)
