@@ -4,6 +4,11 @@
 
 ...or on the second thought, I'll put on a coat, stop being a sissy, and get to work!
 
+I'm very lucky to live in the Avalon 
+Back Bay apartment complex, it is not 
+only very close to Copley Square, but 
+it is also inside a shopping mall!!
+
 [Go on vacation](../licked-cat/vacation.md)
 
 [Get to work](../gtd/gtd.md)
