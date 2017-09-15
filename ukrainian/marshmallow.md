@@ -45,3 +45,5 @@
 [Викличу потусторонні сили](daemon/daemon.md)
 
 [В телефоні ж є музічний плеєр](the-wall/the-wall.md)
+
+[Пригадаю молитви матері](mommy-is-praying-for-me/psalm-90.md)
