@@ -57,3 +57,8 @@ It does not always have to be with a person.
 Love can be a passion.
 But depending on the person.
 Love can be anything.
+
+- Wang Xin -
+Love is complicated, here is my favorite motto:
+Love is a touch and yet not a touch.--Jerome David Salinger
+Click [here](https://www.quora.com/What-is-the-meaning-of-love-is-a-touch-and-yet-not-a-touch)for more dicussion about how to understanding this sentence.
