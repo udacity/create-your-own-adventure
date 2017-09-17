@@ -4,4 +4,4 @@ Impatient(e) de savoir ce qui se cache en dessous vous vous empressez de souleve
 
 Qu'est ce que vous découvrez ?
 
-[Un couloir étroit et obscur](create-your-own-adventure/french/sortie/trappe/couloir/couloir.md)
+[Un couloir étroit et obscur](couloir/couloir.md)
