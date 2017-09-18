@@ -14,6 +14,6 @@ Hatmi sekerini gozunuzun onune getirin ve..
 
 Bu durumda ne yapardiniz?
 
-[Duvarları yeme başla?](../turkce/duvarlari-ye/duvarlari-ye.md)
+[Duvarları yemeye başla?](../turkce/duvarlari-ye/duvarlari-ye.md)
 
 [Duvarları çatalla kaz?](../turkce/catalla-kaz/catalla-kaz.md)
