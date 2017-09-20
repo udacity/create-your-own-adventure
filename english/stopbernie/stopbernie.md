@@ -17,3 +17,5 @@ And despite a few less dollars for the rich, we will all be better off.
 You chuckle to yourself reading the additions, and are suddenly reminded of wiki talk pages.
 
 Hey, if the guy from the other party wins, you could always [move to Canada](../Canada/Canada.md).
+
+If nothing else, Bernie has moved the [Overton Window](../overton-window/overton-window.md) to the left after years of it being moved to the right. 
