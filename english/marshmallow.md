@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+So after all this brief introduction of the story, let me tell you about the [main](jam-story/jam-options.md) subject.
