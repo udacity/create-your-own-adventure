@@ -1,6 +1,6 @@
 You decide to become a marshmallow.
 
-After 42 days in hiding, they realize you are not really a marshmallow after you are caught eating Steve.
+After 42 days in hiding, they realize you are not really a marshmallow after you are caught eating [Steve](steve/steve.md).
 
 They return the favor and make a s'more out of you.
 
