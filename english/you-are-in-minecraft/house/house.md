@@ -14,3 +14,6 @@ Maybe start with doors and windows?
 
 You have a lot of decision making ahead of you...
 
+Do you:
+
+[Dig Down?](dig_down/dig_down.md)
