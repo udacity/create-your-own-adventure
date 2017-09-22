@@ -9,4 +9,4 @@ You decide to:
 
 [Be patient](make-chocolate/make-chocolate.md) (try to make chocolate)
 
-[Be demanding](../order-chocolate/order-chocolate.md) (surely there's an app for that)
+[Be demanding](order-chocolate/order-chocolate.md) (surely there's an app for that)
