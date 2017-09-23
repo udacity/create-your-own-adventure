@@ -35,3 +35,8 @@ Do you:
 [Tie the rope to the fork, stick it to the ceiling, climb up and burn a hole to escape?](ceiling_hole/ceiling_hole_burn.md)
 
 [Use rope as a jump rope](jump-rope/jump-a-rope.md)
+
+And remember. If ye'll tak' the high road, and I'll tak' the low road,
+And I'll be in Scotland a'fore ye,
+But me and my true love will never meet again,
+On the bonnie, bonnie banks o' Loch Lomond.
