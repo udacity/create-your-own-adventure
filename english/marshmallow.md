@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Nothing better after a long day of programming than an ice cold [beer](beer-advocate/recommendations.md)
