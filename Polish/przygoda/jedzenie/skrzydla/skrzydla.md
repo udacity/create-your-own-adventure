@@ -4,3 +4,7 @@ Ca³e miasto zamieni³o siê w kraine s³odkoœci.
 Elewacja budynków pokrywaj¹ tabliczki czekolady, a w parku zamiast drzew rosn¹ lizaki.
 Obserwacjê nagle przerywa ci donoœny skrzek dochodz¹cy od strony zachodz¹cego s³oñca.
 Obiekty leci wprost na ciebie. Musisz podj¹æ decyzjê co dalej robiæ. 
+
+[Nasladujesz skrzek i czekasz, co przyleci](nasladowanie/skrzek.md)
+
+[Przebijasz sie przez waflowa sciane jednej z kamienic](sciana/sciana.md)

@@ -1,0 +1,1 @@
+Do tej pory nie zauwazyles, ale okazało sie, ze w miescie żyja Gumisie i jeden własnie siedzi przed toba zdumiony na czekoladowej sofie.
