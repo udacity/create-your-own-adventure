@@ -11,5 +11,6 @@ Which part of the world, and what time you want to travel? And why?
 
 [You decide to travel back in time to visit a founding father of America](https://www.youtube.com/watch?v=t0aX8Jy1tME)
 
-[You turn back](../marshmallow.md)
+[You decide to travel back to September 2016 to save Project ARA so you can build your smart phone as you want it](https://www.theverge.com/2016/9/2/12775922/google-project-ara-modular-phone-suspended-confirm)
 
+[You turn back](../marshmallow.md)
