@@ -32,4 +32,4 @@
 
 [سي يسيس] (https://www.youtube.com/watch?v=EUw-zTz8cU8)
 
-[للتجربة] (try/try.md) مجرد تجربة
+[للتجربة](try/try.md) مجرد تجربة
