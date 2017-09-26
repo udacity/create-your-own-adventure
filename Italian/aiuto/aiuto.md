@@ -7,3 +7,5 @@ Benvenuto straniero, risponde una voce da sotto il letto!. Come posso aiutarti?
 [Come esco da qui](uscita/uscita.md)
 
 [Ho Fame] (ho_fame/ho_fame.md)
+
+[Che fine ha fatto la mia peperonata?](peperonata/peperonata.md)
