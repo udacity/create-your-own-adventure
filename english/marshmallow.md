@@ -410,6 +410,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Realize you better call Saul](better-call-saul/saul.md)
 
+[You can do anything - Steve Jobs](https://www.youtube.com/watch?v=UvEiSa6_EPA)
+
 [Turn off all the lights](lightsoff/lightsoff.md)
 
 [Sit back a listen to your favourite White Stripes track](listen_white_stripes/listen_white_stripes.md)
