@@ -1,6 +1,8 @@
 Vous parvenez à vous rendormir mais faites le plus étrange des rêves,
  dansant le tango avec un éléphant rose !
 
+Malheureusement, cet éléphant rose n'était pas un très bon danseur !
+
 Vous vous reveillez ce qui semble etre quelques heures plus tard,
  de tres bonne humeur mais les pieds meurtris pour une etrange raison.
 
