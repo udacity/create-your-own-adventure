@@ -15,7 +15,7 @@ I must resolve this marshmallow dream.
 
 [Wake Up](awake/awake.md)
 
-You realize you can't wake up. Or you are already awake. But you must continue because
+ccccccYou realize you can't wake up. Or you are already awake. But you must continue because
 
 winter is coming.  
 
