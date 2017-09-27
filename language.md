@@ -168,4 +168,4 @@ Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
 Si Latine legere vis, [hic preme](latin/arena.md)
 
-If you speak Maltese, click [here](malti/malti/ġurnata_sabiħa/ġurnata_sabiħa.md)
+If you speak Maltese, click [here](malti/ġurnata_sabiħa/ġurnata_sabiħa.md)
