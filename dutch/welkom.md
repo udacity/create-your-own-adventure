@@ -19,6 +19,8 @@ U denkt
 ... maar de Iphone heeft weer geen batterij want deze gaat snel op. 
 Dus pak je maar je android die wel drie dagen lang meegaat!
 
+... Blijft toch altijd beter werken die Andriod toestellen en het scheelt ook best in de aanschaf kosten.
+
 
 
 [Google translate NL](https://translate.google.com/#nl/en/)
