@@ -3,6 +3,8 @@ aplicativo, você detecta um bug.
 
 Você:
 
+[Procura o repositório do aplicativo e cria um Pull request com seu Patch](colabora/pullRequest.md)
+
 [Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
 
 [Chora descontroladamente até que sua fada madrinha aparece e te dá 1 desejo](fada/fada.md)
