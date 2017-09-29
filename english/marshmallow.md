@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-...about a [bicycle ride](english/bicycle-ride/ride.md)
+...about a [bicycle ride](bicycle-ride/ride.md)
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
