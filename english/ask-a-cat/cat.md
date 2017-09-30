@@ -5,14 +5,12 @@ for you. "It's nearly halfway done!" you tell her. "I'll split the profits
 with you!"
 
 Too late you realize that cats have no concept of fame or fiscal gain, and
-that they have no particular musicality. Your cat reaches out a paw and
-knocks over the cup of coffee you so foolishly set on the table next to
-the only copy of your work. The ink you used was exceptionally poor and
-immediately runs.
+that they have no particular musicality. Your cat looks directly into your eyes,
+reaches out a paw, and knocks over the cup of coffee you so foolishly set on the table next to the only copy of your work. The ink you used was exceptionally poor and immediately runs.
 
 Your symphony is ruined.
 
-Your cat doesn't care.
+Your cat doesn't care, but you swear you saw a flicker of a smirk.
 
 [Take this as a sign to change careers.](../change-of-career/career.md)
 
