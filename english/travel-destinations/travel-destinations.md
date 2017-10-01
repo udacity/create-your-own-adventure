@@ -14,3 +14,5 @@ Fall is a great season to take a vacation in any of these spots:
 
 It's frosty winter.. but these places can be excitng:
 [winter destinations](winter/winter.md)
+
+Rent a cabin and reflect on Thoreau's vision of [Walden Pond](https://www.nytimes.com/video/books/100000005166908/henry-thoreau-birthday-walden-pond.html) or hitchhike with 
