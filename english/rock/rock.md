@@ -2,6 +2,6 @@ you encounter an extremely wise rock (and you feel like you have seen it before 
 
 You decide to:
 
-[ask it a question](english/rock/questions.md)
+[ask it a question](questions.md)
 
-[kick it](english/rock/kick.md)
+[kick it](kick.md)

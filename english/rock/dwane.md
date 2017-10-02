@@ -6,5 +6,5 @@ You ask "The Dwane" for its autograph. It whips out a hammer and chisel and carv
 paper, and hands it to you.
 
 Some would probably call this experience surreal, but you you find the whole thing to be nonsensical and stupid,
-[so you leave the rock and go back to the story](english/marshmallow.md)  
+[so you leave the rock and go back to the story](../marshmallow.md)  
 

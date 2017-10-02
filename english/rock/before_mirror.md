@@ -7,4 +7,4 @@
 .sdonpser kcor ehT "uoy wohs em tel ,neht yakO"
 
 "!kcarc" duol a raeh uoy dna ,daed ruoy ta flesti skcuhc neht kcor ehT
-[.tem tsrif uoy nehw ot kcab uoy sekat ti tub](english/rock/mirror.md)
+[.tem tsrif uoy nehw ot kcab uoy sekat ti tub](mirror.md)

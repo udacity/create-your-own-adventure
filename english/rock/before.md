@@ -7,4 +7,4 @@
 "Okay then, let me show you" The rock responds.
 
 The rock then chucks itself at your head, and you hear a loud "crack!" 
-[but it takes you back to when you first met.](english/rock/rock.md)
+[but it takes you back to when you first met.](rock.md)

@@ -196,7 +196,7 @@ same. Maybe reality is an oxymoron when considering multiple dimensions.
 
 Maybe you're in [Inception](inception/inception.md).
 
-Maybe you should just talk to to [this rock](english/rock/rock.md)
+Maybe you should just talk to to [this rock](rock/rock.md)
 
 But it's probably not worth dwelling on that right now, you could be in danger.
 
