@@ -4,4 +4,4 @@ You decide to ask the rock a question. But there are so many good questions to c
 
 ["can you teleport me to the mirror universe(tm)?"](mirror.md)
 
-["Haven't I seen you in a movie or something?"](qdwane.md)
+["Haven't I seen you in a movie or something?"](dwane.md)
