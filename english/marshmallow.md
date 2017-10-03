@@ -1031,6 +1031,7 @@ So what to do next? Three doors appear and all other ways out disappear.
 So you pick the [right door](mysterydoor/mysterydoor.md)
 
 You put your [cowboy hat](cowboy/cowboy.md) back on your head.
+and then you take it off again. preventing any butterfly effect consequences of having left it on.
 
 Or... or... or... Oh, I forgot!
 You foget something, but you decide to [move on](move-on/move-on.md).
