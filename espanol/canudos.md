@@ -9,6 +9,8 @@ Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
 
 Hizo un gesto de [cansancio](cansancio/cansancio.md)
 
+Apuró su trago y, seguido por Beatito, entró raudo al [despacho] (despacho/despacho.md).
+
 [Hizo un gesto a Beatito](revolucion/revolucion.md)
 
 [Mandó llamar a Jordi Hurtado](jordiHurtado/jordiHurtado.md)
