@@ -1,0 +1,1 @@
+Dneva še ni konec, pravzaprav se je šele začel! :)
