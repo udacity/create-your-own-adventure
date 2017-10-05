@@ -1,0 +1,1 @@
+Hombres fuertes y valientes dispuestos a defender sus familias, conservar su libertad y creencias.
