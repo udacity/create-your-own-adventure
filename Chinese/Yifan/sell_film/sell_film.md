@@ -4,4 +4,4 @@
 
 万万没想到，至尊宝引以为傲的JS技能，被大哥单手接下！
 
-[至尊宝陷入了沉思](change_profession.md)
+[至尊宝陷入了沉思](../../change_profession/change_profession.md)
