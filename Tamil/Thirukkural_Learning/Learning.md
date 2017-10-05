@@ -14,7 +14,7 @@ of his learning.
 எண்ணென்ப ஏனை எழுத்தென்ப இவ்விரண்டும்
 கண்ணென்ப வாழும் உயிர்க்கு.
 
-Letters and numbers are the two eyes of man.
+For living beings, numbers and written words are like pair of eyes.
 
 குறள் 393:
 கண்ணுடையர் என்பவர் கற்றோர் முகத்திரண்டு
