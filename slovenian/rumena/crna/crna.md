@@ -1,1 +1,1 @@
-crnaaaa
+Žal....si že mrtev, nekdo te je ubil s [pištolo](http://images.clipartpanda.com/shooting-gun-animation-TX61Gxi.gif).....zatem se zbudiš in ugotoviš da je bilo vse samo [nočna mora](https://media.tenor.com/images/a7b2a44d60954fd928e134302285073e/tenor.gif) 
