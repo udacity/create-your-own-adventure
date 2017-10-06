@@ -1,4 +1,4 @@
-[对蓝翔有意见，我要回头](../../Yifan/sell_film/sell_film.md)
+[对蓝翔有意见，我要回头](../Yifan/sell_film/sell_film.md)
 
 这时大哥发话了： 小宝，我是八戒，2007年我就穿越到霾都做JS开发，无奈空气质量差还堵车，
 
