@@ -7,6 +7,8 @@ A few learned to [tango](tango/tango.md)
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
+...or better yet to enter [The Forest!](forest/forest.md)
+
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
