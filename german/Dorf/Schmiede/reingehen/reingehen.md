@@ -1,0 +1,2 @@
+Eine alter Mann werkelt an der Feuerstelle. Was er genau tut koennen Sie nicht sehen.
+Das Knarren der Tuer hat ihn jedoch aufgeschreckt. Er dreht sich um und sein durchdringender Blick jagt Ihnen Schauer ueber den Ruecken.
