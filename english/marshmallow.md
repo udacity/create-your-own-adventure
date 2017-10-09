@@ -1,7 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
-
+And his boss rkbrn, together had alot of adventures all around the world.
 A few learned to [tango](tango/tango.md)
 
 Some preferred to
