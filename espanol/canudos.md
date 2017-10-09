@@ -2,6 +2,8 @@ En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del i
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
+Recomendo al Rey vestir sus mejores galas para recibir al los victoriosos, despues de una larga guerra de 750 dias en las fronteras del reino.
+
 Se quedo en [blanco](blanco/blanco.md)
 
 Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
