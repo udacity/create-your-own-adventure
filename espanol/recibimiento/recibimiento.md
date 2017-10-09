@@ -1,4 +1,4 @@
-Con paso ascelerado, cruzó los grandes salones imperiales mientras, a su alrededor, 
+Con paso acelerado, cruzó los grandes salones imperiales mientras, a su alrededor, 
 medio centenar de sirvientes preparaban la alfombra que daría entrada a los gloriosos 
 generales que volvían con novedades sobre las recientes campañas en la frontera norte. 
 
