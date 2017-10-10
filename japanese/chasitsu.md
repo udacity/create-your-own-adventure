@@ -12,3 +12,5 @@
 [寒い](cold/cold.md)
 
 [なぜかいきなりラーメンを食いたくなっちまった](ramen/ramen.md)
+
+[ここはやっぱりホットチョコレートだろう](chocolate/chocolate.md)
