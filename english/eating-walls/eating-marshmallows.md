@@ -32,7 +32,7 @@ Do you:
 
 [Eat pani-puri](../eat-panipuri/eat-panipuri.md)
 
-[Make Taffy!](../marshmallow-taffy/taffy.md)
+Delete the TAFFY!!
 
 [Find a Toilet](find-a-toilet/find-a-toilet.md)
 
