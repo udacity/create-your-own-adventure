@@ -1,0 +1,1 @@
+Najbolje da ga prvo pitaš.
