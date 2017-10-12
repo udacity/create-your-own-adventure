@@ -15,3 +15,6 @@ Napokon shvatis da je sljez samosvjestan!
 Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
 
 Vani pada kisa.
+
+Čekaj malo - pomisliš - što će sljezu upaljač?
+Želiš znat? [klikni ovdje] (upaljac/upaljac.md)
