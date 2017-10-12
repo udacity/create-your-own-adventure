@@ -1,0 +1,1 @@
+Nas colinas você encontra uma toca. Não uma toca desagradável, suja e úmida, cheia de restos de minhocas e com cheiro de lodo, tampouco uma toca seca, vazia e arenosa, sem nada em que sentar ou o que comer: era a toca de um hobbit, e isso quer dizer conforto.
