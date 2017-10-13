@@ -23,3 +23,5 @@ What will you do?
 [Run towards the tiger](run/run.md)
 
 [Climb the nearest tree](climb/climb.md)
+
+[Dance] (dance/dance.md)
