@@ -8,4 +8,4 @@ I learnt Bayes Theorem long back but i forgot
 
 [Daddy, are there priors in my chocolate](../chocolateOrSleep/chocolateOrSleep.md)?
 
-[Here's a link](../booyah/booyah.md)
+[Here's a link](../Booyah/booyah.md)
