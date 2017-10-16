@@ -20,9 +20,10 @@ Usava um repositorio privado.
 
 Ia ao Japão driftar em Tsukuba.
 
-
 Depois de muito sonhar apercebe-de de que (ainda) nâo ganhou o Euromilhões.
 
 Lembra-se que deixou a [chaleira a ferver água](chaleira/chaleira.md).
 
 Ajudaria doando uma parte para instituições de caridade e pessoas com necessidades especiais.
+
+Investiria em adquirir conhecimento e ao mesmo tempo também compartilhar.
