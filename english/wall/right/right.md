@@ -1,0 +1,1 @@
+You went right and found a chest! Congrats!

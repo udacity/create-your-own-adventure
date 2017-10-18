@@ -1,0 +1,1 @@
+You safely returned home. Well adventures is not yours, but you can became a banker!!!
