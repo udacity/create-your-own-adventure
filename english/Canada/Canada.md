@@ -19,3 +19,4 @@ No dice? Yikes.
 Guess you'll have to stick around and 
 [enjoy all this freedom](http://weknowmemes.com/wp-content/uploads/2011/12/damn-right-im-free-this-is-america.png), eh?
 
+But hey, even if you can't be here, doesn't mean you can't [love Canada](https://beta.theglobeandmail.com/news/national/147-reasons-to-love-canada/article19372494/?ref=http://www.theglobeandmail.com&)! Don't worry, Canada loves you too <3. 
