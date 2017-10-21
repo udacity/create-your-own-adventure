@@ -1,4 +1,4 @@
-Você é usuário de um aplicativo open source de Android, o qual usa o Github para manter o código. Durante o uso do
+﻿Você é usuário de um aplicativo open source de Android, o qual usa o Github para manter o código. Durante o uso do
 aplicativo, você detecta um bug.
 
 Você:
@@ -71,3 +71,5 @@ BR BR BR Hue hue hue!!!!
 [Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
 
 [Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
+
+[Você descobre que era tudo um sonho](sonhokafka/sonhokafka.md)
