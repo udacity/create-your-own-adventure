@@ -2,6 +2,9 @@ It's glorious Spring! Here are some great [destinations](spring/spring.md):
 
 It's Summer! Time to explore these places:
 
+Have a look at Panda
+[China](https://en.wikipedia.org/wiki/Giant_panda)
+
 [Spectre](spectre/spectre.md)
 
 [Sweden](https://youtu.be/5KYm1UpXiq0?t=53s)
