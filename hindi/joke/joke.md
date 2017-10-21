@@ -57,5 +57,5 @@ please enka pata bata do... yeah char loganne meri
 zindagi bachpan se ab tak baingan main mila de rehe
 varna enkay bolney ka khauff hamesha bana rahega!"
  
-
+The day I will get committed in a relationship, I would be thinking - "Commit toh kar rha hoon, abhi message kya daaloo". [English: "Ok, I am committing, now what should be my message"]
 
