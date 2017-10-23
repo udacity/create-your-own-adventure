@@ -1,0 +1,1 @@
+There were no ghost. It's not correct answer. Go back.
