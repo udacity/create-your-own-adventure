@@ -5,3 +5,5 @@ You feel awkward and realise that unicorns named Keith are overrated so [you wak
 
 You're worried about Keith's health so you 
 [give him the card of a good supernatural vet you know](./super-vet/super-vet.md)
+
+You sense thoughts other than your own, you hear [LIAR!](./liar/liar.md)
