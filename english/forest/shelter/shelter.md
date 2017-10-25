@@ -6,9 +6,8 @@ There's a terrible storm brewing...
 This will be the worst storm to hit this 
 
 area in over a century.
-But you do not despair
-
-And then you deploy your tent and sleep.
+But you do not despair, start to thinking where to build a shelter.
+You found a pretty good place between two trees and a big fallen branch, then you deploy your tent and sleep.
 
 Suddenly, you feel a warm, wet sensation on your face. You open your eyes and
 see a bear licking you.
