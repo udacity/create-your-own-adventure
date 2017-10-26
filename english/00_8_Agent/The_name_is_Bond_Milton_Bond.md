@@ -13,6 +13,6 @@ Milton is responsible for making sure all of James' paperwork is in order.
 Need the requisite form for a new Aston-Martin for that high speed car chase?
 Ask Milton!
 Special ordering a bespoke tuxedo for a fancy dinner and with a side of fisticuffs?
-Milton's your man.
+Milton's your woman.
 Need someone to send in your end of mission expense report, complete with TPS cover letter. 
 Milton's already one step ahead of you.
