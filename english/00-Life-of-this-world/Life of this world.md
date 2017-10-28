@@ -12,3 +12,8 @@ whereas the life of this world is only a deceiving enjoyment“.
 "Life isn't that simple but you got to take every possible risk in life to achieve something."
 
 "Explore another dimension[dimension](../dimensions/dimension.md). It's fun"
+
+Life is a like a sheet of paper. You can add words, objects,
+however depending on the tool that you use to add to it
+pen, pencil, market will make it appear different. So thus you can see life in your 
+own image, the way that you seek to write it.
