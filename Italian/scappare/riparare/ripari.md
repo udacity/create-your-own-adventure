@@ -4,7 +4,7 @@ Decisamente non sei Bob-Aggiustatutti, infatti nel tentativo ti più volte le ma
 Maledicendoti per essere stato così ingenuo dai un calcio ai frammenti rimasti sul pavimento,
 così facendo scopiri uno strano oggetto nascosto tra i vetri.
 
-Tra l'altro, noti anche che il pavimento li attorno è bagnato di strano liquido verde e viscoso,
+Tra l'altro, noti anche che il pavimento lì attorno è bagnato da uno strano liquido verde e viscoso,
 doveva essere il contenuto della boittiglia.
 
 [Esamini l'oggetto](../scopri-oggetto/scopri-oggetto.md)
