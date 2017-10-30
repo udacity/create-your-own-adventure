@@ -9,4 +9,4 @@ doveva essere il contenuto della boittiglia.
 
 [Esamini l'oggetto](../scopri-oggetto/scopri-oggetto.md)
 
-Tocchi il liquido con un dito e poi [lo assaggi](.../../caramelle.md)
+Tocchi il liquido con un dito e poi [lo assaggi](/caramelle.md)
