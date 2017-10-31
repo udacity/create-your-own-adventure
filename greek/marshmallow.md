@@ -33,3 +33,5 @@
 Όμως, μέσα στον πανικό σου, σου έρχεται στο μυαλό μια ιδέα. 
 
 [Γεμίζεις μια λεκάνη με νερό](fill_water_tank/fill_water_tank.md)
+
+[Μπαίνεις netflix να δεις Stranger Things 2 γιατί δε σου μένουν και πολλά ψωμιά](netflix_stranger_things/netflix_stranger_things.md)
