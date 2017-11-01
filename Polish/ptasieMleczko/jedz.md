@@ -3,3 +3,4 @@ Grubość ściany wydaje się nie mieć końca!
 Co robisz?
 
 [Jesz dalej](jedz.md)
+[Kopiesz tunel, przekładając ptasie mleczko](tunel.md)
