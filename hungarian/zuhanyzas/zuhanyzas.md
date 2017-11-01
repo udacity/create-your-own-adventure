@@ -10,3 +10,4 @@ Mihez kezdesz?
 
 [elkezdesz enni](eves/eves.md)
 
+[addig sikítasz, amíg be nem rekedsz](sikoly/sikoly.md)
