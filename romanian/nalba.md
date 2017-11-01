@@ -85,3 +85,7 @@ Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
 Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
 
 Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
+
+Ginel căzu pe gânduri și se întrebă de ce nu mai scrie nimeni cu diacritice cum se scria când mergea el la școala.
+Gândurile se-ntrebau de ce tot cade Ginel pe ele. Și cine mai îi Ginel ăsta? Mai bine îl chema [Ghiță](vasile/ghiță.md)
+
