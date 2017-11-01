@@ -5,3 +5,5 @@ Udheton me [avion](avion/avion.md)?
 Udheton me [tren](tren/tren.md)?
 
 Apo udheton me ndonje menyre tjeter?
+
+Ndoshta ti edhe nuk udheton fare?
