@@ -120,4 +120,4 @@
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
 
-[Счастье](hapiness/happiness.md)
+[Счастье](happiness/happiness.md)
