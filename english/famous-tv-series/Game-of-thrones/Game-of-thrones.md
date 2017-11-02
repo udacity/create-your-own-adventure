@@ -4,8 +4,11 @@
 
 ~Till year 2016, six seasons have been aired(each season has 10 episodes)
 
+~year 2017, season 7 has 7 episodes.
+
 ~[checkout IMDB-page](imdb/imdb.md)
 
 ~[click for info on main-chatacters](characters/characters.md)
 
 ~[checkout Wikipedia-page](wikipedia/wikipedia.md)
+
