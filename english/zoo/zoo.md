@@ -2,6 +2,7 @@ Recently I visited a zoo in my hometown. It was an awesome experience to be part
 nature. I saw a lot of tigers, elephants, deer and a whole lot of other [animals](../animal/animal.md)
 
 I was pretty thirsty. There is a lemonade stand over there.
+I check my wallet and have 50 cents. That should be enough to get something to drink.
 I head over and buy some [lemonade](../drink/lemonade/lemonade.md)
 
 I choose to get better at [English](../get-better-at-english/english.md)
