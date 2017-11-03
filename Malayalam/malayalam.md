@@ -14,3 +14,4 @@
 
 [ടിന്റുവും മാഷും] (../Malayalam/tintu/tintu-teacher.md)
 
+കുഞ്ഞുണ്ണിമാഷിന്റെ ഒന്ന് [ഇവിടെ ഞെക്കു](Kunjunnimash/kunjunnimashinte onnu.md)
