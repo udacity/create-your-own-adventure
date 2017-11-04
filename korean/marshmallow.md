@@ -52,4 +52,4 @@
 
 [게임을 시작한다] (playgame/playgame.md)
 
-[볼링을 치러간다] (https://github.com/monius/create-your-own-adventure/blob/my_own_adventure/korean/play_bowling/play_bowling.md)
+[볼링을 치러간다](play_bowling/play_bowling.md)
