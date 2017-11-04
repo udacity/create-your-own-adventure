@@ -1,0 +1,1 @@
+Złotym berłem zostaniesz zdzielony przez naczelnika państwa!
