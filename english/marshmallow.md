@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-And that story was a [murder mistery](murder-mystery/the-story-begins.md) 
+And that story was a [murder mystery](murder-mystery/the-story-begins.md) 
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
