@@ -73,3 +73,6 @@ BR BR BR Hue hue hue!!!!
 [Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
 
 Você senta e chora
+
+Você senta de novo e chora mais
+
