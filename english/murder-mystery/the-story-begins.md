@@ -1,0 +1,3 @@
+And so the mystery begins.....
+
+One dark night three muffeled shots were heard [...](/murder-mysterty/shoot/they-all-got-shot.md)
