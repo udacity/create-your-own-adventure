@@ -1,3 +1,3 @@
 And so the mystery begins.....
 
-One dark night three muffeled shots were heard [...](shoot/they-all-got-shot.md)
+One dark night three muffled shots were [heard...](shoot/they-all-got-shot.md)
