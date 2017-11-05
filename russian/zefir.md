@@ -26,6 +26,8 @@
 
 Ваши действия:
 
+[Не выходить из комнаты, не совершать ошибку](dont-leave-the-room/brodsky.md)
+
 [Пригласить профессора Воробьева](invite-proffesor/invite-proffesor.md)
 
 [Попросите девушку ущепнуть вас](girlfriend-pinch-you/girlfriend-pinch-you.md)
