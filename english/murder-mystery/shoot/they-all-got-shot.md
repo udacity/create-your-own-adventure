@@ -13,5 +13,5 @@ Too brash and they would think of him as a show off, too quiet and they may
 think it a fluke.
 
 'Sod it!' he thought, 'I'm just going to come out with it'. James stood up so fast his
-feet left the floor. Punching his fist in the air he declared in the tome of a true 
+feet left the floor. Punching his fist in the air he declared in the tone of a true 
 leader "Let's do lunch".
