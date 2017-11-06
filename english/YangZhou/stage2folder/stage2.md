@@ -1,3 +1,3 @@
 [Backward](../stage1.md)
 
-[Languages](../../../.)
+[see some Chinese stories](/Chinese/大话西游.md)
