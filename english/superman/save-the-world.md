@@ -1,8 +1,17 @@
+Jor-El tells Kal-El:
+"You will give the people of earth an ideal to strive towards,
+they will race behind you, they will stumble, they will fall.
+But in time, they will join in you in the sun, Kal.
+In time, you will help them accomplish wonders."
+
+And then Clark Kent/Kal-El/Superman performs this
+spectacular first [flight](https://www.youtube.com/watch?v=meVnJzHDziU)
+
 After that, suddenly!!! You start to grow up, Big, GIANT ~~~ 
 Also you noticed that a red shirt is now wrapped on your muscular body.
 You are now wearing a tight body-fit cloth.
 The trangle underwear is mounted on it, shining a great "V" 
--- the signature of SUPER MAN.
+-- the signature of SUPERMAN.
 
 Now you feel you are ready for your destiny.
 
@@ -24,3 +33,4 @@ Or do you rid those decisions from your
   must become... 
 
 [Naruto!](../naruto/seventh-hokage.md)
+
