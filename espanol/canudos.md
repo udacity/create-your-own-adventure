@@ -193,4 +193,6 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
 
+A pesar que pensaba que era el fin [solo era la fatiga de seguir](fatiga/fatiga.md)...
+
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
