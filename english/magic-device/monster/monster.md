@@ -1,0 +1,1 @@
+ A blue reptile appeared on the wet floor of the kitchen. Its dimensions were that of a toaster and it had no limbs. 
