@@ -11,7 +11,7 @@ If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
 
-NGE is [here] (NGE/NGE.md)
+NGE is [here](NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
 
