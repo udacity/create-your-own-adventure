@@ -1,0 +1,1 @@
+Un heroe aventurero siguió sus pies hasta la cima de una colina con su espada escarlata.
