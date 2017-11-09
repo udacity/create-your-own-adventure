@@ -1,0 +1,1 @@
+Vous êtes dans un nuage de guimauve.  Vous vous dirigez vers le nougat.

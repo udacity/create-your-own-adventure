@@ -1,4 +1,4 @@
-Sa beau, zic, de ce nu! Ha ha ha
+Să beau, zic, de ce nu!? Ha ha ha
 
-Si nici nu bau Ginel bine potiunea, ca si vazu o frunza mare si verde (sau ceva
-asemanator) in fata ochilor, [apoi...](../../nalba.md)
+Și nici nu bău Ginel bine poțiunea, că și văzu o frunză mare și verde (sau ceva
+asemănător) în fața ochilor, [apoi...](../../nalba.md)
