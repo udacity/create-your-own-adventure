@@ -3,3 +3,5 @@ Nesse momento você percebe que já é tarde demais, e o iceberg de bugs é muit
 [Tentar arranjar programadores a bordo para arrumar o bug](arrumar/arrumar.md)
 
 [Desistir de tudo e pular na água](pular/pular.md)
+
+Descobrir que não consegue pular na água, pois há um bug na mesma.
