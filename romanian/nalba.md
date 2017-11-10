@@ -85,3 +85,5 @@ Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
 Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
 
 Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
+
+Și acuma vine [întrebarea de 10] (intrebare_de_10/intrebare_de_10.md)
