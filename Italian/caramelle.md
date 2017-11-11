@@ -37,4 +37,4 @@ Che fai?
 
 [Guardo l'orologio](orologio/orologio.md)
 
-[Cerco la porta][porta/porta.md]
+[Cerco la porta](porta/porta.md)
