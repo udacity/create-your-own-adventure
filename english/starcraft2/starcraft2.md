@@ -11,3 +11,7 @@ After downloading Star Craft 2, you start playing the campaign and
 you find it to be the best RTS campaign you've ever played.  You had
 
 so much fun playing it that you play through it twice more.
+
+Then you find out there's expansions called StarCraft II: Heart of the Swarm
+
+and StarCraft II: Legacy of the Void so you play through those too.
