@@ -6,4 +6,6 @@ Raccogli i pezzi di vetro, ma ti ferisci una mano.
 
 [Ti butti sul pavimento piangendo dal dolore] (piangi/piangi.md)
 
+[Urli](urli/urli.md)
+
 [Torni a dormire](../../caramelle.md)
