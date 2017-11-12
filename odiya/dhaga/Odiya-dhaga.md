@@ -2,7 +2,7 @@ List of proberbs found in the state of Odisha ( historical names : Kalinga and U
 
 ଏଠି ଆପଣ ଓଡିୟା  ଢଗ ଦେଖି ପାରିବେ |
 
-ଵାପା ରାଣେ ଢିନକି ଗିଳି | (This means, don't force me to promise, to do the unthinkable or the impossible)
+ଵାପା ରାଣେ ଢିନକି ଗିଳି | (This means : You are forcing me to promise, to do the unthinkable or the impossible)
 
-ଗୋଦରା କୋଡେ ଜେତେ ମାଡେ ସେତେ  | (This means, an unskilled person does the equal damage to the work, along with the useful work he does)
+ଗୋଦରା କୋଡେ ଜେତେ ମାଡେ ସେତେ  | (This means, an unskilled person does the equal or more damage to the work, along with the useful work he does)
 
