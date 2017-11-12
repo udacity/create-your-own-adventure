@@ -1,2 +1,2 @@
 Au disecat [broasca](https://www.youtube.com/watch?v=531sB0z8Igk)......
-Vazand ca pentru broasca s-a terminat, Ginuta se [intoarce la ginel](../romanian/nalba.md)
+Vazand ca pentru broasca s-a terminat, Ginuta se [intoarce la ginel](../../romanian/nalba.md)
