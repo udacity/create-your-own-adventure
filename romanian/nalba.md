@@ -87,4 +87,4 @@ Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
 Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
 
 Ginel, inca ametit, a lovit o [broasca](https://www.youtube.com/watch?v=k85mRPqvMbE).
-Ginuta speriata a mers cu ea [la veterinar](broasca/veterinar.md)!!!
+Ginuta speriata a mers cu ea [la veterinar](Broasca/veterinar.md)!!!
