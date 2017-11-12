@@ -1,0 +1,1 @@
+Dzwonisz do sułtana kosmitów proponując przmierze. Sułtan warunkowo się godzi o ile wydasz mu kapitana Bombę. Co robisz?

@@ -1,0 +1,1 @@
+Wolny rynek za którym optujesz z krulem pozostawiony sam sobie bez regulacji doprawdza do władzy korporacje, które dumpingowymi cenami doprawdzają interesy małych lokalnych przedsiębiorstw do ruiny. Społeczeńśtwo rozwarstwia się na bogatę klasę wyższą i biedotę. Pospólstwo rusza z widłami na Twoją siedzibę. Co robisz?
