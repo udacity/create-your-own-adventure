@@ -4,6 +4,8 @@ You begin to imagine all the things you'd like to do.
 
 But, alas, you wake up only to find yourself...
 
+lying naked in the grass
+
 by a camp fire (with the smell of burnt marshmallow in the air)
 
 on a deserted island
