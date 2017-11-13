@@ -1,0 +1,1 @@
+Deadpool lunges out of the car with a huge leap, takes out his machine guns, and blasts away at T-Ray.

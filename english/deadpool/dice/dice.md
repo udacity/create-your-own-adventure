@@ -1,0 +1,1 @@
+Deadpool lunges out of the car with a huge leap, unsheathes his katana, and thrusts it towards T-Ray.
