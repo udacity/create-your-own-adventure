@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+You decide to join the battle on [Summoner's Rift!](summoners-rift/summoners-rift.md)
