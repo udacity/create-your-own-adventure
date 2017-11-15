@@ -39,3 +39,5 @@ Que faites-vous ?
 [Je commande du foie gras](foie-gras/foie-gras.md)
 
 [J'organise une soirée pain d'épices](soiree/soiree.md)
+
+[Je regrette de ne pas avoir de Nutella sur moi](nutella/nutella.md)
