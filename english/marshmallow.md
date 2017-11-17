@@ -1241,3 +1241,9 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+When you find good content how will you watch it 
+
+[binge watch](binge-watch/binge.md)
+
+[peace meal](peace-meal/peace-meal.md)
