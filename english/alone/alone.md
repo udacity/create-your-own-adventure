@@ -76,3 +76,5 @@ Bella ushers Kristy on to her bed and calm her down.
 Bella palms her head while Kristy gets normalized.
 
 Stranger smirks seeing Kristy and escape into the dark.
+
+Watching Kristy normalising, Bella asks her if she's okay and what made her tremble in front of a mirror in her own room.
