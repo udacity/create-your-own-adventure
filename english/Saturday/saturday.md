@@ -1,0 +1,2 @@
+This is a short notice about cold and rainy Saturday. Outside is 40-something degree and it is rainy and dark.
+Although the time is 2:40pm, I want to sleep. However, I have just drank my coffee with 2 oatmeal raisin cookies. Now it is jus a matter of time to caffein to kick in. 
