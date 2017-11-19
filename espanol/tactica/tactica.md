@@ -3,6 +3,6 @@ pero nunca creyó que aquel escenario significaría un envolvimiento del ejérci
 pocos días quedaban antes de que su fiasco fiasco fuera descubierto por completo y con el riesgo
 de muesto que eso conllevaría, decidió entonces:
 
-[Hacer lo que cualquier hombre honorario haría: quitarse la vida] (suicidio/suicidio.md)
+[Hacer lo que cualquier hombre honorario haría: quitarse la vida](suicidio/suicidio.md)
 
-[Confesar su crimen y evitar así la muerte] (confesion/confesion.md)
+[Confesar su crimen y evitar así la muerte](confesion/confesion.md)
