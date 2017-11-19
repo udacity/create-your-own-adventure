@@ -7,4 +7,4 @@ Am Rande der seltsamen Party entdecken Sie einen alten
 Sie entschliessen sich, ...
 
 ... zu den beiden hinzugehen und [grüßen freundlich](gruessen_freundlich/gruessen_freundlich.md).
-
+... zusehen bis zum Morgen zu [warten](warten/warten.md). 
