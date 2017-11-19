@@ -50,7 +50,7 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 [Subió a la torre](torre/torre.md)
 
-Se cansó de la guerra y decidió alienarse de todo lo material, 
+Se cansó de la guerra y decidió alienarse de todo lo material,
 accediendo a un [estado de meditación transcendente](transcender/transcender.md)
 
 [Ordenó buscar al Capitán Trueno](capitan/trueno.md)
@@ -95,11 +95,11 @@ accediendo a un [estado de meditación transcendente](transcender/transcender.md
 
 [Levanta su mano derecha, con el indice señala al ejército enemigo y les dice a sus soldados...](soldados/soldados.md)
 
-[Se dio cuenta de que su táctica había sido descubierta] (tactica/tactica.md)
+[Se dio cuenta de que su táctica había sido descubierta](tactica/tactica.md)
 
-[Enseguida agarró el teléfono y realizó una llamada] (telefono/telefono.md)
+[Enseguida agarró el teléfono y realizó una llamada](telefono/telefono.md)
 
-[La conversacion era irrelevante] (dolor/dolor.md)
+[La conversacion era irrelevante](dolor/dolor.md)
 
 [Abrió los ojos. ¿Era todo una cruel pesadilla?](pesadilla/pesadilla.md)
 
@@ -109,20 +109,20 @@ accediendo a un [estado de meditación transcendente](transcender/transcender.md
 
 Al ojearlo, una duda lo emabargó...[¿Qué hago?](duda/duda.md)
 
-Al despertar y enfocar la vista vió lo que había sucedido tras la 
+Al despertar y enfocar la vista vió lo que había sucedido tras la
 explosión [que pasó?](explosion/explosion.md)
 
 Salió corriendo y no se lo vio nunca más en el reino
 
 Conectó su guitarra al amplificador y se puso a tocar una versión de "Siempre es lo mismo, nena", pero sin distorsión
 
-[Así comenzó el cuento del cuco en el pueblo, para que los niños temieran a los dioses] (cuco/cuco.md)
+[Así comenzó el cuento del cuco en el pueblo, para que los niños temieran a los dioses](cuco/cuco.md)
 
-A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo] (miedo/miedo.md)
+A pero si no leiste el cuento del cuco, entonces significa que no tienes [miedo](miedo/miedo.md)
 
 [Puso su mano derecha en su frente y se teletransportó al centro del ejército enemigo](pelea_epica/pelea_epica.md)
 
-Lo que nadie sabía, es que el consejero era un versado maestro instruído en las nobles artes Jedi. 
+Lo que nadie sabía, es que el consejero era un versado maestro instruído en las nobles artes Jedi.
 
 - [Dark_side](dark_side/dark_side.md)
 
@@ -135,10 +135,10 @@ No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran l
 Porque en el fondo él sabía que por mucho que hubiese ganado esta batalla,
  la guerra no había hecho más que [comenzar](guerra/duracion.md).
 
-"El que tenga rabo de paja ni que lo fajen chiquito", 
+"El que tenga rabo de paja ni que lo fajen chiquito",
 dijo el [curandero](curandero/curandero.md)...
 
-Nadie sabiendo el secreto mejor guardado este epico personaje, "El gran mutante", 
+Nadie sabiendo el secreto mejor guardado este epico personaje, "El gran mutante",
 se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
 
 [Hizo un breve movimiento para llamar a sus ayudantes y](ayudantes/ayudantes.md)
@@ -149,7 +149,7 @@ Y llego spiderman a salvar el dia.
 
 Con sus acrobáticos movimientos y osadas frases
 
-Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)
+Spiderman al no entender que era lo que [pasaba](realidad/realidad.md)
 
 solo [Escapó](escapo/escapo.md)
 
@@ -159,7 +159,7 @@ Y llego [Daynerys Targaryen](thrones/daynerys.md)
 
 Recordó algunos crímenes que pesaban sobre él y de la nada perdió el conocimiento(desmayo/desmayo.md)
 
-Revelo que venia del futuro y que le daba dos opciones: 
+Revelo que venia del futuro y que le daba dos opciones:
 - [Morir luchando como sabia que pasaria en el futuro](time/time.md)
 
 - [Seguir sus instrucciones y ganar](time1/time1.md)
@@ -168,7 +168,7 @@ Indico a sus ayudantes que comenzaran los preparativos para el mayor banquete de
 
 [La eleccion](eleccion/eleccion.md)
 
-Y llego [Tyrion Lannister](Tyrion/Tyrion.md) 
+Y llego [Tyrion Lannister](Tyrion/Tyrion.md)
 
 El Consejero y Beatito coincidieron en que en el banquete se servirian [arepas](https://es.wikipedia.org/wiki/Arepa).
 
@@ -194,3 +194,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
+
+Decidió compilar el último kernel de linux en [windows 95](ventanucos/ventanucos.md)
