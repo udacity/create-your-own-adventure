@@ -1,0 +1,1 @@
+After wandering around without any aim. Our hero finally sees his next destination.
