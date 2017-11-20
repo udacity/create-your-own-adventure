@@ -76,3 +76,9 @@ Bella ushers Kristy on to her bed and calm her down.
 Bella palms her head while Kristy gets normalized.
 
 Stranger smirks seeing Kristy and escape into the dark.
+
+Bella realizes its the 18th century and phones can't record yet.
+
+Apple's are fruit on trees and if you steal one you will recieve
+
+20 public lashes.
