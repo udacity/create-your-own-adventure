@@ -5,4 +5,4 @@
 
 [Вы пытаетесь заговорить с врачом](no-mouth/no-mouth.md)
 
-[Вы пытаетесь сесть](/only-mind/only-mind.md)
+[Вы пытаетесь сесть](only-mind/only-mind.md)
