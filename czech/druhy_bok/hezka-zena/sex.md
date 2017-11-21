@@ -1,0 +1,2 @@
+Zašukáš si jak nikdy v životě. Na tváři ti hraje spokojený úsměv do doby, než si uvědomíš, že ve skutečnosti nikdy nic
+takového nezažiješ, pač jsi tlustý a slizký bídák, kterého nikdo nemá rád a nechce.
