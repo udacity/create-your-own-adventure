@@ -10,7 +10,7 @@ Very scary story for halloween
 
 There is an object that looks like a [torch](../torch/torch.md) on the ground.
 
-There is also om twine on the ground.
+There is also some twine on the ground.
 
 The work Zork brings back memories.
 
@@ -19,3 +19,5 @@ Zork is life, Zork is love.
 Zork is udacious.
 
 Kick open the [door] (../duck/duck.md)
+
+Or not. You could just like, stay here with me forever. It's cosy, and we have tons of waffles.

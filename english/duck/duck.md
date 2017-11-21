@@ -10,3 +10,5 @@ Wait, what was that noise?
 Large bats fly over your head.
 
 [Investigate](../cave/cave.md)
+
+[I told you to chill](../zork/zork.md)
