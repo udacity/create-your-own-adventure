@@ -15,4 +15,4 @@ But at that time, I was at the age that I thought "If it doesn't taste good, it 
 
 
 
-My mother always told me to respect my elders and to be kind to strangers. 
+My mother always told me to respect my elders and to be kind to strangers. She is a good, good mum.
