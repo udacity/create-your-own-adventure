@@ -10,6 +10,8 @@ Mit csinálsz?
 
 [megreggelizel](reggeli/reggeli.md)
 
+Elhagyod a házat és [kisétálsz az ajtón](kulvilag/kulvilag.md)
+
 Jól belerúgsz az [oxigén generátorba](oxygen/oxygen.md)
 
 [megnezem, hogy a boszorkany mezeskalacs hazaban vagyok-e](boszorkany/mezeskalacs-haz.md)
