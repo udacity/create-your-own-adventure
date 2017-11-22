@@ -12,3 +12,7 @@ Something about them being good for me.
 But at that time, I was at the age that I thought "If it doesn't taste good, it just can't be good for me".
 
 "[She answers.](../bear-story/bear-story.md)"
+
+
+
+My mother always told me to respect my elders and to be kind to strangers. 
