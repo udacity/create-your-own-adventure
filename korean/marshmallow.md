@@ -51,3 +51,5 @@
 [인스타그램에 인증샷을 올린다] (instagram/insta.md)
 
 [게임을 시작한다] (playgame/playgame.md)
+
+[멈추고 생각을 해본다.](stop-and-think/sat.md)
