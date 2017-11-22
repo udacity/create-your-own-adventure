@@ -8,3 +8,5 @@ Sie entschliessen sich, ...
 
 ... zu den beiden hinzugehen und [grüßen freundlich](gruessen_freundlich/gruessen_freundlich.md).
 
+... [leise an den beiden vorbeizuschleichen](vorbeischleichen/vorbeischleichen.md), 
+da Ihnen das ganze nicht geheuer ist.
