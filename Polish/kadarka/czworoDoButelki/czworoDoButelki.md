@@ -1,0 +1,1 @@
+Na kacu Twoje serce mięknie niczym gąbka.
