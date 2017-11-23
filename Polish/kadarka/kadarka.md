@@ -18,3 +18,4 @@ Co robisz?
 
 [Idziesz za sklep](zaSklepem/zaSklepem.md)
 
+[Wracasz, pijesz z zagryzasz](zZagryzka/pijeszIZagryzasz.md)
