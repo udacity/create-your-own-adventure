@@ -6,4 +6,3 @@ la patul care nu mai este...
 
 [Dimineata urmatoare, cand va treziti..](ziua_urmatoare/ziua_urmatoare.md)
 
-Va tot intrebati cum de a reaparut patul de nalbe.

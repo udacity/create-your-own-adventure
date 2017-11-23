@@ -8,3 +8,5 @@ Dupa ce mancati voi pana dimneata, de vi se umple burtile o apuca pe Gina si str
 
 - Ce ?
 - [Sa mergem in padurea violet](padurea_violet/padurea_violet.md)
+
+[Cand deodata...](Ginel/ginel.md)
