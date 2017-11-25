@@ -14,6 +14,20 @@ But you wake up and chose to find your way to know the [real life](../real-life/
 
 see destiny isn't so hard when you try for it.
 
+Look on it with soft eyes. Dont grasp at it. Dont plan for it.
+
+Dont drive at it. Follow your gut today, for this hour. 
+
+Work for the great people and with the great people.
+
+Work for the ideas you belive in. 
+
+Work for the future too. Yes work for the future and don't plan too much.
+
+Work for today. 
+
+Find something to work for.
+
 and now you will be the [protagonist of the story](../marshmallow.md)
 
 and I have [high hopes](../hope/hope.md) for you.
