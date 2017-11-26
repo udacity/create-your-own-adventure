@@ -41,3 +41,5 @@ git fetch -> puxa as atualizações realizadas no repositiorio online (Sem fazer
 git remote add upstream https://... -> adiciona um repositorio original do fork
 
 git rebase upstream/master --> fast-foward do projeto para o master do repositorio original do fork
+
+git show commitId -> mostra as modificacoes em comparacao com o commit anterior
