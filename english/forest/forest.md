@@ -21,6 +21,8 @@ because the pain pulsing up your leg is hiding it. Then you remember what
 Caroline said. You're in the forest. There is no internet here. You are offline.
 Google can't help you right now. You are on your own.
 
+[Summon Caroline](summon/summon.md)
+
 [Drag yourself further into the woods](drag/drag.md)
 
 [Try to gather materials for a signal fire](fire/fire.md)
