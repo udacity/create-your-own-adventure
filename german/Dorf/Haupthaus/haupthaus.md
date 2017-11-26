@@ -7,6 +7,8 @@ sagt eine der Wachen zu euch.
 
 Ihr könnt hier nichts ausrichten oder weiteres erfahren was euch beim Problem mit dem Ruderboot hilft.
 
+Allerdings könntet ihr hier eine Mahlzeit zu euch nehmen.
+
 -----------------------------------------------------------------------------------------------------------------------
 
 [Zurück zum Steg](../dorf.md)
