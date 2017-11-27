@@ -6,3 +6,5 @@ Voce tambem pode conferir a pagina de treinamento do GitHub [aqui](https://train
 Caso você for uma pessoa mais "hardcore", pesquisa na raça clicando [aqui](./pesquisa/sites.md)
 
 Você não quer saber o que é git? Então [sai!](./sai/sai.md)
+
+Ou se preferir procure um outro curso de seu agrado. [aqui] (https://www.udacity.com)
