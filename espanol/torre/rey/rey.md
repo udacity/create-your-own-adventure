@@ -4,4 +4,4 @@ El rey, al saber que el imperio acechaba decidió convocar a su ejército.
 
 Pero en ese instante llego el anunciador con una [sorpresa](../../musica/grupo_mariachi.md)
 
-Y resulta que [su propio ejercito] (ejercito/su_propio_ejercito) su_propio era el que se acercaba a lo lejos
+Y resulta que [su propio ejercito] (ejercito/su_propio_ejercito.md) su_propio era el que se acercaba a lo lejos
