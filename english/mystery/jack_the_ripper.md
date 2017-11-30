@@ -1,0 +1,1 @@
+Jack the Ripper is the best-known name for an unidentified serial killer generally believed to have been active in the largely impoverished areas	in and around the Whitechapel district of London in 1888.
