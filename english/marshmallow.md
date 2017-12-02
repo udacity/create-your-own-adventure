@@ -817,6 +817,11 @@ You remember the story of a [robot](happy-robot/happy-robot.md).
 Wondering how you got here, you feel a strange tingling in your hands, almost as if
 they are responding to your new surroundings. You feel an urge to gesture forward,
 and as you do a large pink marshmallow shoots out of your hand into the wall before you.
+
+The pink now almost angry red marshmallow bounces back onto you and manages to knock you over. It jumps up and down celebrating its victory, and you lose consciousness. 
+You wake up and realize you are not in Croatia, not even close, you are indeed in the middle of Cairo, Egypt, surrounded by tall marshmallow buildings.
+A street vendor bumps into you and offers you a piece of basbousa. You kindly decline, he insists, and shoves it into your mouth. You take a bite and marvel at its sweetness. Almost too sweet, you think to yourself.
+ 
 [Explore your new marshmallow powers.](marshmallow-wizard/marshmallow-wizard.md)
 
 [The evil and heroic marshmallow](the-slayer/marshmallow-slayer.md)
