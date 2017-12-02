@@ -51,3 +51,5 @@ Another shouts "Who is John Cena"
 "Goodluck talking to John Cena"
 
 "This is the last time i am talking to John Cena"
+
+"Then a cloaked man appears, and proclaims: Never mind this John Cena, for I am Christian Bale, and have done some kung fu with the league of shadows"
