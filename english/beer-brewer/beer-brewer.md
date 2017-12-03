@@ -6,7 +6,7 @@ You dream of beer, and start to research beer on the internet, but it's still co
 
 What should you do?
 
-Start simple- what kind of [beer](beer-brewer/beer-styles.md) do you like? 
+Start simple- what kind of [beer](beer-styles.md) do you like? 
 
 Decide that its better to just give up and drink some [Beer](https://www.youtube.com/watch?v=yzcEG_JoVuo)."
 
