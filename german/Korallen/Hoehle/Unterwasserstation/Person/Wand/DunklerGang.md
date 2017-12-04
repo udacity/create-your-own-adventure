@@ -1,0 +1,1 @@
+Sie rennen in den dunklen Gang hinein. Ein kurzer Blick zurück in die Höhle zeigt, dass der Gesprächspartner in blauem rauch verpufft und plötzlich verschwunden ist. Sie folgen dem Gang und geraten an eine Stelle an der sich der Weg teilt. Eine Abzweigung geht nach links die andere nach rechts. Vor der rechten Abzweigung ist ein 1m langen und endlos tiefes Loch im Boden.
