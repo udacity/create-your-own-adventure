@@ -6,5 +6,5 @@ Podemos mandar a nuestro jinete más veloz por Zipi y Zape
 o podemos liberar a Cancerbero y pedirle que pelee con nosotros.
 
 ¿Qué quiere hacer?
-[Mandar a nuestro jinete más veloz por Zipi y Zape](seleccionarAliado/zipizape.md)
+[Mandar a nuestro jinete más veloz por Zipi y Zape](seleccionarAliado/zipizape.md) o
 [Liberar a Cancerbero](seleccionarAliado/cancerbero.md)
