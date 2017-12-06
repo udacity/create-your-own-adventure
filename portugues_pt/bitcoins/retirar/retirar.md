@@ -1,0 +1,1 @@
+Infelizmente o dinheiro que você retirou teria se transformado hoje em 50 milhões de euro, uma pena você ter retirado.

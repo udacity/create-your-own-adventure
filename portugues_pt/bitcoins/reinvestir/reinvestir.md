@@ -1,0 +1,1 @@
+Você reinvestiu em XPR e acabou ficando muito rico, seu 1 milhão de euro se transformou em 100 milhões, parabéns!
