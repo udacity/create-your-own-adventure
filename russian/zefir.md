@@ -120,4 +120,4 @@
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
 
-[Почувствувать свою природу паука](became-spyderman\became-spyderman.md)
+[Почувствовать свою природу паука](became-spyderman\became-spyderman.md)
