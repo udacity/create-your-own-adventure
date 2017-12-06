@@ -30,7 +30,7 @@
 
 [Пригласить профессора Воробьева](invite-proffesor/invite-proffesor.md)
 
-[Попросите девушку ущипнуть вас](girlfriend-pinch-you/girlfriend-pinch-you.md)
+[Попросите девушку ущeпнуть вас](girlfriend-pinch-you/girlfriend-pinch-you.md)
 
 [Пойти поплавать](go-to-swim/go-to-swim.md)
 
