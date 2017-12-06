@@ -1,0 +1,1 @@
+Investiria em um fundo de investimentos seguro e ira fazer o que quisesse vivendo com a renda do fundo.
