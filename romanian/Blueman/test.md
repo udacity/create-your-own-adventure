@@ -1,1 +1,0 @@
-E un test na
