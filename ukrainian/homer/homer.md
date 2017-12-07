@@ -1,1 +1,1 @@
-[Підглянути за Гомером](https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjmp7rNjfjXAhVHCpoKHeKTBOoQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F509962357786596468%2F&psig=AOvVaw14bYVtl1jMHczSknY_xwyC&ust=1512743172610437) 
+[Підглянути за Гомером](https://media1.fdncms.com/sfweekly/imager/welcome-to-the-land-of-chocolate/u/zoom/2169041/2520285.t.jpg) 
