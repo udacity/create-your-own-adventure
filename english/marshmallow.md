@@ -109,6 +109,8 @@ Before we begin, do you need a [warm-up?](warm-up/warm-up.md)
 
 Once you're warmed up, why not try a [work out?](work-out/work-out.md)
 
+Now didn't that feel good! Don't forget to [stretch it out?](stretch-it-out/stretch-it-out.md)
+
 or maybe [eat that delicious cucumber sandwich?](sandwich/sandwich.md)
 
 After warming up, take a minute and reflect on your [love for udacity](love-udacity/love-udacity.md)
