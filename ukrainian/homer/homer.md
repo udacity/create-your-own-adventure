@@ -1,0 +1,1 @@
+[Підглянути за Гомером](https://media1.fdncms.com/sfweekly/imager/welcome-to-the-land-of-chocolate/u/zoom/2169041/2520285.t.jpg) 
