@@ -1,1 +1,1 @@
-[Підглянути за Гомером](https://mega.nz/#!t3AVgIrK!rjbHh-Wddcx3x1IfaGJHJVpXENWArAvRY1qjkkyhylo) 
+[Підглянути за Гомером](https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjmp7rNjfjXAhVHCpoKHeKTBOoQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F509962357786596468%2F&psig=AOvVaw14bYVtl1jMHczSknY_xwyC&ust=1512743172610437) 
