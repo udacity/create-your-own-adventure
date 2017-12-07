@@ -7,7 +7,7 @@ Ce faci?
 
 [Te culci la loc](somn/somn.md)
 
-Cand ii gata focu o suni pe Ginuta. Abea astepti sa-i dai si ei nalbe.
+Cand ii gata focu o suni pe Ginuta. Abia astepti sa-i dai si ei nalbe.
 Sti tu ca ii plac mult de tot nalbele. Asa ca atunci cand ajunge
 Va dati impreuna capat pana ramaneti fara... pat.
 
