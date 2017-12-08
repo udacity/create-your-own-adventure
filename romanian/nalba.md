@@ -86,4 +86,4 @@ Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
 
 Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
 
-Dar de unde nalbe ? Vezi [aici] (blueman/bezele.md)  explicatia.
+Dar de unde nalbe? Vezi [aici](blueman/bezele.md)  explicatia.
