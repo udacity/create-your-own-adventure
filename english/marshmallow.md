@@ -25,6 +25,8 @@ Are you a:
 
 [cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) 
 
+or a [cat person that doesn't like broken links](https://www.youtube.com/watch?v=19jaOSNibkU)
+
 or a 
 
 [dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
