@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
+And that story was about cricket [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
 
@@ -9,9 +9,7 @@ Enter [The Forest!] (forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
-hi~
-
-NGE is [here] (NGE/NGE.md)
+About GitHub [here] (NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
 
@@ -1190,6 +1188,8 @@ have you already heard the story of the Choking Doberman? [click me](dog_finger/
 
 Join me in [Tree of Savior!](tos/tos.md)
 
+Do you know what does the fox says [wanna_know](https://www.youtube.com/watch?v=jofNR_WkoCE)
+
 Let's do the [Front-end Web Developer Nanodegree](front_end/front_end.md) together!
 
 How about we all [learn android](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) !
@@ -1208,6 +1208,8 @@ Maybe this is a [dream](dream/dream.md)?
 Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
+
+Wanna know something spiritual [Click_here](https://vijaybhabhor.com/quotes-thoughts/swami-vivekananda-quotes-in-hindi-english/)
 
 <<<<<<< HEAD
 Have you ever heard any unusual sounds 
@@ -1241,3 +1243,4 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
