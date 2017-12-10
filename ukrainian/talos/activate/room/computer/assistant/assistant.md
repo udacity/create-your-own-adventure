@@ -1,3 +1,3 @@
-### Milton. Error A1x457B36E **********
+$$$$$ Milton. Error A1x457B36E **********
 
-[# Повернутись](../computer.md)
+[guest@localhost ~ $  Повернутись](../computer.md)  

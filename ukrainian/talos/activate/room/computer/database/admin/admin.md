@@ -1,3 +1,3 @@
-# Пароль невірний.
+guest@localhost ~ $ Пароль невірний.
 
-[# Повернутись](../database.md)
+[guest@localhost ~ $ Повернутись](../database.md)
