@@ -46,7 +46,7 @@ Ha beszélsz magyarul, [kövess](hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
 
-Калі вы размаўляеце па-беларуску, вам [сюды] (belarussian/zefir.md)
+Калі вы размаўляеце па-беларуску, вам [сюды](belarussian/zefir.md)
 
 Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
 
@@ -129,7 +129,7 @@ Ako govorite Bosanski jezik/If You speak Bosnian language [kliknite ovdje/click 
 
 Nếu bạn nói tiếng Việt, [nhấn vào link này](vietnamese/kechuyen.md).
 
-Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
+Se vi parolas esperanton, alklaki [tie](esperanto/komenci.md).
 
 ئەگەر ئۇيغۇرچە سۆزلىسىڭىز، [بۇ يەرگە كىرىڭ](uyghurish/uyghurish-story.md)
 
@@ -162,7 +162,7 @@ if (you.understand("C#")) here.click();
 
 if you speak Bahasa Indonesia [klik disini](indonesia/bahasa-indonesia.md)
 
-Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odyssey/HO.md)
+Dreams to Memories – Wisdom in Ladakh. To read this click [here](Himalayan_Odyssey/HO.md)
 
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
