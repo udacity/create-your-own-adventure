@@ -6,7 +6,9 @@ You feel refreshed and everything is ok.
 However, you don't get to enjoy your victory for long.  You awake from your dream and
 realize that Pikachu isn't real but the marshmallow nightmare is still a problem.  What will you do next?
 
-Hint: you're a lyrical wordsmith
+Hint: you're a lyrical wordsmith.
+
+Hint 2: You're also really tired. Like super super tired.
 
 [Take a nap](../sleep/marshmallow.md)
 
