@@ -1,1 +1,1 @@
-Nu am inteles ce e cu nalbele... dar bezelele sunt dulci :) [Inapoi](../../nalba.md)
+Nu am inteles ce e cu nalbele... dar bezelele sunt dulci :) [Inapoi](../nalba.md)
