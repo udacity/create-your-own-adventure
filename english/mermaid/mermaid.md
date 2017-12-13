@@ -1,3 +1,0 @@
-She calls to you on the shore, inviting you into the ocean.
-
-This will solve all your problems, you think...
