@@ -23,3 +23,5 @@ But this is just the beginning. To become full weeaboo trash, you must fall down
 into the depths of [idol hell](../LoveLive/lovelive.md)...
 
 With great power, comes great responsibility.
+
+In order to improve their chances of finding the philosopher's stone, the Edward first had to become a state alchemist, a dog of the government.
