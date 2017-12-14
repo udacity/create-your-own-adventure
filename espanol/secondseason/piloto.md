@@ -1,0 +1,1 @@
+Goku resucitó gracias a las bolas de drac
