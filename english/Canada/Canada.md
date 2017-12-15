@@ -19,3 +19,13 @@ No dice? Yikes.
 Guess you'll have to stick around and 
 [enjoy all this freedom](http://weknowmemes.com/wp-content/uploads/2011/12/damn-right-im-free-this-is-america.png), eh?
 
+BUT WAIT!  There's one more option. There is ALWAYS another option. Elon Musk has just tweeted that YOU have won
+a free trip to Mars. The only catch is, this is the first manned flight and not all of the rocket's kinks have 
+been ironed out. What's you're decision?
+
+"Eff yeah, I'm riding a rocket to the red plant to live out the rest of my sols! [Sign me up!](spacex/spacex_rocket.md)"
+
+"NO WAY, there is a high probablity that the procket is going to blow up before we ever get there and even if we 
+make it to Mars, the planet's radiation is going to kill me anyway. I'm staying. Count me out, I'm just going 
+to [bake some cookies](bake-cookies/cookies.md) here on Earth."
+
