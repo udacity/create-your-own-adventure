@@ -27,5 +27,5 @@ been ironed out. What's you're decision?
 
 "NO WAY, there is a high probablity that the procket is going to blow up before we ever get there and even if we 
 make it to Mars, the planet's radiation is going to kill me anyway. I'm staying. Count me out, I'm just going 
-to [bake some cookies](bake-cookies/cookies.md) here on Earth."
+to [bake some cookies](../bake-cookies/cookies.md) here on Earth."
 
