@@ -6,3 +6,6 @@
 
 그럼 이제 어떻게 해야할까요?
 
+[방에서 나갈 수가 없으니 일단 인터넷 쇼핑을 한다](http://www.takemethere.co.kr/)
+
+[움직일수가 없으니 다시 잔다](../marshmallow.md)
