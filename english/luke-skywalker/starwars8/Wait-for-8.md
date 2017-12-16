@@ -1,2 +1,3 @@
-"yea, you know I can't say anything.
-You have to wait for Star Wars: VIII in December 2017."
+"Listen, padawan: You should get to the cinema now and 
+see Star Wars VIII: The Last Jedi. All your questions 
+will be answered."
