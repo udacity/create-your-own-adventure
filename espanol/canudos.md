@@ -194,3 +194,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
+
+se quedó en silencio mirando a Beatito. Un gesto de alivio y alegría [recorrió el rostro de ambos.](victoria/victoria.md)
