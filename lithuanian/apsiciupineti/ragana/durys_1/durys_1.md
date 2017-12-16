@@ -1,0 +1,1 @@
+﻿Jas atidaręs jis pamatė tai, ko nesitikėjo pamatyt.
