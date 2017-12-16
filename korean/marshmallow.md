@@ -51,3 +51,5 @@
 [인스타그램에 인증샷을 올린다] (instagram/insta.md)
 
 [게임을 시작한다] (playgame/playgame.md)
+
+[자기상태를 확인한다](for-fashion/for-fashion.md)
