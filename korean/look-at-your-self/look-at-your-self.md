@@ -6,6 +6,6 @@
 
 어떻게 할까요?
 
-[갈아입을 멋지구리한 옷을 찾는다](www.takemethere.co.kr)
+[갈아입을 멋지구리한 옷을 찾는다](http://www.takemethere.co.kr)
 
 [아무것도 하기 싫으니 가만히 다시 잔다](../marshmallow.md)
