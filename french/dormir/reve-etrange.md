@@ -6,7 +6,7 @@ Vous vous reveillez ce qui semble etre quelques heures plus tard,
 
 Que faites-vous ?
 
-Je ne sais pas, mais je vais determiner [quoi](../appelle-genie/appelle-genie.md) le c'est
+[Je ne sais pas, mais un genie va m'aider](../appelle-genie/appelle-genie.md)
 
 [Je cherche une sortie](../sortie/chercher-la-sortie.md)
 
@@ -14,4 +14,4 @@ Je ne sais pas, mais je vais determiner [quoi](../appelle-genie/appelle-genie.md
 
 [Je mange](../manger/faim.md)
 
-[Rien] (../rien/rien.md)
+[Rien](../rien/rien.md)
