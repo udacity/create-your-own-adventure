@@ -26,7 +26,7 @@
 
 [Просто трошки почекаю](wait-more/wait.md)
 
-[Візьму виделку і ] (make-a-hole/in-the-wall.md)
+[Візьму виделку і ](make-a-hole/in-the-wall.md)
 
 [Test!](test/test.md)
 
@@ -45,3 +45,5 @@
 [Викличу потусторонні сили](daemon/daemon.md)
 
 [В телефоні ж є музічний плеєр](the-wall/the-wall.md)
+
+[Перевірю телефон](check-phone/check-phone.md)
