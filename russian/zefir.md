@@ -120,4 +120,4 @@
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
 
-[Пойду сквозь терни к звездам](reach_the_star/reach_the_star.md)
+[Пойду сквозь терни к звездам](reach_the_stars/reach_the_stars.md)
