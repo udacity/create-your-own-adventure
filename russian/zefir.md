@@ -119,3 +119,5 @@
 [Зайти на двач](2ch/2ch.md)
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
+
+[Пойду сквозь терни к звездам] (reach_the_star/reach_the_star.md)
