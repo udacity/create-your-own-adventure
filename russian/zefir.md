@@ -120,4 +120,4 @@
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
 
-[Сделать зарядку] (do_exercise/exercise.md)
+[Сделать зарядку](do_exercise/exercise.md)
