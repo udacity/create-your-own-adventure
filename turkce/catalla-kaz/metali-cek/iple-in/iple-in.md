@@ -4,3 +4,6 @@ Meğerse ipin aşağıdaki kısmı yanmaya başlamış.
 - ne beklediğini bilmeden karanlığa atlamak veya
 - hızla ipten tutunarak yukarı doğru hareket etmek.
 - değişiklik.
+
+[Karanlığa Atla](karanliga-atla/karanliga-atla.md)
+
