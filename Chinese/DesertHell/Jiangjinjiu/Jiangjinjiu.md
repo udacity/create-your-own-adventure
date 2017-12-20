@@ -15,3 +15,5 @@
 陈王昔时宴平乐，斗酒十千恣欢谑。
 主人何为言少钱，径须沽取对君酌。
 五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。
+
+你实在听不下去了，就[打了老头一拳！](create-your-own-adventure/Chinese/DesertHell/Jiangjinjiu/punch/punch.md)
