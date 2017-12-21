@@ -3,3 +3,6 @@ It was a costume party, and, come to think of it, the Chief Marshmallow was ther
 
 He was obviously angry about something. 
 It could be the horrible smell that was coming from the [raccoon in the corner.](../raccoon-corner/raccoon-corner.md)
+
+The smell was irrelevant when all I could focus on was the severe winter storm.
+I could barely see, let alone worrying about some smell.W
