@@ -1,0 +1,1 @@
+Pasirinkimas prastas, už godumą Tave paversiu į vilką.
