@@ -1,1 +1,1 @@
-Pasirinkimas prastas, už godumą Tave paversiu į vilką.
+Pasirinkimas prastas, už godumą Tave paversiu vilku.
