@@ -11,5 +11,7 @@ Which part of the world, and what time you want to travel? And why?
 
 [You decide to travel back in time to visit a founding father of America](https://www.youtube.com/watch?v=t0aX8Jy1tME)
 
+[You decide to go back to the time when Barack Obama was the President](barack-obama/obama.md)
+
 [You turn back](../marshmallow.md)
 
