@@ -1,1 +1,2 @@
-Jis apsisuko ir pamatė [nykštuką](.nykstukas/nykstukas.md)
+Jis apsisuko ir pamatė
+ [nykštuką](.nykstukas/nykstukas.md)
