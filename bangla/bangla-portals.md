@@ -4,6 +4,6 @@ blog: http://www.somewhereinblog.net/
 
 http://www.priyo.com/
 
-http://www.google.co.in/
+http://www.google.com/
 
 Click [bangladesh.gov.bd](http://www.bangladesh.gov.bd/) to know more.
