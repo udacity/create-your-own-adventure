@@ -1,8 +1,8 @@
 http://www.pipilika.com/
 
-blog: http://www.somewhereinblog.net/
+http://www.prothom-alo.com/
 
-http://www.priyo.com/
+blog: http://www.somewhereinblog.net/
 
 http://www.google.com/
 
