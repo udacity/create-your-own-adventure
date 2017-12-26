@@ -1,0 +1,3 @@
+You pause your frenzied reading to look out the window. Cars and pedestrians pass by oblivious to your fraying grasp on reality. In a moment of clarity, you realize the world has gone on despite the cracks in your psyche. It is not to blame. It is not even aware of you. 
+
+You set down this exercise and go for a walk. You feel much better. You ae not mad, and the world is not any more mad than it has ever been.  You wisely decide you're not going to look at any more choose your own adventure GitHub repositories.

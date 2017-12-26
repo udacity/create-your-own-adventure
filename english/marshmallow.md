@@ -1238,6 +1238,13 @@ Smile and move on gingerly.
 
 What is your [passion?](passion/passion.md)
 
+After attempting to read this "story," you are unable to discern whether you are mad, or if the world itself is mad.
+Neither possibility provides any comfort to you. You pick back through the strings of text looking for a shred 
+of sanity in the ramblings... but the overwhelming lack of coherence drowns out any momentary clarity.
+Your face contorts in confusion and pain, and you:
+1. Reluctantly begin to come to grips with your now-fragmented mind. [You are crazy](Z_Clip/your_are_crazy.md)
+2. Conclude you are the only pinprick of sanity in a vast ocean of absurdity. [The world is crazy](Z-Clip/world_is_crazy.md)
+
 -
 
 searching for [good](tvf-play/watch.md) content.
