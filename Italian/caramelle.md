@@ -36,3 +36,5 @@ Che fai?
 [Canto](canto/canto.md)
 
 [Guardo l'orologio](orologio/orologio.md)
+
+[Filosofeggio](filosofo/filosofo.md)
