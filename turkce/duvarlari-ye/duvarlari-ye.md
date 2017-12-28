@@ -10,6 +10,7 @@ Ne yapacaksın?
 
 Orayı boşver. [Yemeye devam et](yemeye-devam-et/yemeye-devam.md)
 
+Deliğe gir.  [Koridorda kos](../turkce/koridor/koridorda-kos.md)
 
 
 
