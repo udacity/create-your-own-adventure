@@ -14,3 +14,4 @@ Co robisz?
 
 [Idziesz kupiæ Kadarkê](kadarka/kadarka.md)
 i
+Przypominasz sobie, dlaczego jestes [abstynentem](abstynent/abstynent.md)
