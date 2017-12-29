@@ -6,4 +6,3 @@ Life is definitely good!
 [Оставаться в позитиве](positiv/pozitiv.md)
 
 [Хочу снова страдать](../LifeIsPain/LifeIsPain.md)
-
