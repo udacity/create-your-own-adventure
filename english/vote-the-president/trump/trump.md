@@ -12,8 +12,6 @@ Let's make America bigly again with my tiny pair of hands!
 
 What have you done, you silly people! Commiserations from Australia :(
 
-So now Russia runs America? 
+So now Russia runs America?
 
-
-
-
+In the big scheme of things - nothing much happens
