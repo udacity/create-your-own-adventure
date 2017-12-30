@@ -14,9 +14,17 @@ Pricess Leia inspires,
 Snoke should moisturise,
 Let the force be with you.
 
-[Eat pizza] (english/pizza/pizza.md)
-[Sing Karaoke] (english/karaoke/nope.md)
-[Be happy] (english/happie.md) 
+What next?
 
+[Eat pizza] (../pizza/pizza.md)
 
+or
+
+[Sing Karaoke] (..karaoke/nope.md)
+
+or
+
+[Be happy] (../happy/happie.md) 
+
+Maybe all of the above? ;-)
 
