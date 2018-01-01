@@ -26,3 +26,7 @@ and paths which we have to cross and move ahead.
 The tips do have hidden meaning which I happen to think during
 the ride as to how this can benefit our daily life
 
+The trip this arduous needs specialized equipment. To start with you need
+a powerful bike that can not only take the terrain but is simple enough so that 
+on the fly repairs are easy. 
+
