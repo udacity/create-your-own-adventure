@@ -40,6 +40,8 @@ The path you choose is as good as any.
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
+Run a [marathon](marathon/marathon.md)? It is rewarding!
+
 [Build time machine](time-machine/time-machine.md)
 
 Take some [time](meditation/meditation.md) off!
