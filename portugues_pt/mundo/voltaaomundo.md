@@ -19,6 +19,6 @@ Doar 1,000,000€ ao IPO Porto!
 
 doaria o dinheiro ao [Projecto Vénus](https:/www.thevenusproject.com/) - Para além da politica, pobreza e guerras -
 
-para que começasse a construção da primeira cidade da [Economia Baseada em Recursos]
+para que começasse a construção da primeira cidade da [Economia Baseada em Recursos](portugues_pt/mundo/ebr)
 
 e assim começar a criar um Mundo melhor para todos
