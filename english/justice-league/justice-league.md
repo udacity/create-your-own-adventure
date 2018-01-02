@@ -11,7 +11,7 @@ Who will answer the call?
   - Superman?
   - Batman?
   - Wonder Woman?
-  - Flash?
+  - [Flash](./flash/flash.md)?
   - Green Arrow?
   - Green Lantern?
   - Aquaman?
