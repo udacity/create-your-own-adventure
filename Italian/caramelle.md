@@ -30,9 +30,11 @@ Che fai?
 [Lavorare](lavorare/lavorare.md)
 
 [Accendo la luce](luce/luce.md)
-
+/specchio
 [Cerco lo smartphone] (smartphone/smartphone.md)
 
 [Canto](canto/canto.md)
 
 [Guardo l'orologio](orologio/orologio.md)
+
+[Mi avvicino allo specchio](specchio/specchio.md)
