@@ -1,0 +1,1 @@
+All'improvviso, dove prima c'erano i libri, trovi una leva nascosta. La abbassi e la parete della libreria si apre su uno spazio buio e inquietante.  
