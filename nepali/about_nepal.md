@@ -11,6 +11,6 @@
 dhanyabad tapai ko .md file ko lagi
 [tapai sanga kura garda ramro lagyo](gthfy/gthfy.md)
 
-अन्नपूर्ण संरक्षण क्षेत्रबारे जानकारीको लागि [एता थिच्नुहोस |](nepali/abc/abc.md)
+अन्नपूर्ण संरक्षण क्षेत्रबारे जानकारीको लागि [एता थिच्नुहोस |](abc/abc.md)
 
 [purano](aalchi lagyo/alchi.md)
