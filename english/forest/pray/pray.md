@@ -14,3 +14,5 @@ and how did you there.Then you notice a silhouette of someone in a corner.You ca
 out to him and ask, "Who are you? Where am I? How did I get here?"
 
 He replies, "I am GOD.You are in safe heaven.You are Dead."
+
+[plead with God to bring you back to life](plead/plead.md)
