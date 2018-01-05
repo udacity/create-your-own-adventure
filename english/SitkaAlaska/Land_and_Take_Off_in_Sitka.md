@@ -1,0 +1,1 @@
+Land and take off in Sitka Alaska by watching this [youtube video](https://www.youtube.com/watch?v=IF_DvKMWEm0).
