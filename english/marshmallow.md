@@ -9,6 +9,8 @@ Enter [The Forest!] (forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
+If you like VR please checkout my [VR studio Granola Studios](http://granolastudios.com)
+
 hi~
 
 NGE is [here] (NGE/NGE.md)
