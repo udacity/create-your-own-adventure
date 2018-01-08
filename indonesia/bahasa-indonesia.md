@@ -1,2 +1,2 @@
 Selamat datang kawan...
-Jika anda sempat untuk datang ke Surabaya, silakan kunjungi tugu pahlawan, leonor.lim@gmail.com
+Jika anda sempat untuk datang ke Surabaya, silakan kunjungi tugu pahlawan, leonord.lim@gmail.com
