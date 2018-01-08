@@ -7,6 +7,9 @@ A few learned to [tango](tango/tango.md)
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
+If you want to write who is your favorite EXO member, 
+go [here](exo/exo.md)
+
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
