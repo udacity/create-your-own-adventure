@@ -11,3 +11,5 @@
 [노래를 부른다](../sing-a-song/song.md)
 
 [잠을 잔다](../sleep/marshmallow.md)
+
+[요가를 한다](../yoga/yoga.md)
