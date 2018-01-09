@@ -10,3 +10,5 @@ Sento delle voci provenire probabilmente da una stanza vicina. Stanno parlando d
 "Io... devo...PULL... mmmh .. lasciatemi devo fare ... PULL ... mmh ... REQUEST"
 
 "REQUEST... PULL REQUEST!"
+
+[Adesso che faccio?!](Italian/caramelle.md)
