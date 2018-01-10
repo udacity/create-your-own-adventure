@@ -13,4 +13,5 @@ Co robisz?
 [Chcesz siÄ™ przebraÄ‡](ubranie/ubranie.md)
 
 [Idziesz kupiæ Kadarkê](kadarka/kadarka.md)
-i
+
+[Wsiadasz na rower i jedziesz przed siebie](rower/rower.md)
