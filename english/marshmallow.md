@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+If you like tasty breakfasts, try some [overnight oats!](overnight-oats/recipes.md)
