@@ -32,6 +32,8 @@ or a
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
+There is no such thing as not choosing a path in life. Choices are mandatory!
+
 Oh so many decisions - what will you do??
 
 In the end you will realize that it [doesn't really matter]
