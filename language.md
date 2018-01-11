@@ -158,7 +158,7 @@ If you understand Tamil, திருநாவுக்கரசர் அரு
 
 if you understand maithli, click [here...](maithli/maithli.md)
 
-if (you.understand("C#")) here.click();
+if (you.understand("JavaScript")) [here.click();](JavaScript/JavaScript.md)
 
 if you speak Bahasa Indonesia [klik disini](indonesia/bahasa-indonesia.md)
 
