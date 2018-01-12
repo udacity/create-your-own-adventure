@@ -3,4 +3,4 @@ The Epic Sexy Sax Guy appeared at the scene and with his powerful skills with th
 by the catastrophe... [Click here to receive the epic sax guy music] (https://www.youtube.com/watch?v=BYEFv6sgKrM)
 
 And by the powerful magic of the saxophone everybody in a snap began to understand what a goblin inside Beatito's body
-[began to yell at everybody](create-your-own-adventure/Gibberish/HorkPorkDork/horky.md)
+[began to yell at everybody](../Gibberish/HorkPorkDork/horky.md)
