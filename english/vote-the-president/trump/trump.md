@@ -14,6 +14,8 @@ What have you done, you silly people! Commiserations from Australia :(
 
 So now Russia runs America? 
 
+Deny that Russian [collusion](./collusion/russia.md) in our election ever happened!
+
 
 
 
