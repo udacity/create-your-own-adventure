@@ -2,4 +2,5 @@ Love is universal, some say, [French] (../french/feu-de-camp.md) is the language
 
 Do I agree?
 
-Love Yourself first and most. Click [SelfLove](love/SelfLove.md) to take the first steps.
+Love Yourself first and most. Click [SelfLove](/SelfLove.md) to take the first steps.
+
