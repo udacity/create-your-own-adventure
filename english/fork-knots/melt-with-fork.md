@@ -12,3 +12,5 @@ Do you?
 [Smash the altar](../fork-jam/altar-smash/altar-smash.md)
 
 [Pray in the altar?](../fork-jam/altar-pray/altar-pray.md)
+
+[Run out of the room?](../explore-outside/journey-to-flaming-tower/start-running/start-running.md)
