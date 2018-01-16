@@ -28,3 +28,5 @@ Who am I?  Where am I?  What am I doing?
 My name is...I am Daniel.
 
 All your quesions can be answered by going [here](https://www.amnesiagame.com/#main).
+
+But wait, there is this [distraction](english/sing-a-song/catchy-song.md) again!
