@@ -1,0 +1,1 @@
+- Izé..., itt..., hát..., eszem a mályvacukrot. De te honnan tudod, hogy a kutyám is itt van?
