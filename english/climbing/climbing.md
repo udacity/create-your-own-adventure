@@ -11,3 +11,5 @@ Click [here](../dance/dance.md) to dance.
 Click [here] (../jump/jump.md) to jump.
 
 Click [here](../fly-falcon/fly-falcon.md) to spread your wings.
+
+Click [here](../matrix/matrix2/matrix2.md) to climb through the door and enter the matrix.
