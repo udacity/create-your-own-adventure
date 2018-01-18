@@ -1,4 +1,4 @@
-Jednog jutra, probudis se u cudnoj sobi za sidovima od sljezovih slatkisa.
+Jednog jutra, probudis se u cudnoj sobi sa zidovima od sljezovih slatkisa.
 
 Sljezovih slatkisa je mnogo i izgledaju jako ukusno.
 
@@ -15,3 +15,5 @@ Napokon shvatis da je sljez samosvjestan!
 Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
 
 Vani pada kisa.
+
+Sljezove oci te prate tuznim pogledom dok u razocarenju ispusta cigaretu na pod.
