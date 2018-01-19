@@ -13,4 +13,4 @@ really have your heart set on this dog, and it seems like he likes you
 too. 
 
 Before you leave you decide to look at the silly dog with the unbrella
-hat; it is an actual [poodle mix](english/shihpoo.md).
+hat; it is an actual [poodle mix](../../english/shihpoo.md).
