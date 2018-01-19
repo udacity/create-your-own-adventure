@@ -11,3 +11,6 @@ There's only one problem. The girl at the counter says that the Golden
 Lab has recently been claimed, and is awaiting his new owner. You 
 really have your heart set on this dog, and it seems like he likes you 
 too. 
+
+Before you leave you decide to look at the silly dog with the unbrella
+hat; it is an actual [poodle mix](../../english/shihpoo/shihpoo.md).
