@@ -6,3 +6,6 @@ múltiples aventuras sin miedo de hacer un papelón.
 
 Pero dado que has nacido con la maldición de la valentía, debes conjurar tu destino,
 venciendo al miedo.
+
+Y al vencer al miedo encontraras otros retos, seguro volveras a sentirlo, pero una y
+otra vez haras ejercicio de madurez y personalidad.
