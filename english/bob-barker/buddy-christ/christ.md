@@ -1,0 +1,3 @@
+"Bro, I'm bithy," Jesus's masculine but heavily lisping voice answered the phone. "Thith had better be good..."
+
+You clear your throat and say sarcastically...
