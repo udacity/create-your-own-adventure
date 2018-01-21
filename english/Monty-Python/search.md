@@ -15,3 +15,6 @@ Chop off his limbs
 Go off to find a nice shrubbery
 
 [Run into the Knights who say "Ni!" again!](https://www.youtube.com/watch?v=zIV4poUZAQo)
+
+Run into a creature so foul, so cruel, that no man has yet fought with it
+and [lived](https://www.youtube.com/watch?v=TnOdAT6H94s)
