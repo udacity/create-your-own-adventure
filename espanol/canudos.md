@@ -28,7 +28,7 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 [Se dirigió a la muralla exterior del pueblo.](muralla/muralla.md)
 
-Se canso de todo esto y fue a buscar [otra cosa](ya-estuvo.md) que hacer.
+Se canso de todo esto y fue a buscar [otra cosa](suficiente/ya-estuvo.md) que hacer.
 
 [Empaquetó sus cosas e intentó salir por la puerta trasera.](huida/puerta.md)
 
