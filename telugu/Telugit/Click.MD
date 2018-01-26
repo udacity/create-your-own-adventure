@@ -1,0 +1,1 @@
+Click [here](https://translate.google.com/) to visit Google.
