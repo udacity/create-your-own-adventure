@@ -72,4 +72,4 @@ BR BR BR Hue hue hue!!!!
 
 [Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
 
-[Preciso furar a parede, o que fazer?] (microdont/microdont.md)
+[Preciso furar a parede, o que fazer?](microdont/microdont.md)
