@@ -14,3 +14,7 @@ Fall is a great season to take a vacation in any of these spots:
 
 It's frosty winter.. but these places can be excitng:
 [winter destinations](winter/winter.md)
+
+Visit Birmingham in the cold
+
+[Brum](https://en.wikipedia.org/wiki/Birmingham)
