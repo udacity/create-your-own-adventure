@@ -19,6 +19,6 @@ Visit Birmingham in the cold
 
 [Brum](https://en.wikipedia.org/wiki/Birmingham)
 
-Or visit Leeds
+Or visit Leeds in the winter
 [Leeds](https://en.wikipedia.org/wiki/Leeds)
 
