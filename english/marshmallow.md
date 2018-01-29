@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-Click [here](english/soccer.md) to play soccer.
+Click [here](english/Soccer/SoccerAddict.md) to play soccer.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
