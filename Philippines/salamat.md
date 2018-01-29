@@ -30,3 +30,5 @@ Samahan si Benj sa kanyang paglalakbay! [Tara!](tara/tara.md)
 
 Para sa mga gusto kumanta [kanta] (kanta/minsan.md)
 Januart 12, 2017
+
+Para sa mga pusong sugatan. [hugot](hugot/hugot.md)
