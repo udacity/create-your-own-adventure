@@ -75,6 +75,8 @@ accediendo a un [estado de meditación transcendente](transcender/transcender.md
 
 [Y vino un ejercito](ejercito/ejercito.md)
 
+Miró al cielo y vio algo raro con la [luna](luna/luna.md)
+
 [Un ejercito de angeles para ayudar a los guerreros.](angeles/angeles.md)
 
 [En el rincón donde dormía, el beatito...](beatito/beatito.md)
