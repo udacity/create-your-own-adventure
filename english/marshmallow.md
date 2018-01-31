@@ -779,6 +779,8 @@ Click [here](young/young.md) to listen to music.
 
 And then you realize that Burning Man is over, so no real vacations :(
 
+[Choose to create your own Burning Man festival.] (burningmandiy/burningmandiy.md) 
+
 [present-tense](present-tense/present-tense.md)
 
 [Think about happy thoughts while spinning around in circles](my-story/my-story.md)
