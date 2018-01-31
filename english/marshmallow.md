@@ -1,4 +1,14 @@
 Once upon a time many authors collaborated to make meaningless linked story.
+  As it turned out it was absolute rubbish. Aoi tossed the story aside and 
+stepped out for a pizza. Pizza is the best, he thought. I've just got to get 
+some pizza, right this instant! So he grabbed his big blue winter coat, the 
+one with the hood. He pushed his arms through the sleeves and pulled the
+jacket up over his shoulders without stopping, nearly tripping as he ran out
+the walkway from his apartment and onto the main street. But which pizza 
+should Aoi get? 
+
+Should Aoi [run out the door](run_out_the_door/run_out_the_door.md) in any direction?
+Or should he [Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings?
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
