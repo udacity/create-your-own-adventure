@@ -1,0 +1,1 @@
+Entering in state avatar and controling all four elements, so the Fire Lord Ozai wouldn´t have a chance!

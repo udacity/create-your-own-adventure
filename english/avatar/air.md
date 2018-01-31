@@ -12,3 +12,4 @@ You feel stranded.
 How can I get off of this planet?
 You are desperate and scream, "Oh God!"
 Suddenly - [you wake up!](../wake-up/wake-up.md)
+And Aang realised he can defeat Fire Lord Ozai [by](../defeat/defeat.md)
