@@ -1241,3 +1241,10 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+You realise your mind has been wondering for hours.
+
+You quickly get your mind back on track, thinking about the best way to conquer the great climb ahead of you.
+
+You start by prepairing the
+
