@@ -20,3 +20,5 @@ but words!
 
 [consume combat ration](../combatration/combat_ration.md)
 mmmm combat rations...
+
+[Or wonder through dim reality](../Enter-a-dim-reality/Dim_reality.md)
