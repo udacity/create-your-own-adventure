@@ -1,5 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+Hi, i am Sherlock Holmes. You can read stories all you want, but first, if you have a case for me then click [here](sherlock/bored.md)
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
