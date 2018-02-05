@@ -12,3 +12,5 @@ whereas the life of this world is only a deceiving enjoyment“.
 "Life isn't that simple but you got to take every possible risk in life to achieve something."
 
 "Explore another dimension[dimension](../dimensions/dimension.md). It's fun"
+
+[The Earth exploded and I saw the galaxies.](https://lh3.googleusercontent.com/vqZ4d4_iZAgPH6iFjwQnjccoSR9YbabBILCI-Yq48m7sLSIweQcm8FQve4J_U19Vgbc=h900-rw)
