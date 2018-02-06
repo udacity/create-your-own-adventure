@@ -7,7 +7,7 @@ Se quedo en [blanco](blanco/blanco.md)
 Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
 (Zipi es el rubio)
 
-Hizo un gesto de [cansancio](cansancio/cansancio.md)
+Hizo un gesto de [amor](amor/amor.md)
 
 [Hizo un gesto a Beatito](revolucion/revolucion.md)
 
