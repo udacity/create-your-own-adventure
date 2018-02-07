@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Sometimes, you just gotta [do you](https://www.youtube.com/watch?v=hooKVstzbz0).
