@@ -2,4 +2,4 @@ La bruja les ofreció su ayuda para derrotar al ejército invasor a cambio del p
 
 A lo que el rey accedió gustoso
 
-El [hijo](../canudo.md) seria el heredero al trono
+El [hijo](../canudos.md) seria el heredero al trono
