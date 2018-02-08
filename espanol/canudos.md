@@ -48,6 +48,8 @@ and doesn't know how to speak Spanish.](../english/TheEpicSax/111_TheEpicSaxGuyA
 
 [Una bruja entró en el salón](bruja/bruja.md)
 
+La [Bruja](bruja/bruja.md) era de San Francisco del Rincon
+
 [Subió a la torre](torre/torre.md)
 
 Se cansó de la guerra y decidió alienarse de todo lo material, 
