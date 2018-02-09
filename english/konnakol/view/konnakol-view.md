@@ -1,4 +1,4 @@
-Listen along here.
+Listen along [here](https://youtu.be/zYxaoRVofE8?t=5m42s).
 
 ...
 
@@ -59,4 +59,4 @@ Ta Ka Di Na Ta Ki Ta
 Ta Ka Di Na Ta Ki Ta
 ...
 
-go back
+[go back](../konnakol.md)

@@ -14,7 +14,7 @@ Note: This may not be the standard konnakol language; this is what I was taught 
 
 Now to demonstrate the use of konnakol, we will take an instrumental section of Frank Zappa's "Inca Roads", and
 incorporate konnakol phrases and sequences to the rhythms underlying the sections unusual time signatures and/or
-unorthodox phrasing. The section starts at [5:42 in the song]:
+unorthodox phrasing. The section starts at [5:42 in the song](https://youtu.be/zYxaoRVofE8?t=5m42s):
 
 Note: a '-' means a beat that is sustained for an extra beat
 
@@ -26,6 +26,6 @@ Note: a '-' means a beat that is sustained for an extra beat
 16th notes: 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
 ...
 
-To see all of this written out in actual konnakol instead of just numbers, click here!
+To see all of this written out in actual konnakol instead of just numbers, [click here](konnakol/konnakol-view.md)!
 
-Orrrrrr you could just talk to Bob Barker if you haven't already.
+Orrrrrr you could just [talk to Bob Barker](../bob-barker/barker.md) if you haven't already.
