@@ -26,6 +26,6 @@ Note: a '-' means a beat that is sustained for an extra beat
 16th notes: 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7
 ...
 
-To see all of this written out in actual konnakol instead of just numbers, [click here](konnakol/konnakol-view.md)!
+To see all of this written out in actual konnakol instead of just numbers, [click here](view/konnakol-view.md)!
 
 Orrrrrr you could just [talk to Bob Barker](../bob-barker/barker.md) if you haven't already.
