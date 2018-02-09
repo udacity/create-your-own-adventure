@@ -47,4 +47,6 @@ There is no conflict！
 [Sleep]
 [Have some chocolate coffee.](../coffee/coffee.md)
 
+[Have someone call the police](police/police.md)
+
 
