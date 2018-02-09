@@ -18,4 +18,4 @@ Valar dohaeris
 
 These words spoken and you are now a faceless man, a merceiless assassin, on your way back to Braavos. 
 
-A person has no name.Valar morghulis.
+I am no faceless man.I am Arya Stark of winterfell and I'm going home.
