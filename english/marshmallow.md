@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Psst...kid! Yeah, you! Do you want to know what my favourite food is? [Follow me, then!] (Almonds/almonds.md)
