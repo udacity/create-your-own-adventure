@@ -1,0 +1,1 @@
+Yup! I love almonds! They are crunchy, sweet and full of protein and good fat. Yummy !!
