@@ -1,6 +1,8 @@
 Darkness. Fluffiness. 
 Fluffiness. Darkness. 
 
+(Eerie Silence.....)
+ 
 You turn around and see the marshmallow from
 which you emerged. As it struggles to take it's
 last breath, you tap the powers of the One and 
