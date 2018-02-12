@@ -1,0 +1,3 @@
+The game you're gonna play is called [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes)!!
+
+It's amazing, have fun!
