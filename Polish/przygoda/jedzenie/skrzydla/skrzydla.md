@@ -6,4 +6,5 @@ Obserwację nagle przerywa ci donośny skrzek dochodzący od strony zachodząceg
 Obiekty leci wprost na ciebie. Musisz podjąć decyzję co dalej robić. 
 
 Nie bedzie jakas potwora sie rzadzic na twojej dzielni! [Stan do walki](walka/walka.md).
+
 To nie wyglada dobrze ... [uciekaj](ucieczka/ucieczka.md)
