@@ -1,6 +1,9 @@
-Nabierasz rozpêdu i wyskakujesz z mieszkania przez miejsce, które do niedawna by³o twoim oknem.
-Skrzyd³a unosz¹ ciê w powietrzu a pod tob¹ rozpoœciela siê niesamowity widok.
-Ca³e miasto zamieni³o siê w kraine s³odkoœci. 
-Elewacja budynków pokrywaj¹ tabliczki czekolady, a w parku zamiast drzew rosn¹ lizaki.
-Obserwacjê nagle przerywa ci donoœny skrzek dochodz¹cy od strony zachodz¹cego s³oñca.
-Obiekty leci wprost na ciebie. Musisz podj¹æ decyzjê co dalej robiæ. 
+Nabierasz rozpï¿½du i wyskakujesz z mieszkania przez miejsce, ktï¿½re do niedawna byï¿½o twoim oknem.
+Skrzydï¿½a unoszï¿½ ciï¿½ w powietrzu a pod tobï¿½ rozpoï¿½ciela siï¿½ niesamowity widok.
+Caï¿½e miasto zamieniï¿½o siï¿½ w kraine sï¿½odkoï¿½ci. 
+Elewacja budynkï¿½w pokrywajï¿½ tabliczki czekolady, a w parku zamiast drzew rosnï¿½ lizaki.
+Obserwacjï¿½ nagle przerywa ci donoï¿½ny skrzek dochodzï¿½cy od strony zachodzï¿½cego sï¿½oï¿½ca.
+Obiekty leci wprost na ciebie. Musisz podjï¿½ï¿½ decyzjï¿½ co dalej robiï¿½. 
+
+Nie bedzie jakas potwora sie rzadzic na twojej dzielni! [Stan do walki](walka/walka.md).
+To nie wyglada dobrze ... [uciekaj](ucieczka/ucieczka.md)
