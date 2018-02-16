@@ -19,7 +19,7 @@ You realize you can't wake up. Or you are already awake. But you must continue b
 
 winter is coming.  
 
-Hot cocoa will be sold at nearly every street corner, and your sweet
+Poisonous hot cocoa will be sold at nearly every street corner, and your sweet
 scent will likely have the drinkers plucking pieces of your being for their drinks.  
 
 Sure, it's not right as it's not consensual, but you have a hazy memory
