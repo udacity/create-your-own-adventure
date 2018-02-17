@@ -11,8 +11,8 @@ I've heard that it tastes like pork...
 OMG WHAT SHOULD I DO??
 I NEED HELP...
 
-I wonder what the cat would do if I gave it a hot dog. I know 
-what I would do. 
+I wonder what the cat would do if I gave it a hot dog. I know
+what I would do.
 
 I'd eat it. Yup, I know it sounds disgusting but a dog is a dog and a cat is a cat.
 You know what I mean?
@@ -30,7 +30,7 @@ oh! i have a great idea. why don't we get ourselves a mouse? me and the cat woul
 
 No. No.  A hedgehog would be the far superior choice, as hedgehogs make great pets
 and all the girls would stop and ask you what it is.  You could chat them up.  Maybe get their
-phone numbers?  
+phone numbers?
 
 This could happen.  And you could exchange phone numbers and maybe spend the rest of your lives
 together, just because you chose to get a hedgehog, rather than a mouse!!
@@ -38,4 +38,6 @@ together, just because you chose to get a hedgehog, rather than a mouse!!
 My mother was a butterfly. Is that true? No it is not.
 
 I love animals, they are delicious.
+
+Don't eat cats, they are so cute!
 
