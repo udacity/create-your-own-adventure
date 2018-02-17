@@ -1,3 +1,4 @@
+You are bored and Pokemon crosses your mind.
 You bring out your Pikachu and Pikachu uses thunderbolt on the marshmallow! You win!
 To celebrate, you take a moment to pull out some graham crackers and chocolate
 and make smores.

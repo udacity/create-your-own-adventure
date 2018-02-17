@@ -1,0 +1,3 @@
+Nothing has happened yet....
+[Are you bored?](../../pokemon/pikachu_wins.md)
+[Or will you keep waiting?](../../decisions/have_been_waiting.md)
