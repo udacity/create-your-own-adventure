@@ -1,0 +1,1 @@
+ಹುಡುಗಿ ಬೇಕಂಡ್ರೆ [click](https://waitbutwhy.com/2014/02/pick-life-partner.html) ಮಾಡಿ
