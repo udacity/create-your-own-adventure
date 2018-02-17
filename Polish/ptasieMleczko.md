@@ -14,3 +14,5 @@ Co robisz?
 
 [Idziesz kupić Kadarkę](kadarka/kadarka.md)
 ii
+
+Kurtka
