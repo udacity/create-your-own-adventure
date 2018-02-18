@@ -6,3 +6,6 @@ Where are you?
 [Woodstock 1994](woodstock-1994/woodstock-1994.md)
 
 [Lollapalooza 1997](lollapalooza-1997/lollapalooza-1997.md)
+
+If you got seperated from your friends and don't know the way, go here:
+[Meet at porto-potties](../ugandan-knuckles/knuckles.md)
