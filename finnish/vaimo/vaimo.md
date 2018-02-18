@@ -1,0 +1,1 @@
+Juuri kun luulin, ettei tästä voisi hetki enää paremmaksi muuttua, näen vaimoni astelemassa laituria kohti.
