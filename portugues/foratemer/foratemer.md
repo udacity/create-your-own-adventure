@@ -1,0 +1,1 @@
+Fora Temer e todos esse bandidos corruptos e juízes safados!!!!
