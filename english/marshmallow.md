@@ -1242,4 +1242,4 @@ What is your [passion?](passion/passion.md)
 
 searching for [good](tvf-play/watch.md) content.
 
-Stop and think about [this](The-Only-Way/Truth_way.md) 
+Stop and think about [thissss](The-Only-Way/Truth_way.md) 
