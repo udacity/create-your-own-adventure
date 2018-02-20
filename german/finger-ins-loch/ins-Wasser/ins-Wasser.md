@@ -5,4 +5,5 @@ für Sie, zurück ins Boot zu steigen!
 
 Sie klammern sich ans Boot und überlegen ob es nicht doch eine Möglichkeit gibt wieder ins Boot zu gelangen. 
 
-Zumindest [ohne die schweren Stiefel](stiefel/stiefel.md) sollte es leichter gehen, allerdings studieren sie auch wieder an der [Spaghetti-Monster-Option](../../beten/beten.md) rum.
+Zumindest [ohne die schweren Stiefel](stiefel/stiefel.md) sollte es leichter gehen.
+Allerdings studieren sie auch wieder an der [Spaghetti-Monster-Option](../../beten/beten.md) rum.
