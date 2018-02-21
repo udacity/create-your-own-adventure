@@ -6,3 +6,5 @@ What do you ask him?
 or
 
 [What made you want to leave the Resistance?](starwars7/duh.md)
+
+[Have you heard the tragedy of Darth Plagueis the Wise?](/plagueis/plagueis.md)
