@@ -8,3 +8,5 @@ if you like to see urdu news [click here](http://www.bbc.com/urdu/)
 
 اردو میں کہانیاں بےشمار ہیں۔ ہم آپ کو آج ایک انوکھی کہانی سناتے ہیں۔ یہ کہانی پیاسے کوے کا جدید دور ہے۔ جب کوے کع بحوک
 لگی تو اڑھتے اڑھتے اس کی نظر مینیرل واٹر کی چھوٹی بوتل پر پڑی۔ آگے کیا ہوا؟
+
+if you like to read urdu poetry [click here](http://www.urdupoetry.com/)
