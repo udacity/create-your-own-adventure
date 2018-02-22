@@ -1,0 +1,1 @@
+Since you've decided to take this road, that means there is room for you to a clean life again [after](../maze/add/after/after.md) all.
