@@ -4,4 +4,4 @@ Then I could travel to anywhere in the Universe to my liking,
 because I decided what to vacuum.
 
 But first I should make sure I really know what a vacuum is.
-[Definition here] (./definition.md)
+[Definition here](./definition.md)
