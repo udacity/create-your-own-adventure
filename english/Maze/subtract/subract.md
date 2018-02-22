@@ -1,0 +1,1 @@
+Whatever is your reason for adding to ills in the world, I hope you understand and have a rethink of your decision by adding some positive to it maybe you might power some life. So you can do this now sooner than [later](../maze/subract/later/later.md)
