@@ -7,3 +7,5 @@
 [林の中に分け入る](../beanus/beanus.md)
 
 [小道を進む](../path/path.md)
+
+[庭を散策する](../stroll/stroll.md)
