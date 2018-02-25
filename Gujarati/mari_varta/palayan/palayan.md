@@ -12,4 +12,4 @@ My nanaji used to tell me this story at bed-time. Me and my cousines loved to re
 
 Thanks for reading :)
 
-For going back to the first page of Gujarati stoires [click here](../gujarati.md)
+
