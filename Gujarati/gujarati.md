@@ -1,4 +1,6 @@
---------------------------સુંદર પંક્તિઓ----------------------------------------
+
+--------------------------------------------------------------------------------
+------------------------------------------------સુંદર પંક્તિઓ--------------------------------------------
 
 મૂલ્યવાન પ્રાપ્ય અને તેને પામવાના સતત અને અથાગ પ્રયત્નોથી મનની સ્થિરતા સુરક્ષિત છે.
 (When object to be gained is sufficiently valued, 
@@ -14,6 +16,12 @@ followed without intermission, then the steadiness of mind is secured.)
 ભગવાન શ્રીકૃષ્ણ દ્વારા દોરવણી પામેલી અને મહાત્મા ગાંધી દ્વારા બોલાયેલી અને લખાયેલી એવી ગુજરાતી ભાષા મહાન છે.
 (Gujarati language is great. Lord Krishna spoke or led to it. Mahatma Gandhi spoke and wrote in it.)
 
+ટીપે ટીપે સરોવર બંધાય , કાંકરે કાંકરે પાડ બંધાય
+This is my favourite Gujarati proverb copied from [here](http://gujarati-proverbs.tumblr.com/)
+
+જાગ્યા ત્યાંથી સવાર
+Mine favourite(@ http://gujarati-proverbs.tumblr.com/)
+
 -----------------------------------------------------------------------------
 
 ગુજરાતી ભાષાનાં પરાક્રમી સફરોમાં આપનું સ્વાગત છે. અગણીત સફરો માંથી તમે કયું પસંદ કરશો?
@@ -23,8 +31,8 @@ followed without intermission, then the steadiness of mind is secured.)
 
 CS [go here](DhoklaStellarFafda~/CS.md)
 
-ટીપે ટીપે સરોવર બંધાય , કાંકરે કાંકરે પાડ બંધાય
-This is my favourite Gujarati proverb copied from [here](http://gujarati-proverbs.tumblr.com/)
+[અમે ગુજરાતી લોકો છીએ](અમે_ગુજરાતી_લોકો_છીએ/અમે_ગુજરાતી_લોકો_છીએ.md)
 
-જાગ્યા ત્યાંથી સવાર
-Mine favourite(@ http://gujarati-proverbs.tumblr.com/)
+
+
+
