@@ -1,16 +1,25 @@
-When object to be gained is sufficiently valued, 
+--------------------------સુંદર પંક્તિઓ----------------------------------------
+
+મૂલ્યવાન પ્રાપ્ય અને તેને પામવાના સતત અને અથાગ પ્રયત્નોથી મનની સ્થિરતા સુરક્ષિત છે.
+(When object to be gained is sufficiently valued, 
 and efforts towards its attainment are persistently 
-followed without intermission, then the steadiness of mind is secured.
+followed without intermission, then the steadiness of mind is secured.)
 
-A problem is achance for you to do your best.
-Tha best way to predict the future is to create.
+સમસ્યા એ શ્રેષ્ઠ બનવા માટેની એક તક છે.
+(A problem is achance for you to do your best.)
 
-Gujarati language is great. Lord Krishna spoke or led to it. Mahatma Gandhi spoke and wrote in it.
+ભવિષ્યની આગાહી કરવાની શ્રેષ્ઠ રીત છે તેનું સર્જન કરવું.
+(Tha best way to predict the future is to create.)
+
+ભગવાન શ્રીકૃષ્ણ દ્વારા દોરવણી પામેલી અને મહાત્મા ગાંધી દ્વારા બોલાયેલી અને લખાયેલી એવી ગુજરાતી ભાષા મહાન છે.
+(Gujarati language is great. Lord Krishna spoke or led to it. Mahatma Gandhi spoke and wrote in it.)
+
+-----------------------------------------------------------------------------
 
 ગુજરાતી ભાષાનાં પરાક્રમી સફરોમાં આપનું સ્વાગત છે. અગણીત સફરો માંથી તમે કયું પસંદ કરશો?
 તમારી ખરી કસોટી શરુ થાય છે. તમને ખુબ શુભકામના.
 
-[ઉત્તરાયણમાં ખેંચ કે ઢીલ?](ઉત્તરાયણ/ઉત્તરાયણમાં ખેંચ કે ઢીલ.md)
+[ઉત્તરાયણમાં ખેંચ કે ઢીલ?](ઉત્તરાયણ/ઉત્તરાયણમાં_ખેંચ_કે_ઢીલ.md)
 
 CS [go here](DhoklaStellarFafda~/CS.md)
 
