@@ -2,7 +2,7 @@ Baking is therapeutic for you.  You remember
 learning to bake from your grandmother, or if not your
 grandmother, then off the TV, and how
 relaxing and happy that always makes you.  You
-want to spread the joy (and chocolate chip cookies, or peanut butter, or 
+want to spread the joy (and chocolate chip cookies, or peanut butter, or
 ginger).
 Probably you love cookies too, or at least you like the idea of them.
 Because cookies are awesome!!!
@@ -22,3 +22,5 @@ Do you:
 [Call a doctor?](../call-a-doctor/doctor.md)
 
 [Don't know what a cookie is?](https://en.wikipedia.org/wiki/Chocolate_chip_cookie)
+
+[Become a Marshmallow](../becomeamarshmallow/becomeamarshmallow.md)
