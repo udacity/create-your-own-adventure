@@ -1,0 +1,2 @@
+A ear-shattering sound of lightening woke you up. You have a bad headache now, but you managed to pull yourself up. Your face hurts, and you find yourself falling asleep on the keyboard. The open desktop infront of you are showing forced-log-out message. You were just playing "Lord of the Rings online" and fell asleep. 
+It was all indeed a dream.
