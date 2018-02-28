@@ -1,0 +1,1 @@
+Zauwazasz ze tym obiektem jest ptak oblany czekolada, ktory rozposciera swe skrzydla, a nastepnie zawraca chcac odleciec od Ciebie.

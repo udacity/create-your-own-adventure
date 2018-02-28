@@ -3,4 +3,7 @@ Skrzyd³a unosz¹ ciê w powietrzu a pod tob¹ rozpoœciela siê niesamowity widok.
 Ca³e miasto zamieni³o siê w kraine s³odkoœci. 
 Elewacja budynków pokrywaj¹ tabliczki czekolady, a w parku zamiast drzew rosn¹ lizaki.
 Obserwacjê nagle przerywa ci donoœny skrzek dochodz¹cy od strony zachodz¹cego s³oñca.
-Obiekty leci wprost na ciebie. Musisz podj¹æ decyzjê co dalej robiæ. 
+Obiekty leci wprost na ciebie. Musisz podj¹æ decyzjê co dalej robiæ.
+[Wydajesz ryk, aby go przestraszyc](ryk/ryk.md)
+[Starasz sie go zlapac](lapanie/lapanie.md)
+[Zaczynasz machac skrzydlami, by zejsc z linii jego lotu](zejscie/zejscie.md)
