@@ -1,0 +1,1 @@
+What is walking? Just move your legs one after other. But you although breezing fresh air. 
