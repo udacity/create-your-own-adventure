@@ -7,11 +7,11 @@ La partida de ajedrez nuevamente estaba iniciada, las fichas volvían a moverse,
 
 Ante esta situación, el captitán presentó al rey las siguientes alternativas:
 
-[Conseguir un dragón para proteger a las tropas en su ofensiva desde el aire](../../dragon/dragon.md)
+Conseguir un dragón para proteger a las tropas en su ofensiva desde el aire [->Continuar](../../dragon/dragon.md)
 
-[Construir un laboratorio donde los ingenieros y científicos pudiesen diseñar y construir la máquina del tiempo y transladarse a un lugar y un momento del tiempo más seguro](../../maquina/maquina.md) 
+Construir un laboratorio donde los ingenieros y científicos pudiesen diseñar y construir la máquina del tiempo y transladarse a un lugar y un momento del tiempo más seguro[->Continuar](../../maquina/maquina.md) 
 
-[Seleccionar un reducido grupo de guerreros motivados, auto-organizados y multifuncionales cuyo objetivo sea eliminar el origen del mal directamente](../../comunidad/comunidad.md)
+Seleccionar un reducido grupo de guerreros motivados, auto-organizados y multifuncionales cuyo objetivo sea eliminar el origen del mal directamente[->Continuar](../../comunidad/comunidad.md)
 
 	 
 
