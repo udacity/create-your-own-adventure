@@ -6,6 +6,10 @@ Ride to the nearest castle.
 
 Meet the black knight
 
+Tell him you are seeking the bravest knights in the land.
+
+Ask him to join you.
+
 Chop off his limbs
 
 [It's only a flesh wound!](https://www.youtube.com/watch?v=zKhEw7nD9C4)
