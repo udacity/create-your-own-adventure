@@ -5,6 +5,8 @@ And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.
 A few learned to [tango](tango/tango.md)
 
 Some preferred to
+Enter [The Forest!](forest/forest.md)
+Try to fix the typo below ↓
 Enter [The Forest!] (forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
