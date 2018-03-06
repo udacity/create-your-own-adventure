@@ -3,3 +3,5 @@ Sài Gòn là 1 trong 2 thành phố nổi tiếng nhất ở Việt Nam ngoài 
 Sai Gon duoc vi nhu thanh pho Toronto o Canada
 
 Sài Gòn trước 75 là hòn ngọc viễn đông
+
+Sài Gòn là nhà 
