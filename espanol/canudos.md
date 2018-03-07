@@ -195,4 +195,4 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
 
-Sin embargo, cuando todo parecia terminar, la historia [continuo](extra/extra.md)
+Sin embargo, cuando todo parecia terminar, la historia [continuo](extras/extras.md)
