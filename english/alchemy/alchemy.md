@@ -36,7 +36,7 @@ You slip the ring over your finger and ...
 
 [Congratulations!](../marshmallow.md)
 
-[All secrets of modern alchemy are revealed to you] (https://www.youtube.com/watch?v=f8FAJXPBdOg)
+[All secrets of modern alchemy are revealed to you](https://www.youtube.com/watch?v=f8FAJXPBdOg)
 
 [Transform!](../transform/transform.md)
 
