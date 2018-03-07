@@ -8,3 +8,5 @@ Stop......IT'S HAMMERTIME - WHOOA-O, WHOOA-O! WHOOA-O, WHOOA-O!
 Then you see Lewis Hamilton speeding past on his last lap on those 
 super soft tires, his mechanic telling him its Hammertime over the
 radio.
+
+Lewis stops and jumps out of the car and dances to MC Hammer's "U Can't Touch This"
