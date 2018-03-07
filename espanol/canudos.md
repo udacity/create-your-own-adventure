@@ -194,3 +194,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
+
+Sin embargo, cuando todo parecia terminar, la historia [continuo](extra/extra.md)
