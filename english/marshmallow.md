@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+If you want to learn Git & GitHub, [click here to know how](howToUseGitAndGitHub/versionControlCourse.md).
