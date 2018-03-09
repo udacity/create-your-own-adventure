@@ -12,4 +12,4 @@ ob er dich an deiner aktuellen GPS Position abholen kann.
 
 [Isst du einen Bissen Schokolade zur Beruhigung...](../../Essen/Schokolade/Schokolade.md)
 
-[googlest du erstmal danach wie man am Besten ein Loch in einem Ruderboot stopft...] (googleLoesung/googleLoesung.md)
+[googlest du erstmal danach wie man am Besten ein Loch in einem Ruderboot stopft...](googleLoesung/googleLoesung.md)
