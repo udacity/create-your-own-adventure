@@ -1242,6 +1242,4 @@ What is your [passion?](passion/passion.md)
 
 searching for [good](tvf-play/watch.md) content.
 
-This looks like a good time to start a new training routine.
-Choose between [mind](mind_training/mind_training.md) training,
-or [body](body_training/body_training) training. 
+This looks like a good time to start a new [training](training_regiment/training_regiment.md) routine.
