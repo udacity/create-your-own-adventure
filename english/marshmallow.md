@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+This looks like a good time to start a new [training](training_regiment/training_regiment.md) routine.
