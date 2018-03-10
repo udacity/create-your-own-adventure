@@ -11,3 +11,5 @@ Enseguida, Beatito:
 [le comenta al periodista que necessita anteojos](anteojos/anteojos.md)
 
 [Noticia del tiroteo en Orlando](orlando/orlando.md)
+
+[Se molestá, y ordena ejecutar al periodista](periodista-destino/periodista-destino.md)
