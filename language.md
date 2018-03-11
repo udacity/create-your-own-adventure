@@ -137,6 +137,8 @@ Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
+Ако говорите македонски, [кликнете овде](macedonian/start.md)
+
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
 
