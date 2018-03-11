@@ -2,6 +2,6 @@
 
 तुम उसके साथ एक फिल्म देखने का मौका मिला         ।
 
-दीपिका की [  यहाँ    ](../actor4/aamir.md)    दबाइए 
+दीपिका की [  यहाँ    ](../actor4/aamir.md)    respect karo 
 its fine
 
