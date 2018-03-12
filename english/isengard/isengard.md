@@ -1,0 +1,1 @@
+You have visited Isengard! Say hello to Bilbo for me. :p 
