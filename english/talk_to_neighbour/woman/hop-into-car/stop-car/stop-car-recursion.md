@@ -7,6 +7,6 @@ and...
 
 The driver of the car suddenly feels a big bump.
 
-[They keep driving.]((../big-bump/strange-thing.md))
+[They keep driving.](../big-bump/strange-thing.md)
 
 [No, they get out of the car to investigate.](stop-car-recursion.md)
