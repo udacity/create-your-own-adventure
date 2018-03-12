@@ -13,6 +13,8 @@ hi~
 
 NGE is [here] (NGE/NGE.md)
 
+Click [here] (isengard/isengard.md) to visit Isengard!
+
 [start](mad/mad.md) your journey into world of mad 
 
 or
