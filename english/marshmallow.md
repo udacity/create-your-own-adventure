@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+This story has become very cluttered after years of contributions. I think it's time to [clear our mind](clear-mind/clear-mind.md).
