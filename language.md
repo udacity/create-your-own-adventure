@@ -1,5 +1,9 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+To read BB stories [click me](english/BB/bb.md).
+
+To view Tamil Proverb about learning [Click Here](Tamil/Thirukural.md)
+
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
 Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)

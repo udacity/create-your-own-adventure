@@ -9,3 +9,8 @@ Friendship hastens to rescue as fast as hand’s reflex to catch slipping cloth
 மெய்வருத்தக் கூலி தரும்
 Though fate-divine should make your labour vain;
 Effort its labour's sure reward will gain
+
+
+கற்க கசடறக் கற்பவை கற்றபின்
+நிற்க அதற்குத் தக.
+Let a man learn thoroughly whatever he may learn, and let his conduct be worthy of his learning.
