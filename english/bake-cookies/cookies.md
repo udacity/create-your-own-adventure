@@ -22,3 +22,5 @@ Do you:
 [Call a doctor?](../call-a-doctor/doctor.md)
 
 [Don't know what a cookie is?](https://en.wikipedia.org/wiki/Chocolate_chip_cookie)
+
+[Want to browse through a cookie list?](https://en.wikipedia.org/wiki/List_of_cookies)
