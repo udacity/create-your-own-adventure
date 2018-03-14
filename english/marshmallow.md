@@ -1242,4 +1242,4 @@ What is your [passion?](passion/passion.md)
 
 searching for [good](tvf-play/watch.md) content.
 
-To read a story about choices cick [here](choices/choices.md)
+To read a story about choices click [here](choices/choices.md)
