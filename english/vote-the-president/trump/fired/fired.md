@@ -1,4 +1,4 @@
-You're fired!
+You're fired! So sad!
 
 What will you do now?
 
