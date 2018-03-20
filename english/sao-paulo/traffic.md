@@ -1,0 +1,1 @@
+How to [solve](http://countrysidemumsie.blogspot.com.br/2015/10/moving-to-countryside.html) [traffic](https://gerry.jusbrasil.com.br/noticias/120402897/sao-paulo-registra-maior-transito-de-sua-historia) pollution?
