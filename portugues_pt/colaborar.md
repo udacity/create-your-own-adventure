@@ -37,4 +37,4 @@ Iria passear na [Itália](italia/italia.md)
 
 Investiria no [saturnov](http://www.saturnov.com/) 
 
-Comprava [azeitonas] (http://www.azeitonas.com/)
+Comprava [azeitonas](http://www.azeitonas.com/)
