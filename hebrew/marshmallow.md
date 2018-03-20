@@ -8,10 +8,8 @@
 
 [תזיין את אחותך](sister/your-sister.md)
 
-<<<<<<< HEAD
 [אתה קורא את מה שכתוב, יוצא מההלם, ומחפש אופציה  אחרת](sane-option/fresh-start.md)
-=======
-[אתה קורא את מה שכתוב, יוצא מההלם, ומחפש אופציה אחרת](Lidor-Abo-option/sensible option.md)
->>>>>>> bfd5968b53171fc80032a9d351fba5fbc1cec17a
+
+[אתה קורא את מה שכתוב, יוצא מההלם, ומחפש אופציה אחרת](Lidor-Abo-option/sensible-option.md)
 
 [אתה מבין שלזיין את בר רפאלי זאת בעצם אופציה מאוד שפוייה](bar/bar.md)
