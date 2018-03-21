@@ -1,0 +1,1 @@
+Ven al Rey a lomos del Pegaso salir disparados de lo alto del castillo en direccion al reino contrario. Sorprendido, un tercio del ejercito sigue al pegaso mientras el resto queda inmovil y pensativo. ¿Se dirijan junto al Rey enemigo para debatir la paz o, ignorantes, lo atacaran en ausencia de sus mejores guerreros?
