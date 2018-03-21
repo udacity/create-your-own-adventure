@@ -9,7 +9,9 @@ Wubble wubble boo boo
 kalsjdlfj
 aklsdf
 ahsldfhasljdfö
-alksdjfö
+ghetto!
+
+haha
 
 jibber jobber joober, gibberish is for goobers.
 kdnavna knakdn knakdn ind faondf alkd fadk
