@@ -1,0 +1,1 @@
+Bu heyat sadece sonsuz bir hekayenin baslangicidir!
