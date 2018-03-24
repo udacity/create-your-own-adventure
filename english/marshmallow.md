@@ -1207,6 +1207,8 @@ Maybe this is a [dream](dream/dream.md)?
 
 Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
+Or maybe you have no clue what you're doing [clue](clue/clue.md)
+
 Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
 
 <<<<<<< HEAD
