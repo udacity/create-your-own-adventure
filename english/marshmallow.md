@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+We lost our way, but maybe we can find it [again](lost-our-way/redemption.md).
