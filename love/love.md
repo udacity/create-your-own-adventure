@@ -2,4 +2,4 @@ Love is universal, some say, [French] (../french/feu-de-camp.md) is the language
 
 Do I agree?
 
-[English](../enlish/love/love.md) is pretty good too.
+[English](enlish/love/love.md) is pretty good too.
