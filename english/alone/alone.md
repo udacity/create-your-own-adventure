@@ -6,7 +6,7 @@ Kristy wakes up to the strange sounds from the walls of her dorm.
 
 She gets off the bed and carefully look around for anything suspicious. Her insticts kicks in but her mind is calm.
 Its very difficult for her to remain settled.
-Here we go again.
+Here we go again..
 She senses a movement along the wall on the other side of the dorm room.
 
 She sneaks next to the wall and tries to hear anyone on the other side of the wall.
