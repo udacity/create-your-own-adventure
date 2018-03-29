@@ -2,7 +2,7 @@ Alone
 
 Chapter 1:
 
-Kristy wakes up to the strange sounds from the walls of her dorm.
+Kristy wakes up to the strange sounds from the walls of her dorm. Her dorm was a small room with a couple of cots like [this] (http://www.oregonlive.com/living/index.ssf/2011/08/multnomah_university_students.html)
 
 She gets off the bed and carefully look around for anything suspicious.
 
