@@ -1,0 +1,1 @@
+Amb l'orella a la paret escoltes una bonica melodia que prové de l'altre costat
