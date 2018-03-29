@@ -25,3 +25,5 @@ Què fas?
 [Entres en pànic absolut](panic/panic.md)
 
 [Corres cap a la paret més propera](correr/correr.md)
+
+[Apropes la teva orella esquerra i escoltes](escoltar/escoltar.md)
