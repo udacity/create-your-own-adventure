@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+There was a man searching for something in his life he had two options [read the quote on his wall](passion/passion.md) or to [step outside](steppingout/stepout.md)
