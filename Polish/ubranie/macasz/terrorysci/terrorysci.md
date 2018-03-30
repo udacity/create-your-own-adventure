@@ -6,3 +6,5 @@ Jeden z nich podchodzi do ciebie i celuje w twoją głowę.
 [Wbijasz mu łyżkę w oko](lyzka/lyzka.md)
 
 [Zsikujesz się ze strachu](siku/siku.md)
+
+Krzyczysz 'Człowieku! rozwiązało Ci się sznurowadło!'
