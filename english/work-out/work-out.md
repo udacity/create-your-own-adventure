@@ -10,3 +10,7 @@ Attempt to get super swole by lifting some [weights](weights/weights.md)?
 Or......
 
 maybe a [personal trainer](personal-trainer/personal_trainer.md) 
+
+Or.... Even Better....
+
+Watch some [Star Wars](watch-star-wars/watch-star-wars.md)
