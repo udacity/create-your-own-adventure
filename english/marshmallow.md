@@ -1241,3 +1241,7 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Did you know that,
+
+[Free societies do not restructure the rights that the public is entitled to for the convenience of spies and police.](https://www.youtube.com/watch?v=RR3UIN94r70)
