@@ -7,3 +7,5 @@
 [Конечно, Кролика!](visit-rabbit/visit-rabbit.md)
 
 [У Совы давно не были. Побежали к ней!](visit-owl/visit-owl.md)
+
+[А может к Ослику ИА? Как он там?!](visit-donkey/visit-donkey.md)
