@@ -1,0 +1,1 @@
+Ela recebe o caminhão carregado de côco-babão e se apaixona por você.
