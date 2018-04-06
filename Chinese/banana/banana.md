@@ -1,0 +1,1 @@
+He eat a banana.
