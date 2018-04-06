@@ -7,3 +7,5 @@ A New Hope, A Hope you havent felt in a while
 So you
 
 [Sing a song](../sing-song/sing.md)
+
+[Bake cookies](../bake-cookies/cookies.md)
