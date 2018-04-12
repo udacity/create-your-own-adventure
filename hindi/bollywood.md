@@ -40,3 +40,9 @@ Check out [Tiger Shroff](https://www.instagram.com/tigerjackieshroff/?hl=en)
 Checkout [Babita Phogat](https://www.instagram.com/explore/tags/babitaphogat/)
 
 Why are you reading this line?
+
+Chalo main bhi kuchh change kar deta hu.. I am starting a story--
+
+		This is the story of a child who was first to be born on earth. As it is not 
+	clear how he came or formed. Speculations are that he was the result of millions 
+	of years of evolution.
