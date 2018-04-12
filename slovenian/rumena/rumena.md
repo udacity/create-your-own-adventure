@@ -3,6 +3,6 @@ Soba je rumena zaradi sončni vzhod.
 
 V vogalu sobe je stikalo.
 
-[Pritisneš stikalo](rumena/stikalo.md)
+[Pritisneš stikalo](stikalo.md)
 
-[Ignoriraš stikalo](rumena/rumena.md)
+[Ignoriraš stikalo](rumena.md)
