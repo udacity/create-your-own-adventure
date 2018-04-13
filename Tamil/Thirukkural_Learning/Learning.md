@@ -30,5 +30,5 @@ in their face.<br /><br />
 It is the part of the learned to give joy to those whom they meet, and on <br />
 leaving, to make them think (Oh! when shall we meet them again).<br /><br />
 
-to learn about thevaram click [here](create-your-own-adventure/Tamil/Thevaram/thevarm.md)
+to learn about thevaram click [here](../Thevaram/thevarm.md)
 
