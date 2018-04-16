@@ -1,5 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+But it wasn't as bad as you might think. Grab a cup of joe, put the kids to bed, and turn off your cell phone. Get ready for a wild ride!
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
