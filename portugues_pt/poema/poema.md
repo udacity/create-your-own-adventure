@@ -1,0 +1,1 @@
+Um dia...Pronto!...Me acabo./Pois seja o que tem de ser./Morrer: Que me importa?/O diabo é deixar de viver.
