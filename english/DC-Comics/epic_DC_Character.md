@@ -9,3 +9,5 @@ Hint: A useless character :)
 [Green Arrow](Arrow/arrow.md)
 
 [Melancholic Man](Man/melancholic.md)
+
+[Batman](../batman/batman.md)
