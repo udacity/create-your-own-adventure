@@ -195,4 +195,4 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
 
-..peeero recordó que tenía [as bajo la manga] (as/as_bajo_la_manga.md)
+..peeero recordó que tenía [as bajo la manga](as/as_bajo_la_manga.md)
