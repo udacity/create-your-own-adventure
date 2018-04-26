@@ -1,1 +1,1 @@
-la cual era su [máquina del tiempo](espanol/maquina/tiempo/maquina_del_tiempo.md) 
+la cual era su [máquina del tiempo](../maquina/tiempo/maquina_del_tiempo.md)!
