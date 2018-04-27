@@ -7,12 +7,14 @@ I remember my last meal, oh it was a dead dog 3 days ago.
 We are stepping to the verge of eating each other, human flesh oh what does it taste.
 I've heard that it tastes like pork...
 
+I have also heard that human flesh tastes like chicken. I wonder which it is?
+I wonder if I will get the chance to find out for myself?
 
 OMG WHAT SHOULD I DO??
 I NEED HELP...
 
-I wonder what the cat would do if I gave it a hot dog. I know 
-what I would do. 
+I wonder what the cat would do if I gave it a hot dog. I know
+what I would do.
 
 I'd eat it. Yup, I know it sounds disgusting but a dog is a dog and a cat is a cat.
 You know what I mean?
@@ -38,4 +40,3 @@ together, just because you chose to get a hedgehog, rather than a mouse!!
 My mother was a butterfly. Is that true? No it is not.
 
 I love animals, they are delicious.
-
