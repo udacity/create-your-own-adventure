@@ -6,6 +6,6 @@ Unless it was toasted to perfection.
 
 So what's next? 
 
-[/eat-through](Eat your way through the door)
+[Eat your way through the door](/eat-through)
 
-[/jet-arms](Point your fire-y arms down and turn up the heat!)
+[Point your fire-y arms down and turn up the heat!](/jet-arms)
