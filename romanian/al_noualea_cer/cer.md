@@ -1,0 +1,1 @@
+Si ar fi preferat sa ramana aici, cand..
