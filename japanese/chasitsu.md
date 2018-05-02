@@ -11,4 +11,6 @@
 
 [寒い](cold/cold.md)
 
+とりあえず[「誰かいませんかー？」と呼んでみる](call-someone/someone-answered.md)
+
 [なぜかいきなりラーメンを食いたくなっちまった](ramen/ramen.md)
