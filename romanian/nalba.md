@@ -85,3 +85,5 @@ Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
 Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
 
 Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
+
+Ginel este in al noualea cer. [al noualea cer](al_noualea_cer/cer.md)
