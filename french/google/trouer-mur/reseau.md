@@ -5,3 +5,5 @@ C'est Internet !! Ouiii du réseau ! Des url s'empresent sur mon écran.
 [Je clique sur la première](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 
 [Je tweete maman](../../appel-maman/twitter/tweet.md)
+
+[Je vais sur google map](google-map/localisation.md)

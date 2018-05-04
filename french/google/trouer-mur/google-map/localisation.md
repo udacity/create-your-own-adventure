@@ -1,0 +1,1 @@
+Je lance google map et un message apparaît, pour m'informer que je ne suis pas sur la planete Terre.
