@@ -1,0 +1,1 @@
+Hujakosea kuchagua mlango mwekundu kwa sababu unakupeleka kwenye barabara kubwa sana.

@@ -1,0 +1,1 @@
+Nikasikia sauti inasikika kutoka mbali sana ikisema "Umechagua mlango mweupe. Sasa tengeneza njia yako mwenyewe"
