@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Would you like to have a [growth](chaos-pet/chaos-pet.md)chaos type pet?
