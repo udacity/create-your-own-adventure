@@ -5,3 +5,4 @@ The Ouroboros the Great Devourer of Chaos
 *crek crek*
 
 you see a small black snake with draconic features as a face
+[Take](take/take.md) it?
