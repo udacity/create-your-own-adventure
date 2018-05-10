@@ -11,5 +11,6 @@ When she slaps you in the face...
 ..., holding your hand to your red cheek [you say] (../slap-response/slap-response.md)
 
 all is not what it seems in this story.
-you're talking about bears, but i'm talking about 
+you're talking about bears, but i'm talking about
 [bears](https://twitter.com/ChicagoBears?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+[Want another bear story?](../bear-story/bear-story.md)
