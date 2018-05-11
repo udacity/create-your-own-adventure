@@ -7,6 +7,8 @@ ginger).
 Probably you love cookies too, or at least you like the idea of them.
 Because cookies are awesome!!!
 If you don't have time and want to eat delicious cookies, then get some from Sprouts!
+
+I wanna have choco chip cookies
 Do you:
 
 [Invite friends to share?](../invite-friends/friends.md)
