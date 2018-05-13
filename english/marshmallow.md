@@ -4,6 +4,8 @@ And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.
 
 A few learned to [tango](tango/tango.md)
 
+Others decided to [go on an adventure](adventure/adventure.md)
+
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
