@@ -7,4 +7,4 @@ múltiples aventuras sin miedo de hacer un papelón.
 Pero dado que has nacido con la maldición de la valentía, debes conjurar tu destino,
 venciendo al miedo.
 
-"Cuanto más miedo en la población, más aceptable se vuelve el sistema de control" Foucault.
+"Cuanto más miedo en la población, más aceptable se vuelve el sistema de control" Foucault
