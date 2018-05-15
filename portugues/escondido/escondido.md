@@ -1,0 +1,1 @@
+Afinal, o que os olhos não vêem, o coração não sente.
