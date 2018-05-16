@@ -1241,3 +1241,8 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+------------------------
+
+Maybe you want a fresh start, some serious training, and
+to make better stories by getting schooled [here!](https://thebestschools.org/features/top-creative-writing-programs/)
