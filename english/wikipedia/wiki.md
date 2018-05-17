@@ -40,3 +40,5 @@ Then you want to show the world your new tricks by creating your own channel on 
 [Play Skyrim](../fus-roh-dah/fus-roh-dah.md)
 
 [Learn Calculus](https://en.wikipedia.org/wiki/Calculus)
+
+You decided to go to the [zoo](../zoo/zoo.md) after reading a wikipedia page about zoos.
