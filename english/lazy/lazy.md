@@ -1,1 +1,1 @@
-i really don't know what to say and im so lazy to write a story
+i really don't know what to say and im so lazy to write a story. Me too, man.
