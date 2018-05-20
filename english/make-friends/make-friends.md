@@ -15,3 +15,5 @@ Do you:
 [Have a cup of coffee?](../coffee/coffee.md)
 
 [Ask the marshmellow man, "What's it all for?"](question/question.md)
+
+It's very hard to make friends, maybe I should just stay friends with [Luke Skywalker](../luke-skywalker/luke-skywalker.md)
