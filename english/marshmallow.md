@@ -1209,6 +1209,8 @@ Or maybe you love [pugs] (https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
 
+[Sometimes poetry makes it all better](limerick/limerick.md)
+
 <<<<<<< HEAD
 Have you ever heard any unusual sounds 
 when you're alone? 
