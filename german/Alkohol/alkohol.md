@@ -20,3 +20,5 @@ was sie auf dem Boot finden können, zu behelfen.
 [Sie finden zwei Leichen](../Leichen/Leichen.md)
 
 [Sie finden eine Schatzkarte](Schatzkarte/Schatzkarte.md)
+
+[Sie finden ein Glas, das aussieht als wäre Wasser darin] (Wasserglas/Wasserglas.md)
