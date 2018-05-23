@@ -8,3 +8,5 @@ Tras una pausa inquiere a Beatito:
 Ahora que ya sabe la regla más importante de estas barracas, cuénteme, ¿qué es lo que quiere?.
 
 [La bofetada produce una revelación en Beatito](../../rebelion/inicio-rebelion.md)
+
+[La bofetada le arranca dos dientes al pobre Beatito](../grosero/dientes-fuera/herido.md)
