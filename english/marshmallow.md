@@ -19,6 +19,10 @@ or
 
 spend your time [wisely](http://www.pythonchallenge.com/)
 
+or
+
+read about my [journey with Udacity](Udacity/JourneyWithUdacity.md) !
+
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
 Are you a:
