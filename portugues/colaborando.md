@@ -71,3 +71,5 @@ BR BR BR Hue hue hue!!!!
 [Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
 
 [Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
+
+[Cria um framework javascript para resolver esse e futuros bugs!](framework-js/novo-framework.md)
