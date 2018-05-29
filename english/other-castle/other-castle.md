@@ -1,6 +1,6 @@
 "Show me where this other castle is!"
 
-You look at your feet. You're wearing some strange brown loafers.
+You look at your feet. You're wearing some strange brown loafers. 
 
 You don't remember putting them on. They're not your style. You're more into New Balance.
 
