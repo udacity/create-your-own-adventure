@@ -2,11 +2,14 @@ Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
+Or perhaps that isn't right. If I remember correctly...
 A few learned to [tango](tango/tango.md)
 
+Or maybe..
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
+You, brave reader, must choose how this story is to be recollected.
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
