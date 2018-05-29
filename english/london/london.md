@@ -1,5 +1,5 @@
 I really have no idea what's going on or what I'm supposed to be doing. 
-I forked the repositroy
+I forked the repository
 I cloned it
 I created a branch
 I created a new folder and file within it (this one)
