@@ -6,6 +6,7 @@ As you speak to your neighbor, you see a dark car approach. Two figures emerge, 
 
 My heart is pumping!
 My lip feel dry!
+I broke a sweat!
 
 I brave myself to
 
