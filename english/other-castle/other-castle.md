@@ -6,6 +6,6 @@ You don't remember putting them on. They're not your style. You're more into New
 
 That's right, you don't have much style.
 
-You then notice a tickle just under your nose. You reach up and feel a full, busy moustache.
+You then notice a tickle just under your nose. You reach up and feel a full, bushy moustache.
 
 Oh, wait, someone asked you a question...
