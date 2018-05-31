@@ -32,7 +32,7 @@ or a
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
-But you should realize: [Taxation is Theft](taxation-is-theft/taxation-is-theft.md).
+But you should realize: [Taxation is theft](taxation-is-theft/taxation-is-theft.md).
 
 Oh so many decisions - what will you do??
 
