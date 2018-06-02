@@ -10,3 +10,5 @@ Click to listen to a nice EDM track:
 [Faded - Alan Walker - Lost Stories Mix](https://soundcloud.com/loststories/alan-walker-faded-lost-stories-remix)
 
 Click [here](https://www.youtube.com/watch?v=e80qhyovOnA) to listen to moonlight shadow.
+
+Click [here](80sRock.md) to listen to some of my fav 80's rock songs
