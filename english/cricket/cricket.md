@@ -6,3 +6,5 @@ Click [here](../cricket-rules/cricket-rule-book.md) to read the rules.
 you find cricket boring and instead want to learn about spirits 
 Click [here](../call-spirit/call-spirit.md) to learn..
 
+Or perhaps you just like the sound of crickets and relaxing in the hot sun drinking cold beer and eating ribs.  For more on that kind of crickets
+you can click [here](../crickets/crickets.md)
