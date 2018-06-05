@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+You wake yourself up and decide to [learn some torah](english/torah/torah.md).
