@@ -119,3 +119,5 @@
 [Зайти на двач](2ch/2ch.md)
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
+
+[Хватит страдать ерунодой и пойдемте рабоать](start_working/start_working.md)
