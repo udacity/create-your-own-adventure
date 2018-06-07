@@ -51,3 +51,5 @@ Another shouts "Who is John Cena"
 "Goodluck talking to John Cena"
 
 "This is the last time i am talking to John Cena"
+
+"Both John Cena and Batman are awesome"
