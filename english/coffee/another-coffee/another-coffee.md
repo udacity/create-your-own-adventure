@@ -5,7 +5,7 @@ Coffee, to some, is the nectar of life.
 One or two cups is never enough.
 They turn to espresso: "The hard stuff!"
 Too much, however, will surely cause strife.
-Is coffee all that matters anymore?
+Is coffee all that matters anymore...
 I must figure out what will satisfy my overwhelming desires!
 You are quite hungry aren't you ?
 Coffee is the hope for tired, a hug for the chilled, and a smile for a long lost friend.
