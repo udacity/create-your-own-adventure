@@ -1,0 +1,2 @@
+“First, let no one rule your mind or body. Take special care that your thoughts remain unfettered... . Give men your ear, but not your heart. Show respect for those in power, but don't follow them blindly. Judge with logic and reason, but comment not. Consider none your superior whatever their rank or station in life. Treat all fairly, or they will seek revenge. Be careful with your money. Hold fast to your beliefs and others will listen.” 
+― Christopher Paolini, Eragon
