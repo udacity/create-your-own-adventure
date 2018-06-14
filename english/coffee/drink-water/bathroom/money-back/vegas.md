@@ -1,0 +1,1 @@
+You see her there, standing in front of you. The pain comes back to you. Not the pain in your stomach but the pain of remembering how much money she lost that night at the casino. You asked her for the money back. She ignores you but you insist. Everybody is watching at you two. The pressure is increasing! 

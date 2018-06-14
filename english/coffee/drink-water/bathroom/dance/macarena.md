@@ -1,0 +1,1 @@
+You could not believe it. It was destiny. A car was passing by blasting your favorite song : "La Macarena". You could not resist it. You started dancing to the rhythm and immediately your ex-girlfriend joined you. 
