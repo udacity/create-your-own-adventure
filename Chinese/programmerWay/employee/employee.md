@@ -2,4 +2,4 @@
 
 [接受](yes/yes.md)
 
-[拒绝](../)
+[拒绝](../programmerWay.md)
