@@ -12,5 +12,6 @@ you move on to the white dwarf two parsecs over. Then,
 you died in your dreams.
 
 Just adding a line this time.
+i want immortality. I don't know if that's possible
 
 Adding another line.
