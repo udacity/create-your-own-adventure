@@ -1,6 +1,6 @@
 You have entered into the world of a secret agent.
 If you used to be a Drill Master, you should aspire to become 
-a [White Tiger](https://play.google.com/store/apps/details?id=com.linecorp.LGRGS) instead.
+a [White Tiger](https://www.google.ca/imgres?imgurl=https://ourplnt.com/wp-content/uploads/2017/11/White-tiger.jpg&imgrefurl=https://ourplnt.com/tiger-facts/white-tiger/&h=924&w=1200&tbnid=tmgL-R84Kh-JtM:&q=white+tiger&tbnh=154&tbnw=199&usg=__LBlgrFjvTL13jTGf1gFCJhQbJes%3D&vet=10ahUKEwjE6Jzr7uTbAhVRYK0KHWPhA_EQ_B0I5QEwGA..i&docid=9JXrB5hLIPWmLM&itg=1&sa=X&ved=0ahUKEwjE6Jzr7uTbAhVRYK0KHWPhA_EQ_B0I5QEwGA) instead.
 
 If White Tiger is too dull, you may choose a 
 [Tiger Bear](http://i0.wp.com/listverse.com/wp-content/uploads/2011/05/liger.jpg?resize=548%2C426)
