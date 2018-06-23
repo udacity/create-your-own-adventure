@@ -24,6 +24,8 @@ If you speak the language of love, [kiss here](love/love.md)
 
 如果你说中文而且想要了解一个新的世界，[请点击这里](Chinese/DesertHell/NewWorld.md).
 
+彼方（西方魔幻式剧情向文游）[请点击这里](Chinese/Another-world/another-world.md).
+
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
 اذا كنت تتحدث العربية، [اضغط هنا](arabic/salamoAlikom.md)
