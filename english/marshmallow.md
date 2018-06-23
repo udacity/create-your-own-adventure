@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Sometimes I just like to discover awesome people [here](reddit.com/r/HumansBeingBros)
