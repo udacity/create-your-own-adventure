@@ -25,3 +25,5 @@ Què fas?
 [Entres en pànic absolut](panic/panic.md)
 
 [Corres cap a la paret més propera](correr/correr.md)
+
+[Te'n vas cap a la cuina](cuina/cuina.md)
