@@ -4,3 +4,5 @@ fear of light. No grue has ever been seen by the light of day, and few have
 survived its fearsome jaws to tell the tale.
 
 A grue also smells repulsive. 
+
+A grue feeds on light only leaving darkness in it's path.
