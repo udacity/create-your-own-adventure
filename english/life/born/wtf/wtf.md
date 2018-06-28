@@ -1,1 +1,1 @@
-[Srsly bro](/life/born/wtf/dead/dead.md)
+[Srsly bro](/born/wtf/dead/dead.md)
