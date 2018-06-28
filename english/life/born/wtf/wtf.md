@@ -1,0 +1,1 @@
+[Srsly bro](/life/born/wtf/dead/dead.md)
