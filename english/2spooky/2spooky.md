@@ -6,6 +6,10 @@ plz updoot
 
 mr. skeltal is nice!
 
+but he didnt let me lick the robot's icecream
+
+I'm sad lol
+
 hahahaha
 
 'sup?
