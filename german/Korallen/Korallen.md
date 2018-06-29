@@ -11,4 +11,4 @@ Sie entschließen sich:
 
 [Trotzdem in den Eingang hineinzutauchen](Hoehle/hoehle.md)
 
-[Weiter schwimmen](../schwimmen/schwimmen.md)
+[Weiter tauchen](../Goldkette/goldkette.md)
