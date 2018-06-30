@@ -29,6 +29,9 @@ or a
 
 [dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
 
+This is a really great platform to create your own adventure.
+Click [here](lord_of_the_rings/lord_of_the_rings.md) to check out Lord Of the Rings.
+
 Your adventure begins. You realize there are hundreds of paths for you to choose from. 
 Which way should you go? Only you can decide. 
 
