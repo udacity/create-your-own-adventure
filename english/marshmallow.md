@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Do you know this anime [Magalo Box](english/joke/Joe/Gearless_Joe.md)?
