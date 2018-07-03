@@ -10,5 +10,6 @@ just a random test
 My mother also told me that I should eat my vegetables.
 Something about them being good for me. 
 But at that time, I was at the age that I thought "If it doesn't taste good, it just can't be good for me".
+So I refused to ate them and ran across the dining room.
 
 "[She answers.](../bear-story/bear-story.md)"
