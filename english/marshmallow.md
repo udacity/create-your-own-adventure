@@ -1241,3 +1241,6 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+*******
+So I see you're running Gnome. You know, I'm actually on KDE myself. I know this desktop environment is supposed to be better but... you know what they say. Old habits... they die hard. Yeah, I know what you're thinking. I'm an executive. I mean... why am I even running Linux? [Again... old habits.](mrrobot/gonna_be_fun.md)
+*******
