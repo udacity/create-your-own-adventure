@@ -10,3 +10,5 @@ Wait, what was that noise?
 Large bats fly over your head.
 
 [Investigate](../cave/cave.md)
+
+Or overwhelmed and unsure how to proceed, you begin to [dance] (../dance/dance.md)
