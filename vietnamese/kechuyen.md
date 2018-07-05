@@ -1,4 +1,4 @@
-﻿Bạn thích nghe [truyện ma](https://www.youtube.com/watch?v=0dfWjEKXpZk)?
+﻿Bạn thích nghe [truyện ma](https://www.youtube.com/watch?v=YyIpEs-2sf4)?
 
 Thế còn [truyện cười](https://www.youtube.com/watch?v=3r_-ZLZCxQs)?
 
@@ -6,7 +6,7 @@ Que cua ban o dau? Hay cho minh biet ve que cua ban ! Que minh o [Tien Giang](ti
 
 Rồi từ Tiên Giang tôi bay ra Thủ đô [Hà Lội](haloi/khongvoiduocdau.md)
 
-Tôi không thích nghe truyện ma, tôi thích [du lịch](https://www.youtube.com/watch?v=p4VKcCphblI)
+Tôi không thích nghe truyện ma, tôi thích [du lịch](https://www.youtube.com/watch?v=h0im6bSeid4)
 
 Tôi cũng thích truyện cười, nhưng ngoài ra tôi thích [ẩm thực](https://www.youtube.com/watch?v=CbJwYw2vLIg)
 
@@ -21,3 +21,5 @@ Tôi thì chưa từng đến Sài Gòn, tôi là người [Hà Nội gốc](Ha-
 Nhưng tôi là rể [Hải Phòng](Hai-Phong/Hai_Phong_thanh_pho_cang.md)
 
 Chuyen [kiem viec](TansStory/mystory.md) cua toi
+
+Cach che tao may ban da cuc dep khong the che [may ban da](https://www.youtube.com/watch?v=R2AWfmvutQE)
