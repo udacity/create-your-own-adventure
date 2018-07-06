@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Hy! I am a google-udacity scholarship recipient. To see my first website, [Click Here!](my-first-website/website.md)
