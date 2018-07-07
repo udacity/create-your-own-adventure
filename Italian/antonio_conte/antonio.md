@@ -2,7 +2,9 @@ TELEFONATA AD ANTONIO CONTE (A.C.)
 
 Io: We, Mister! Come andiamo? Mi sono svegliato in una
 [stanza molto strana](http://giphy.com/gifs/uy4zM12rn3oaY).
-Che cosa devo fare? Ti prego aiutami!
+Che cosa devo fare? 
+
+Ti prego aiutami!
 
 A.C.: Esci, esci - meglio cosi!
 [immagine di supporto](http://giphy.com/gifs/sporzaredactie-euro2016-italia-sporza-26BoCA9sGwKqelZra)
