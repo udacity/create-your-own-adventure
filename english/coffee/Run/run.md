@@ -4,6 +4,8 @@ improves memory for exercises and routines, and preserves and fuels muscles.
 Thus, you decide to go for a running.
 You choose to run in the Green Park.
 In fact, a great place to breath a bit of fresh air.¶
+The sun is shining and your eyes meet the endorphin filled gaze of the other
+joggers in the park.
 
 After a few minutes you collapse to the ground, exhausted.
 How could you forget? You hate running!
