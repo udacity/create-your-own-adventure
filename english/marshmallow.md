@@ -1240,4 +1240,8 @@ What is your [passion?](passion/passion.md)
 
 -
 
+You are bored, but then you remember reading long ago in
+[a poem](https://www.poetryfoundation.org/poems/47534/dream-song-14)
+that it is not good to admit to being bored, so you keep this to yourself.
+
 searching for [good](tvf-play/watch.md) content.
