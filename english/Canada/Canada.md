@@ -19,3 +19,4 @@ No dice? Yikes.
 Guess you'll have to stick around and 
 [enjoy all this freedom](http://weknowmemes.com/wp-content/uploads/2011/12/damn-right-im-free-this-is-america.png), eh?
 
+Looks like you took too long to decide what to do in Canada, here comes an [Ice Monster!](../ice_monster/ice_monster.md).
