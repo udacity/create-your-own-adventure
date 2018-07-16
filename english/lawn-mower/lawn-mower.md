@@ -9,3 +9,5 @@ What do you do?
 Buy a new one!
 
 [Give up and keep exploring?](../explore-outside/explore-outside.md)
+
+Kick it until it starts working again.
