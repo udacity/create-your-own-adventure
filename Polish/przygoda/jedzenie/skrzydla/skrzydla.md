@@ -1,6 +1,10 @@
-Nabierasz rozpêdu i wyskakujesz z mieszkania przez miejsce, które do niedawna by³o twoim oknem.
-Skrzyd³a unosz¹ ciê w powietrzu a pod tob¹ rozpoœciela siê niesamowity widok.
-Ca³e miasto zamieni³o siê w kraine s³odkoœci. 
-Elewacja budynków pokrywaj¹ tabliczki czekolady, a w parku zamiast drzew rosn¹ lizaki.
-Obserwacjê nagle przerywa ci donoœny skrzek dochodz¹cy od strony zachodz¹cego s³oñca.
-Obiekty leci wprost na ciebie. Musisz podj¹æ decyzjê co dalej robiæ. 
+Nabierasz rozpedu i wyskakujesz z mieszkania przez miejsce, które do niedawna 
+bylo twoim oknem. Skrzydla unosza cie w powietrzu a pod toba rozposciela sie
+niesamowity widok. Cale miasto zamienilo sie w kraine slodkosci.Elewacje 
+budynków pokrywaja tabliczki czekolady, a w parku zamiast drzew rosna lizaki.
+Obserwacje nagle przerywa ci donosny skrzek dochodzacy od strony zachodzacego
+sloñca. Obiekt leci wprost na ciebie. Musisz podjac decyzje co dalej robic.
+
+[Zmieniasz kierunek o 90 stopni i nurkujesz w dól](unik/unik.md)
+
+[Nie przejmujesz sie obiektem i lecisz dalej](dalej/dalej.md)
