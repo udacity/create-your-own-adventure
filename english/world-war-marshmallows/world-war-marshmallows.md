@@ -17,3 +17,6 @@ OR
 
 Do you [show that marshmallow](https://youtu.be/uZbjlsX0DNY?t=10s)
 who's BOSS? ...even it goes horribly wrong....
+
+Orrrrrr,
+[Call on your old friend, the Magical Party Bike?](escape-on-party-bike/escape-on-party-bike.md)
