@@ -33,4 +33,6 @@ part of the woods. What should you do?
 
 [Fight the bear](fight/fight.md)
 
-[Ally yourself with the squirrels] (ally-squirrels/ally-squirrels.md)
+[Go to the stream](stream/stream.md)
+
+[Ally yourself with the squirrels](ally-squirrels/ally-squirrels.md)
