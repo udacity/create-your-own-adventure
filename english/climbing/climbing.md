@@ -11,3 +11,7 @@ Click [here](../dance/dance.md) to dance.
 Click [here] (../jump/jump.md) to jump.
 
 Click [here](../fly-falcon/fly-falcon.md) to spread your wings.
+
+Here you come, lets climb to all the things that you dream and want to learn about.
+
+Click [here](../flight/flight.md) to climb to flight.
