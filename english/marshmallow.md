@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+[Click Here](yoruba/yoruba_man.md) to know the story of the yoruba man who learnt to code.
