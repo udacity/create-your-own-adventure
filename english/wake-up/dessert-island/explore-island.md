@@ -13,3 +13,7 @@ in the middle of the island to get a better view.
 
 At the peak, you find out it's not an island at all! It's actually a sleeping
 giant made of marshmallows. Is this the marshmallow chief?
+
+Suddenly, a steamy eruption occurs at the summit of the chocolate lava cake
+mountain which you've just climbed. The marshmellow giant has just belched!
+He begins to stir..... he is awakening!!
