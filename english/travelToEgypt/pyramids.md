@@ -1,0 +1,1 @@
+You see the desert, camels and to your right, the beautiful pyramids of Giza.
