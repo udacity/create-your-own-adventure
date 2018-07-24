@@ -28,3 +28,5 @@ Who am I?  Where am I?  What am I doing?
 My name is...I am Daniel.
 
 All your quesions can be answered by going [here](https://www.amnesiagame.com/#main).
+
+If I am the only being in the universe, and I forget who I am, is this the same universe as before?
