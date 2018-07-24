@@ -28,3 +28,5 @@ There is no telugu story added as of yet. So, I'll just start the thread by addi
 ప్రజల్పతి ప్రభాతకే హృది స్మరన్గణేశ్వరమ్ |
 అరోగతామదోషతాం సుసాహితీం సుపుత్రతాం
 సమాహితాయురష్టభూతిమభ్యుపైతి సోచిరాత్ || ౬ ||
+
+Now, lets read a [poem](../poem-telugu/poem-telugu.md)
