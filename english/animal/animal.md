@@ -39,3 +39,6 @@ My mother was a butterfly. Is that true? No it is not.
 
 I love animals, they are delicious.
 
+As I bent down to feed my cat, it let out a large roar and evolved into a Tiger.
+It then ate me and said "Humans are delicious."
+
