@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Have an existential crisis? Do not know what to do? Click [here](existentialism/what-to-do.md).
