@@ -38,6 +38,10 @@ or
 
 [Kick the man](../kicktheman/kicktheman.md)
 
+or
+
+Click [here](http://www.google.com) to visit Google.
+
 You see, there are two types of legos in this world. 
 
 We all know and  love them lego brand legos, any other brand belongs in the trash heap. IMPOSTERS
