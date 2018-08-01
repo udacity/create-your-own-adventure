@@ -10,6 +10,8 @@ Que faites-vous ?
 
 [Je cherche une sortie](sortie/chercher-la-sortie.md)
 
+[Je philosophe](philosophie/je-philosophe.md)
+
 [Je panique](panique/frapper-le-mur.md)
 
 [Je mange](manger/faim.md)
