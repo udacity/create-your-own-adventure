@@ -200,6 +200,8 @@ But it's probably not worth dwelling on that right now, you could be in danger.
 
 Grave danger. Oh No!
 
+Do you need to [Google](https://www.google.com/) it?
+
 *(Is there another kind?)*
 
 I actually used to know a guy named Dave Granger. We sure had some good times! Anyway, the possibility of danger lurks.
