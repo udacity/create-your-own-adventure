@@ -1,0 +1,1 @@
+Ok, so do you like [fluffy cats](http://www.catbreedslist.com/uploads/allimg/cat-pictures/Norwegian-Forest-Cat-1.jpg) or [non-fluffy cats](https://www.pets4homes.co.uk/images/articles/2260/large/how-to-make-sure-a-sphinx-cats-skin-stays-healthy-545a2db010835.jpg)?

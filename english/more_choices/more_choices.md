@@ -1,0 +1,1 @@
+Do you like [Dogs](doggos/doggo.md), or [Cats](kitty/cats.md)? Or [Ice cream](https://minimalistbaker.com/wp-content/uploads/2015/06/AMAZING-Vegan-Cherry-Pie-ICE-CREAM-10-ingredients-simple-methods-SO-delicious-vegan-recipe-icecream-dessert-cherry.jpg)?
