@@ -6,4 +6,4 @@ What do you play?
 
 [Amazing Grace](https://youtu.be/tR3VdTVSxiA)
 
-[Go back to sleep!](../sleep-and-wake/sleep_and_wake.md)
+[Go back to sleep!](../../sleep-and-wake/sleep_and_wake.md)
