@@ -6,3 +6,5 @@ decide to go to sleep and start to have a crazy dream.
 [You catch a second wind and rip out one more shredfest before bed](./shred/shred.md)
 
 [Start dreaming](../dream/dream.md)
+
+[Play something folksy](./folksy/folksy.md)
