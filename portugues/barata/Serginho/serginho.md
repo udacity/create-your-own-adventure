@@ -5,4 +5,4 @@ Eu vou comprar uma furadeira pra me defender.
 
 Ele vai dar uma furada na barata dela ( x4 )
 
-[Toda vez que eu chego em casa...](barata/baratadavizinha.md)
+[Toda vez que eu chego em casa...](../baratadavizinha.md)

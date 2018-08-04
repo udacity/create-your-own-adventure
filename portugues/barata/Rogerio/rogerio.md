@@ -5,4 +5,4 @@ Eu vou comprar um pau pra me defender.
 
 Ele vai dar uma paulada na barata dela ( x4 )
 
-[Toda vez que eu chego em casa...](barata/baratadavizinha.md)
+[Toda vez que eu chego em casa...](../baratadavizinha.md)
