@@ -4,3 +4,5 @@ Diz aí Alexandre o que "cê" vai fazer.
 Eu vou comprar uma bombinha pra me defender.
 
 Ele vai dar ..
+
+[Toda vez que eu chego em casa...](barata/baratadavizinha.md)

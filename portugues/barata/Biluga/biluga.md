@@ -4,3 +4,5 @@ Diz aí Biluguinha o que "cê" vai fazer.
 Eu vou comprar um soco pra me defender.
 
 Ele vai dar uma socada na barata dela ( x4 )
+
+[Toda vez que eu chego em casa...](barata/baratadavizinha.md)
