@@ -1,1 +1,1 @@
-[left](welcom.png) or [right](/create-your-own-adventure/english/marshmallow.md)
+[left](welcom.png) or [right](/english/marshmallow.md)
