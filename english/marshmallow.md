@@ -1,42 +1,24 @@
 Once upon a time many authors collaborated to make meaningless linked story.
+Your adventure begins. You realize there are hundreds of paths for you to choose from. 
+Which way should you go? Only you can decide. 
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
 
-Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
-hi~
+NGE is [here](NGE/NGE.md)
 
-NGE is [here] (NGE/NGE.md)
+[start](mad/mad.md) your journey into world of mad or spend your time [wisely](http://www.pythonchallenge.com/)
 
-[start](mad/mad.md) your journey into world of mad 
-
-or
-
-spend your time [wisely](http://www.pythonchallenge.com/)
-
-[Click here](http://www.dvloper.me) to visit my dvloper.me blog .
-
-Are you a:
-
-[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) 
-
-or a 
-
-[dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
-
-Your adventure begins. You realize there are hundreds of paths for you to choose from. 
-Which way should you go? Only you can decide. 
+Are you a: [cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) or a [dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
 
 Oh so many decisions - what will you do??
 
-In the end you will realize that it [doesn't really matter]
-(https://goo.gl/1fd4wU).
-The path you choose is as good as any.
+In the end you will realize that it [doesn't really matter](https://goo.gl/1fd4wU). The path you choose is as good as any.
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
 
@@ -49,18 +31,13 @@ Take some [time](meditation/meditation.md) off!
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
 Who is better?
-
 [Click Here](captain/captain.md) to vote for Captain America
-
 [Click Here] (ironman/ironman.md) to vote for Iron Man
-
 [Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
 [click here] (london/london.md) to vote for london
 
 January 2017 approaches. You have two presidential candidates to vote for.
-
 [Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
-
 [Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
 
 You don't like either of these candidates.
