@@ -4,3 +4,7 @@ An evil vile smell of rotten, no desicated, dry dog food that would haunt an arc
 hellish smell of sulfur fire burning flesh.
 
 Then your dog speaks to you and says ["follow me ..."](../play-with-dog/dog.md)
+
+You're not sure what to do. 
+
+You could follow him, or you could [shred](../shred/shred.md)
