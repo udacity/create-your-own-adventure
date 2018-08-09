@@ -12,12 +12,12 @@
 
 Τί κάνεις;
 
-[Βγάζεις την κάλτσα σου](take_off_socks/take_off_socks.md)
+[Βγάζεις την κάλτσα σου](../take_off_socks/take_off_socks.md)
 
-[Προσεύχεσαι](pray/pray.md)
+[Προσεύχεσαι](../pray/pray.md)
 
-[Βγάζεις το πηρούνι σου](take_the_fork/take_the_fork.md)
+[Βγάζεις το πηρούνι σου](../take_the_fork/take_the_fork.md)
 
-[Σπρώχνεις δυνατά την πόρτα](push_the_door/push_the_door.md)
+[Σπρώχνεις δυνατά την πόρτα](../push_the_door/push_the_door.md)
 
-[Πιάνεις το σχοινί](use_the_rope/use_the_rope.md)
+[Πιάνεις το σχοινί](../use_the_rope/use_the_rope.md)
