@@ -19,3 +19,5 @@
 [Βγάζεις το πηρούνι σου](take_the_fork/take_the_fork.md)
 
 [Σπρώχνεις δυνατά την πόρτα](push_the_door/push_the_door.md)
+
+[Πιάνεις το σχοινί](use_the_rope/use_the_rope.md)
