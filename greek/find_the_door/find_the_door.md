@@ -12,7 +12,7 @@
 
 Τί κάνεις;
 
-[Βγάζεις την κάλτσα σου](put_socks_off/put_socks_off.md)
+[Βγάζεις την κάλτσα σου](take_off_socks/take_off_socks.md)
 
 [Προσεύχεσαι](pray/pray.md)
 
