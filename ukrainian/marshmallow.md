@@ -6,7 +6,7 @@
 
 Що будете робити?
 
-[Подумаю "Як цікаво!", та приготуюся до пригоди!] (prepare_for_adventure/prepare_for_adventure.md)
+[Подумаю "Як цікаво!", та приготуюся до пригоди!](prepare_for_adventure/prepare_for_adventure.md)
 
 [Зателефоную доктору Хто](dr-who/dr-who.md)
 
