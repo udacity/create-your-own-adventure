@@ -1,0 +1,1 @@
+Fernán comenzaba a desperezarse. Mientras se incorporaba de la cama y comenzaba a vestirse se preguntaba sobre la suerte del capitán Hernández y los habitantes de Canudo.
