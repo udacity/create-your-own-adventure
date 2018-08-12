@@ -7,4 +7,4 @@ llamó al Capitán Hernández:
 
 [¡Mi capitán! El consejero lo manda a llamar. ¡Ha llegado el ejercito de la república!](llave/hernandez.md)
 
-[¡Mi capitán! Las hordas del norte han iniciado el asedio a Canudos.](heroe.heroe.md)
+[¡Mi capitán! Las hordas del norte han iniciado el asedio a Canudos.](heroe/heroe.md)
