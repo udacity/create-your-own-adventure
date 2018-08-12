@@ -1241,3 +1241,6 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Wouldst thou like the taste of butter? A pretty dress? Wouldst thou like to live deliciously?
+Dost thou see a book before thee? Come, write thou name. I will guide thy hand. [book](book/book.md)
