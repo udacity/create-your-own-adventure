@@ -1,0 +1,2 @@
+Varios escuadrones de ogros montados en dragones alados descendían en picado sobre la atónita Canudos.
+Bajo sus garras, incandescentes bolas fuego surcaban el aire dejando estelas de humo negro cubriendo el cielo con un manto siniestro.
