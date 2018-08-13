@@ -12,4 +12,6 @@ while True {
     what the problem is, a policeman gently tells her that the dog was choking on a man’s finger. A burglar
     must still be present in their home. Soon enough, the former owner
     of the finger is found unconscious in the bedroom.
+
+    The Moral of The Story? Never tell a dog to pull your finger.
 }

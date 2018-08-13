@@ -10,3 +10,5 @@ You don't know what to do.The pandas continue to walk towards you.
 You begin retreating slowly.Suddenly,one of the pandas speed up.
 
 How strong is scaffolding made of bamboo you ask?
+
+Then you remember reading that a panda "eats, shoots, and leaves." You have a sinking feeling as you start to scan the panda crowd for a gun.
