@@ -5,3 +5,5 @@ So I did.
 It is on my to do list.
 
 After I landed, I realized that this was great! I turned around and said "Let's do it again!"
+
+And also said "But that's kind of expensive"
