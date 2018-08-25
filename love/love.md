@@ -2,6 +2,6 @@ Love is universal, some say, [French] (../french/feu-de-camp.md) is the language
 
 Do I agree?
 
-Love it not just a language. It is an action. It is a choice. It is a commitment.
+Love is not just a language. It is an action. It is a choice. It is a commitment.
 
-There's a popular quote [here] (https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A4-8&version=NIV) that describes love perfectly. 
+There's a popular quote [here] (https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A4-8&version=NIV) that describes love perfectly.
