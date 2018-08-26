@@ -1,4 +1,4 @@
-The polar bear looks hungry. Maybe i should give him this soft delicious marshmallow. 
+﻿The polar bear looks hungry. Maybe i should give him this soft delicious marshmallow. 
 Here you go polar bear. But he doesn’t move. Is he color blind? Maybe he doesn’t see white. 
 So after waiting 10 minutes, i decide to just get my picture taken with him. No wait. 
 I’m too far away, let me step of this fence. He grabs my tennis shoe and tries to eat it. He was hungry!
@@ -25,6 +25,11 @@ the walruses quickly help the situation by using their tusks to pierce any
 marshmellows and create a rip in the fabric of reality.. you jump on the 
 walruses back..
 
+While riding the walrus you quickly pull the pin from the hand grenade you’ve been clenching.
+
+You then toss the grenade in the general direction of the polar bear. 
+
+The grenade explodes and causes the bear to lose a layer of skin.
 
 Now you decide to:
 
@@ -33,3 +38,5 @@ Now you decide to:
 [Do a dance](../dance/dance.md)
 
 [and ride through the worm whole](worm_hole/worm_hole.md)
+
+[Run](../run/run.md)

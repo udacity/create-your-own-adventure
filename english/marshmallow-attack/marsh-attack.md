@@ -6,7 +6,9 @@ reaches for the lighter you quickly jab the fork into the
 
 white fluffy hand. The marshmallow pulls back its hand and
 
-a giant gaping mouth appears and starts to scream.
+a giant gaping mouth appears and starts to scream.  The 
+
+scream starts to melt your face.
 
 Do you
 
@@ -18,4 +20,6 @@ Do you
 
 [Run back and forth?](../indigestion/indigestion.md)
 
-[Decide you're hungry for s'mores] (make-smores/make-smores.md)
+[Decide you're hungry for s'mores](make-smores/make-smores.md)
+
+[Light Up](../light-up/light-up.md)

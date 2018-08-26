@@ -10,8 +10,17 @@ As the most glory superman, you decide to save the world.
 There are Sooooo ~~~ many troubles in or out of our planet.
 They are all making a unique voice:  calling for a Man like you! Do you: 
 
-[practice flying?] (../super-powers/practice-flying.md)
+[practice flying?](../super-powers/practice-flying.md)
 
-[Find the evil mastermind Lex Luther?] (./lex-luther/find-lex-luther.md)
+[Find the evil mastermind Lex Luther?](./lex-luther/find-lex-luther.md)
 
-[Find the bird?] (../find-bird/bird.md)
+[Find the bird?](../find-bird/bird.md)
+
+Or do you rid those decisions from your
+ mind and decide that you want to be a new 
+ "Super" character all together! You're not
+  a one role kinda guy, you don't even fit 
+  into the DC universe!! You decide you 
+  must become... 
+
+[Naruto!](../naruto/seventh-hokage.md)

@@ -2,6 +2,8 @@ Realizing now that the marshmallows have become self-aware, much unlike SkyNet,
 your jacket reacts to these sentient beings and springs to life almost destroying 
 your skin in the process. The jacket now forms a leather mouth, through which you 
 hear the sound of none other than Ronnie James Dio, the guitar legend.
+He is old, wrinkled, shriveled and decrepit, but still holds within him the mighty
+power of rock.
 
 " I heard you brave young Jacket-guy, you are hungry for the rock 
 But to learn the ancient methods, secret doors you must unlock 

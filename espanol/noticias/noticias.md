@@ -9,3 +9,5 @@ Enseguida, Beatito:
 [Se burla del periodista](burla-periodista/burla-periodista.md)
 
 [le comenta al periodista que necessita anteojos](anteojos/anteojos.md)
+
+[Noticia del tiroteo en Orlando](orlando/orlando.md)

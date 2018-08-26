@@ -1,0 +1,1 @@
+As you pick up the battle axe, you feel frenzied and invigorated

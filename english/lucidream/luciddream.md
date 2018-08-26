@@ -6,7 +6,7 @@ Its works!! Your breathing through your blocked nose
 confirming yourself your inside a dream...
 what will you do?
 
-Panic and wake up
+[Panic and wake up](../wake-up/wake-up.md)
 
 Think of how well Margot Robbie is doing..
 
@@ -14,4 +14,8 @@ Yells and become super saiyan
 
 Flys to the moon
 
+[Turn into a potato](potato/potato.md)
 
+Spin like a Whirling Dervish
+
+[Sent to the hospital](../hospital_bed/hospital_bed.md)

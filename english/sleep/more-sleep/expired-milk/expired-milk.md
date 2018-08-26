@@ -19,4 +19,6 @@ What do you do now:
 
 [Tell mom about the milk](tell-mom/tell-mom.md)
 
+[Run out the door](../../../run_out_the_door/run_out_the_door.md)
+
 [Go back to sleep.](even-more-sleep/even-more-sleep.md)

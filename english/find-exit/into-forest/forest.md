@@ -29,9 +29,9 @@ You can do nothing but wait for it to make it's move
 
 Then it asks "What's your name?"
 
-[Do you start a conversation with the cougar?] (talk-to-cougar/talk-to-cougar.md)
+[Do you start a conversation with the cougar?](talk-to-cougar/talk-to-cougar.md)
 
-[Do you start to run?] (all-is-lost/all-is-lost.md)
+[Do you start to run?](all-is-lost/all-is-lost.md)
 
 As you head back into the forrest, Sara follows you, but at a distance.
 

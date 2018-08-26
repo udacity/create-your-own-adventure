@@ -26,3 +26,5 @@ Hansel holds out the pills, which look suspiciously like M&Ms to you.  Do you:
 [Take a blue pill](../../virtualreality/oculus.md)
 
 [Take a red pill](../matrix/matrix.md)
+
+[Get both blue and red pills and explore more](../../marshmallow.md)

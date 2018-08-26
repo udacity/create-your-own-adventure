@@ -4,9 +4,9 @@
 
 Ваши действия:
 
-[Вызвать милицию] (police/call-police.md)
+[Вызвать милицию](police/call-police.md)
 
 [Позавтракать с Винипухом и Пяточком](breakfast/breakfast-marshmallows.md)
 
-[Спросить о будущем планеты] (yes/yesdrugs.md)
-[Скажете "нет" наркотикам] (no/nodrugs.md)
+[Спросить о будущем планеты](yes/yesdrugs.md)
+[Скажете "нет" наркотикам](no/nodrugs.md)

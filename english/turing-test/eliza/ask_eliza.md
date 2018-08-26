@@ -14,6 +14,9 @@ Your memory skills at retrieving model numbers of arcane cathod-ray tube devices
 in the late seventies and early eighties are rewarded with the
 following enigmatic response from ELIZA:
 
+Perhaps in your fantasies I am wearing that dusty ADM-34 CRT? How do I even get parts for
+that thing?
 
+You respond:
 
 

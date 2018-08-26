@@ -8,3 +8,5 @@ nicht mehr rechtzeitig herauszukommen, wenn Sie sich hineingezwängt haben.
 Sie entschließen sich:
 
 [Ins Boot zurückzukehren](../ruderboot.md)
+
+[Trotzdem in den Eingang hineinzutauchen](Hoehle/hoehle.md)

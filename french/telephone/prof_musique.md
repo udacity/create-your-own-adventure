@@ -1,3 +1,3 @@
-Comme c'est le weekend, sa mere repond et me demande d'aller lui acheter du pain.
+Comme c'est le weekend, sa mère repond et me demande d'aller lui acheter du pain.
 
-[Returner](../feu-de-camp.md)
+[Retourner](../feu-de-camp.md)

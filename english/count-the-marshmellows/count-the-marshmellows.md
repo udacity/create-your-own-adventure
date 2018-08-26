@@ -10,7 +10,7 @@ Do you:
 
 [Look for a way out?](../find-exit/leave.md)
 
-[Sell the marshmallows on ebay?] (./sell-on-ebay/sell-on-ebay.md)
+[Sell the marshmallows on ebay?](./sell-on-ebay/sell-on-ebay.md)
 
 [Eat ALL the marshmallows](./eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 
