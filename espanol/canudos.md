@@ -89,6 +89,8 @@ accediendo a un [estado de meditación transcendente](transcender/transcender.md
 
 [Y de repente se acordo y sintion miedo...](kraken/kraken.md)
 
+[Pero aun asi siguio adelante](adelante/adelante.md)
+
 [Organizó sus tropas y mandó a las mujeres y niños para sus casas](mujeres/mujeres.md)
 
 [Vió de repente en el cielo una luz brillante que iluminó como un sol el campo de batalla..](cielo/cielo.md)
