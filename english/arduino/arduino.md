@@ -1,0 +1,1 @@
+Arduino is an open-source platform used for building electronics projects
