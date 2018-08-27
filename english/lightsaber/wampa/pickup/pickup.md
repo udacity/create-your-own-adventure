@@ -1,0 +1,3 @@
+The roar, more like ocean waves than that of a creature, becomes stronger as you approach the alien-smooth metallic box.
+Upon closer inspection, you begin to wonder whether this is a box at all. 
+You reach out your hand to touch the micro-monolith and...
