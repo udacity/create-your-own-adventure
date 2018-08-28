@@ -11,3 +11,5 @@ umringt, die wild gestikulieren.
 Du wirst versuchen: [die Männer zu verstehen?](verstehen/verstehen.md)
 
 Du wirst versuchen: [dich zu verteidigen](verteidigen/verteidigen.md)
+
+Du wirst versuchen: [dich zu ergeben](ergeben/ergeben.md)
