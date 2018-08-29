@@ -39,3 +39,5 @@ Que faites-vous ?
 [Je commande du foie gras](foie-gras/foie-gras.md)
 
 [J'organise une soirée pain d'épices](soiree/soiree.md)
+
+[Je découpe un bout de la maison](decoupe/decoupe.md)
