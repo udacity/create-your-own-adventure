@@ -10,6 +10,6 @@ Duboki glas protrese zidove.
 
 Sljezova ruka se vrati natrag.
 
-[Izadi van, zadovoljan ovim stanjem stvari](/van/van.md)
+[Izadi van, zadovoljan ovim stanjem stvari](van/van.md)
 
-[Pojedi jedan od sljezovih kolacica](/slatkis/slatkis.md)
+[Pojedi jedan od sljezovih kolacica](slatkis/slatkis.md)

@@ -16,7 +16,7 @@ Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
 
 Vani pada kisa.
 
-[Otvoris vrata i izades van](/van/van.md)
+[Otvoris vrata i izades van](van/van.md)
 
 [Pokusas komunikaciju s kucom](komunikacija.md)
 
