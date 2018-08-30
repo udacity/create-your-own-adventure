@@ -12,4 +12,4 @@ Plötzlich :O
 
 [Ihre Frequenz eine Gruppe von Walen genannt.](Walen/walen.md)
 
-[Sie essen ein Käsebrot.] (Kaese/kaesebrot.md)
+[Sie essen ein Käsebrot.](Kaese/kaesebrot.md)
