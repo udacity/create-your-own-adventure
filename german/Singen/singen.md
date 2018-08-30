@@ -11,3 +11,5 @@ Plötzlich :O
 [Sie werden von einem Fischerboot gefunden.](Fischerboot/fischer-boot.md)
 
 [Ihre Frequenz eine Gruppe von Walen genannt.](Walen/walen.md)
+
+[Sie essen ein Käsebrot.] (Kaese/kaesebrot.md)
