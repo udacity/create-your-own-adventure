@@ -1,6 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-[Click](2lines/2lines.md) to get inspired. 
+[Click](2lines/2lines.md) to get inspired.
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
