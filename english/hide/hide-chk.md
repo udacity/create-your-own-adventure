@@ -1,5 +1,6 @@
 you suspect the marshmallows are evil. 
 they would like to snatch your lighter rope and fork and tie you the stake poke and burn you.
+you think you are crazy to imagine this, but you can't be wrong.
 you react fast and hide all the three in your pocket. 
 next you grab a handful of marshmallows from the wall and stuff you mouth with them.
 but then they are quickly replaced. 
