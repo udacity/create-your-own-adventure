@@ -11,5 +11,6 @@ Which part of the world, and what time you want to travel? And why?
 
 [You decide to travel back in time to visit a founding father of America](https://www.youtube.com/watch?v=t0aX8Jy1tME)
 
-[You turn back](../marshmallow.md)
+[You decide to travel a day before you took the final exam you failed](final-exam/final-exam.md)
 
+[You turn back](../marshmallow.md)
