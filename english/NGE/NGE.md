@@ -1,1 +1,1 @@
-dont do [this] (https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+dont do [this](https://www.udacity.com/course/how-to-use-git-and-github--ud775)

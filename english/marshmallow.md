@@ -4,14 +4,17 @@ And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.
 
 A few learned to [tango](tango/tango.md)
 
+But a few enjoyed the pleasures of tango while playing cricket.  They went on many 
+adventures [Like This One](critango/critango.md)
+
 Some preferred to
-Enter [The Forest!] (forest/forest.md)
+Enter [The Forest!](forest/forest.md)
 
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
 
-NGE is [here] (NGE/NGE.md)
+NGE is [here](NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad 
 
@@ -34,8 +37,7 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
-In the end you will realize that it [doesn't really matter]
-(https://goo.gl/1fd4wU).
+In the end you will realize that it [doesn't really matter](https://goo.gl/1fd4wU).
 The path you choose is as good as any.
 
 You decide to drop everything you're doing and [run out the door](run_out_the_door/run_out_the_door.md)!
@@ -52,9 +54,9 @@ Who is better?
 
 [Click Here](captain/captain.md) to vote for Captain America
 
-[Click Here] (ironman/ironman.md) to vote for Iron Man
+[Click Here](ironman/ironman.md) to vote for Iron Man
 
-[Click here] (00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
+[Click here](00_8_Agent/The_name_is_Bond_Milton_Bond.md) to vote for a Special Agent
 [click here] (london/london.md) to vote for london
 
 January 2017 approaches. You have two presidential candidates to vote for.
