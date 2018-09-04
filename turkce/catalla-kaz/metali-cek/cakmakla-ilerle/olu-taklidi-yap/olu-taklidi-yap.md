@@ -8,6 +8,6 @@ Nefesini fark edilmemek için tutuyorsundur. Ama daha fazla tutamayacak gibi dur
 
 Nefesini daha fazla tutarsan bayılacaksın, tutmazsan da hatmi çiçeği tarafından yakalanacksın.
 
-[Hatmi Çiçeğine Yakalan](../../hatmiye-yakalan/hatmiye-yakalan.md)
+[Hatmi Çiçeğine Yakalan](../hatmiye-yakalan/hatmiye-yakalan.md)
 
 [Nefesini Daha Fazla Tutmaya Çalış](nefes-tut/nefes-tut.md)
