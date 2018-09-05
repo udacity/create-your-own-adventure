@@ -15,3 +15,5 @@ Napokon shvatis da je sljez samosvjestan!
 Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
 
 Vani pada kisa.
+
+Mokar si do koze, ali nastavljas trcati prema svjetlu koje vidis u daljini.
