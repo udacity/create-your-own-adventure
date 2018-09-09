@@ -36,3 +36,5 @@ Pensaria numa forma de criar [emprego](emprego/criar_emprego.md) na minha terra 
 Iria passear na [Itália](italia/italia.md).
 
 Investiria no [saturnov](http://www.saturnov.com/).
+
+Mudaria para a Alemanha e compraria uma [Ferrari](ferrari/ferrari.md).
