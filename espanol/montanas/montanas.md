@@ -1,5 +1,5 @@
 Como todo un cobarde, las montañas fueron el hogar de
-benito por el resto de su vida; dejando a su pueblo
+Benito por el resto de su vida; dejando a su pueblo
 ahogar en llamas.
 
 Uno de los lugares favoritos de benito es el [Avila](https://www.youtube.com/watch?v=EwQvRQ4IxLw),
