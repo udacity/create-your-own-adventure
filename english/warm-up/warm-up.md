@@ -2,6 +2,14 @@ Close and take a deep breath.
 
 Take another deep breath, then another.
 
+Start noticing sounds around you.
+
+Don't focus on finding sounds. Just notice.
+
+Start counting your breath until you reach 10.
+
+Then start over.
+
 When you're ready, open your eyes and consider:
 
 Have you been sitting down for a while? Then do [blood flow exercises.](Blood_flow/vigorous.md)
