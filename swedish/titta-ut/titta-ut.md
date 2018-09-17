@@ -9,3 +9,5 @@ Efter att ha övervägt din situation väljer du att
 
 [göra dig en macka](macka/macka.md)
 
+[öppna fönstret] (öppnafönster/öppnafönster.md)
+
