@@ -167,3 +167,5 @@ Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odys
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
 Si Latine legere vis, [hic preme](latin/arena.md)
+
+If you speak hindi [Click here] (https://en.wikipedia.org/wiki/List_of_languages_by_number_of_native_speakers_in_India#More_than_one_million_speakers)
