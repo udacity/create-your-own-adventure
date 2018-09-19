@@ -1,0 +1,2 @@
+Hallo, Leute ich wohne in Österreich. Leute in Österreich benutzt Detusch Sprache [ref](https://www.britannica.com/topic/German-language).   
+Österreich gibt nur 8.7 millionen einwohner (Bitte [hier](http://www.worldometers.info/world-population/austria-population/) schauen). 
