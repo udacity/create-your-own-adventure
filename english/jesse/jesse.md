@@ -1,4 +1,4 @@
-He and Combo are standing in line at the dog house.
+Jesse and Combo are standing in line at the dog house.
 
 You go and ask him for his autograph.
 
