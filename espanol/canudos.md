@@ -195,4 +195,4 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
 
-Y empezo a hacer [parkour](parkour/parkour.md) por el pueblo mientras escapa del ejercio.
+Empezó a hacer [parkour](parkour/parkour.md) por el pueblo mientras escapa del ejercio.
