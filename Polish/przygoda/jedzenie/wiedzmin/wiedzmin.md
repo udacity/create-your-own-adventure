@@ -11,8 +11,8 @@ Sprzedawca, cybernetyczny, zasuszony hipernerd wita cię tymi
 słowami:
 
 
-[Lubię placki! Masz ochotę na placka?] (placki/placki.md)
+[Lubię placki! Masz ochotę na placka?] (wiedzmin/placki/placki.md)
 
-[Razem zmienimy Polskę!] (polska/polska.md)
+[Razem zmienimy Polskę!] (wiedzmin/polska/polska.md)
 
-[Popuś to Ty?] (popus/popus.md)
+[Popuś to Ty?] (wiedzmin/popus/popus.md)
