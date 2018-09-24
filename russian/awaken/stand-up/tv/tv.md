@@ -4,5 +4,5 @@
 из вазы. Никто из гостей ничего не подозревает.
 
 Ты решаешь сделать одно из двух действий:
-- [Войти в телевизор](create-your-own-adventure/russian/awaken/stand-up/tv/enter-inside-tv/enter-inside-tv.md)
-- [Позонить в редакцию "Пока все дома"](create-your-own-adventure/russian/awaken/stand-up/tv/make-call/make-call.md)
+- [Войти в телевизор](enter-inside-tv/enter-inside-tv.md)
+- [Позонить в редакцию "Пока все дома"](make-call/make-call.md)
