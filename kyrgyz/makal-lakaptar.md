@@ -4,3 +4,6 @@
 Баардык жигит кыз тандайт, бактылуу жигит уз тандайт.
 Эр болсоң, көк бол, айткан сөзгө бек бол.
 Кайраттуу жүрөк таш жарат.
+
+Use the link below to read more about Kyrgyzstan 
+https://en.wikipedia.org/wiki/Kyrgyzstan
