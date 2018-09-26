@@ -167,6 +167,8 @@ Was it the sound of a cry from the shower?
 
 Was it the sound of birds?
 
+Or maybe the sound of waves crashing?
+
 It sounded like it could have been a [heffalump](heffalump/heffalump.md)
 
 No... perhaps not.
