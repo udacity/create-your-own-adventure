@@ -17,3 +17,5 @@ Mas não daria para fazer tudo isso. Teria que escolher.
 
 Doar 1,000,000€ ao IPO Porto!
 
+Começaria conhecendo a [Grécia](https://pt.wikipedia.org/wiki/Gr%C3%A9cia)
+
