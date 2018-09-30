@@ -1241,3 +1241,6 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Come take out the [trash](00_0-I-have-the-perfect-idea/im_trash.md)
+
