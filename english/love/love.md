@@ -57,3 +57,7 @@ It does not always have to be with a person.
 Love can be a passion.
 But depending on the person.
 Love can be anything.
+
+Have you ever been so in love that you would do 
+anything for that person, what if that person would
+be yourself? Do anything for you, love yourself.
