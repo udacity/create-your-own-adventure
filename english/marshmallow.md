@@ -1,5 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+This story used to just be a [void of emptiness](empty/really_empty.md). But that soon changed when Udacity udaciously summoned its eager students to merge together a story.
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
