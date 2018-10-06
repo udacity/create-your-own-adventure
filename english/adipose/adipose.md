@@ -14,6 +14,7 @@ was a human?"
 I must resolve this marshmallow dream.
 
 [Wake Up](awake/awake.md)
+[And hear the music](https://github.com/myYearOfCode/create-your-own-adventure/blob/master/english/chillmusic/chillmusic.md)
 
 You realize you can't wake up. Or you are already awake. But you must continue because
 
