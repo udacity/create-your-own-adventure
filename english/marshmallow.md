@@ -1242,4 +1242,4 @@ What is your [passion?](passion/passion.md)
 
 searching for [good](tvf-play/watch.md) content.
 
-If you decide to do nothing and simply stay [here](marshmallow.md)?
+What if you decide to do nothing and simply stay [here](marshmallow.md)?
