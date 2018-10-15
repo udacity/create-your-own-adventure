@@ -35,7 +35,7 @@ from an early version of the story.  Here are some examples of  appropriate chan
 * Add a couple of options to a current dead-end "page", and add a "page" or link
   to an existing "page" for each option.
 
-
+add a new folder related to new adventure to make small changes insid it.
 ### Directory Structure
 
 We expect that this repository will eventually contain quite a few files, so we
