@@ -1,0 +1,1 @@
+Sobre si apagó el fuego o no tras cocinar unas croquetas.... Justo en ese momento comenzó a aflorar una humareda entre las casas que le sacó de dudas
