@@ -7,6 +7,8 @@ A few learned to [tango](tango/tango.md)
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
+But most wanted to flap some bapkins. Do you want to [flap some bapkins?](https://www.youtube.com/watch?v=mMKPwQXReHs)
+
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~
