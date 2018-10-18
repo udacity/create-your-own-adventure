@@ -7,7 +7,7 @@ It's Summer! Time to explore these places:
 [Sweden](https://youtu.be/5KYm1UpXiq0?t=53s)
 
 Visit the Rhine and Rothenburg
-[Germany](https://www.youtube.com/watch?v=uD9b7mP6whk)
+[Germany](https://www.youtube.com/watch?v=uD9b7mP6whk) Beautiful
 
 visit Iran (It has beautiful Nature and unique History)
 
