@@ -11,4 +11,8 @@ The next step is other planets.
 You feel stranded.
 How can I get off of this planet?
 You are desperate and scream, "Oh God!"
+
 Suddenly - [you wake up!](../wake-up/wake-up.md)
+
+Suddenly - [you wake a fire bender!](../fire-bender/fire-bender.md)
+
