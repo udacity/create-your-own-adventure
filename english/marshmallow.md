@@ -1,4 +1,4 @@
-Once upon a time many authors collaborated to make meaningless linked story.
+﻿Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
@@ -23,7 +23,7 @@ spend your time [wisely](http://www.pythonchallenge.com/)
 
 Are you a:
 
-[cat person](https://www.youtube.com/watch?v=-hIugp7p5O0) 
+[cat person](https://images-na.ssl-images-amazon.com/images/I/51HYyyeBiAL._SX258_BO1,204,203,200_.jpg) 
 
 or a 
 
