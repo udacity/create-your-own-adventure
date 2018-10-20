@@ -3,6 +3,8 @@ aplicativo, você detecta um bug.
 
 Você:
 
+[Desiste de tudo e vai assistir Filmes, Séries e Canais de TV gratuitamente](koding/koding.md)
+
 [Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
 
 [Chora descontroladamente até que sua fada madrinha aparece e te dá 1 desejo](fada/fada.md)
