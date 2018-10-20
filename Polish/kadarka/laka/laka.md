@@ -1,5 +1,18 @@
-Dotar³e¶ w³a¶nie na ³±kê. Pijesz Kadarkê i jest ci dobrze. Rozgl±dasz siê dooko³a
-i zauwa¿asz, ¿e nikogo nie ma, ani ¿ywej duszy, ¿adnych skrzatów, duszków, czy 
-czegokolwiek innego. Wpadasz na pomys³, pustka towarzyska na ³±ce obok stacji
-uzdatniania wody zainspirowa³a ciê do spe³nienia twojego najskrytszego marzenia.
-Szybko podejmujesz decyzjê i ¶ci±gasz majtki (mo¿e bêdzie tam Dong?).
+ï»¿DotarÅ‚eÅ› wÅ‚aÅ›nie na Å‚Ä…kÄ™. Pijesz KadarkÄ™ i jest ci dobrze. RozglÄ…dasz siÄ™ dookoÅ‚a
+i zauwaÅ¼asz, Å¼e nikogo tu nie ma. Nie ma ani Å¼ywej duszy, Å¼adnych skrzatÃ³w, duszkÃ³w, czy 
+czegokolwiek innego. Wpadasz na pomysÅ‚! Pustka towarzyska na Å‚Ä…ce obok stacji
+uzdatniania wody zainspirowaÅ‚a ciÄ™ do speÅ‚nienia twojego najskrytszego marzenia.
+Szybko podejmujesz decyzjÄ™ i Å›ciÄ…gasz majtki (moÅ¼e bÄ™dzie tam Dong?).
+
+Zaraz, zaraz, przecieÅ¼ Ty nie masz majtek. WÅ‚aÅ›ciwie dlaczego masz na sobie kurtkÄ™ a nie masz spodni?
+Pobyt na Å‚Ä…ce zmusza CiÄ™ do refleksji nad nieuniknionÄ… pustkÄ… egzystencji. CzyÅ¼bym zostaÅ‚ filozofem?
+Zapytujesz siÄ™ w swoim umyÅ›le jednoczeÅ›nie pociÄ…gajÄ…c ostatni Å‚yk z butelki.
+
+Co robisz?
+
+[Za duÅ¼o pijÄ™, pora zakoÅ„czyÄ‡ ten kurs](../kurs/kurs.md)
+
+[Wracasz na poczÄ…tek przygody](../../ptasieMleczko.md)
+
+[Jedna kadarka na gÅ‚owÄ™ to za maÅ‚o](../kadarka.md)
+
