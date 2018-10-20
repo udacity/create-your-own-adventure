@@ -9,3 +9,7 @@ Friendship hastens to rescue as fast as hand’s reflex to catch slipping cloth
 மெய்வருத்தக் கூலி தரும்
 Though fate-divine should make your labour vain;
 Effort its labour's sure reward will gain
+
+எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லை
+செய்ந்நன்றி கொன்ற மகற்கு.
+There is salvation for faltering on any virtue but not for ingratitude.
