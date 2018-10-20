@@ -10,3 +10,4 @@ forced to participate in the bear takeover of the world!
 This is the price you pay when you lock eyes with a
 dancing bear.
 
+[click here to see what happens next] (../animal/animal.md)
