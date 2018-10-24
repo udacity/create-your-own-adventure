@@ -7,5 +7,5 @@ vá pra praia e descanse!
 [Vá para a praia](https://youtu.be/qREKP9oijWI) e aproveite.
 
 Perceba que um milhão não da pra nada hoje em dia e 
-[volte para a fada](portugues/fada/dinheiro/dinheiro.md) pra implorar
+[volte para a fada](/portugues/fada/fada.md) pra implorar
 que ela te dê outro pedido.
