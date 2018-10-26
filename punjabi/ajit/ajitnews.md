@@ -1,1 +1,0 @@
-Click [here](http://beta.ajitjalandhar.com/) to visit Ajit, a punjabi news website
