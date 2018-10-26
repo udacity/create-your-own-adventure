@@ -12,3 +12,5 @@
 [寒い](cold/cold.md)
 
 [なぜかいきなりラーメンを食いたくなっちまった](ramen/ramen.md)
+
+[野球を見に行きたくなった](baseball/baseball.md)
