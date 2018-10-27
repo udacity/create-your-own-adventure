@@ -4,6 +4,8 @@ On aurait pû faire que les murs soient fait en pâte de guimave, mais ce sont d
 
 Que faites-vous ?
 
+[J'allume le GPS de mon smartphone pour savoir où est le métro le plus proche](gps/gps.md)
+
 [J'appel au secours](appel-au-secours/appeler-au-secours.md)
 
 [Je me rendors](dormir/reve-etrange.md)
@@ -39,5 +41,3 @@ Que faites-vous ?
 [Je commande du foie gras](foie-gras/foie-gras.md)
 
 [J'organise une soirée pain d'épices](soiree/soiree.md)
-
-[J'allume le GPS de mon smartphone pour savoir où est le métro le plus proche](gps/gps.md)
