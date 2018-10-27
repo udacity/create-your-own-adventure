@@ -1,4 +1,4 @@
-Zmuchlanou šestistovku a šedesátikorunu vrátíš zpět do kapsy.
+Šestistovku zklamaně zmuchláš a spolu se šedesátikorunou bezmyšlenkovitě vrátíš zpět do kapsy.
 
 Na zemi roztočíš šestikorunu. Ta se točí, točí, točí ...
 
