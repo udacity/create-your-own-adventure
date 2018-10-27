@@ -39,3 +39,5 @@ Que faites-vous ?
 [Je commande du foie gras](foie-gras/foie-gras.md)
 
 [J'organise une soirée pain d'épices](soiree/soiree.md)
+
+[J'allume le GPS de mon smartphone pour savoir où est le métro le plus proche](gps/gps.md)
