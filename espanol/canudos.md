@@ -194,3 +194,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
+
+[Y en ese preciso momento un mensaje de WhatsApp sono en su movil](wa/wa.md)
