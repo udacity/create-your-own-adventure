@@ -7,7 +7,7 @@ To know more, kindly visit this [link](http://www.artofliving.org/in-en)
 
 It is also considered to be the world's largest volunteer-based NGO by India today newspaper. 
 
-It has its headquarter in Bangalore, India, a city in Southern India.
+It has its headquarters in Bangalore, India, a city in Southern India.
 They conduct many musical and meditation programs across India and in other countries.
 
 
