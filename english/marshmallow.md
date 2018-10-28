@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+you are commiting a new file but something went [wrong](make-a-new-file/is-it-a-new-file.md)
