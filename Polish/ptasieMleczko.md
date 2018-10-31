@@ -1,4 +1,4 @@
-Pewnego ranka obudziłeś się w dziwnym pokoju ze ścicianami z ptaskiego mleczka.
+Pewnego ranka obudziłeś się w dziwnym pokoju ze ścianami z ptasiego mleczka.
 
 Okazało się również, że masz na sobie niewygodną kurtkę i nie masz na sobie spodni...
 
