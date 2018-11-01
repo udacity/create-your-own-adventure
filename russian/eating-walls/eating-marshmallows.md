@@ -10,3 +10,5 @@
 
 [Спросить о будущем планеты](yes/yesdrugs.md)
 [Скажете "нет" наркотикам](no/nodrugs.md)
+
+[Начать перестрелку](police/open-the-fire.md)
