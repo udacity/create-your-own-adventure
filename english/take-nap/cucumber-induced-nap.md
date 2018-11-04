@@ -5,4 +5,4 @@ while you were recovering from an epic night of binge watching.  You drift off
 to slumber land thinking...man that My Pillow guy has one hell of a moustache.
 
 Suddenly, you feel your porta-bed shake and your pillow goes cold. You either continue sleeping, or
-[investigate](english\incantation-forrest\incantation-forrest.md)
+[investigate](../incantation-forrest/incantation-forrest.md)
