@@ -6,6 +6,6 @@ An image appears in your mind. White to move.
 
 You decide the best response is Qf8+, then Ra8 with mate to follow
 
-And you go back to reality.
+It is not very effecitve..
 
 This game is getting [boring](../bored/bored.md).
