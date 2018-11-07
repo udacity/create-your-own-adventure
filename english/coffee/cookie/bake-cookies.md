@@ -11,3 +11,5 @@ After having coffee and cookies, you would want to:
 [Go for a walk](Walk/walk.md)
 
 [Go for a swim](Swim/swim.md)
+
+[Make up for eating cookies by working out](work-out/work-out.md)
