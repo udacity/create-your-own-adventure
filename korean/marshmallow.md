@@ -2,6 +2,8 @@
 
 어떻게 할까요?
 
+[그것이 알고싶다에 전화를 한다](wannaKnow/wannaKnow.md)
+
 [국회로 간다](filibuster/filibuster.md)
 
 [벽을 먹는다](eating-walls/eating-marshmallows.md)?
