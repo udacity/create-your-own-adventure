@@ -15,3 +15,5 @@ Napokon shvatis da je sljez samosvjestan!
 Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
 
 Vani pada kisa.
+
+Bar vise ne pada kisa.
