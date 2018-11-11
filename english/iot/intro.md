@@ -27,3 +27,6 @@ What will he do?
 
 [Will he scan the network for other devices?](../iot/scan-network/scan-network.md)
 Yes that is one of the option what if he can sense the devices. One way of doing it can be using NFC!
+
+[Will he just go back to sleep?](../iot/back-to-sleep/back-to-sleep.md)
+Maybe if he just waits some of his friends will show up.
