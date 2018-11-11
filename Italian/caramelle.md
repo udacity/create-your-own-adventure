@@ -36,3 +36,5 @@ Che fai?
 [Canto](canto/canto.md)
 
 [Guardo l'orologio](orologio/orologio.md)
+
+[Prendo il mio smartphone e chiedo a Siri](smartphone/siri.md)
