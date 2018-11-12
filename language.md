@@ -1,5 +1,7 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+বাংলা তে কোবিতা পড়তে [আমায় ক্লিক](bangla/bangla-poems.md) করুন|
+
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
 Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
