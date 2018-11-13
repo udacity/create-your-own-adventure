@@ -1,0 +1,1 @@
+My close friend passed away. She doesn't get to controbute her own story any longer, but perhaps here her story can go on a little longer.  She loved and cared for me during a time when I was unable to love and care for myself. [Thank you](https://www.facebook.com/jessie.roughan)
