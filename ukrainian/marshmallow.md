@@ -44,4 +44,6 @@
 
 [Викличу потусторонні сили](daemon/daemon.md)
 
+[Нескінченна історія](no-story/no-story.md)
+
 [В телефоні ж є музічний плеєр](the-wall/the-wall.md)
