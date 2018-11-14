@@ -2,7 +2,7 @@ You are either dead or alive.
 
 You simultaneously are both dead and alive.
 
-Also known as Quantum Superposition
+Also known as [Quantum Superposition](../time-travel/time-travel.md)
 
 It is only when you open the box that you become either dead or alive.
 
