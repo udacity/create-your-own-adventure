@@ -1,5 +1,7 @@
 Bayes' Theorem: P(A|B) = P(B|A)P(A)/P(B)
-
+    The theorem helps us find the probability of the occurence of
+    event A given that the event B had already happened.
+    
 I learnt Bayes Theorem long back but i forgot
 
 [Daddy, but where do priors come from](priors/priors.md)?
