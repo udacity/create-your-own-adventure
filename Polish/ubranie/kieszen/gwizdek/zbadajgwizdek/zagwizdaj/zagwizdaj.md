@@ -11,3 +11,5 @@ staje się ciepły i zmienia się w duży marker do tablicy.
 [Myśląc że zaczynasz rozumieć jak się gra, zbliżasz się do tablicy zdejmujac pokrywke z markera](zmarkerem/zmarkerem.md)
 
 [Przestraszony przez tych dziwnych wydarzeń, sięgasz po gumke do tablicy](zgumka/zgumka.md)
+
+[Rozglądasz się wokół i myślisz jaka piękna łąka](zlaka/zlaka.md)

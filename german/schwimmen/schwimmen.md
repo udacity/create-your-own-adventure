@@ -4,6 +4,10 @@ Sie erreichen Sie mit letzter Kraft und erholen sich erst einmal am Strand. Doch
 
 Man sollte ...
 
+... etwas scharfes finden, vielleicht einen Stein, 
+und diese Fischerleine aus den Flügeln kriegen.
+[Flügel](fluegel_freischneiden/fluegel_freischneiden.md)
+
 ... was zu Essen suchen, denn nach dem Schwimmen hat man immer Hunger
 [Hunger](hunger/hunger.md)
 
@@ -13,5 +17,7 @@ Man sollte ...
 
 ... sich erst einmal auf der Insel umschauen und dann entscheiden wie es weiter geht.
 [Insel](insel/insel.md)
+
+... dem Klang des rythmischen Trommelschlages folgen.[Trommeln](trommeln/trommeln.md)
 
 [Zurück](../ruderboot.md)

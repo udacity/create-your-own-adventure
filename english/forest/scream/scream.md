@@ -21,3 +21,5 @@ What will you do?
 [Play dead](dead/dead.md)
 
 [Run towards the tiger](run/run.md)
+
+[Climb the nearest tree](climb/climb.md)

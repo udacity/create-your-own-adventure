@@ -11,6 +11,8 @@ The mayor said the Mr. Sugarfix's  marshmallow factory is at the
 top of hill and it is making the marshmallow 24 hours a day. 
 The marshmallow ooz flows into the river and down to the towns. 
 
+The police and fire depts. are also comepletely submerged in goo. Its up to you.
+
 The mayor said you must go and destroy the factory. He has a box of tools.
 
 Do you:

@@ -7,3 +7,7 @@ whirls through the air, a frown on its face.
 
 Its last words before it breaks upon the rock-candy ground are, "I can't catch
 you, I'm the Gingerbread Man."
+
+After the creature has been destroyed, you decide to
+
+[Head back towards the tower.](../keep-running/keep-running.md) 

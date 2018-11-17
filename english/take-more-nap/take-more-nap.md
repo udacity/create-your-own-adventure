@@ -1,0 +1,1 @@
+You woke up a couple of hours later, feeling refreshed. The two malt balls are still there.

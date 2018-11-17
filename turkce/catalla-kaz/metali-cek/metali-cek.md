@@ -14,3 +14,7 @@ Diğer taraf ise uçurum fakat iple inebilirsin.
 Ne yapacaksın?
 
 [İple in](iple-in/iple-in.md)
+
+[Çakmakla İlerle](cakmakla-ilerle/cakmakla-ilerle.md)
+
+[Uykuya dal](../../hatmisekeri.md)

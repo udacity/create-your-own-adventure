@@ -11,3 +11,5 @@ Mit csinálsz?
 [megreggelizel](reggeli/reggeli.md)
 
 Jól belerúgsz az [oxigén generátorba](oxygen/oxygen.md)
+
+[megnezem, hogy a boszorkany mezeskalacs hazaban vagyok-e](boszorkany/mezeskalacs-haz.md)

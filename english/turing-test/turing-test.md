@@ -8,6 +8,8 @@ At first you hear no response. And then, a deep rumble comes from all around.
 
 Do you:
 
+[Ask Princess Nell to help you decide if the marshmallow is a just a machine](princessnell/princessnell.md)
+
 [Realize that someone has poured a bucket of water on you.](bucket/water.md)
 
 [Realize that you are in the ghostbusters movie and wait for the marshmallow to explode](ghostbusters/ghostbusters.md)
@@ -25,3 +27,8 @@ Do you:
 [Forget ELIZA, ask Siri](siri/ask_siri.md)
 
 [Wear the one ring and turn invisible](ring/one_ring.md)
+
+[Forget Siri, asks Cortana](Cortana/ask_Cortana.md)
+
+[If you really want to know something, ask OkGoogle](OkGoogle/ask_OkGoogle.md)
+

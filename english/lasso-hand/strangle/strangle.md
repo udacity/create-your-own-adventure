@@ -6,3 +6,7 @@ You realise your foolish mistake.
 A hand does not have a throat and therefore cannot be strangled.
 
 A very angry hand suddenly turns towards you and leaps.
+
+You:
+
+[Grab the torch from the sconce?](../strangle/torch/torch.md)

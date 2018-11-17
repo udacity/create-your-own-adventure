@@ -8,3 +8,10 @@ Strangely, it is about the size of the A.W.E. Striker w/ Crankcase from
 G.I. Joe Attack on Cobra Island series.
 
 You feel oddly happy seeing all this.
+
+You [start a conversation](hello/hello.md)
+
+You [keep walking](../walk/walk.md)
+
+You [turn back and run towards the tower](../start-running/start-running.md)
+

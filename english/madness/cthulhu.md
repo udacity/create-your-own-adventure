@@ -11,3 +11,7 @@ choice is clear. Do you:
 Accept instant death at the hands of the [Yog-Sothoth] (yogsothoth/yog-sothoth.md)
 
 [Boil] (boil/boil.md) your own flesh with the heat of one million suns
+
+All the while the call of cthulhu can be heard, ominously accompanying your fate
+
+When will the old ones rise?

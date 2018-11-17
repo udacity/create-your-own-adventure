@@ -4,3 +4,5 @@ are here. The nightstand is completely empty. There's not even a phonebook.
 [Try the phone.](use-phone/use-phone.md)
 
 [Look under the bed.](look-under-bed/look-under-bed.md)
+
+[Look under the carpet on the floor.](under-carpet/under-carpet.md)

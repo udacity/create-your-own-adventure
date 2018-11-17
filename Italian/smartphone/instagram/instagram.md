@@ -1,0 +1,1 @@
+Provo a fotografare la stanza ma ottengo solo un selfie immerso nella nebbia.

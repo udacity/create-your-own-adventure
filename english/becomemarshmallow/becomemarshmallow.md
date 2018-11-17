@@ -7,3 +7,5 @@ They return the favor and make a s'more out of you.
 RIP marshmallow you.
 
 You will be remembered!
+
+But for what? The sweetness or for being caught?

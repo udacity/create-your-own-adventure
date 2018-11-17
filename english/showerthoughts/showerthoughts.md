@@ -1,0 +1,1 @@
+in reddit, check out /r/showerthoughts

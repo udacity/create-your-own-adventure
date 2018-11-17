@@ -27,3 +27,27 @@ Commissioner Gordon: He's the hero Gotham deserves but not the one that it needs
 
 Uncle Ben: With great power comes great responsibility.
 (Hey Uncle Ben was a character in Spiderman!!, doesn't belong here)
+
+The real hero is alfred the butler..
+Who is really 
+[Luke Skywalker's](http://fellowshipoftheminds.com/2015/11/23/star-wars-goes-to-illuminati-dark-side/) son!
+
+He also gets really weird with his [neighbors](http://imgur.com/gallery/Gi9cwgR).
+
+I am batman's cousin.
+
+Now that Bruce Wayne is grown old, he has proclaimed that I should take over his legacy!
+
+Over my dead body!! Says Robin.
+
+John Cena comes busting through the wall and screams:
+
+"I'm batman!"
+
+And in typical smark fashion, the crowd boos and chants "John Cena Sucks"
+
+Another shouts "Who is John Cena"
+
+"Goodluck talking to John Cena"
+
+"This is the last time i am talking to John Cena"

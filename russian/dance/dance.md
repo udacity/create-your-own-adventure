@@ -8,3 +8,4 @@
 
 [Когда вам страшно, вы всегда поете.](../light-fire/sing/sing.md)
 
+[Танцуем на руках.](../dance/dance-on-hands/dance-on-hands.md)

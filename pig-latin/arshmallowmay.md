@@ -9,3 +9,5 @@ Oday ouyay:
 [Ogay ackbay otay eepslay](eepslay/arshmallowmay.md)?
 
 [Ixfay ourselfyay ayay upcay ofyay othay ocolatechay](othay-ocolatechay/ocolatechay.md)?
+
+[akemay iceray ispiekray eatstray](iceray-ispiekray/iceray-ispiekray.md)?

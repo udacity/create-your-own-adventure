@@ -3,3 +3,4 @@ Meğerse ipin aşağıdaki kısmı yanmaya başlamış.
 İpin yanıp biteceğini görünce iki opsiyon aklına gelir: 
 - ne beklediğini bilmeden karanlığa atlamak veya
 - hızla ipten tutunarak yukarı doğru hareket etmek.
+- değişiklik.

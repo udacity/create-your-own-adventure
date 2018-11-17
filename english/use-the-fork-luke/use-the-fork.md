@@ -72,3 +72,5 @@ blue fork in the mirror next to you, even though there is no one else in the roo
 He gestures for you to reach towards the mirror!
 
 [Reach towards the mirror...](../virtualreality/oculus.md)
+
+[Smash the mirror...](../luck/grateful-man-bear-pig.md)
