@@ -9,3 +9,5 @@
 [  Вспомнить свою жизнь](../win-not-jump/win-not-jump.md)
 
 [  Схватить ветку торчащую из скалы!](../win-stick/win-stick.md)
+
+[  Взмахнуть крыльями](../win-fly/win-fly.md)
