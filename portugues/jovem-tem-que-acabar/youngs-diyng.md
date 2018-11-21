@@ -1,0 +1,1 @@
+O jovem tem que acabar pq adolescente n presta n, talquei?
