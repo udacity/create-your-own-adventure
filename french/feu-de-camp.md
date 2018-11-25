@@ -39,3 +39,6 @@ Que faites-vous ?
 [Je commande du foie gras](foie-gras/foie-gras.md)
 
 [J'organise une soirée pain d'épices](soiree/soiree.md)
+
+[Je ne supporte pas l'odeur de la cannelle et me mets a hurler](hurlement/haa.md)
+
