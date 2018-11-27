@@ -30,3 +30,5 @@ in their face.
 It is the part of the learned to give joy to those whom they meet, and on 
 leaving, to make them think (Oh! when shall we meet them again).
 
+
+try to implement these in your lives
