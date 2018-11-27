@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+And you began to wonder what happens if pinnochio says ['My nose will grow!'](riddle/riddle.md)
