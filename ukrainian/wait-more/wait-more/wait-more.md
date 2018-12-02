@@ -2,4 +2,5 @@
 Вам страшенно цікаво.
 
 [Вийду до хатинки!](../out/index.md)
+
 [Чекатиму ще](wait-even-more/wait-even-more.md)
