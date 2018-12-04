@@ -8,4 +8,4 @@ The problem is your partner has two left feet:
 
 1. He spins you into a tornado and you fly away through the [roof](../roof-top/roof-top.md).
 
-2. She steps on your [toe](louboutins/louboutins.md) with one of her Louboutins.
+2. She steps on your [toe](toe/toe.md) with one of her Louboutins.
