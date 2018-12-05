@@ -57,3 +57,7 @@ It does not always have to be with a person.
 Love can be a passion.
 But depending on the person.
 Love can be anything.
+
+- Eli J -
+
+Love is hard to obtain, but as are many of the world's treasures.
