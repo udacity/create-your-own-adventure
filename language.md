@@ -14,6 +14,8 @@ If you understand Tamil, தமிழ் வணக்கம் [இங்கே 
 
 தமிழ் வணக்கம்!To view ponmozhigal [Click Here](Tamil/Vivekanandha/ponmozhigal.md)
 
+ਜੇ ਤੁਸੀ ਗੁਰਮੁਖੀ ਪੜ੍ਹ ਸਕਦੇ ਹੋ ਤਾਂ ਿੲੱਧਰ ਜਾਓ ਜੀ , [ਲਿਂਕ](gurmukhi/gurmukhi.md)
+
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
 यिद तपाई नेपाली बोलनुहुनछ भने, [यहाँ िथचनुहोस ।](nepali/about_nepal.md)
@@ -116,7 +118,7 @@ click vaj tlhIngan Hol Dajatlh'a' [naDev click](klingon/start.md)
 
 Po flisni shqip, [shkoni ketu](albanian/hyrje.md)
 
-നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ, 
+നിങ്ങളുടെ ഭാഷ മലയാളം ആണെങ്കിൽ,
 [ഇവിടെ ക്ലിക്ക് ചെയ്യുക](Malayalam/malayalam.md)
 
 [ئەگەر کوردی ئەزانیت کلیک بکە](kurdish/kurdi.md)
