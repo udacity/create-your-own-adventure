@@ -9,4 +9,4 @@ Plätschern im Wasser. Plötzlich hörst du einen lauten Knall. Du
 zuckst zusammen und erschrickst so stark, dass du aus deinem Traum 
 erwachst.
 
-[Als du deine Augen öffnest, kannst du deinen Augen kaum trauen!](/../../tree/master/german/ruderboot.md)
+[Du kannst deinen Augen kaum trauen!](/../../tree/master/german/ruderboot.md)
