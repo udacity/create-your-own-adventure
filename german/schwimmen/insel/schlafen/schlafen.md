@@ -10,4 +10,4 @@ zuckst zusammen und erschrickst so stark, dass du aus deinem Traum
 erwachst.
 
 [Als du deine Augen öffnest findest du dich plötzlich auf dem See 
-wieder] (/../../README.md)
+wieder](/../../README.md)
