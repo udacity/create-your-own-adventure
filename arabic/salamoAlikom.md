@@ -32,4 +32,4 @@
 
 [سي يسيس] (https://www.youtube.com/watch?v=EUw-zTz8cU8)
 
-[أريد أن أكون ناجح](success/something.md)
+[أريد أن أكون ناجح](success/paths-to-success.md)
