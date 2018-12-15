@@ -1241,3 +1241,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+Smart ones chose (Udacity FullStack WebDev NanoDegree)[english/webdev-nanodegree/udacity-nanodegree.md]

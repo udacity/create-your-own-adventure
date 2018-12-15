@@ -1,0 +1,1 @@
+Smart people will choose to study the FullStack Web Development Nano Degree offered by Udacity as it prepares a student to the latest market needs.
