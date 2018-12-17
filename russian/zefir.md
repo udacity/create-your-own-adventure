@@ -119,3 +119,5 @@
 [Зайти на двач](2ch/2ch.md)
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
+
+[Проверить себя на нормальность](remember-everything/remember.md)
