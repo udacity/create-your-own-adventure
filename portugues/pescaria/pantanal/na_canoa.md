@@ -4,4 +4,4 @@ E me pergunto.... Como funciona isso???
 
 A resposta conheço aqui:
 
-[Que curso show de bola!!!](/create-your-own-adventure/portugues/git/oque.md)
+[Que curso show de bola!!!](https://github.com/albertoafaj/create-your-own-adventure/blob/master/portugues/git/oque.md)
