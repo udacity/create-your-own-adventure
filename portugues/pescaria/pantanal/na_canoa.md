@@ -4,4 +4,4 @@ E me pergunto.... Como funciona isso???
 
 A resposta conheço aqui:
 
-[Que curso show de bola!!!](.git/oque.md)
+[Que curso show de bola!!!](git/oque.md)
