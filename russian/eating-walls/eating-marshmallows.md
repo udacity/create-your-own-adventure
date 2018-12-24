@@ -10,3 +10,4 @@
 
 [Спросить о будущем планеты](yes/yesdrugs.md)
 [Скажете "нет" наркотикам](no/nodrugs.md)
+[Выпить таблетку](take_a_drag/take_a_drag.md)
