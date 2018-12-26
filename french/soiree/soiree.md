@@ -1,5 +1,5 @@
-Il y assez de pain d'épice pour tous vos amis ! Invitez les tous pour une soirée gourmande pain d'épices.
-Avec du foie gras, ça sera encore mieux :)
-Et ec sera la fête si vous êtes végétarien et contre la cruauté envers les animaux.
+Il y assez de pain d'Ã©pice pour tous vos amis ! Invitez les tous pour une soirÃ©e gourmande pain d'Ã©pices.
+Avec du foie gras, Ã§a sera encore mieux :)
+Et ce sera la fÃªte si vous n'Ãªtes pas vÃ©gÃ©tarien et contre la cruautÃ© envers les animaux.
 
 [Je commande du foie gras](../foie-gras/foie-gras.md)
