@@ -5,5 +5,7 @@ Turns out it loves Agarn!
 You then change the channel to meet the press
 Marshmallow gets even more fascinated
 
-You change the channel to Casablanca, 
+You change the channel to Casablanca,
 the marshmallow starts to cry.
+
+And marshmallow changed the channel to "Inception". It is happy now.
