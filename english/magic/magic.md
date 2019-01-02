@@ -11,7 +11,7 @@ I am coming for you mad king. For I am the mother of dragons
 What is dead may never die!
 With my green light saber, I'll deal with this sithlord madness!
 
-Continue on to the port and get on the big ship.
+Continue on to the port and get on the extremely big ship.
 
 Valar morghulis
 Valar dohaeris
