@@ -19,4 +19,6 @@ a barata da vizinha está na minha cama.
 
 [Diz aí Biluguinha o que "cê" vai fazer:](Pedro/pedro.md)
 
+[Diz aí Nego Veio o que "cê" vai fazer:](nego-veio/nego-veio.md)
+
 E vc? O que "cê" vai fazer?
