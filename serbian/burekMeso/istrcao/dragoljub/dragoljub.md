@@ -1,1 +1,1 @@
-"Dragoljub iz srednje skole! Tajni projekat! Pa pricaj covece!" - nestrpljivo je navalivao Darko.
+"Dragoljub iz srednje škole! Tajni projekat! Pa pričaj čovece!" - nestrpljivo je navalivao Darko.
