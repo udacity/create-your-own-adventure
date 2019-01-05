@@ -51,3 +51,5 @@ Another shouts "Who is John Cena"
 "Goodluck talking to John Cena"
 
 "This is the last time i am talking to John Cena"
+
+Suddenly Iron-Man comes crashing through the roof, landing next to John Cena.
