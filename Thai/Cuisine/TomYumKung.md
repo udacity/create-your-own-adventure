@@ -18,3 +18,5 @@ Do you:
 [I will fly to Thailand to have it there](../travel.md)
 
 Actually I prefer Thai Green Curry better!
+
+I love satay and drunken noodles.
