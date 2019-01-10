@@ -1,0 +1,2 @@
+# These files are text and should be normalized (convert crlf =&gt; lf)
+*.md text
