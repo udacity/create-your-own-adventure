@@ -30,7 +30,7 @@
 
 [Попросите девушку ущепнуть вас](girlfriend-pinch-you/girlfriend-pinch-you.md)
 
-[Ущипнёте девушку](pinch-girlfriend/princh-girlfriend.md)
+[Ущипнёте девушку](pinch-girlfriend/pinch-girlfriend.md)
 
 [Пойти поплавать](go-to-swim/go-to-swim.md)
 
