@@ -1,13 +1,15 @@
-“Know that the life of this world is only play and amusement, 
-pomp and mutual boasting among you, and rivalry in respect of 
+“Know that the life of this world is only play and amusement,
+pomp and mutual boasting among you, and rivalry in respect of
 wealth and children, as the likeness of vegetation after rain,
-thereof the growth is pleasing to the tiller; afterwards it 
+thereof the growth is pleasing to the tiller; afterwards it
 dries up and you see it turning yellow; then it becomes straw1.
-But in the Hereafter (there is) a severe torment (for the 
-disbelievers, evil-doers), and (there is) Forgiveness from 
+But in the Hereafter (there is) a severe torment (for the
+disbelievers, evil-doers), and (there is) Forgiveness from
 Allah and (His) Good Pleasure (for the believers, good-doers),
 whereas the life of this world is only a deceiving enjoyment“.
 [QURAN 57:20]
+
+Explore food - I love steak so here is a reference to steak in the story [eat a juicy steak](../rib-eye/rib-eye.md)
 
 "Life isn't that simple but you got to take every possible risk in life to achieve something."
 
