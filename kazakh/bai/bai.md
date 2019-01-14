@@ -1,4 +1,3 @@
-Алтын
-Lexus LX570
-iPhoneX
+Алтын,Lexus LX570,iPhoneX     
+
 зауыттың директоры ғой
