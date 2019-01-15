@@ -1,1 +1,3 @@
-Jadna matorka bezi glavom bez obzira, dok on zadovoljno brsti ostale blagodeti pekare.
+Jadna matorka je krenula da beži glavom bez obzira.
+
+[kreće da juri pekarku](juriPekarku/juriPekarku.md)
