@@ -13,5 +13,5 @@ Which part of the world, and what time you want to travel? And why?
 
 [You turn back](../marshmallow.md)
 
-You decide to go for a [ride](.) in a
+You decide to go for a [ride](./time-machine.md) in a
 time loop
