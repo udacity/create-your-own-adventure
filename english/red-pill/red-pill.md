@@ -2,4 +2,4 @@ An wrinkled old man with a funny hat appears and hands you a red pill and a glas
 
 You take the pill then drink the milk and within seconds you become extremely hungry but only for tacos.
 
-You find out that this red pill was mexican spicy salsa. Its over for you. You are now a coon. GG.
+You find out that this red pill was Mexican spicy salsa. Its over for you. You are now a coon. GG.
