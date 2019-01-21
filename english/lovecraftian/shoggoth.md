@@ -6,3 +6,5 @@ This really hurts.
 But just then you:
 
 [See an ostrich?] (../hospital_bed/hospital_bed.md)
+
+[Short Lovecraftian recap of events leading to this point]  (../london/dr_lawrence_crane.md)
