@@ -11,4 +11,6 @@ You begin retreating slowly.Suddenly,one of the pandas speed up.
 
 You saw Panda coming more closer to you!
 
+You saw Panda and it is really big!
+
 How strong is scaffolding made of bamboo you ask?
