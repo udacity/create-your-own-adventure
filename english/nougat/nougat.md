@@ -1,0 +1,1 @@
+A good place to learn Android_7 is [this] (https://www.udemy.com/master-android-7-nougat-java-app-development-step-by-step/learn/v4/content) Udemy course.
