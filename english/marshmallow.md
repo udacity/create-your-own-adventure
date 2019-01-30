@@ -1,5 +1,9 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+So each one of these authors used what they learend in the course to fork [this](https://github.com/udacity/create-your-own-adventure) repository 
+
+and then clone it to their machines to create a new branch and add some changes to that branch just to do a pull request.
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
