@@ -14,6 +14,8 @@ Que faites-vous ?
 
 [Je mange](manger/faim.md)
 
+[Je deviens vegan](vegan/rien-a-manger.md)
+
 [Je me faufile dans un trou](manger/trou/trou.md)
 
 [J'appelle mon prof de musique](telephone/prof_musique.md)
