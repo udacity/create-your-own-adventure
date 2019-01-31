@@ -24,3 +24,5 @@ You...
 Decide to [start dancing bachata](../start-dancing/startDancing.md) and everybody start to clap and cheer you up.
 
 [Trip and stumble into a pitch-black cave.](grue/grue.md)
+
+Forget about everything and go and find a good pub feed such as a [Chicken schniztel](../schniztel/schnitzel.md) 
