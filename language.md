@@ -167,3 +167,6 @@ Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odys
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
 Si Latine legere vis, [hic preme](latin/arena.md)
+
+if you want to learn yoruba, click [here](yoruba/ibile)
+
