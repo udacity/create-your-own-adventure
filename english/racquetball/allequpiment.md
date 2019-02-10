@@ -1,0 +1,1 @@
+You beat the holographic opponent, and are pleased you've found a new place to play!
