@@ -120,4 +120,4 @@
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
 
-[Включу доту] (game/game.md)
+[Включу доту](game/game.md)
