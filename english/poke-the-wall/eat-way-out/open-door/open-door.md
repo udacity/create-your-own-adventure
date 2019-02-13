@@ -1,0 +1,3 @@
+You sit, half-drowned and coughing up melted chocolate, amazed that you made it out. Behind you, chocolate continues to ooze out the now open marshmallow door. As you gather your senses together you take a look at your surroundings. 
+
+You're in a grassy clearing in the middle of the woods. You're surrounded but what at first glance appears to be dense trees, but on a closer look, you notice the branches have a smooth, chocolatey shine to them. The leaves have an odd shape to them... are theose gumdrops?? A rich, sweet, chocolate smell fills the air. Could everything around you be made of candy?

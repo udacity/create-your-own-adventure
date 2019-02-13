@@ -9,3 +9,5 @@ But, please, let the door be unlocked.
 
 5.300 calories later you manage to get closer to the door and reach the knob
 with your hand.
+
+[You turn the doorknob and burst out of the room in a flood of chocolate](open-door/open-door.md)
