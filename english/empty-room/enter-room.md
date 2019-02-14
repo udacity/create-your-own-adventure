@@ -1,0 +1,2 @@
+You find yourself in an empty room. Pitch black. Devoid of all light. You walk forward, making no sound.  Hearing nothing. Utter silence.  Darkness. Silence.
+Nothingness. You question if you are even alive. Exist at all. You start to panic. All you can think to do is [scream](end.md).
