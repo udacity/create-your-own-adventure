@@ -13,3 +13,6 @@ Which part of the world, and what time you want to travel? And why?
 
 [You turn back](../marshmallow.md)
 
+But in the middle of your time travelling,
+your machine breaks! Whatever shall you do?
+
