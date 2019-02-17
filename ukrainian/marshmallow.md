@@ -46,4 +46,4 @@
 
 [В телефоні ж є музічний плеєр](the-wall/the-wall.md)
 
-[Займуся фізичними вправами](exercise/exersise.md)
+[Займуся фізичними навантаженнями](exercise/exersise.md)
