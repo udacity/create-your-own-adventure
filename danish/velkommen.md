@@ -14,4 +14,6 @@ Vælger du at:
 
 [Tage kapsækken på ryggen og vandre sydpå, "Come so med jer! What are you venting for?"](haervejen/haervejen.md)
 
-[Gå en tur i din have] (have/have.md)
+[Gå en tur i din have?] (have/have.md)
+
+[Kigge i nissebogen efter råd?](the_book/the_book.md)
