@@ -2,7 +2,7 @@ And here you enter a new [dimension](https://www.youtube.com/watch?v=sea8yNCDqWo
 
 Or decide to play a game of chess [chess](../chess/chess.md).
 
-or would you like to challenge Yami Yugi and [dimension the dice!](Yu-Gi-Oh/yami\yugi.md)
+or would you like to challenge Yami Yugi and [dimension the dice!](../Yu-Gi-Oh/yami\yugi.md)
 
 Or decide to learn about the world of bears [bears](../bear-story/bear-story.md)
 
