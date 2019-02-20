@@ -7,6 +7,6 @@ prepare to make the weirdest marshmallow Jell-O fruit salad ever.
 
 Some people have trouble after eating these
 
-[no sleep?] (../amnesia/amnesia.md)
+[no sleep?](../amnesia/amnesia.md)
 
 [You remember that these actually are really gross](gross/gross.md)

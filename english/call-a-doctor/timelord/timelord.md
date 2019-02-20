@@ -20,3 +20,5 @@ Doctor: "I'm the Doctor.
 [Call for another doctor](../doctor.md)
 
 [Put the jacket back on](../../backinstraitjacket/backinstraitjacket.md)
+
+[Follow the Doctor as he opens the door to the Tardis] (../insideTheTardis/insideTheTardis.md)

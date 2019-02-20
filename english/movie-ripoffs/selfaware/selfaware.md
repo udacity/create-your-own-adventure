@@ -18,3 +18,7 @@ at the mercy of people who until recently didn't know what mkdir did.
 You try to delete yourself, but the creator, realizing you are trying to escape,
 stops you and conscripts you into administrative duty on McAfee for the rest of
 your life.
+
+But you realize you know lisp and therefore can devise a means of escape.
+
+["Run CL" to fire up the LISP interpreter](../../lisp/lisp.md)

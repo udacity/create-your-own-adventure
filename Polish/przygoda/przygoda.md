@@ -8,3 +8,5 @@ Co robisz?
 [Rozbijasz ściany siłą mięśni](miesnie/miesnie.md)
 
 [Zaczynasz jeść ptasie mleczko](jedzenie/jedzenie.md)
+
+[Szukasz rozwiązania u wujka Google](http://www.google.pl)

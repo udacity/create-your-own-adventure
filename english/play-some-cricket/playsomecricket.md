@@ -4,3 +4,4 @@
 
 [Mr. Cool Dhoni finishes off.](https://youtu.be/wbfv1qOG3WM)
 
+[Follow cricket news](../cricket/cricket.md)

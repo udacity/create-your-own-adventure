@@ -5,9 +5,9 @@ You continue teasing him until he takes out his wand from his pocket.
 
 Do you:
 
-[Cower before him and beg for forgiveness] (beg-forgiveness/boy-forgives.md)
+[Cower before him and beg for forgiveness](beg-forgiveness/boy-forgives.md)
 
-[Pull out your wand and turn him into a giant marshmallow] (your-wand/marshmallow-swallow.md)
+[Pull out your wand and turn him into a giant marshmallow](your-wand/marshmallow-swallow.md)
 
 [Look at him with laughter in your eyes](look-with-laughter/laughter.md)
 

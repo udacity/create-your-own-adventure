@@ -1,4 +1,10 @@
-You just had another cup of coffee, now what do you do?
+You just had another cup of coffee, 
+now what do you do?
+But after that, things can get choppy.
+Coffee, to some, is the nectar of life.
+One or two cups is never enough.
+They turn to espresso: "The hard stuff!"
+Too much, however, will surely cause strife.
 Is coffee all that matters anymore?
 I must figure out what will satisfy my overwhelming desires!
 You are quite hungry aren't you ?

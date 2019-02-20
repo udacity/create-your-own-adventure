@@ -13,8 +13,8 @@ and one with a gray cloak (the independcrat).
 
 Which do you use your gold to bargain with?
 
-[Demonacrat] (demonacrat/demonacrat.md)
+[Demonacrat](demonacrat/demonacrat.md)
 
-[Republicrat] (republicrat/republicrat.md)
+[Republicrat](republicrat/republicrat.md)
 
-[Independcrat] (independcrat/independcrat.md)
+[Independcrat](independcrat/independcrat.md)

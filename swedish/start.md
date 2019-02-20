@@ -9,4 +9,10 @@ På sängbord sitter en stor marshmallow och på marshmallowen står orden "Eat 
 
 Vad nu, då?
 
+[Titta ut genom fönstret.](titta-ut/titta-ut.md)
+
 [Äter marshmallowen.](marshmallowen/marshmallowen.md)
+
+[Somna om](somna-om/somna-om.md)
+
+[midsommar] (midsommar/midsommar.md)

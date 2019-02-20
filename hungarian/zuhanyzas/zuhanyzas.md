@@ -4,6 +4,9 @@ Meglepő módon nem víz, hanem langyos mályvacukor szirup folyik belőle, amit
 
 Mihez kezdesz?
 
-[telefon segítséget kérsz] (telefon/telefon.md)
+[telefon segítséget kérsz](telefon/telefon.md)
 
-[törülközőért nyúlsz] (torulkozo/torulkozo.md)
+[törülközőért nyúlsz](torulkozo/torulkozo.md)
+
+[elkezdesz enni](eves/eves.md)
+

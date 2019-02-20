@@ -6,6 +6,6 @@ Bat-batean, albisteetan ikusten duzun pertsona batek urrezko gaztainak saltzen h
 
 Zer egiten duzu orain?
 
-[Pertsona arraroaren bila joan zaldiz.] (zaldi/zaldi.md)
+[Pertsona arraroaren bila joan zaldiz.](zaldi/zaldi.md)
 
-[Pertsona arraroari deitu harresiaren gainetik oihu.] (oihu/oihu.md)
+[Pertsona arraroari deitu harresiaren gainetik oihu.](oihu/oihu.md)

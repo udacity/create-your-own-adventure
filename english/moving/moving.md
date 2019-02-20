@@ -9,3 +9,5 @@ What do you do next?
 [Try to run away from the supposedly dead marshmallow](../run/run.md)
 
 [Eat the marshmallow](../eatmarshmallow/eatmarshmallow.md)
+
+[Step into the Marshmallow](../matrix/matrix2inception/matrix2inception.md)

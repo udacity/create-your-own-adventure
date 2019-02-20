@@ -10,3 +10,8 @@ Do you:
 
 [Run into the room and close the door](run-in/run-into-room.md)
 
+[Blind the eyes with your torch](alien/use-torch.md)
+
+[Scream as loud as you can](scream/scream.md)
+
+[Get pushed through the door](pushed/pushed.md)
