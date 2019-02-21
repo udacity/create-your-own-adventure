@@ -119,3 +119,5 @@
 [Зайти на двач](2ch/2ch.md)
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
+
+[Открыть дверь шкафа в дивный мир](wardrobe-to-narnia/wardrobe-to-narnia.md)
