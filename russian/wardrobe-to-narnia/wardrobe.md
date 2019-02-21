@@ -3,4 +3,4 @@
 Но чуда не произошло, то ли компот был слишком крепок, но в шкафу были толко пустые коробки от зефира, страрые футбольные бутсы Nike и 
 маска для плавания. 
 
-По случаю вы решили [пойти поплавать](russian/go-to-swim/go-to-swim.md)
+По случаю вы решили [пойти поплавать](https://github.com/udacity/create-your-own-adventure/blob/master/russian/go-to-swim/go-to-swim.md)
