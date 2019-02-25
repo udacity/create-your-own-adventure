@@ -1,8 +1,8 @@
-As you see the door opens, while you well aware that the spell you just cast is
+As you see the door opens, while you are well aware that the spell you just cast is
 from the Harry Potter story, you begin to realize that you might be dreaming...
-You preform the first reality check that comes to your mined and block your
+You perform the first reality check that comes to your mind and block your
 nostrils while trying to breath...
-Its works!! Your breathing through your blocked nose
+It works!! You're breathing through your blocked nose
 confirming yourself your inside a dream...
 what will you do?
 
