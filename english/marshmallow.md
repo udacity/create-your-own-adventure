@@ -1,3 +1,5 @@
+There's a spot open for the role of [Lead Programmer](programmer/lead_programmer.md)
+
 Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
