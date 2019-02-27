@@ -7,7 +7,7 @@ Most types focus on learning poses, called asanas. They also usually
 include attention to breathing.
 
 Here we provide a list of benefits:
-
+0. Yoga is good
 1. Increases flexibility
 2. Increased muscle Strength and tone
 3. Enhanced gluten sensitivity 
