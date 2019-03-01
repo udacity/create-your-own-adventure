@@ -1241,3 +1241,6 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+A white cloud falls from the sky, the angel candissius emerges from the 
+cloud and invites you in, Click [here](candy-land/candy-land.md) to enter the cloud
