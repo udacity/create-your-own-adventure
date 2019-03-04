@@ -18,3 +18,7 @@ Mlada radnica ga je ljubazno gledala. Rekla je:
 Mislio se dugo šta bi mu najbolje za mamurluk prijalo i onde se dosetio.
 
 "Daćete mi jedan sa sirom, jedan jogurt i jedan niški za dezert, molim vas."
+
+Kako je nivo secera u krvi procenio kao nizak, greskom, ipak,  procenom je vodio nivo [alkohola](alkohol/alkohol.md) u krvi.
+
+Progutao je burek i s punim ustima usao u [poslasticarnicu](dezert/dezert.md)
