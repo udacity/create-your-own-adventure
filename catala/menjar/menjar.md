@@ -8,4 +8,5 @@ Et deixes anar i caus estès al terra.
 Què fas?
 
 No res, has mort. 
-I els metges no saben trobar una explicació, però de sucre no n'has menjat pas.
+I els metges no saben trobar una explicació, però de sucre no n'has menjat pas. 
+Sia'm doncs la mort una major naixença!
