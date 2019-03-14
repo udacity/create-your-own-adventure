@@ -2,7 +2,8 @@
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
-Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
+Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md).
+If you speak ibo, [suon ibo](ibo/lang.md).
 
 If you speak Telugu, మీరు తెలుగులొ మాట్లాడుతార [ఇక్కడ నొక్కండి](telugu/telangana-telugu/Telanganatelugu.md).
 
@@ -167,3 +168,5 @@ Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odys
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
 Si Latine legere vis, [hic preme](latin/arena.md)
+
+if you speak Ibo [knorr!](Ibo/hub.md)
