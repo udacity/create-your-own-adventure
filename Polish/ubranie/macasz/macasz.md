@@ -4,3 +4,5 @@ Czy to... czy naprawdę... kalafior? A może brokuły? I wtedy wracają najgorsz
 [Kalafior](terrorysci/terrorysci.md)
 
 [Brokuły](zupa/zupa.md)
+
+[Brukselka](brukselka/brukselka.md)
