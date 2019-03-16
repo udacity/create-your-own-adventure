@@ -7,6 +7,8 @@ A few learned to [tango](tango/tango.md)
 Some preferred to
 Enter [The Forest!] (forest/forest.md)
 
+But only a few special induviduals had higher ambitions. These people had certain cravings that an average life could not satisfy. They are known as Hunters! To become a hunter you must first pass [the hunter exam](hunterxhunter/hunterxhunter.md).
+
 If you are a fan of ZooZoo go [here](zoozoo/zoozoo.md)
 
 hi~

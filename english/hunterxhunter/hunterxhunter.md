@@ -1,0 +1,1 @@
+Hunters hunt for all types of things, such as elusive treaure, beautiful art, delcious ingrediants, bounties on criminals etc. You set off to start your advetnure as a hunter. What kind of hunter will you be?
