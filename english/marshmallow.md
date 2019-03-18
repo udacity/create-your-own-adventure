@@ -1242,4 +1242,5 @@ What is your [passion?](passion/passion.md)
 
 searching for [good](tvf-play/watch.md) content.
 
-Come visit Delhi [here](NewDelhi/visit.md)
+Come visit NewDelhi [here](NewDelhi/visit.md)
+
