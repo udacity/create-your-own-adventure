@@ -26,4 +26,4 @@ Què fas?
 
 [Corres cap a la paret més propera](correr/correr.md)
 
-[Fas un stories] (stories/stories.md)
+[Fas un stories](stories/stories.md)
