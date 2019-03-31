@@ -3,6 +3,6 @@
 	Achanak se ek aadmi aake bolta hai Khan sahab Happy birthday..or voh breakfast table pe rakh k chala jaata hai...
 
 
-	Click [Tum samne lage mirror ki aur badhte ho](../shahrukh-khan-1/shahrukh-khan-fanboi1.md)
+	Click [Tum samne lage mirror ki aur badhte ho](hindi/shahrukh-khan-1/shahrukh-khan-fanboi1.md)
 
-	Click [Tum balcony mei jaate ho](../shahrukh-khan-2/shahrukh-khan-fanboi2.md)
+	Click [Tum balcony mei jaate ho](hindi/shahrukh-khan-2/shahrukh-khan-fanboi2.md)
