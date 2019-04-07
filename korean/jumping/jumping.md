@@ -2,6 +2,6 @@
 
 어떻게 할까요?
 
-[벽을 먹는다](../korean/eating-walls/eating-marshmallows.md)?
+[벽을 먹는다](../eating-walls/eating-marshmallows.md)?
 
-[마시멜로와 핫초코를 같이 먹어야겠다](../korean/coco/coco.md)?
+[마시멜로와 핫초코를 같이 먹어야겠다](../coco/coco.md)?
