@@ -1242,4 +1242,4 @@ What is your [passion?](passion/passion.md)
 
 searching for [good](tvf-play/watch.md) content.
 
-8 days to Game of thrones Season [8](https://github.com/bhavesh-dhera/create-your-own-adventure/blob/got/english/got/got.md) !
+ days to Game of thrones Season [8](https://github.com/bhavesh-dhera/create-your-own-adventure/blob/got/english/got/got.md) !
