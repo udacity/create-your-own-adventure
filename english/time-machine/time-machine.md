@@ -11,5 +11,7 @@ Which part of the world, and what time you want to travel? And why?
 
 [You decide to travel back in time to visit a founding father of America](https://www.youtube.com/watch?v=t0aX8Jy1tME)
 
+[You decide to go back to the 1990s and invest in the stock market](stock_market/stock_market.md)
+
 [You turn back](../marshmallow.md)
 
