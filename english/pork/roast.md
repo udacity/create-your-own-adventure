@@ -3,7 +3,7 @@ Boneless pork shoulder roast
 1. Preheat oven to 220c. Remove plastic bag and soaker pad.
 
 2. For perfect crackling wipe rind with paper towel to dry,
-then rub two tablespoons of salt and two tablespoons of oil
+then rub two tablespoons of salt and two tablespoons of apple juice
 into the rind.
 
 3. Place roast in a baking tay and bake at 220°C for 20
