@@ -1,6 +1,6 @@
 ﻿If you speak English, [go here](english/marshmallow.md).
 
-አማርኟ ኸቻልክ [ተጫንን](amahric/ጀምር.md)
+አማርኟ ኸቻልክ [ተጫን](amharic/ጀምር.md)
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
