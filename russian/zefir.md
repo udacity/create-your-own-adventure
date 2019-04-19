@@ -119,3 +119,5 @@
 [Зайти на двач](2ch/2ch.md)
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
+
+[Регламентировать зефир, как мировую валюту и продать на фондовой бирже](reglamentation-zefir/rereglamentation-zefir.md)
