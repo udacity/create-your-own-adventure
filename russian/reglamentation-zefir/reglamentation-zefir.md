@@ -2,4 +2,4 @@
  
  [Работать против экономической преступности](reglamentation-zefir-againstCrime/reglamentation-zefir-againstCrime.md)
 
- [Не соглашаться и сесть в тюрьму](reglamentation-zefir-prison/reglamentation-zefir-againstCrime.md)
+ [Не соглашаться и сесть в тюрьму](reglamentation-zefir-prison/reglamentation-zefir-prison.md)
