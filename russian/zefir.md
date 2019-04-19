@@ -120,4 +120,4 @@
 
 [Стану вегетарианцем](vegetarian/vegetarian.md)
 
-[Регламентировать зефир, как мировую валюту и продать на фондовой бирже](reglamentation-zefir/rereglamentation-zefir.md)
+[Регламентировать зефир, как мировую валюту и продать на фондовой бирже](reglamentation-zefir/reglamentation-zefir.md)
