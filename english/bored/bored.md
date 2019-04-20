@@ -13,3 +13,5 @@
 "You could always start [learning Japanese](../learn_japanese/japanese.md)?"
 
 ["Maybe I should go to a jazz club?"](../jazz-guitar/jazz.md)
+
+"Let's investigate into the [philosophy of boredom!](https://www.iep.utm.edu/boredom)"
