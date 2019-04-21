@@ -1,1 +1,1 @@
-O celular se comove e começa a cantar com você.
+﻿O celular se comove e começa a cantar com você.
