@@ -1,1 +1,1 @@
-Летить повітряна куля. А в [ній](baloon/end-the-story.md)
+Летить повітряна куля. А в [ній](balloon/end-the-story.md)
