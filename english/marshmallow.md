@@ -1,3 +1,6 @@
+Lets do something collaborative. Click [here](http://github.com). Follow me: [Beast](github.com/BeastInside)
+
+
 Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
