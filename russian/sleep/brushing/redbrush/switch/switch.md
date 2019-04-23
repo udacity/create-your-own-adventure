@@ -4,6 +4,6 @@
 
 Что вы сделаете?
 
-[Попробую вытащить руку](switch/fighting/fighting.md)
+[Попробую вытащить руку](fighting/fighting.md)
 
-[Рискну и дам себя затянуть](switch/pulling/pulling.md)
+[Рискну и дам себя затянуть](pulling/pulling.md)
