@@ -15,3 +15,5 @@ Napokon shvatis da je sljez samosvjestan!
 Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
 
 Vani pada kisa.
+
+Okreneš se i shvatiš da iz kuće izlaze bića od sljeza i kreću za tobom.
