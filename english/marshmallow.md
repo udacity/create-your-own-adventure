@@ -2,6 +2,8 @@ Once upon a time many authors collaborated to make meaningless linked story.
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
+but some were interrupted by [Naruto](naruto/seventh-hokage.md) and the [Full Metal Alchemist](Full\Metal\Alchemist/fma.md) while
+
 A few learned to [tango](tango/tango.md)
 
 Some preferred to
