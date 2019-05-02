@@ -1243,3 +1243,5 @@ What is your [passion?](passion/passion.md)
 -
 
 searching for [good](tvf-play/watch.md) content.
+
+And that story still continues in 2019 with some good ol' soccer (football) [news](soccer-news/soccer-news.md)
