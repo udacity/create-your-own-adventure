@@ -1,9 +1,11 @@
 # Collaborative Create-Your-Own-Adventure
 
-This is a create-your-own-adventure story where at each step, the reader chooses
-what action to take and turns to an appropriate page of the story based on their
-choice.  It is collaborative because it is written one small piece at a time by
-many authors.  To start reading the story, click [here](language.md).
+This is an example repo that illustrates the concept of a "Pull Request", created
+as part of the Udacity course [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
+In the create-your-own-adventure story the reader chooses what action to take and
+turns to an appropriate page of the story based on their choice.  It is collaborative
+because it is written one small piece at a time by many authors.  To start reading
+the story, click [here](language.md).
 
 ## Format of the Story
 
