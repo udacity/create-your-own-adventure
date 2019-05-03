@@ -1,5 +1,7 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
+[Escape earth and journey through space](space-travel/space-travel.md)
+
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 A few learned to [tango](tango/tango.md)
