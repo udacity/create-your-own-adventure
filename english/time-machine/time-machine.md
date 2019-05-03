@@ -15,3 +15,5 @@ You travel to [1999](https://www.youtube.com/watch?v=ddzbxJasID4)to prepare for 
 
 [You turn back](../marshmallow.md)
 
+You decide to go for a [ride](./time-machine.md) in a
+time loop
