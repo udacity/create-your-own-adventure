@@ -5,3 +5,5 @@ Sie ist blond und hat lange geflochtene Haare. Als Sie sie anblickten, merkt sie
 [Laden Sie sie zum etwas zu trinken ein](../Einladen/einladen.md)
 
 [Fragen Sie sie "Wie spaet ist es?"](../Fragen/fragen.md)
+
+[Laden Sie sie auf eine gemeinsame Fahrt mit dem Teufelsrad ein] (../Einladen/teufelsrad.md)
