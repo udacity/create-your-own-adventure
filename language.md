@@ -46,6 +46,8 @@ Ha beszélsz magyarul, [kövess](hungarian/malyvacukor.md)
 
 Если вы говорите по-русски, то вам [сюда](russian/zefir.md)
 
+If you speak Kazakh, then follow [this link](kazakh/ualeikum.md)
+
 Калі вы размаўляеце па-беларуску, вам [сюды] (belarussian/zefir.md)
 
 Pokud mluvíš česky, [pokračuj zde](czech/marsmelouny.md).
