@@ -138,34 +138,3 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
 
 As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
-
-=======
-Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
-
-If you speak Gujarati, go [here](Gujarati/gujarati.md).
-
-If you want learn Telugu, click [here](Telugu/Telugu.md).
-
-If you want to know more about IoT, click [here](english/iot/intro.md).
-
-If GibberisHkjsbckjsjcn,[hereeekdcskj](Gibberish/Gibberish.md)
-
-તમે ગુજરાતી છો તો [અહી](Gujarati/અમે ગુજરાતી લોકો છીએ/અમે ગુજરાતી લોકો છીએ.md) જાઓ  
-
-To explore the বাংলা  (bangla/bengali) search engine, news portals, and blogs [click here](bangla/bangla-portals.md).
-
-If you speak oriya, click [here](oriya/oriya.md).
-
-If you understand Tamil, திருநாவுக்கரசர் அருளிய தேவாரம் [இங்கே அழுத்தவும்](Tamil/Thevaram/thevarm.md)
-
-if you understand maithli, click [here...](maithli/maithli.md)
-
-if (you.understand("C#")) here.click();
-
-if you speak Bahasa Indonesia [klik disini](indonesia/bahasa-indonesia.md)
-
-Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odyssey/HO.md)
-
-Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
-
-Si Latine legere vis, [hic preme](latin/arena.md)
