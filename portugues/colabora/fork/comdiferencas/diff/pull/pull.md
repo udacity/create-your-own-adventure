@@ -8,5 +8,6 @@ O pull request não foi aceito pois havia um erro ortográfico em um comentário
 
 [Descobre, logo agora que aprendeu o bash, vai ter que retomar os estudos de inglês no duolingo] (descobre/descobrir.md)
 
-Abro o [Google Tradutor](https://translate.google.com.br/) e verifico a tradução do meu comentário. 
-Não é o que eu queria escrever: [corrijo meu erro e reenvio](reenvio/reenviar.md)
+Abro o [Google Tradutor](https://translate.google.com.br/) e verifico a tradução do meu comentário.
+
+Descubro que não era o que eu queria escrever: [corrijo meu erro e reenvio](reenvio/reenviar.md)
