@@ -1,6 +1,6 @@
 Du opdager at bogen ikke er til at finde!
 Naasaaren Benny har stjålet bogen. 
-Du opdager en kartoffel ligge hvor bogen lå og mistænker kartoffelavler Sand for at værre i besiddelse af bogen.
+Du ser en kartoffel ligge hvor bogen lå og mistænker kartoffelavler Sand for at værre i besiddelse af bogen.
 
 Hvad vælger du ?
 
