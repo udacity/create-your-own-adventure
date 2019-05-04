@@ -9,3 +9,5 @@
 [밖에 나가본다](../explore-outside/explore-outside.md)?
 
 [마시멜로를 먹는다](../eating-walls/eating-marshmallows.md)?
+
+[아이유의 좋은 날 노래를 부른다](./good-day/good-day.md)?
