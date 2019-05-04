@@ -30,3 +30,5 @@ Samahan si Benj sa kanyang paglalakbay! [Tara!](tara/tara.md)
 
 Para sa mga gusto kumanta [kanta] (kanta/minsan.md)
 Januart 12, 2017
+
+Para sa hindi pa namumulat sa katotohanan, pumunta [rito](mulat/mulat.md).

@@ -1,4 +1,5 @@
 Jednoho rána se vzbudíš v divné místnosti se zdmi z maršmelounů.
+Dokonce i podlaha a strop je z maršmelounů.
 
 Co uděláš:
 
