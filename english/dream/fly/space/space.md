@@ -22,3 +22,5 @@ Do you:
 [Remember that you're Batman](../../../I'm-batman/batman.md)
 
 [Tell your mother](../../../tell-mother/tell-mother.md)
+
+[Will he search new automatic devices ?](../../../iot/intro.md)
