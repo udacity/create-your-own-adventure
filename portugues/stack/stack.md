@@ -1,0 +1,1 @@
+O stackoverflow é um fórum de perguntas e respostas que pode ajudar a solucionar o problema. Todo programador usa pelo menos uma vez por dia. Aqui está o [link](<https://stackoverflow.com/>).
