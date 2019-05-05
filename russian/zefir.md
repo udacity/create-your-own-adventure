@@ -27,6 +27,8 @@
 
 Ваши действия:
 
+[Вы летите на Зов Ктулху](cthulhu/cthulhu.md)
+
 [Пригласить профессора Воробьева](invite-proffesor/invite-proffesor.md)
 
 [Попросите девушку ущепнуть вас](girlfriend-pinch-you/girlfriend-pinch-you.md)
