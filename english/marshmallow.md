@@ -1,3 +1,5 @@
+Wanna know what after death? Click [here](after-death/after-death.md)
+
 Once upon a time many authors collaborated to make meaningless linked story.
 
 [Escape earth and journey through space](space-travel/space-travel.md)
