@@ -4,6 +4,8 @@ in einem Ruderboot auf einem grossen See treiben. Ihre Hose ist vollkommen durch
 
 Sie bemerken, dass durch ein Loch in der Bootswand Wasser ins Boot dringt.
 
+Die Situation ist eher unangenehm.
+
 Werden Sie:
 
 [Festellen, dass Sie doch kein Deutsch sprechen](../language.md)
