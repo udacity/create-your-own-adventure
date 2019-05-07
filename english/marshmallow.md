@@ -1,3 +1,5 @@
+There's a spot open for the role of [Lead Programmer](programmer/lead_programmer.md)
+
 Wanna know what after death? Click [here](after-death/after-death.md)
 
 Once upon a time many authors collaborated to make meaningless linked story.
