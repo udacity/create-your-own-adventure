@@ -8,3 +8,5 @@ will. Sie kommt auf Sie zu und legt Ihre Lippen sanft auf Ihre und...
 Wie geht es weiter?
 
 ...und sie gibt Ihnen eine Lunge voll Luft, die ausreicht, um wieder zurück ins Boot zu kehren.
+
+[Bevor Sie einfach so verschwinden, wollen Sie sich noch erkenntlich zeigen.](../../../Einladen/einladen.md)
