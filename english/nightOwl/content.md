@@ -10,4 +10,4 @@ Advantages night owls have over early birds
 So here's a shout out to all the night owls out there.
 
 Click [here](../marshmallow.md) to go back to the story.
-Click [here](https://www.google.com/) to go back to the google.
+Click [here](https://www.google.com/) to go to the google.
