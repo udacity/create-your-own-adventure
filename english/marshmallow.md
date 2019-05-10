@@ -41,7 +41,7 @@ Are you an:
 
 [early bird](earlyBird/content.md)
 
-or an
+or a
 
 [night owl](nightOwl/content.md) ?
 
