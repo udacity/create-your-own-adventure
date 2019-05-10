@@ -10,4 +10,4 @@ Advantages early birds have over night owls
 So kudos to you for being an early bird.
 
 Click [here](../marshmallow.md) to go back to the story.
-Click [here](https://www.google.com/) to go back to the google.
+Click [here](https://www.google.com/) to go to google.
