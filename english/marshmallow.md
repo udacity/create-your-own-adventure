@@ -37,6 +37,14 @@ or a
 
 [dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
 
+Are you an:
+
+[early bird](earlyBird/content.md)
+
+or an
+
+[night owl](nightOwl/content.md) ?
+
 Your adventure begins. You realize there are hundreds of paths for you to choose from.
 Which way should you go? Only you can decide.
 
