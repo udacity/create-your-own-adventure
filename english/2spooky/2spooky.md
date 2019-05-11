@@ -4,7 +4,9 @@ good bones and calcium are in your future!
 
 plz updoot
 
-mr. skeltal is nice! As in, "not nice"
+mr. skeltal is nice!
+
+As in, "not nice"
 
 hahahaha
 
