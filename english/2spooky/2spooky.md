@@ -6,6 +6,8 @@ plz updoot
 
 mr. skeltal is nice!
 
+As in, "not nice"
+
 hahahaha
 
 'sup?
