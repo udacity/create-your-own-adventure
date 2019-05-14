@@ -42,3 +42,4 @@ Que faites-vous ?
 
 [Je pense à ce que j'ai vu à la télévision.](millions/millions.md)
 
+[J'apprends les techniques des bûcherons québécois](bucheron/apprend-bucheron.md)
