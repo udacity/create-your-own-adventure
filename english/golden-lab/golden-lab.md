@@ -11,3 +11,5 @@ There's only one problem. The girl at the counter says that the Golden
 Lab has recently been claimed, and is awaiting his new owner. You 
 really have your heart set on this dog, and it seems like he likes you 
 too. 
+
+[You need a diversion ](../need_diversion/need_diversion.md)
