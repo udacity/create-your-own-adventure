@@ -1,3 +1,0 @@
-#404 heaven not found.
-
-Press F5 to try again, or just give up hope...
