@@ -9,3 +9,5 @@ You wake up the next day; strong and fast, what do you do?
 [Save the world](save-world/victory.md)
 
 [Do your homework](do-homework/study.md)
+
+[Relax](relax/relax.md)
