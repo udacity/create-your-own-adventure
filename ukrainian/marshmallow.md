@@ -48,4 +48,6 @@
 
 [В телефоні ж є музічний плеєр](the-wall/the-wall.md)
 
+[Побавлюся із запальничкою](lighter/lighter.md)
+
 Перед вами вікно. Ви його [відкиваєте](window/open-the-window.md)...
