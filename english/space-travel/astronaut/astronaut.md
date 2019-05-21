@@ -9,5 +9,5 @@ Do you:
 
 [use the voice recognition feature](voice/voice.md)
 
-[start crankin' on that manual space elevator shaft] (manual/manual.md)
+[start crankin' on that manual space elevator shaft](manual/manual.md)
 
