@@ -7,7 +7,7 @@ FACTS ABOUT ODIA LANGUAGE:
 	<2> The curved appearance of the Odia script is a result of the practice of writing on palm leaves, which have a tendency to tear if you use too many straight lines.
 
 	
-	You can learn more about Odia langauge [here](https://en.wikipedia.org/wiki/Odia_script).
+	You can learn more about Odia langauge https://en.wikipedia.org/wiki/Odia_script.
 	
-	You can also learn more about the Odia script [here](https://www.omniglot.com/writing/oriya.htm).
+	You can also learn more about the Odia script https://www.omniglot.com/writing/oriya.htm.
 
