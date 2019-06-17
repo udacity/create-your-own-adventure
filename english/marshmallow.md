@@ -100,6 +100,8 @@ Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
 
 How about some [chill music](chillmusic/chillmusic.md)?
 
+[Metallica](metallica/metallica.md)?
+
 [Want to see my Quora profile](ismail-quora-profile/quora-profile.md)
 
 You decide the only way out is to climb, [climb](climbing/climbing.md) hard friend.
