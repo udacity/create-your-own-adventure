@@ -2,11 +2,13 @@ Once I put my hand under the deck
 
 to fetch a lost ball
 
-I felt some happen
+I felt something happen
 
 suddenly
 
 that ball wasn't worth retrieving
+
+pain
 
 I'd rather be [bored](english/bored/bored.md).
 
