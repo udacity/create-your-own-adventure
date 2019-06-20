@@ -169,3 +169,5 @@ Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 Si Latine legere vis, [hic preme](latin/arena.md)
 
 አማርኟ ኸቻልክ [ተጫን](Amharic/ጀምር.md)
+
+ti o ba so ede yoruba, [gba ono yi](yoruba/history/yoruba_history.md) 
