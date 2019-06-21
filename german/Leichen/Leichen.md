@@ -1,20 +1,20 @@
 Sie schauen ängstlich um sich, sehen aber keine andere Menschenseele außer den beiden
 völlig durchlöcherten Leichnamen neben sich, deren Blut sie mittlerweile grosszügig an die
 Lebewesen im See gespendet haben. Ihr Boot ist bereits in leichter Schieflage und hastig
-werfen die beiden Leichen aus dem Boot.
+werfen Sie die beiden Leichen aus dem Boot.
 
-Sie schnaufen einmal kräftig durch während ihnen tausend Gedanken durch den Kopf gehen...
+Sie schnaufen einmal kräftig durch, während ihnen tausend Gedanken durch den Kopf gehen...
 
-Schnell, aber unbemerkt versuchen Sie an Land zu kommen, aber es scheint nicht näher zu kommen....
-Stattdessen sehe ich immer wieder einen kleinen Clownfisch-Piranha-Mischling an mir vorbeischwimmen
-und genüsslich an meinen Sachen nagen. 
+Schnell, aber unbemerkt versuchen Sie das Ufer zu erreichen, aber es scheint nicht näher zu kommen....
+Stattdessen sehen Sie immer wieder einen kleinen Clownfisch-Piranha-Mischling an sich vorbeischwimmen
+und genüsslich an Ihren Sachen nagen. 
 
 Was tun Sie?
 
 Ich suche verzweifelt (aber gründlich und systematisch) nach Anzeichen, die darauf hindeuten,
 dass ich mich in einer [Simulation](Simulation/Simulation.md) befinde.
 
-Ich halte nach etwas [Ausschau](Ausschau/Ausschau.md), an dass ich mich klammern könnte.
+Ich halte nach etwas [Ausschau](Ausschau/Ausschau.md), an das ich mich klammern könnte.
 
 All meine Kraft geht in meine zunehmend panischen [Schwimmbewegungen](Schwimmbewegungen/Schwimmbewegungen.md).
 Ich versuche mit letzter Kraft den Strand zu erreichen.
