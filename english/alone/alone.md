@@ -76,3 +76,35 @@ Bella ushers Kristy on to her bed and calm her down.
 Bella palms her head while Kristy gets normalized.
 
 Stranger smirks seeing Kristy and escape into the dark.
+
+CUT TO: Kristy walking alone in the park with no one around
+
+Kristy is sad and depressed about the incidents and she takes a stroll in the
+park.
+
+she walks randomly and feels something is not right and turn back to see
+if anyone is following her.
+
+Kristy sees the same stranger from the night with a sharp knife in hand.
+
+Stranger starts running towards Kristy and Kristy starts to sprint.
+
+Stranger swings his knife towards Kristy and Kristy hits a rock and miss the
+swinging knife.
+
+The flying knife hits the tree and Kristy continues to sprint.
+
+Kristy sprints hard and drains her energy. She stops for a second and looks back
+to find no one.
+
+Kristy complaints to the security but they laugh at her.
+
+Security checks the cameras to find nothing.
+
+Kristy screams at them and smashes everything near by.
+
+They usher her out of the room.
+
+Kristy kicks their door in fury.
+
+She yells profanities and stumble towards exit and collapse.
