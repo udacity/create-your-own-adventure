@@ -1,3 +1,5 @@
+বাংলা বুজলে, [এখানে আসুন](bangla/AmiBanglayGaanGai/MonThekeBangali.md)
+
 ﻿If you speak English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
