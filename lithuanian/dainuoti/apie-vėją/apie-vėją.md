@@ -1,0 +1,1 @@
+Jos balsas vijo gyvenimų istorijas, užpildė orą ir jį šokdino, sukosi tarp garbanų ir pirštų.
