@@ -197,4 +197,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 
 [Activo su Stand ZA WARUDO](dio/dio.md)
 
-Y despues de varios disparos decidio ir a comer, mientras su amigo lo cubria el encendia el coche para iniciar su viaje directo al [espacio](space/space.md).
+Y despues de varios disparos decidio ir a comer, mientras su amigo lo cubria el encendia el coche
+para iniciar su viaje directo al [espacio](space/space.md).
