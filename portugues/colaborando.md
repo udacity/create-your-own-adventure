@@ -9,6 +9,8 @@ Você:
 
 [Caguei, vou ver um video no xvideos](xvideos/xvideos.md)
 
+[Encontra uns cogumelos na geladeira e decide consumi-los](cogumelos/cogumelos.md)
+
 [Procura o repositório do aplicativo?](colabora/colaborar.md)
 
 [Começa a pensar como solucionar o bug e resolve olhar no codigo fonte](pesquisa/codFonte.md)
@@ -32,6 +34,8 @@ Você:
 [Vai ao banheiro e pega sua toalha](toalha/nave.md)
 
 [Toda vez que eu chego em casa...](barata/baratadavizinha.md)
+
+[Será o fim?](historia/fim.md)
 
 Na verdade, isto tudo é a sua imaginação. Você vive em 1991 e usa MS-DOS 5.0 e um modem de 9600 baud.
 
@@ -63,3 +67,11 @@ BR BR BR Hue hue hue!!!!
 [Corrigiria o bug fazendo o seguinte] (jc/jc.md)
 
 [Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)
+
+[Crio um novo branch,olho o bug e uso o github para obter ajuda] (http://gitref.org/)
+
+[Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
+
+[Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
+
+[Será o fim?](historia/fim.md)

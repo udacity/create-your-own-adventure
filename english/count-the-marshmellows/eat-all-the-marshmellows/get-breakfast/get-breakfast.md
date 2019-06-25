@@ -15,3 +15,5 @@ Her hand moves to reveal a tiny marshmallow. "Think about it," she urges before 
 Do you ...
 
 [Hightail it to the marsh?](go-to-marsh/go-to-marsh.md)
+
+[Rush to a Malo concert?] (go-to-malo/go-to-malo.md)

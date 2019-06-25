@@ -7,3 +7,6 @@ another fantasy world as her bear slave.
 You end up in the body of a 10-year-old and are 
 forced to participate in the bear takeover of the world!
 
+This is the price you pay when you lock eyes with a
+dancing bear.
+

@@ -36,3 +36,5 @@ Google can't help you right now. You are on your own.
 [Succumb to amnesia](./forest.md)
 
 [Go back whence you came](../marshmallow.md)
+
+[Pray to God](pray/pray.md)

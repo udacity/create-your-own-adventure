@@ -1,0 +1,1 @@
+The marshmallow monster gratefully accepts and says "Wow I needed that - I was so thirsty."

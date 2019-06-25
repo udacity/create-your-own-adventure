@@ -7,3 +7,5 @@
 由此嘿嘿嘿
 
 东哥也很喜欢操[大白](../Baymax/Baymax.md)
+
+若你對嘿嘿嘿好奇，請點[這裡](https://youtu.be/_7-e7DsUgUs)  

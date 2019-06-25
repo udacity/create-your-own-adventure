@@ -1,4 +1,5 @@
 THESE ARE THE INSTRUCTIONS FOR MAKING WEED OK!!!!!!!!! DONT TRY THIS AT HOME!! UNLESS YOUR IN CALIFORNIA!!
+OR IN THE NETHERLANDS!!!
 well weed contains THC which will make you high.
 To get it out and add to your cookies, use a fat to extract it.
 Butter, Milk, cream can be used.
@@ -20,5 +21,11 @@ Take a vow of [sobriety]?(../shrooms/never-again.md)
 Decide to go to [sleep] instead?(../sleep/marshmallow.md)
 
 Opt for a [chemical-free nirvana]?(../sleep/sit-down-to-meditate.md)
+
+Choose [Blue Pill](https://www.youtube.com/watch?v=1GFkN4deuZU)
+
+Or
+
+Choose [Red Pill](https://www.youtube.com/watch?v=1EdUjlawLJM)
 
 Go [back to the room]?(../marshmallow.md)

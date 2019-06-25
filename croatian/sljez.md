@@ -13,3 +13,7 @@ Kad pogledas na stranu, sljezova ruka ti pokusava zgrabiti upaljac/
 Napokon shvatis da je sljez samosvjestan!
 
 Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
+
+Vani pada kisa.
+
+Istrcis van, sljez se rastopi.

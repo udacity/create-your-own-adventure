@@ -24,3 +24,5 @@ As you plummet off the cliff, you catch her eye and in that split second you rea
 
 [She is raising her arm to hurl the marshmallow back, let you fall, and take charge of marshmallow land](fall/fall.md)
 
+[A tree is growing out from just below the lip of the cliff, you grab for it with lightning reflexes](tree/tree.md)
+

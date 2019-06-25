@@ -11,3 +11,6 @@ You stumble over a small metalic box in the stubby grass.  Upon closer inspectio
 the roar is actually coming from this box.  It has some kind of proximity sensor that triggers it.
 Now why would someone have left this lying here?
 
+You puzzle over this for a few moments, debating whether to pick up the
+device or not. There could be dire consequences either way. Pick it up 
+or run away? Such a difficult decision!

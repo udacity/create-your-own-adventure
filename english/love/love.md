@@ -47,3 +47,15 @@ Our hearts, always as one.
 - Anthony Kolos - 
 
 God is love.
+Love.
+
+PS: it's bullshit
+
+Love is dependent on the person.
+Each person can experience love in different ways.
+It does not always have to be with a person.
+Love can be a passion.
+But depending on the person.
+Love can be anything.
+
+I didn't believed in love until i met you - A <3  

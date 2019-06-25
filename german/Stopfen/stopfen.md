@@ -1,4 +1,7 @@
 Sie ziehen Ihre nasse Kleidung aus und versuchen mit dieser das Loch im Boot zu stopfen.
+Nachdem Sie zunächst ungeschickterweise das Loch mit der Gürtelschnalle Ihrer Hose nur
+noch größer gemacht haben, versuchen Sie verzweifelt ihre Socken in die letzten Ritzen
+zu drücken mit dem Resultat, dass...
 
 Was für ein Glück! Es scheint zu funktionieren. Nun aber schnell ab ans Ufer! Doch wo sind 
 die Ruder?! Sie stellen fest, dass die Paddel nicht im Boot sind.

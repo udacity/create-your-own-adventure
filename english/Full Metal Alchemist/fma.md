@@ -21,3 +21,5 @@ Click [here](../alchemy/alchemy.md) to learn more about alchemy.
 
 But this is just the beginning. To become full weeaboo trash, you must fall down
 into the depths of [idol hell](../LoveLive/lovelive.md)...
+
+With great power, comes great responsibility.

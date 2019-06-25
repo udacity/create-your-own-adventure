@@ -10,3 +10,7 @@
 [ここ](happy/happy.md)を踏むと幸せになれます。
 
 [寒い](cold/cold.md)
+
+[なぜかいきなりラーメンを食いたくなっちまった](ramen/ramen.md)
+
+水墨画に描かれた風景になぜか既視感を覚える。[水墨画のほうに近づく。](./suibokuga/suibokuga.md)

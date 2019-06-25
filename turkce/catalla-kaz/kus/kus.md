@@ -9,3 +9,5 @@ Ama ya geçmezse?
 Bir yol bulup ilerlemek de bir seçenekti.
 
 Ne yapacaksın?
+
+[Durmak yok kusmaya devam](kusmaya-devam/kusmaya-devam.md)

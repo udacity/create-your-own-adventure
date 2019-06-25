@@ -24,4 +24,6 @@ Nach dem Festmachen gehen sie zu/zum/zur:
 
 [Tempel: Ein mystisch aussehendes Grundstück](Tempel/tempel.md)
 
+[Schmiede: Ein düsteres Handwerksgebäude am Rande des Dorfes](Schmiede/schmiede.md)
+
 [Werft: Ein Handwerksgebäude am Wasser mit einer Art Ablaufbahn](Werft/werft.md)
