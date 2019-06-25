@@ -196,3 +196,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
 
 [Activo su Stand ZA WARUDO](dio/dio.md)
+
+Y despues de varios disparos decidio ir a comer, mientras su amigo lo cubria el encendia el coche para iniciar su viaje directo al [espacio](space/space.md).
