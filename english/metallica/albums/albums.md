@@ -2,9 +2,9 @@ Choose your album!
 
 1. [Kill 'Em All (1983)](albums/debut)
 
-2. [Ride The Ligthning (1984)](albums/second)
+2. [Ride The Lightning (1984)](albums/second)
 
-3. [Master of Puppets (1985)](albums/third)
+3. [Master Of Puppets (1985)](albums/third)
 
 4. [...And Justice For All(1989)](albums/fourth)
 
