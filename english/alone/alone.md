@@ -76,3 +76,13 @@ Bella ushers Kristy on to her bed and calm her down.
 Bella palms her head while Kristy gets normalized.
 
 Stranger smirks seeing Kristy and escape into the dark.
+
+End of Chapter 1.
+
+--------------------------------
+
+Chapter 2:
+
+One month ago....
+
+It was like a usual Saturday night for Kristy. She was lonely and wished that she had any friends at all...
