@@ -20,4 +20,4 @@
 
 10. Metal Militia ([listen](https://www.youtube.com/watch?v=a6bfICjPNbg))
 
-[<- Back](albums/albums.md)
+Enjoy!
