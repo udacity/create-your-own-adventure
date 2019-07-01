@@ -6,7 +6,7 @@ Choose your album!
 
 3. [Master Of Puppets (1985)](third/third.md)
 
-4. [...And Justice For All(1989)](fourth/fourth.md)
+4. ...And Justice For All(1989)
 
 5. The Black Album (1991)
 
