@@ -1,6 +1,4 @@
-﻿[Ramanyana](Ramyana/ramayana.md)
-
-चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
+﻿चलो अब कुछ श्री स्वामी विवेकानंद जी से कुछ शिक्षाएं लें।[यहाँ देखें](swami-vivekananda/swami-vivekananda.md)
 
 बॉलीवुड में आपका स्वागत है !
 
@@ -42,3 +40,5 @@ Check out [Tiger Shroff](https://www.instagram.com/tigerjackieshroff/?hl=en)
 Checkout [Babita Phogat](https://www.instagram.com/explore/tags/babitaphogat/)
 
 Why are you reading this line?
+
+[Ramanyana](Ramyana/ramayana.md)
