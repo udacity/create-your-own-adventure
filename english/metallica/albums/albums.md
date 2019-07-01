@@ -8,6 +8,6 @@ Choose your album!
 
 4. [...And Justice For All(1989)](fourth/fourth.md)
 
-5. [The Black Album (1991)](eponymous/eponymous.md)
+5. The Black Album (1991)
 
 More to be added later!
