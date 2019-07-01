@@ -41,4 +41,4 @@ Checkout [Babita Phogat](https://www.instagram.com/explore/tags/babitaphogat/)
 
 Why are you reading this line?
 
-[Ramanyana](Ramyana/ramayana.md)
+[Ramanyana](Ramayana/ramayana.md)
