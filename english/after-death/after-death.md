@@ -7,3 +7,5 @@ their argument is only that they say, “Bring [back] our forefathers,
 if you should be truthful.” Say, “God causes you to live, 
 then causes you to die; then He will assemble you for the Day of Resurrection, 
 about which there is no doubt,” but most of the people do not know.
+
+And [he](https://www.youtube.com/watch?v=0Vyj1C8ogtE) doesn't know.
