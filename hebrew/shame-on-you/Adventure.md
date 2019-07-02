@@ -33,10 +33,6 @@
 
 לוקיר: גבריאל ,מיכאל, אוריאל, רפאל, קפציאל, ברכיאל, מטטרון! מלאכים, בבקשה תעזרו לי.
 
-Ralof: Look at him, General Tullius the Military Governor. And it looks like the Thalmor are with him. Damn elves. I bet they had something to do with this. 
-This is Helgen. I used to be sweet on a girl from here. Wonder if Vilod is still making that mead with juniper berries mixed in. Funny...when I was a boy, 
-Imperial walls and towers used to make me feel so safe. 
-
 ראלוף: תראו אותו, האלוף טוליוס השליט הצבאי, ונראה כאילו הת'אלמור איתו. אלפים מקוללים. אני מהמר שהם קשורים לזה.
 זו הלגן, היה לי פעם סיפור עם בחורה מכאן. אני תוהה האם וויילוד עדיין מכין את השיכר עם האוכמניות בתוכו. זה מצחיק... כשהייתי ילד,
 חומות ומגדלים אימפריאלים גרמו לי להרגיש כה מוגן.
