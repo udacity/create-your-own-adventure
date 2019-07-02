@@ -52,3 +52,7 @@
 לוקיר: למה עצרנו?
 
 ראלוף: למה נראה לך? סוף הדרך...
+
+[אני רוצה להמשיך את ההרפתקאה האפית הזאת!!](https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/)
+
+[זה נשמע משעמם](boring/you-failed.md)
