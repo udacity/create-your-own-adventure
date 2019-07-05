@@ -1,2 +1,2 @@
 מצטער, אך נראה כאילו נכשלת בהרפתקאה שלך...
-[נסה שוב!](https://github.com/Urlord2089/create-your-own-adventure/blob/appropriate_hebrew/hebrew/marshmallow.md)
+[נסה שוב!](https://github.com/udacity/create-your-own-adventure/blob/master/hebrew/marshmallow.md)
