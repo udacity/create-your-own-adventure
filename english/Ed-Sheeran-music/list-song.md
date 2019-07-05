@@ -1,4 +1,4 @@
 List of songs
 ===============================
-1.[Happier-Ed Sheeran](../Ed-Sheeran-music/happier-lyric.md)
-2.[Perfect-Ed Sheeran](../Ed-Sheeran-music/perfect-lyric.md)
+1.[Happier-Ed Sheeran](english/Ed-Sheeran-music/happier-lyric.md)<br/>
+2.[Perfect-Ed Sheeran](english/Ed-Sheeran-music/perfect-lyric.md)
