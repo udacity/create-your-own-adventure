@@ -177,3 +177,5 @@ Si Latine legere vis, [hic preme](latin/arena.md)
 ti o ba so ede yoruba, [gba ono yi](yoruba/history/yoruba_history.md) 
 
 If you speak Igbo, [go here](igbo/igbo-news.md)
+
+[Russian lang? | Русский язык?](ru/lang.md)
