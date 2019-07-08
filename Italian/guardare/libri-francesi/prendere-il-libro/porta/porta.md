@@ -9,3 +9,5 @@ d'avventurarsi.
 [Chiudi la porta e torni ad osservare la stanza](../../libri-francesi.md)
 
 [Cerchi una torcia elettrica] (cerchi-torcia/cerchi-torcia.md)
+
+[Cerchi una candela](cerchi-candela/cerchi-candela.md)
