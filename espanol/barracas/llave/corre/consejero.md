@@ -1,1 +1,0 @@
-Sin perder un segundo y agarrando fuertemente la llave con sus manos Beatito fue en busca del consejero.

@@ -14,3 +14,4 @@ Co robisz?
 
 [Idziesz kupić Kadarkę](kadarka/kadarka.md)
 
+[Zjadasz ptasie mleczko](zjadanie/zjadaniePtasiegoMleczka.md)

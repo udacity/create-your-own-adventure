@@ -1,3 +1,0 @@
-bloop bleep bloop... bloop bleep bloop... bloop bleep bloop... 
-
-[...tap tap tap tap tap tap...](../bwetap/bwetap.md)
