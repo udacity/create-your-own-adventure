@@ -1,1 +1,0 @@
-The tigers come charging at me full speed.  They are after the lemonade, I just know it.

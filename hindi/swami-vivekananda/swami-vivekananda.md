@@ -1,6 +1,0 @@
-﻿पता है स्वामी विवेकानंद जी क्या कहते थे? [यहाँ देखो|](teachings-of-swami-vivekananda/quotes.md)
-
-
-Mahabharat[click here](../Mahabharat/mahabharat.md)
-
-स्वामी विवेकानंद जी की संक्षिप्त जीवनी [यहाँ है|](Introduction-of-Swami-vivekananda/introduction.md)

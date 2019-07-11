@@ -1,1 +1,0 @@
-The rock passes right through the person. Are you a ghost or are they?

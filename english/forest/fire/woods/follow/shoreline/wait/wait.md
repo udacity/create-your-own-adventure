@@ -1,1 +1,0 @@
-You wait, and the ominous creature appears. A giant 8-headed dragon appears.
