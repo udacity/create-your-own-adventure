@@ -1,3 +1,9 @@
+If you like Ed Sheeran's songs [for you](english/Ed-Sheeran-music/list-song.md)
+
+If you wanna rock and roll [Headbang to here](rock/first_step.md)
+
+বাংলা বুজলে, [এখানে আসুন](bangla/AmiBanglayGaanGai/MonThekeBangali.md)
+
 ﻿If you speak English, [go here](english/marshmallow.md).
 
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
@@ -167,3 +173,13 @@ Dreams to Memories – Wisdom in Ladakh.To read this click [here](Himalayan_Odys
 Astoli Dothraki ? [Dothrae jinne](dothraki/dothraki_evoli.md)
 
 Si Latine legere vis, [hic preme](latin/arena.md)
+
+አማርኟ ኸቻልክ [ተጫን](Amharic/ጀምር.md)
+
+ti o ba so ede yoruba, [gba ono yi](yoruba/history/yoruba_history.md) 
+
+If you speak Igbo, [go here](igbo/igbo-news.md)
+
+[Russian lang? | Рус. яз.?](ru/lang.md)
+
+If you want to visit google developer , [go here](english/android-dev/dev.md).

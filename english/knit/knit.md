@@ -2,3 +2,5 @@ There, that's more like it. Nothing like rutning a sock heel to make one feel mu
 And by rutning, I meant turning.
 
 Now to [return to reality](../marshmallow.md)
+
+Or you could just stop now.
