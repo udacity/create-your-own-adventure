@@ -200,4 +200,5 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 Y despues de varios disparos decidio ir a comer, mientras su amigo lo cubria el encendia el coche
 para iniciar su viaje directo al [espacio](space/space.md).
 
-Provisto de un queso y un jamon se dirigió a su siguiente batalla entre [las estrellas](Odicea-en-el-espacio/batalla-espacial.md)
+Provisto de un queso y un jamon
+se dirigió a su siguiente batalla entre [las estrellas](Odicea-en-el-espacio/batalla-espacial.md)
