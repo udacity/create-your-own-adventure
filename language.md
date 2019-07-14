@@ -182,4 +182,6 @@ If you speak Igbo, [go here](igbo/igbo-news.md)
 
 [Russian lang? | Рус. яз.?](ru/lang.md)
 
+Si'w Pale Kreyol [ klike la ](kreyol/kreyol.md)
+
 If you want to visit google developer , [go here](english/android-dev/dev.md).
