@@ -56,4 +56,6 @@ Bruce Wayne is not the Batman...I am!!
 
 John Cena exlaims.
 
-Bruce Wayne remembers his training under Ra's Al Ghul in order to see John Cena 
+Bruce Wayne remembers his training under Ra's Al Ghul in order to see John Cena
+
+Bam!!! Bruce Wayne knocks John Cena out and [dances](https://www.youtube.com/watch?v=EC8DmmeWcZU) 
