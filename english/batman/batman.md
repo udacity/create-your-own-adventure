@@ -52,4 +52,8 @@ Another shouts "Who is John Cena"
 
 "This is the last time i am talking to John Cena"
 
-Bruce Wayne is not the Batman...I am!! 
+Bruce Wayne is not the Batman...I am!!
+
+John Cena exlaims.
+
+Bruce Wayne remembers his training under Ra's Al Ghul in order to see John Cena 
