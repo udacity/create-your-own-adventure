@@ -15,6 +15,10 @@ Set in a fictional universe in which alchemy
  their bodies after a failed attempt to bring their 
 mother back to life using alchemy.
 
+Click [here](https://myanimelist.net/anime/121/Fullmetal_Alchemist?suggestion=) to know about season one.
+
+Click [here](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood) to know about Spring 2009 remake.
+
 Click [here](../alchemy/alchemy.md) to learn more about alchemy.
 
 [Don't know what to do next?](../working/working.md)
