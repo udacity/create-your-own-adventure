@@ -1,1 +1,1 @@
-You get arrested by Rumplestiltskin. Game over.
+You get arrested by Rumplestiltskin and have sing the Gondorian National Anthem to earn your freedom. Game Over.
