@@ -1,5 +1,5 @@
-Alle schauen sich um. Wo bekommt man jetzt möglichst schnell was zu essen her?
-Im Schwimmbad hat man nur eine Möglichkeit. Am Kiosk hinten links.
+Alle schauen sich um. Wo bekommt man jetzt möglichst schnell was zu Essen her?
+Im Schwimmbad hat man nur eine Möglichkeit. Am Kiosk hinten rechts.
 Also hin dort!
 
 [Moment mal - Kiosk?](momentmal/momentmal.md)
