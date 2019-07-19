@@ -1,6 +1,10 @@
 You've gotten hungry from all the dancing, so you decided to bake a cake.
 
-You tasted the cake. Yummy!
+But first, you have to find a recipe. Now, where was I just thinking about cakes ...?
+
+You bake a moist cake. 
+
+You taste the cake. Yummy!
 
 After eating a slice, you start to feel sleepy.
 
