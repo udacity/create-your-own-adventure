@@ -1266,4 +1266,4 @@ Do you like [tigers](tiger/tiger.md)?
 
 Do you like [apple?](https://www.youtube.com/watch?v=1goJcurIMig)
 
-Where To go [next?](whats_next/next.md)
+Where to go [next?](whats_next/next.md)
