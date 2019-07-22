@@ -1,4 +1,4 @@
-Nesse momento você percebe que já é tarde demais, e o iceberg de bugs é muito maior que todos esperavam.
+Nesse momento você percebe que já é tarde demais, e o iceberg de bugs é muito maior que todos esperavam, e agora quem poderá me defender ? 
 
 [Tentar arranjar programadores a bordo para arrumar o bug](arrumar/arrumar.md)
 
