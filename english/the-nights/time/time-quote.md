@@ -1,0 +1,1 @@
+If you love life, don't waste time, because time is what life is made of.
