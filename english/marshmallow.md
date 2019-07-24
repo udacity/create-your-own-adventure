@@ -4,6 +4,8 @@ Wanna know what after death? Click [here](after-death/after-death.md)
 
 Once upon a time many authors collaborated to make meaningless linked story.
 
+But first, the authors asked the reader "What did the hand say to the face?" Click [here](hand-to-face/hand-to-face.md) to find out!
+
 [Escape earth and journey through space](space-travel/space-travel.md)
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
