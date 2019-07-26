@@ -53,3 +53,5 @@ Another shouts "Who is John Cena"
 "This is the last time i am talking to John Cena"
 
 Bruce Wayne is not the Batman...I am!! 
+
+I'm not saying I am Batman, I am just saying no one has ever seen me and Batman in the same room...
