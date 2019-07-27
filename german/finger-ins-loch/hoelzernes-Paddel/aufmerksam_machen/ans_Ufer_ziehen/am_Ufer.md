@@ -3,4 +3,5 @@ Nach ein paar Tänzen sind Sie selber so in Ekstase, dass Sie sich auf
 der Stelle ein Boot, mit einem Loch, auf den Bauch tätowieren lassen.
 
 Nun beginnen Sie sich in die tanzende Menge zu mischen und ziehen die Blicke 
-einer attraktiven Frau auf sich. Ploetzlich faengt es stark zu regnen an. 
+einer attraktiven Frau auf sich. Ploetzlich faengt es stark zu regnen an.
+Als Ihr Tattoo mit dem Wasser in Berührung kommt, passiert etwas seltsames:
