@@ -1,0 +1,1 @@
+[The Earth exploded and I saw the galaxies.](https://lh3.googleusercontent.com/vqZ4d4_iZAgPH6iFjwQnjccoSR9YbabBILCI-Yq48m7sLSIweQcm8FQve4J_U19Vgbc=h900-rw)
