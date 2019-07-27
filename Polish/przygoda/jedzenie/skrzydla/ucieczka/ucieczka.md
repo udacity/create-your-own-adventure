@@ -1,0 +1,1 @@
+Zawracasz w miejscu i uderzasz skrzydłami z całej siły, próbując umknąć przed nadciągającą grozą.
