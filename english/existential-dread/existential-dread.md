@@ -3,3 +3,9 @@ Should you take one now or will you get more later if you wait? What does that s
 if you do? Overwhelmed by the possible implications of your actions and unable to confront
 the fundamental questions they raise about the nature of self you curl into a ball and
 stare at your belly button.
+
+After a while, you decide to do something else to get your mind off of things....
+
+[Check your phone?](../check-phone/check-phone.md)
+
+Or, [watch Netflix?](../netflix/netflix.md)
