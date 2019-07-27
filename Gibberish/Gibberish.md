@@ -22,3 +22,5 @@ Von tran the BARACHARAS dentro [flipflopfloooopers](BooBahTahTah/BoBah.md)?
 Integral(5x^3 - htan(x), dx) titila [MATHEMATICS](NiNi-sigh/NiNi.md)?
 
 [Hamana](Hamanana/hamana-hamana.md)? 
+
+[Bone duwa pweepway?](jabba/jabba.md)
