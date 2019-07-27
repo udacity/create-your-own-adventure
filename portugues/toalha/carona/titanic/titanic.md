@@ -1,0 +1,3 @@
+A entrar no titanic se depara com a Falta de combustivel e a Celine Dion cantando eternamente
+my heart will go on, voce acabou no inferno?
+...
