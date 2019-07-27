@@ -16,3 +16,5 @@ Gdy całe ptasie mleczko jest już zjedzone, dochodzisz do oczywistych wniosków
 [Chce mi się spać](spanie/spanie.md)
 
 [Wyrosły mi skrzydła!](skrzydla/skrzydla.md)
+
+[Jestem spaślakiem!!](dres/dres.md)
