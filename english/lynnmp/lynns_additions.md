@@ -1,0 +1,1 @@
+When you feel triggered or agitated, just stop, close your eyes, and take a few big <a href="https://en.wikipedia.org/wiki/Meditation">breaths</a>.
