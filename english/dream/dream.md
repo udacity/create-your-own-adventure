@@ -25,3 +25,5 @@ Afterwards, you decide to:
 [swim](../swim/swim.md)
 
 [become a tender defender](../dream/tender-defender/tender-defender.md)
+
+[try to fall asleep](../dream/fall-asleep/fall-asleep.md)
