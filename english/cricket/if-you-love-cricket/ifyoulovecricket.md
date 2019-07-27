@@ -1,1 +1,1 @@
-Love cricket? [Go Here!!](../cricket.md).
+Love cricket? [Go Here!!!](../cricket.md)
