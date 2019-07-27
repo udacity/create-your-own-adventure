@@ -1,0 +1,8 @@
+My Hero Academia (Japanese: 僕のヒーローアカデミア Hepburn: Boku no Hīrō Akademia) is a superhero[9] manga series written and illustrated by Kōhei Horikoshi. It has been serialized in Weekly Shōnen Jump since July 2014,[10] and 20 volumes have been collected in tankōbon format. The story follows Izuku Midoriya, a boy born without superpowers (called quirks) in a world where they have become the norm, but who still dreams of becoming a hero himself. He is scouted by the world's greatest hero, who shares his quirk with Izuku after recognizing his potential, and later enrolls him in a high school for heroes in training.
+
+The manga was adapted into an anime television series by Bones. Its first season aired in Japan from April 3 to June 26, 2016,[11] followed by a second season from April 1 to September 30, 2017, then a third season from April 7 to September 29, 2018,[12] and an animated film titled My Hero Academia: Two Heroes was released on August 3 of that year.[13]
+
+The series has been licensed for English-language release by Viz Media and began serialization in their weekly digital manga anthology Weekly Shonen Jump on February 9, 2015.[14]
+
+
+Click [here](https://en.wikipedia.org/wiki/My_Hero_Academiahttps://en.wikipedia.org/wiki/My_Hero_Academiahttps://en.wikipedia.org/wiki/My_Hero_Academiahttps://en.wikipedia.org/wiki/My_Hero_Academiahttps://en.wikipedia.org/wiki/My_Hero_Academia) for more info.
