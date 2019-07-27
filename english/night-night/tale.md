@@ -5,3 +5,5 @@ not even a mouse...
 
 The stockings were hung by the chimney with care,
 in hopes that St. Nicholas soon would be there. . .
+
+Have [visions](sugarplums/sugarplums.md) of sugarplums.
