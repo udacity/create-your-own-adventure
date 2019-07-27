@@ -5,3 +5,5 @@ disguise...
 SOOOOOO obvious."
 
 The Arrow twitches. He draws an arrow and nocks it to his bow, his anger rising.
+
+Then he remebers he wants to scratch his butt.. and what better than the arrow he's recently drawn!!
