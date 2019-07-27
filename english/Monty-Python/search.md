@@ -6,6 +6,8 @@ Ride to the nearest castle.
 
 Meet the black knight
 
+If you are looking for the Dark Night, you are in the wrong story. [Go here](../I'm-batman/batman.md) to find your way.
+
 Chop off his limbs
 
 [It's only a flesh wound!](https://www.youtube.com/watch?v=zKhEw7nD9C4)
