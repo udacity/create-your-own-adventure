@@ -1,0 +1,1 @@
+Você não consegue vender nenhum coco, pois o seu mau humor espanta os fregueses.

@@ -1,0 +1,1 @@
+O novo desenvolvedor diz que não está preocupado com o bug e que não pretende consertá-lo tão cedo.
