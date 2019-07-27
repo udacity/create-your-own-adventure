@@ -1,0 +1,6 @@
+After you decided to take the chance to sleep for a while convincing yourself to forget everything, even for a moment, you still couldn't controlled your own thoughts and as you got deeper into dreams and thoughts, you still could hear their voices.
+They were calling you, echoing those horrible memories through your mind, those unavoidable memories.
+No matter how hard you tried, it will be always there, haunting you, you can't avoid to think: "If life was simpler like that day, you could have grabbed them all and get under the biggest tree and take it as refuge, then you could be able to protect everything he loved most. but wasn't that easy, you knew it and but the guilty are still playing with you, you can't stop to think "Oh Mr. marshmallow, if I could, I would have saved them too".
+Suddenly you started to regain conciousness and you notice that it's Mr. marshmallow's voice, so you jump up from the couch but you can't find him, he isn't watching Tv anymore. You look around and he nowhere to be found, and nervously you shout:
+    - Where are you? What is wrong Mr. Marshmallow? But still there's no answer when but you start  to listen someone babbling something but doesn't answer and you got a little unsettled:
+    - What is going on? Say something Mr. marshmallow!
