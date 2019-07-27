@@ -62,6 +62,8 @@ Take some [time](meditation/meditation.md) off!
 
 [Roll a D20](dungeons-and-dragons/dungeons-and-dragons.md) and see what luck brings.
 
+Of course, you could always use percentile dice if you want more conventional results.
+
 Life is full of twists and turns like but try to cheer yourself and people around you. [Click Here](Happy/happie.md)
 
 Who is better?
