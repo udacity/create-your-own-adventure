@@ -1,6 +1,8 @@
 Una mattina, ti svegli in una strana stanza.
 Che fai?
 
+[Ascolto i rumori](ascolto/ascolto-rumori.md)
+
 [Torno a dormire](domire/sogno-strano.md)
 
 [Cerco l'uscita](scappare/cercare-uscita.md)
