@@ -30,6 +30,8 @@ If you speak the language of love, [kiss here](love/love.md)
 
 如果你说中文而且想要了解一个新的世界，[请点击这里](Chinese/DesertHell/NewWorld.md).
 
+如果你說繁體中文，並且想要一起建構一個武俠世界，[請點擊這裡](Chinese/sheldoor/new_start.md)
+
 Si hablas español, pasa [por aquí](espanol/canudos.md).
 
 اذا كنت تتحدث العربية، [اضغط هنا](arabic/salamoAlikom.md)
