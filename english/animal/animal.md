@@ -1,4 +1,4 @@
-My worst fears have come true.  My cat is crying out for food.
+﻿My worst fears have come true.  My cat is crying out for food.
 The screams are the worst sound I’ve ever heard in my life.
 
 Even if it really start to drop tears or weep blood, it's the same to me ... no food.
@@ -19,7 +19,7 @@ You know what I mean?
 
 Don't eat animals #GoVegan
 
-Don't be cruel.
+Don't be so cruel.
 
 one more animal.
 
