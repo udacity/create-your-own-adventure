@@ -1,0 +1,3 @@
+O marchar escopetada cara o salón descubriu que o panorama aínda era moito peor.
+
+Miañou e...
