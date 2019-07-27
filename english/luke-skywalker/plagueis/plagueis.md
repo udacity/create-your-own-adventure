@@ -1,0 +1,1 @@
+Click [here](http://starwars.wikia.com/wiki/Tragedy_of_Darth_Plagueis) to read all about it
