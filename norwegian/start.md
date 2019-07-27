@@ -8,5 +8,6 @@ En måke skrikker over deg, det er da du ser meg.
 
 Jeg går ned i fjæra og plukker opp gjennstanden som fløyt der.
 
+Den stinker så du kaster den ut i vannet igjen.
 
 [faller i vannet](faller/faller.md)
