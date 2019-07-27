@@ -6,3 +6,5 @@ llamó al Capitán Hernández:
 [¡HERNÁNDEZ REMEDADO IMBÉCIL!](grosero/hernandez.md)
 
 [¡Mi capitán! El consejero lo manda a llamar. ¡Ha llegado el ejercito de la república!](llave/hernandez.md)
+
+[¡Mi capitán! Las hordas del norte han iniciado el asedio a Canudos.](heroe/heroe.md)

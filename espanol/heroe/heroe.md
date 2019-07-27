@@ -19,3 +19,5 @@ El capitan miró hacia el cielo y encontró:
 [Chuky el muñeco diabólico](chuky/chuky.md)
 
 [Aventurero](aventurero/aventurero.md)
+
+[La primer acción ofensiva del ejercito enemigo venía por el aire. Canudos estaba bajo ataque aéreo](heroe/ataque/ataque.md)
