@@ -10,3 +10,5 @@ Sie entschließen sich:
 [Ins Boot zurückzukehren](../ruderboot.md)
 
 [Trotzdem in den Eingang hineinzutauchen](Hoehle/hoehle.md)
+
+[Weiter tauchen](Goldkette/goldkette.md)
