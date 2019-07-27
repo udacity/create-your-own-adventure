@@ -12,4 +12,8 @@ He gave her a quick peck on her lips and took her hand to hold it like he never 
 
 They closed their eyes and a couple of minutes later everything vanished suddenly.
 
-Finally, he woke up from his [dream](../dream/dream.md)
+Finally, he woke up from his [dream](../dream/dream.md), started to suit up and prepare for this unique
+
+jurney between the stars. It was the maiden flight of SpaceX's Falcon Heavy and his was the youngest commander ever
+
+selected for an interplanetary mission.
