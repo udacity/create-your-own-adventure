@@ -21,4 +21,4 @@ The green droid figure bows down to a silvery apple.
 
 In haste you take up the marshmallow as your charge.
 
-As you depart the little droid calls you to "Seek out from whence you came, and find the nougat..."
+As you depart the little droid calls you to "Seek out from whence you came, and find the [nougat](../nougat/nougat.md)..."
