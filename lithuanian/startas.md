@@ -1,4 +1,4 @@
-Čia viskas prasidėjo
+﻿Čia viskas prasidėjo
 
 Visiškoje tamsoje jis turėjo pasirinkti
 
@@ -13,3 +13,5 @@ Visiškoje tamsoje jis turėjo pasirinkti
 [Apsičiupinėti](apsiciupineti/apsiciupineti.md)
 
 [Sapnuoti](sapnuoti/sapnuoti.md)
+
+[Dainuoti](dainuoti/dainuoti.md)
