@@ -20,4 +20,6 @@ und diese Fischerleine aus den Flügeln kriegen.
 
 ... dem Klang des rythmischen Trommelschlages folgen.[Trommeln](trommeln/trommeln.md)
 
+... mit dem Michael Phelps-Schwimstil weiter zu den [kanarischen Inseln](../kanaren/kanaren.md) schwimmen. 
+
 [Zurück](../ruderboot.md)
