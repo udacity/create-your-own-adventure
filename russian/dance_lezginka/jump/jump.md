@@ -7,3 +7,5 @@
 [Пить молоко](drink/drink.md)
 
 [Барахтаться](swim/swim.md)
+
+[Предоставить судьбе решить все за вас](lazybone/lazybone.md)
