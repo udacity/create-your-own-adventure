@@ -7,3 +7,9 @@ I tripped over it and went sprawling headlong.
 I picked myself up and continued running toward the woman.
 
 [Talk to the woman](../woman/scully.md)
+
+"WAIT!" shouts Mulder. "I have a special mission for you."
+
+[KEEP RUNNING to talk to the woman anyways](../woman/scully.md)
+
+[Stop to talk to Agent Mulder about your mission.](english/talk_to_neighbor/man/mulder_mission/mulders_mission.md)
