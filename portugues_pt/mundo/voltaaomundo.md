@@ -13,6 +13,8 @@ O que seria este algo faltando?
 
 [Fundava uma nova Startup](startup/startup.md)
 
+Viajar até [Marte] (marte/marte.md)
+
 Mas não daria para fazer tudo isso. Teria que escolher.
 
 Doar 1,000,000€ ao IPO Porto!
