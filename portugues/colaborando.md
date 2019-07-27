@@ -3,6 +3,8 @@ aplicativo, você detecta um bug.
 
 Você:
 
+[Você pensa... Como seria bom estar em uma pescaria!!](pescaria/como_seria.md)
+
 [Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
 
 [Chora descontroladamente até que sua fada madrinha aparece e te dá 1 desejo](fada/fada.md)
@@ -44,6 +46,7 @@ A sua linha telefônica está uma droga hoje e você tem que baixar a ultima ver
 [Você liga para a companhia telefônica](telefonica/ocupado.md)
 
 O Git te parece ser util, mas como você ainda não vive no século XXI, você está mais preocupado com esse tal de Windows.
+
 
 
 
