@@ -18,6 +18,8 @@ Oh look, a cute puppy...
 
 Consider unsubscribing from r/awww...
 
+No! Outrageous!
+
 And that, my friends, is how I spent the last week.
 
 But finally i stumbled upon [r/outside](outside_subreddit/r_outside.md) 
