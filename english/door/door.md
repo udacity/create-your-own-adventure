@@ -2,3 +2,6 @@ You walk up to the first door, across from the hole in the wall you dove through
 
 Tobias Fünke, M.D.
    ANALRAPIST
+
+Ram Vilas Paswan Zinda Baad
+- Chirag Paswan
