@@ -5,6 +5,7 @@ have your autograph?"
 
 You spend the rest of your life selling tires.
 Thinking back on the history of tires let me tell you an intersting story.
+Long, long ago, in a tire shop far away...
 There was a cycle race the next day as was the tradition.
 Little John never won a race but came back all bruised and tired after every race.
 His father Dunlop couldn't tolerate this. But that was how the cycles were in those days.
