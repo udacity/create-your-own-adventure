@@ -9,3 +9,7 @@
 [다시 잔다](../marshmallow.md)
 
 [공포를 느끼며 벽에 있는 구멍을 통해 나간다](../../explore-outside/explore-outside.md)
+
+[나의 마시멜로우를 지키고 그들을 공격한다!](attack/attack.md)
+
+[요가를 한다](../../yoga/yoga.md)
