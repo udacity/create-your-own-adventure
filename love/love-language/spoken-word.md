@@ -1,0 +1,1 @@
+A love language called Word of Affirmation; speak out your love daily.
