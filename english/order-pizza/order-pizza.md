@@ -16,3 +16,5 @@ Fong's serves delicious Asian Pizza and also offers exceptional
 [Tiki Drinks](http://liquor.com/slideshows/10-tiki-cocktails-to-kick-off-summer/).
 
 Add bacon to your pizza. Bacon makes everything taste better.
+
+You begin to make a bacon pizza and before you know it you have a pizza that is entirely bacon. You consider adding toppings.
