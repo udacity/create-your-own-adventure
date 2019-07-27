@@ -1,8 +1,10 @@
 Gründlich durchsuchst du all deine Hosentaschen...
-in der zuletzt geprüften Tasche findest du es. Hastig schaltest du das Smartphone 
+in der zuletzt geprüften Tasche findest du es. Hastig schaltest du das Smartphone
 ein um zu prüfen wie voll der Akku noch ist und ob du Internetempfang hast...
 
 Nachdem das Smartphone gebootet wurde siehst du...
+
+[dass du seit einem Monat nicht mehr trainiert hast!](Gym/gym.md)
 
 [dass du vollen Internetempfang hast!](Internet/Internet.md)
 
