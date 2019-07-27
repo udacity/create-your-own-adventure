@@ -1256,6 +1256,8 @@ Smile and move on gingerly.
 
 What is your [passion?](passion/passion.md)
 
+Everyone's passion is [ice cream](ice-cream/ice-cream.md)
+
 -
 
 searching for [good](tvf-play/watch.md) content.
