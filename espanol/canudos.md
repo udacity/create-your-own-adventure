@@ -1,5 +1,6 @@
-En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
+Caía la noche en el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
+todos se dieron cuenta de que se trataba del final de mundo tal y como lo habíamos conocido. Así que
 el Consejero:
 
 Se quedo en [blanco](blanco/blanco.md)
