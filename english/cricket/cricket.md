@@ -6,3 +6,5 @@ Click [here](../cricket-rules/cricket-rule-book.md) to read the rules.
 you find cricket boring and instead want to learn about spirits 
 Click [here](../call-spirit/call-spirit.md) to learn..
 
+You came here and found out you instead want to watch the Fifa World Cup.
+Click [here](https://www.foxsports.com/soccer/fifa-world-cup) to watch the matches.
