@@ -4,3 +4,6 @@ beauty outdoors than the snow capped peaks of [Glacier National Park]
 camp and hike. If you are adventurous, you can try some winter wilderness
 treks in the [backcountry](http://www.nps.gov/glac/planyourvisit/backcountry.htm).
 Hope you have winter navigation skills!
+
+However, winter in tropical parts of the world can be lovely! 
+Such a place is South India, where you can visit the lush state of Kerala and explore the tech hub that is Bangalore!
