@@ -1,0 +1,1 @@
+You just stand there and blink a few times. (Did they really moo?)
