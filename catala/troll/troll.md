@@ -3,3 +3,11 @@ mentre veus, sorprès, com es va aixecant del terra un gran troll!
 
 El troll no s'ha adonat de la teva presència, petit que ets, així que et quedes agafat al seu clatell 
 sense fer cap soroll, mentre comença a caminar cap al bosc... 
+
+El troll continua el seu camí, endintsant-se en la negra foscor del bosc més profund, quant de sobte 
+veus una llum que no pots identificar d'on ve però que il.lumina una branca d'un arbre mig caigut...
+
+Què fas?
+
+Continues amb el troll 
+Saltes a la branca
