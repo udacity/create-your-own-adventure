@@ -201,6 +201,10 @@ usually take intoxicants, what's happening...?
 
 Maybe this is a dream?
 
+But then, what are dreams. Is it your cherished ambition you had as a kid, like to become an astronaut.
+
+Or is it simply those vivid, surreal thoughts and images that float across when u are deep asleep.
+
 Or a [memory](memories/memories.md)?
 
 Or is it just boring old [real-life](real-life/real-life.md)?
