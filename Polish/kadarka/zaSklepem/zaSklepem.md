@@ -14,3 +14,6 @@ W kasie rzucasz ledwo spoglądając na kasjerkę odliczoną kwotę, którą znal
 Z większym powodzniem wracasz do kompanów. Ziutek już siedzi, a Mietek nawet wstał oddać mocz.
 Kiedy widzą, że w ręku trzymasz lekarstwo na tę straszną dolegliwość, która was z rana dopadła oczy zachodzą im łzami. 
 W geście triumfu podnosisz Amarenę!
+
+[Pijesz do upadłego](PijPanie/DoUpadłego.md)
+[Nie pijesz do upadłego]((../../ptasieMleczko.md))
