@@ -1,4 +1,4 @@
-Zew przygody wzywa cię. Czujesz, że musisz się wydostać z tego pokoju. 
+Budzi Cię chłód kamiennej posadzki. Czujesz, że musisz się wydostać z tego pokoju. 
 Rozglądasz się po pokoju w poszukiwaniu wyjścia. Jednak wyjścia nie ma.
 
 Co robisz?
