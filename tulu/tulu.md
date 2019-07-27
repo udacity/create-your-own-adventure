@@ -2,3 +2,5 @@
 ಎಡ್ಡೆ ಧನಿ
 
 ಕನ್ನಡ ಆಂಡ[ ಮೂಲು ಒತ್ಲೆ](../kannada/soochike.md)
+
+ಕುಡ್ಲದ ಸಿಟಿ ಬಸ್ ಎಂಚ ? ತೂಯರೇ [ಮುಲ್ಪ ಒತುಲ್ಲೇ] (oordakulu/mulpa_thoole.md)
