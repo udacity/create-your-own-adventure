@@ -1,0 +1,1 @@
+Terrorysta spogląda na swoje stopy, które odziane są w klapki-japonki. Wykorzystujesz jego nieuwagę i wbiegasz za szafę za którą znajdujesz tajemne przejście.
