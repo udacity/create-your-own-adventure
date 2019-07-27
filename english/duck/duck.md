@@ -9,4 +9,7 @@ Wait, what was that noise?
 
 Large bats fly over your head.
 
+A bit of LSD floats between your legs.
+
 [Investigate](../cave/cave.md)
+[Smash dat LSD](https://github.com/mattwoolz/create-your-own-adventure/blob/master/english/batmetal/batmetal.md)
