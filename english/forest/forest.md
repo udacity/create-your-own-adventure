@@ -1,6 +1,6 @@
 An overwhelming pain echoes through your head. You feel the taste of dirt in
 your mouth. Your hands are moist and you can feel the impression of twigs and
-moss in your cheeks. You're in the forest.
+moss in your cheeks. You're in the forest. A dark and scary place.
 
 You try to regain your thoughts, still dazed by the pain.
 
