@@ -6,3 +6,5 @@ are here. The nightstand is completely empty. There's not even a phonebook.
 [Look under the bed.](look-under-bed/look-under-bed.md)
 
 [Look under the carpet on the floor.](under-carpet/under-carpet.md)
+
+[Look under the nightstand.][under-nightstand/under-nightstand.md)
