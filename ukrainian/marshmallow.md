@@ -6,6 +6,8 @@
 
 Що будете робити?
 
+[Подумаю "Як цікаво!", та приготуюся до пригоди!](prepare_for_adventure/prepare_for_adventure.md)
+
 [Зателефоную доктору Хто](dr-who/dr-who.md)
 
 [Розженуся та спробую прорватися крізь одну з стін](break-through-wall/break-through-wall.md)
