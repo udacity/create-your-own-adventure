@@ -14,3 +14,6 @@ Fall is a great season to take a vacation in any of these spots:
 
 It's frosty winter.. but these places can be excitng:
 [winter destinations](winter/winter.md)
+
+It's rainy season !
+Visit [India](https://www.youtube.com/watch?v=zB4vt_0S1Rs) 
