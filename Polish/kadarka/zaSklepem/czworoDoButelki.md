@@ -1,0 +1,4 @@
+Na kacu Twoje serce mięknie niczym gąbka. Przysłowiowe gołębie są przy Twoim niczym granitowe głazy.
+Płaczesz nad rozdeptanymi dżdżownicami na chodniku, wpadasz w depresję na widok muchy uwikłanej w pajęczynę, a nawet jesteś skłonny dać żebrzącej Cygance 2 zł na bułkę, ale uświadamiasz sobie w ostatniej chwili, że nie posiadasz takiego kapitału w walucie wymienialnej.
+Co dopiero myśl, że tuż obok - na Twoich oczach - rozgrywa się życiowa tragedia i kolejny kamrat cierpi nieznośny trud życia (a co to za życie?) na kacu, a może już całkiem na trzeźwo!
+Litujesz się więc nad zmierzającym ku Tobie świńskim truchtem oberwańcem, który przybywszy przed Twe oblicze przedstawia się z gracją "Bercik żem jest".
