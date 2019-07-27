@@ -1,0 +1,1 @@
+Apro whatsapp ma la lista delle conversazioni e quella dei contatti risultano stranamente vuote.

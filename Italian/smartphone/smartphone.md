@@ -3,6 +3,8 @@ Ma è stranamente elastico e risponde al tocco molto a modo suo.
 Cerco disperatamente di accedere al GPS ma non ottengo nessuna risposta.
 Allora vince il riflesso condizionato e penso a quale social mi potrebbe essere più utile nell'occasione.
 
-Scelgo [Facebook](facebook/facebook.md)
+[Scelgo Facebook](facebook/facebook.md)
 
-Scelgo [Instagram](instagram/instagram.md)
+[Scelgo Instagram](instagram/instagram.md)
+
+[Scelgo Whatsapp] (whatsapp/whatsapp.md)
