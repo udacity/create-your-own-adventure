@@ -1,0 +1,3 @@
+You lock eyes with your dance partner and begin to moon walk. Upon seeing this, your partner begins a Thriller dance montage that can only be described as an "unbelieveable display of a zombie apocalyspe dance horde." Then the crowd of zombie dancers begins to form around them and it becomes hard to tell if it's still just dancing or if the outbreak has begun and these are the infected!
+
+What do you do?

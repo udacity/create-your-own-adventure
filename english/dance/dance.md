@@ -21,7 +21,7 @@ You become other aware that a potential dance partner is making eye contact with
 
 Just get to sleep
 
-Dance Like MJ , live you life fully, 
+[Dance Like MJ and live your life fully?](../dance-like-MJ/MJ.md) 
 
 Now you should dance at least an hour a day.
 
