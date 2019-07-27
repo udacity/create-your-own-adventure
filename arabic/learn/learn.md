@@ -4,12 +4,14 @@
 [و لماذا التعلم ](whylearning/speculate.md)
 
  امثلة مواقع الكورسات اونلاين :
-
 -Udacity
 -coursera
 -Udemy
 -Khan Academy
 -thenewboston
+
+من افضل الكورسات لتعلم اساسيات البرمجة بغض النظر عن اللغة
+[harvard cs50](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
 وفيه كتير بس انت عليك تدور
 
