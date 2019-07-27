@@ -6,3 +6,4 @@ entonces se oyo una gran explosión en la habitacion y:
 [Apareció una misteriosa pareja de alienígenas](alienigenas/alienigenas.md)
 
 [Ambos perdieron la capacidad de oir](sinoido/perderoido.md)
+Se creó un [portal dimensional](portal/portal.md)
