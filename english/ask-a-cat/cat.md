@@ -12,7 +12,7 @@ immediately runs.
 
 Your symphony is ruined.
 
-Your cat doesn't care.
+Your cat doesn't care. Your cat is only upset because you didn't feed her.
 
 [Take this as a sign to change careers.](../change-of-career/career.md)
 
