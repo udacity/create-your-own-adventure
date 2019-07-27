@@ -4,3 +4,7 @@ der Stelle ein Boot, mit einem Loch, auf den Bauch tätowieren lassen.
 
 Nun beginnen Sie sich in die tanzende Menge zu mischen und ziehen die Blicke 
 einer attraktiven Frau auf sich. Ploetzlich faengt es stark zu regnen an. 
+
+Sie [fangen an zu weinen, weil sie nass werden](weinen/weinen.md)
+
+Sie [bieten der Frau einen Tanz im Regen an](regen/regen.md)
