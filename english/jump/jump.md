@@ -6,5 +6,6 @@ and very relevant words of wisdom from your friends Arthur Dent and Ford Prefect
 
 Fortunately, you have terrible aim and you glide to safety toward the ground. 
 
-
 And then live a happy life with your significant other.
+
+Or so you thought, until you wake up in a hospital bed with tubes plugged into you. You try to speak, but realize you cannot move your body.
