@@ -1,0 +1,1 @@
+Your porcelain white hands join the sentinel's.

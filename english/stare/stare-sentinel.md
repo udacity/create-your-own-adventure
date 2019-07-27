@@ -1,0 +1,1 @@
+You stare at the sentinel. His silver helment leaves only a few columns for him to look back.
