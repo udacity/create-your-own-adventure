@@ -14,3 +14,5 @@ Do you:
 [Bake a cake?](../dance/bake-a-cake/bake-a-cake.md)
 
 [Give in to existential dread?](../existential-dread/existential-dread.md)
+
+Isn't it true that 'Ponder' means the same thing as 'Think'?! Maybe you should ask your [neighbor](../think/loveneighbor/neighbor.md) and see what they say?
