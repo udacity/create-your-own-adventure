@@ -1,0 +1,1 @@
+Dahil nadumihan ng batang hamog ang damit ni Benj, hinubad niya ito upang malabhan. Naalala ni Benj na wala na silang sabong bareta kaya't naglakad siya papunta sa tindahan ni Aling Vicky. Habang papunta sa sari-sari store ay hinuli si Benj ng mga pulis sa hindi malaman-lamang kadahilanan.
