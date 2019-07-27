@@ -1,0 +1,1 @@
+La sera prima avevi mangiato del sushi fritto avariato. A causa di questo inconveniente, il peto puzza in maniera così nauseante da farti svenire. Torni nel dolce [mondo dei sogni](Italian/caramelle.md).
