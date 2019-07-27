@@ -33,3 +33,5 @@
 Όμως, μέσα στον πανικό σου, σου έρχεται στο μυαλό μια ιδέα. 
 
 [Γεμίζεις μια λεκάνη με νερό](fill_water_tank/fill_water_tank.md)
+
+[Η πρόκληση του παγωμένου κουβά](ice_bucket_challenge/ice_bucket_challenge.md)
