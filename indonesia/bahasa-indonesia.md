@@ -1,1 +1,3 @@
 Selamat datang kawan...
+
+Suatu hari Andipergi ke sekolah, tapi sesuatu hal yang mengejutkannya terjadi saat ia sedang berjalan ke sekolah.
