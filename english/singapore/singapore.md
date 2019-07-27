@@ -15,4 +15,5 @@ It is 31 degrees outside right now. A typical day in Singapore.
 
 You realize that 31 degrees is not really that hot.
 
-Do you chide yourself for whining?
+Do you chide yourself for whining? 
+[Yes](buy-flipflops/7-eleven.md) | [No](snow-memories/canada.md)
