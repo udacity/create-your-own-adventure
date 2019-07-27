@@ -6,3 +6,4 @@ outside the room you see...
 
 That you are about to be crushed by a giant corn. :)
 
+[eat](eat/eat.md) the corn
