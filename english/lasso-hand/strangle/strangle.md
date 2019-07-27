@@ -10,3 +10,5 @@ A very angry hand suddenly turns towards you and leaps.
 You:
 
 [Grab the torch from the sconce?](../strangle/torch/torch.md)
+
+[Call for help?](../strangle/help/help.md)
