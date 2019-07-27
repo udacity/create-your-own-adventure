@@ -5,3 +5,7 @@ Wohlwissend um euer eventuelles Ende, schwimmt ihr wie ihr noch nie geschwommen 
 Das schwierigste ist in Mitten der Wellen die Orienturng zu behalten.
 Wenn ihr es nur nah genug an den Strand schafft, findet ihr vielleicht ein Riff oder eine Sandbank,
 eine kleine Verschnaufpause vor der letzten Anstrengung.
+
+Was tun Sie ?
+
+Ich halte mich an dem [Delphin](Delphin/Delphin.md) fest der soeben an mir vorbeischwimmt um mich von ihm an den Strand ziehen zu lassen.
