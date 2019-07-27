@@ -1,0 +1,2 @@
+Sie vergewissern sich nochmals, wo genau der Hai umherschwimmt und setzen all Ihre Schwimmkünste ein,
+um schnellstmöglich zu dem Hai zu kommen. Plötzlich bemerken Sie, wie sich der Hai von Ihnen wegbewegt.
