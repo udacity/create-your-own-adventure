@@ -7,3 +7,6 @@
 
 
 それとも[この松茸か？](../mattake/mattake.md)
+
+
+はたまたこの[赤色のiPhone8か？](../smartphone/iphone8-red.md)
