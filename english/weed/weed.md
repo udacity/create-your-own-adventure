@@ -28,4 +28,4 @@ Or
 
 Choose [Red Pill](https://www.youtube.com/watch?v=1EdUjlawLJM)
 
-Go [back to the room]?(../marshmallow.md)
+Go [back to the room](../marshmallow.md)
