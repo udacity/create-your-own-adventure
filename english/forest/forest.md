@@ -6,7 +6,7 @@ You try to regain your thoughts, still dazed by the pain.
 
 "Where am I?" you think. "How did I get here?"
 
-As you slowly try to get up, a sharp pain burts through your right leg as you
+As you slowly try to get up, a sharp pain bursts through your right leg as you
 put pressure on it. You scream out in pain. You can hear it echo through the
 forest, as you fall to your knees. From the corner of your eye, you see
 something hanging high up from a tree about twenty feet away. It's a parachute.
