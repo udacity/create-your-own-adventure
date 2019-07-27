@@ -6,3 +6,4 @@ und du bist ja in einem Wal und auch die restliche Situation ist nicht unbedingt
 
 Was machst du jetzt:
 
+[Ich schlage ihm ins Gesicht und klaue das magische  Glöckchen!] (schlagen/schlagen.md)
