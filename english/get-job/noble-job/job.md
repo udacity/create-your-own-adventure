@@ -1,0 +1,1 @@
+Leo has always wanted to be a teacher so what better time to do that than when he's lost all faith in humanity?
