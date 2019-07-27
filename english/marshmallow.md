@@ -12,6 +12,8 @@ Now what?
 
 A few learned to [tango](tango/tango.md)
 
+Some wanted to know [true Peace](https://www.youtube.com/watch?v=iAVJ7W8F7IA)
+
 Some preferred to
 Enter [The Forest!](forest/forest.md)
 
