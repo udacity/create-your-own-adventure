@@ -2,6 +2,8 @@
 
 어떻게 할까요?
 
+마시멜로를 먹으려고 벽 쪽으로 다가서자 홀연 나비 한 마리가 날아오는 것이 아닌가!
+
 [국회로 간다](filibuster/filibuster.md)
 
 [벽을 먹는다](eating-walls/eating-marshmallows.md)?
