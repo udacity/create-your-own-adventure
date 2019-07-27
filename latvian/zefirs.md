@@ -14,4 +14,5 @@ Vai Tu:
 
 [Sniedz roku Zefīra kungam?](./sniegt_roku/sniegt_roku.md)
 
+[Pagrāb dakšu un dur?](./daksha-fight/daksha-fight.md)
 
