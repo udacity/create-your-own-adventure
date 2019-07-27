@@ -26,10 +26,12 @@
 
 [Βλέπεις... τον Marshmallow από το Frozen](frozen_marshmallow/frozen-marshmallow.md)
 
-Τελικά συνειδητοποιείς ότι ο Stay Puft Marshmallow Man από το Ghostbusters ήταν στη πραγματικότητα το 
-ζαχαρωτό και σε πιάνει τρόμος ... 
+Τελικά συνειδητοποιείς ότι ο Stay Puft Marshmallow Man από το Ghostbusters ήταν στη πραγματικότητα το
+ζαχαρωτό και σε πιάνει τρόμος ...
 μπου α χα χα...
 
-Όμως, μέσα στον πανικό σου, σου έρχεται στο μυαλό μια ιδέα. 
+Όμως, μέσα στον πανικό σου, σου έρχεται στο μυαλό μια ιδέα.
 
 [Γεμίζεις μια λεκάνη με νερό](fill_water_tank/fill_water_tank.md)
+
+[Ψάχνεις την πόρτα](find_the_door/find_the_door.md)
