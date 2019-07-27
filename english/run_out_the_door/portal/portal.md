@@ -1,0 +1,3 @@
+You fall out of the organge portal a little faster. The crowd blurs slightly as you pass by. With little time to interpret your peculiar circumstances you...
+
+[fall through the blue portal again](../portal/portal.md).

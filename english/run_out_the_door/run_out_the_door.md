@@ -19,6 +19,8 @@ You realize you need to do something and do it quickly.
 
 You...
 
+Form an orange portal above you and a blue portal below you then [drop through the blue portal](/portal).
+
 [Go back inside](../marshmallow.md) and reclaim your rightful position in mediocrity.
 
 Decide to [start dancing bachata](../start-dancing/startDancing.md) and everybody start to clap and cheer you up.
