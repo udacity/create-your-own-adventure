@@ -8,5 +8,7 @@ Hatmiçiçeği arkandan büyük bir hışımla geliyor ve aradaki fark gitgide k
 
 [Ölü Taklidi Yap](olu-taklidi-yap/olu-taklidi-yap.md)
 
+[Hatmi Çiçeğine Saldır](hatmiye-saldir/hatmiye-saldir.md)
+
 
 
