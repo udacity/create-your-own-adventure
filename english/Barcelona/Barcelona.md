@@ -1,0 +1,1 @@
+Barcelona is my favorite football team to watch when playing at their best. Messi, Iniesta, Busquets, Xavi, Puyol, Pique, and Alba have been some of the best footballers to step on the pitch and it is a pleasure to watch them every week. Barcelona will probably never be as strong as they are today, but I'm happy that we were once at the top of football.
