@@ -17,3 +17,5 @@ Valar morghulis
 Valar dohaeris
 
 These words spoken and you are now a faceless man, a merceiless assassin, on your way back to Braavos. 
+
+On your way back, you will fly with the wing of the pheonix.
