@@ -1,0 +1,1 @@
+Ya no tenían plan de ataque porque durante el viaje se les olvidó.
