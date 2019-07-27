@@ -19,3 +19,5 @@ This is my favourite Gujarati proverb copied from [here](http://gujarati-proverb
 
 જાગ્યા ત્યાંથી સવાર
 Mine favourite(@ http://gujarati-proverbs.tumblr.com/)
+
+દરેકએ સંજયભાઈ રાવલના પરિસંવાદો સાંભળવા જોઈએ [here](http://sanjaymsraval.com/)
