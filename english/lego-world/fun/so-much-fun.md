@@ -1,0 +1,1 @@
+Like any good [AFOL](https://en.wiktionary.org/wiki/AFOL), you know that there's over [915,103,765](http://mentalfloss.com/article/92127/how-many-combinations-are-possible-using-6-lego-bricks) ways to combine these brick and you get distracted seeing how many you can come up with. The platypus sees that you are no threat and waddles back where it came from. 
