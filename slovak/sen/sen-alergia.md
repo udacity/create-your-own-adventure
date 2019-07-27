@@ -1,0 +1,1 @@
+Musel to by sen, si predsa na ryby a sladkosti alergickı.

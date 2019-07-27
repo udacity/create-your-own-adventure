@@ -1,4 +1,4 @@
-Jedno nevšedné ráno sa zobudíš v divnej miestnosti, ktorá má steny z marshmallow na to, že máš v nose kyslú rybičku.
+﻿Jedno nevšedné ráno sa zobudíš v divnej miestnosti, ktorá má steny z marshmallow na to, že máš v nose kyslú rybičku.
 
 Čo urobíš?
 
@@ -9,3 +9,5 @@ Jedno nevšedné ráno sa zobudíš v divnej miestnosti, ktorá má steny z mars
 [Pokúsiš sa zachrániť seba](nepi/zachrana-seba.md)
 
 [Siahneš opäť po fľaši](flasa/nikdy-viac.md)
+
+[Spíš ďalej, lebo vieš, že je to len sen](sen/sen-alergia.md)
