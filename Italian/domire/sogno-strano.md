@@ -1,1 +1,3 @@
-Siete in grado di dormire, ma i sogni sono più strani: balla il tango con un elefante rosa!
+Siete in grado di dormire, ma i sogni sono piï¿½ strani: balla il tango con un elefante rosa!
+
+Ma visto che dieci elefanti si dondolavano supra il filo di una ragnatela ti [svegli](../caramelle.md)
