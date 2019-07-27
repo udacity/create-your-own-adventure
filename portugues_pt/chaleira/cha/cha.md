@@ -2,7 +2,7 @@ No seu armário encontra três variedades de chá.
 
 Apetece-lhe um chá verde para ajudar a despertar.
 
-Decide escolher camomila porque quer relaxar.
+Decide escolher [camomila](camomila/camomila.md) porque quer relaxar.
 
 Agrada-lhe a ideia de beber um chá de menta.
 
