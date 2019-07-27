@@ -3,3 +3,5 @@ Chcesz wykorzystać potencjał ptasiego mleczka i jeszcze na tym zarobić. Zabie
 [Zaczynasz pisać i pisać...](cukrzyca/cukrzyca.md)
 
 [Wstrzymujesz pisanie i szukasz klientow na mleczko](podlakorp/podlakorp.md)
+
+[Wcinasz kolejne ptasie mleczko](kolejny_ptak/kolejny_ptak.md)
