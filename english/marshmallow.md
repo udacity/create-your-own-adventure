@@ -29,6 +29,8 @@ spend your time [wisely](http://www.pythonchallenge.com/)
 
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
+[Sometimes when I try to understand a person's motives, I play a little game...](who-am-I/who-am-I.md)
+
 Are you a:
 
 [cat person](https://www.youtube.com/watch?v=-hIugp7p5O0)
