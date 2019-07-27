@@ -8,3 +8,5 @@ Veus que surt fum del plat. Què fas?
 [Pregunto a la mare per què surt fum del plat](preguntar/preguntar_fum.md)
 
 [Bufo per que es refredi](bufar/bufar_arros.md)
+
+[Torno al llit](llit/llit.md)
