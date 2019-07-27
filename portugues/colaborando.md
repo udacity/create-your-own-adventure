@@ -45,7 +45,9 @@ A sua linha telefônica está uma droga hoje e você tem que baixar a ultima ver
 
 O Git te parece ser util, mas como você ainda não vive no século XXI, você está mais preocupado com esse tal de Windows.
 
+Você se sente confuso e imagina se seria possível chegar nese tal século XXI.
 
+[Voce decide então criar uma máquina do tempo](viajando/materiais.md)
 
 Mas te bateu uma fome danada e você não tem nada na geladeira e nenhum tostão.
 
