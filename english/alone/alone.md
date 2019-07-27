@@ -38,7 +38,7 @@ Kristy collapses and weeps uncontrollably.
 
 Kristy's friends Bella and Ana console her and checks her surroundings.
 
-They find no one around, everything in Kristy's room is untouched. Stranger
+They find no one around, everything in Kristy's room is untouched. An ugly stranger
 sneaks behind the window and watch her weep.
 
 Kristy sees him at the window and runs into it. Her nose bleeds with the impact and 
