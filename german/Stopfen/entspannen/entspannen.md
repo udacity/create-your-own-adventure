@@ -19,3 +19,6 @@ Warum sind Sie allein auf dem Boot?
 Haben Sie schon etwas gefangen?
 
 Woher stammt die Brille in Ihrem Boot?
+
+Nur Gott kann jene Frage beantworen, aber er schweigt noch...
+
