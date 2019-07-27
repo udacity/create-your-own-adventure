@@ -2,6 +2,8 @@
 
 어떻게 할까요?
 
+[마시멜로의 냄새를 맡아본다](smell/sniff.md)
+
 [국회로 간다](filibuster/filibuster.md)
 
 [벽을 먹는다](eating-walls/eating-marshmallows.md)?
