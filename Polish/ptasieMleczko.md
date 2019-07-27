@@ -1,6 +1,6 @@
 Pewnego ranka obudziłaś/eś się w dziwnym pokoju ze ścianami z ptaskiego mleczka.
 
-Okazało się również, że masz na sobie niewygodną kurtkę i nie masz na sobie spodni...
+Okazało się również, że masz na sobie niewygodną kurtkę i nie masz na sobie spodni ani bielizny...
 
 Czujesz, że wzmaga się w tobie pragnienie, czy to nie jest dobry pomysł, żeby napić się Kadarki?
 
