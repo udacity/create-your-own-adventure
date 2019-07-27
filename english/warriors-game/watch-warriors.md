@@ -23,3 +23,7 @@ A baby that was thinking about the boom/bust nature of the NBA draft. Why did
 anyone think Anthony Bennett was deserving of the number 1 pick? But you could
 argue the Cavs were geniuses to pick him because one year later it netted
 LeBron. So weird.
+
+The Warriors continue to be a great team.  They have won 3 out of the last 4 championships 
+and will continue to win more in the future.  KD, Curry, Green and Thompson are an unstoppable
+force and the Warriors will continue to add more rings in the future!
