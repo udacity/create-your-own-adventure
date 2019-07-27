@@ -62,13 +62,13 @@ BR BR BR Hue hue hue!!!!
 
 [Você vira um jogador...](futebol/futebol.md)
 
-[História com um fim muito legal] (historia/fim.md)
+[História com um fim muito legal](historia/fim.md)
 
-[Corrigiria o bug fazendo o seguinte] (jc/jc.md)
+[Corrigiria o bug fazendo o seguinte](jc/jc.md)
 
-[Usaria: git clone, branch, add, commit e push] (https://www.google.com.br/)
+[Usaria: git clone, branch, add, commit e push](https://www.google.com.br/)
 
-[Crio um novo branch,olho o bug e uso o github para obter ajuda] (http://gitref.org/)
+[Crio um novo branch,olho o bug e uso o github para obter ajuda](http://gitref.org/)
 
 [Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
 
