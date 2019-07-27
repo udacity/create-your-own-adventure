@@ -4,6 +4,8 @@ el Consejero:
 
 Se quedo en [blanco](blanco/blanco.md)
 
+Sugirió a Beatito aplicar la [acción #1287](accion-1287/accion-1287.md)
+
 Hizo llamar a [Zipi y Zape](zipizape/zipizape.md) para recibir al ejército.
 (Zipi es el rubio)
 
