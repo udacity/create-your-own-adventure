@@ -15,4 +15,6 @@ Vad nu, då?
 
 [Somna om](somna-om/somna-om.md)
 
+[Plocka upp marshmallowen](plocka-up/plocka-upp.md)
+
 [midsommar] (midsommar/midsommar.md)
