@@ -5,3 +5,5 @@ You feel awkward and realise that unicorns named Keith are overrated so [you wak
 
 You're worried about Keith's health so you 
 [give him the card of a good supernatural vet you know](./super-vet/super-vet.md)
+
+So, you invite Keith the Unicorn to come with you on a [trip to Candy Mountain!](./candy-mountain/candy-mountain.md)
