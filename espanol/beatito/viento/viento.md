@@ -1,0 +1,1 @@
+Sacó volando todas las estampas arruinando el trabajo del beatito, lo que ocacionó que proliferara unas filípicas contra los cielos.
