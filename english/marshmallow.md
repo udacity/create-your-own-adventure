@@ -12,6 +12,8 @@ Now what?
 
 A few learned to [tango](tango/tango.md)
 
+[Click](life/life.md) to go through normal life.
+
 Some preferred to
 Enter [The Forest!](forest/forest.md)
 
