@@ -1,4 +1,5 @@
 Hiki valuu.
 Kiuas pihisee.
+Terva tuoksuu.
 
-Kylmä olut tulee mieleen. Takaisin [terrasiin](../sauna.md)
+Kylmä kolmosolut tulee mieleen. Takaisin [terassille](../sauna.md).
