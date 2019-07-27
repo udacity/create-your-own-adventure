@@ -1,0 +1,1 @@
+first year in a college is actually a great part of life where people experiences sudden change.[link](https://www.collegeconfidential.com/first-year/)
