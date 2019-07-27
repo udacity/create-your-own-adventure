@@ -2,6 +2,8 @@
 
 어떻게 할까요?
 
+[자기상태를 확인한다](look-at-your-self/look-at-your-self.md)
+
 [국회로 간다](filibuster/filibuster.md)
 
 [벽을 먹는다](eating-walls/eating-marshmallows.md)?
