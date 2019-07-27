@@ -1,0 +1,1 @@
+"You know nothing about climbing!", said master Vaerys."But do not worry. YOu will learn it with patience and perseverance. Just like you made your first steps in github, before you will now be released into the online world full of repositories."
