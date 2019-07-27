@@ -1,0 +1,1 @@
+Chiedo a Siri, ma non mi risponde perché Apple ha smesso di progredire due anni fa, quindi correo a comprare Alexa..
