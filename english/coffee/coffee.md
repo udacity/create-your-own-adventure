@@ -39,6 +39,8 @@ After having your coffee do you want to:
 
 [Procrastinate?](procrastinate/procrastinate.md)
 
+[Visit a friend?](visit-friend/friend.md)
+
 [Go to bed?](bed/bed.md)
 .
 
