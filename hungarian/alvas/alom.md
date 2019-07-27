@@ -1,6 +1,7 @@
-Alomba szenderulsz.  
+﻿Alomba szenderulsz.  
 Almaidban talalkozol a malyvacukor kiralylannyal, es eszreveszed, hogy a kiralylany is meztelen.
 
 Mit teszel?
 
 [Megnézem](megnezem/megnezem.md)
+[Megcsípem magam hogy felébredjek](megcsipem/megcsipem.md)
