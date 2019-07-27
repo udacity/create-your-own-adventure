@@ -1,2 +1,3 @@
 Uradowany podskakujesz z radosci i razem idziecie na wybory zaglosowac na Kukiza.
 W glebi duszy wiesz, ze to jedyny sluszny wybor w dzisiejszych czasach.
+Zrozumienie jednak przychodzi po czasie. Wiesz, ze popelniles blad, bo Kukiz jest tepy jak dzida i skreca w prawo jak uszkodzony samochod. Placzesz po nocach i nie mozesz spojrzec sobie w twarz. No trudno - naprawisz swoj blad w nastepnych wyborach.
