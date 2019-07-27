@@ -1,0 +1,3 @@
+You open your eyes and find yourself sitting on a couch, facing a white wall with the message "Welcome! Everything is fine." with green letters.
+
+Then a door opens and you hear a voice...
