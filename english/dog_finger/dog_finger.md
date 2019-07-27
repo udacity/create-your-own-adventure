@@ -1,5 +1,5 @@
 while True {
-    One night, a couple who had been out for a few too many drinks came home to find
+    One night, a couple who had been out for way too many drinks came home to find
     their dog choking in the living room. The man panicked and fainted, but the woman decided to call
     her old friend, a vet, and arranged to drop the dog off at the vet clinic.
     
