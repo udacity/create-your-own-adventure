@@ -7,3 +7,5 @@ Marshmallow gets even more fascinated
 
 You change the channel to Casablanca, 
 the marshmallow starts to cry.
+
+You eat marshmallow.
