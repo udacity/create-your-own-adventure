@@ -17,3 +17,5 @@ What do you do now:
 [Do yoga](../../yoga/yoga.md)
 
 [Use Wikipedia](../../wikipedia/wiki.md)
+
+[Have a cup of coffee?](../../coffee/coffee.md)
