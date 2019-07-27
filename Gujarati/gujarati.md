@@ -6,6 +6,7 @@ A problem is achance for you to do your best.
 Tha best way to predict the future is to create.
 
 Gujarati language is great. Lord Krishna spoke or led to it. Mahatma Gandhi spoke and wrote in it.
+Gujarat is the land of some of the greatest men in Indian History like Sardar Vallabbhai Patel.
 
 ગુજરાતી ભાષાનાં પરાક્રમી સફરોમાં આપનું સ્વાગત છે. અગણીત સફરો માંથી તમે કયું પસંદ કરશો?
 તમારી ખરી કસોટી શરુ થાય છે. તમને ખુબ શુભકામના.
