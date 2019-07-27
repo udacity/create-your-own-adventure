@@ -1,0 +1,3 @@
+Suddenly you get dizzy. You feel your legs giving way beneath you, and drop to the ground.
+
+"Not again!" you think to yourself. Now is not a great time for a transformation. You feel your wrists and ankles stiffen, as your senses grow sharper. Before you know it, it's over. You try to look in the mirror but realize you can't reach it. It doesn't matter. You know what you'd see if you did look: the long, sharp face of a wolf. 
