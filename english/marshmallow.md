@@ -4,7 +4,14 @@ Wanna know what after death? Click [here](after-death/after-death.md)
 
 Once upon a time many authors collaborated to make meaningless linked story.
 
+
+So each one of these authors used what they learend in the course to fork 
+[this](https://github.com/udacity/create-your-own-adventure) repository 
+
+and then clone it to their machines to create a new branch and 
+add some changes to that branch just to do a pull request.
 [Escape earth and journey through space](space-travel/space-travel.md)
+
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
@@ -901,7 +908,7 @@ to you when you speak to it.
 ["Ahem!"](my-adventure/my-adventure.md)
 
 So the Epic Sexy Sax Guy saves the day, go [here](TheEpicSax/111_TheEpicSaxGuyArrives.md) to read more about him ...
->>>>>>> deb66146d3bd0481a4c19d27b8ef289b939d4156
+
 
 ["Train Ride!"](train-ride/train-ride.md)
 
@@ -1156,7 +1163,7 @@ Learn about something random [here](https://en.wikipedia.org/wiki/Special:Random
 Learn about Ankesh [here](characters/ankesh.md)
 
 [Hold the door!](hold_the_door/hodor.md) [Spoiller GOT]
->>>>>>> b6c70ae2fc2160a4b1b9c8639b4567de6b5a4a93
+
 
 You realise that the philosphy of life in general boils down to
 that one central question... will you? or will you not?
@@ -1227,20 +1234,19 @@ Or maybe you love [pugs](https://www.youtube.com/watch?v=3pPR7vk-e3Y)?
 
 Or maybe you're trying to avoid the cold [outside](cold_outside/cold_outside.md)
 
-<<<<<<< HEAD
+
 Have you ever heard any unusual sounds
 when you're alone?
 They're not what you think.
 Get to know them [here](blackAndwhite/blackAndwhite.md)
 
-=======
 Like football or soccer(as many others call it)? Must Watch
 [The_Greatest_Battle_Ever](https://www.youtube.com/watch?v=KyHDZqp2ThU)
 
 Some other guy beat me to it.  Too lazy [here](lazy/lazy.md)
 
 What if I told that all this is just a bunch of [files](see-files/files.md)
->>>>>>> upstream/master
+
 
 A Story of Being Alone
 Read it [here](alone/alone.md)
