@@ -13,3 +13,6 @@ But, the wall has to be fixed.  So you gather your courage and go to the dreaded
 aisle with the marshmallows.  Turning into the aisle you see a terrible sight.
 
 [Who is this man?](../bob-barker/barker.md)
+
+
+Hello, hello, want to eat something? Tell me! Tell me!
