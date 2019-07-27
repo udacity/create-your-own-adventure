@@ -11,3 +11,5 @@ You
 [Ask for a date](ask-for-a-date/time.md)
 
 [Don't say anything](dont-say-anything/silence.md)
+
+[Dial "M"](dial/dial-m-for-murder.md)
