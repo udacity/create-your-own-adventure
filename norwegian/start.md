@@ -1,4 +1,4 @@
-﻿Nå er det din tur å fortsette eventyret herfra!
+Nå er det din tur å fortsette eventyret herfra!
 
 Det er en varm kveld midt i sommerferien.
 
@@ -10,3 +10,5 @@ Jeg går ned i fjæra og plukker opp gjennstanden som fløyt der.
 
 
 [faller i vannet](faller/faller.md)
+
+[etter fallet](etter-fallet/etter-fallet.md)
