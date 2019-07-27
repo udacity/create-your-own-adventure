@@ -1,0 +1,1 @@
+Da löst sich der Leopard plötzlich in Millionen Pixel auf, die wie Pusteblumen durch den Raum gleiten und sie bemerken, dass sie nur Teil einer Simulation waren.

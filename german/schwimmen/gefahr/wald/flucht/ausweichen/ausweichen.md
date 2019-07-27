@@ -1,0 +1,1 @@
+Doch sie können dem Biss ausweichen woraufhin der Leopard handzahm wird und sie mit ihm knuddeln können.
