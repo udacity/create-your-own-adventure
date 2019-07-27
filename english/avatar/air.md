@@ -13,3 +13,5 @@ How can I get off of this planet?
 You are desperate and scream, "Oh God!"
 You are surrounded by a horde of creatures that look like sharks with legs.
 Suddenly - [you wake up!](../wake-up/wake-up.md)
+
+You look around and realize that there is not a single face you recognize.
