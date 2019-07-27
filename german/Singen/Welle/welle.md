@@ -5,3 +5,5 @@ Sie störte die Stetigkeit des Wassers, das die Aufmerksamkeit eines Raubfische 
 Dieser Fisch wurde von einer Gruppe von Walen gejagt.
 
 [Der Fisch entkommt und lässt Sie zu den Walen.](../Walen/walen.md)
+
+Für die Fischer heißt das: [Das ist Singen](../hope/singen.md)
