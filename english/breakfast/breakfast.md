@@ -3,6 +3,8 @@ marshmallows from the wall and added them to the coffee. While you are drinking 
 marshmallows and staring at the wall you found that you made a whole in the wall by picking marshmallows. You finished
 your flavoured coffee and got out from marshmallows-walled room. It is a beautiful sunny day.
 
+The birds are chirping outside and you can hear children playing off in the distance.
+
 Suddenly, you start to sing your favorite song from childhood: "It's a Beautiful Day in the Neighborhood".
 Thereafter, you remembered the hole you made in the wall and started thinking of going back to fix it.
 
