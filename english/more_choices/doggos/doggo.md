@@ -1,0 +1,1 @@
+Okay, so do you like [long-haired doggos](https://images.wagwalkingweb.com/media/grooming_guides/general/groom-a-dog-with-long-hair/hero/groom-a-dog-with-long-hair.jpg) or [short-haired doggos](http://alldogsworld.com/wp-content/uploads/2017/02/best-brush-for-short-hair-dogs.jpg)?

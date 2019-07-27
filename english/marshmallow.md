@@ -50,6 +50,8 @@ Which way should you go? Only you can decide.
 
 Oh so many decisions - what will you do??
 
+If you're bad at making choices, click [here](more_choices/more_choices.md)
+
 In the end you will realize that it [doesn't really matter]
 (https://goo.gl/1fd4wU).
 The path you choose is as good as any.
