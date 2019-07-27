@@ -8,6 +8,6 @@ It was this [sword](https://i.ytimg.com/vi/ICatpGotaNs/maxresdefault.jpg).
 
 Satisfied with the sword, He asked for the craftsman to come in his palace to thank him.
 
-Little did he know, that sword will change everything he knows....
+Little did he know, that sword will change everything he knows including everything he knew ;)....
 
 But more on that later. For now, the prince must tend to his royal duties.

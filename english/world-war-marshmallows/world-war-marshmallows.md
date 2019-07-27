@@ -6,7 +6,6 @@ marshmallow monster, you look on in horror as about
 twelve seconds pass. The man gets up however he is no longer human,
 he's turned into a marshmallow man, you are 
 scared then realize you need to make a choice.
-
 [Do you run and try to barge through the door to escape?](break-through-door/break-through-door.md)
 
 or
