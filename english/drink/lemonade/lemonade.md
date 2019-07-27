@@ -1,1 +1,1 @@
-The lemonade is incredibly refreshing. I am now ready explore on this hot, summer day.
+The lemonade is incredibly refreshing. I am now ready to explore on this hot, summer day.
