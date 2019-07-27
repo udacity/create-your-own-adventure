@@ -1,0 +1,1 @@
+While all these things are happening, a sudden explosion is heard all over the world. It was crowded groups of aliens coming to earth to invade.
