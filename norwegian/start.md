@@ -8,5 +8,9 @@ En måke skrikker over deg, det er da du ser meg.
 
 Jeg går ned i fjæra og plukker opp gjennstanden som fløyt der.
 
+Du kommer bort og sier: "Hei, kan jeg få se hva det er for noe?"
+
+Jeg gir deg flasken med en lapp i. "Det ser ut til å være flaskepost.", svarer jeg.
+
 
 [faller i vannet](faller/faller.md)
