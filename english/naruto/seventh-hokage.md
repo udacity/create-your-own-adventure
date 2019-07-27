@@ -10,6 +10,7 @@ and soon after, the rest of the world. He soon proved to be one of
 the main factors in winning the Fourth Shinobi World War, leading
 him to achieve his dream and become the village's Seventh Hokage
 (七代目火影, Nanadaime Hokage, Literally meaning: Seventh Fire Shadow).
+Naruto also had a son.
 
 However, [Full metal](../Full Metal Alchemist/fma.md) is way better :)
 
