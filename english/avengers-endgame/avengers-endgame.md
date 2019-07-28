@@ -1,0 +1,3 @@
+Avengers: Endgame was widely anticipated, and Disney backed the film with extensive marketing campaigns. It premiered in Los Angeles on April 22, 2019, and was theatrically released in the United States on April 26, 2019, in IMAX and 3D. The film received praise for its direction, acting, musical score, visual effects, and emotional weight, with critics lauding its culmination of the 22-film story. It has grossed over $2.79 billion worldwide, surpassing Infinity War's entire theatrical run in just eleven days and breaking numerous box office records, including becoming the highest-grossing film of all time, overtaking Avatar.
+
+for more information click [here] (https://en.wikipedia.org/wiki/Avengers:_Endgame)
