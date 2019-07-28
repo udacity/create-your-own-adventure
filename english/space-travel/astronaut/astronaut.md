@@ -9,3 +9,4 @@ Do you:
 
 [use the voice recognition feature](voice/voice.md)
 
+[sneak in when as someone unlocks the door](sneak/sneak.md)

@@ -4,3 +4,6 @@ space station easily now.
 
 AI: "How can I help you?"
 
+You ask:
+
+[What is waiting beyond the station for us?](beyond/beyond.md)
