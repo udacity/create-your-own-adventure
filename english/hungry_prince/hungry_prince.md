@@ -11,3 +11,5 @@ Satisfied with the burger, He asked for the chef to come in his palace to thank 
 Little did he know, that burger will change everything he knows....
 
 But more on that later. For now, the prince must tend to his royal duties.
+
+But he was still hungry.
