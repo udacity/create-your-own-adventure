@@ -1,0 +1,1 @@
+If you a striker sometimes you have to execute Penalty.
