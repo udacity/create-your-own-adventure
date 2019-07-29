@@ -10,3 +10,4 @@ Es este alto, ronco y extraño hombre alguien en quien confiar ?
 
 [El consejero puede hacer lo que le plazca. Decides no pagar.](rechazar/rechazar.md)
 
+[Si algo me enseñó la serie suits es que se pueden tener más opciones, así que negocío con él apostar las dos monedas por lo que traigo en la otra bolsa pero se lo daré después de salir] (negociar/negociar.md)
