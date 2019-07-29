@@ -1,0 +1,3 @@
+You wake in the morning, and you are hungry for cereal. One would eat....
+	-[Lucky Charms!] (https://github.com/TheBlurrr/create-your-own-adventure/blob/test-branch/english/breakfast/food/lucky_charms.md)
+	-[Special K!] (https://github.com/TheBlurrr/create-your-own-adventure/blob/test-branch/english/breakfast/food/special_k.md)
