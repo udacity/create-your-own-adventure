@@ -17,3 +17,6 @@
 
 
 那一位當家喜歡至尊寶?按[此](那一位當家喜歡至尊寶/那一位當家喜歡至尊寶.md)選擇
+
+至尊宝来到优达学城学习了GitHub，读到了自己的故事。他决定重新改写[自己的命运](create-your-own-adventure/Chinese/CrazyStone/CrazyStone.md)
+
