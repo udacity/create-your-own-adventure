@@ -1,2 +1,4 @@
 Haciendo uso de la fuerza, desbordó un río de lava ardiente de un volcán cercano.
 Ni siquiera quedaron los restos para ser velados...
+
+Beatito da una [galleta](galleta/galleta.md) al Consejero
