@@ -4,3 +4,7 @@ Vi aspektas ĉirkaŭ vi. Ĉio estas lanugaj, invitante. En la fono oni muro aper
 [Vi estas malpacienca azeno, vi venis por ludi...](malpacienca/malpacienca.md)
 
 [Estas neniu iras. La lukto estas perdita.](lukto/perdita.md)
+
+[Vi prenas vian Lighter vian poŝon.](malkovro/fajro.md)
+
+[Vi estis malsata, do vi decidas mordi la muro .](malkovro/malsata.md)

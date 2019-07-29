@@ -1,0 +1,3 @@
+La muro disigas en [eta estaĵoj](http://www.publicdomainpictures.net/view-image.php?image=131736&picture=halloween-ghost-cupcakes&large=1) , kriante kiel dividado . 
+
+Vi eniras en [batalon](lukto/perdita.md)... 
