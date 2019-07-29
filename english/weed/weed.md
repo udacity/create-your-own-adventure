@@ -29,3 +29,6 @@ Or
 Choose [Red Pill](https://www.youtube.com/watch?v=1EdUjlawLJM)
 
 Go [back to the room]?(../marshmallow.md)
+
+Being indecisive, and suddenly feeling a need for something sweet, 
+you discover what seems to be a [little boy](../candy/candy.md) walking around...
