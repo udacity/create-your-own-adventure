@@ -12,6 +12,8 @@ Now what?
 
 A few learned to [tango](tango/tango.md)
 
+Some went to party with [Lego Batman!](legobatman/legobatman.md)
+
 Some preferred to
 Enter [The Forest!](forest/forest.md)
 
