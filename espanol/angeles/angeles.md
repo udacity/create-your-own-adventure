@@ -1,4 +1,4 @@
-Los guerreros al escuchar a los ángeles escuchar el violín tan angelicalmente,
+Los clerigos al escuchar a los ángeles tocar el violín tan angelicalmente,
 se arrodillaron para orar y pedir por fuerzas para la batalla!
 
 En eso el Consejero se levanta y agradece a los ángeles por toda la ayuda que
