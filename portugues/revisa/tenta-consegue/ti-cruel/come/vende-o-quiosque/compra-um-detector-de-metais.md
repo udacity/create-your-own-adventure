@@ -1,0 +1,1 @@
+Então, usando seu detector de metais, você começa a procurar coisas de valor que as pessoas eventualmente perdem no mar. De repente, quando você menos espera acha um rolex a prova d'água e outras joias de ouro no mar, então você as vende imediatamente e consegue pagar suas dívidas. 
