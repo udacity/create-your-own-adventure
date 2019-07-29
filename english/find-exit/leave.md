@@ -16,6 +16,8 @@ I would run to the forest
 
 The forest turns dark. I don't see the ice-cold water and fall into it.
 
+Turns out the ice-cold water is actually ICE CREAM.
+
 [Explore outside](../explore-outside/explore-outside.md)
 
 [Path into forest](into-forest/forest.md)
