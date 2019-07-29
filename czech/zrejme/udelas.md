@@ -1,2 +1,1 @@
-Všechny sníš, neskuteènì se pozvracíš, zavzpomínáš na mladistvı léta a pak radìji zvolíš monost
-se seknutím s alkoholem.
+VÅ¡echny snÃ­Å¡, neskuteÄnÄ› se pozvracÃ­Å¡, zavzpomÃ­nÃ¡Å¡ na mladistvÃ½ lÃ©ta a pak radÄ›ji zvolÃ­Å¡ moÅ¾nost se seknutÃ­m s alkoholem.
