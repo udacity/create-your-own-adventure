@@ -1,0 +1,1 @@
+Your palms are sweaty, your knees are weak, and your arms are heavy. There's marshmallow vomit on your sweater that resembles Mom's spaghetti. You're nervous, but on the surface you look calm and ready to drop bombs - the ultimate spirit bomb. But, you keep on forgetting Goku's technique. 
