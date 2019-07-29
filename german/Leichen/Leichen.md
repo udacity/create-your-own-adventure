@@ -27,3 +27,5 @@ Irgendwie muss ich versuchen sie los zu werden!
 Die Situation scheint meinen Verstand vernebelt zu haben. 
 Die Kälte und das Wasser scheint ihr übriges zu tun. 
 Aber in einem lichten Moment erinnere ich mich an meine [Superkraefte](Superkraefte/Superkraefte.md).
+
+Was will eigentlich dieses Vieh von mir?! So wenig wie ich sollte dieser bunte Fress-Hybrid hier sein ... das eint uns schon mal. Ich glaub, ich [angle](Angeln/Angeln.md) mir mal diesen Knaben. 
