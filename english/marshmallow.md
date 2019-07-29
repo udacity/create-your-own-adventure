@@ -440,6 +440,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Go eat some rainbows](eat-rainbows/rainbows.md)
 
+[Go talk to Darth Vader. He has important message for you](https://www.youtube.com/watch?v=GvoS7eneebk)
+
 [Admire your glowing pants](glowing-pants/glowing-pants.md)
 
 [Grab some coffee?](coffee/coffee.md)
