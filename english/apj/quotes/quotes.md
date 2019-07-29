@@ -6,4 +6,6 @@
 
 4) "Man needs his difficulties because they are necessary to enjoy success." -APJ Kalam
 
-Click [hear](https://www.goodreads.com/quotes/tag/overcoming-fear) to find more quotes. 
+5) "Failure will never overtake me if my determination to succeed is strong enough." -APJ Kalam
+
+Click [here](https://www.goodreads.com/quotes/tag/overcoming-fear) to find more quotes. 
