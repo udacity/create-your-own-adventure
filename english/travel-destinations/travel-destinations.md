@@ -13,4 +13,5 @@ Fall is a great season to take a vacation in any of these spots:
 [fall destinations](fall/fall.md)
 
 It's frosty winter.. but these places can be excitng:
+go somewhere tropical and warm
 [winter destinations](winter/winter.md)
