@@ -2,3 +2,6 @@ I am the egg man...wooo...I am the egg man...woooo.....I am the walrus...cuckooc
 
 I am the goat man...weee...I am the goat man...weeee......I am the
 walrus...rupelapadeee!
+
+I am the walrus, the sentience guiding the lyric composition.
+
