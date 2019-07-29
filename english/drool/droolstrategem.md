@@ -5,3 +5,5 @@ As the saliva flows freely over your taste buds you contemplate what decisions i
 [Go for help to dad](../cry-out-for-daddy/oh_daddy.md)
 
 [take the red pill](../red-pill/red-pill.md)
+
+[Go drink some beer](../drink-beer/drink-beer.md)
