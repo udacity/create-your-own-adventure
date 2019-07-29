@@ -1,4 +1,4 @@
-Você é usuário de um aplicativo open source de Android, o qual usa o Github para manter o código. Durante o uso do
+﻿Você é usuário de um aplicativo open source de Android, o qual usa o Github para manter o código. Durante o uso do
 aplicativo, você detecta um bug.
 
 Você:
@@ -22,6 +22,8 @@ Você:
 [Procura o site da Udacity para aprender sobre Git e GitHub](udacity/udacity.md)
 
 [Procura um amigo que sabe de tecnologia](amigo/tecnologia.md)
+
+[Muda a capital do Brasil para Capao Bonito](capao-bonito/capao-bonito.md)
 
 [Cria um aplicativo melhor](cria/melhor.md)
 
