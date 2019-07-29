@@ -15,3 +15,6 @@ allow to rest for 10 minutes and remove netting before carving.
 
 Use as a guide only as heating efficiencies of appliances may
 vary.
+
+Tip: Try cooking with a [fog monster](../fog-monster/fog-monster-pork.md)
+for more fun!
