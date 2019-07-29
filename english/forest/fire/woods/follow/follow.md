@@ -16,5 +16,9 @@ finally do your lungs burn with air, yet it feels so good.
 You feel pain and burn and stigs of bees yet you feel ecstatic for being alive.
 You are alive and nothing else matters for now, except for reaching the shore and celebrating your life 
 little longer. 
+But as you start to swim towards the shore, you notice something
+sparkle at the bottom of the riverbed. You
 
 [Scramble onto the rocky shoreline] (shoreline/shoreline.md)
+
+[Dive down and check it out] (dive/dive.md)
