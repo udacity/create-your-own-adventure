@@ -1,5 +1,7 @@
 Sie können sich nicht selbst stabilisieren und beginnen in Wasser zu fallen.
 
+Das Wasser ist kalt und das Salz kribbelt auf Ihrer Haut.
+
 Sie erfaheren nach einiger Panik, wenn Sie Ihren Rücken strecken.
 
 Sie beginnen, ein geeignetes Lied zu singen. z.B. [Cold Water](https://www.youtube.com/watch?v=a59gmGkq_pw)
