@@ -6,3 +6,5 @@ Až se zastaví o kousek maršmelounu, který se odlepil od stropu podivné mís
 
 Když chceš zjistit zda padl rub nebo líc s překvapením zjistíš, že to nebyla normální
 šestikoruna, ale na lícní straně je vyryta podobizna šklebícího se ďábla.
+
+["Zda se ti to nebo ti podobizna pripomina Milose Zemana?"](marsmilos/jeneni.md)
