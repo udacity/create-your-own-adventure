@@ -1,1 +1,1 @@
-"urasinner!"; smile and add "aren't we all", turning your other cheek.
+"urasinner!"; smile and add "aren't we all", turning your other cheek.  The slap stings, but you decide to apply some aloe vera to sooth the pain.  All of the sudden, your skin starts glowing!  Alas, that wasn't aloe vera, it was that bottle of radioactive waste that you keep in your back pocket!
