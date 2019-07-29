@@ -11,3 +11,5 @@ Ao encontrar o repositório do GitHub o que você faz?
 [Infelizmente, lê o código, não encontra erro algum e CHORA.](chora/chora.md)
 
 [Toma um cogumelo muito legal e acaba na terra do nunca](../cogumelos/cogumelos.md)
+
+[Procura uma issue relacionada ou cria uma](issue/issue.md)
