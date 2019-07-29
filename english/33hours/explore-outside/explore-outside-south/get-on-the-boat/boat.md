@@ -1,0 +1,1 @@
+You board the boat. You notice there is a small leak. Suddenly, a man appears from the motel. He is holding a gun.
