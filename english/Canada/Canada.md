@@ -3,6 +3,7 @@ Well, looks like the end of a long and beautiful empire.
 
 Alright. You're ready. 
 Let's head off to the [true north strong and free](https://www.youtube.com/watch?v=9yFs7K27kZI).
+(Be prepared for [some gloating](https://www.youtube.com/watch?v=aue-zWxYtEc)).
 
 Make sure to brush up on your English: it's [zed, not zee](https://www.youtube.com/watch?v=BRI-A3vakVg).
 
