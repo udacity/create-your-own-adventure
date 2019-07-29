@@ -5,3 +5,5 @@
 [松茸を注文する](../mattake/mattake.md)
 
 高そうだな...[松茸はやめて冷やし中華を注文する](../hiyashi_chuka/hiyashi_chuka.md)
+
+ビールはまだ届いていないから、[文句言う](../monku_iu/monku_iu.md)
