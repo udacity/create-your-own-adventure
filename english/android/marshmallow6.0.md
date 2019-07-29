@@ -1,6 +1,6 @@
 You are on the right way, son!
 
-Just try the new android version marshmallow version 6.0 .
+Just try the new android version marshmallow version 7.0 .
 
 Check the updates for your smartphone now!
 
