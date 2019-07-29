@@ -9,3 +9,5 @@ cambios en la voz y a tener cambios de humor. El dragón
 se dió cuenta que no se parecía a sus padres adoptivos
 por lo cual decidio:
 
+[Comerse a sus padre](comerse-padre/comerse-padres.md)
+[Huir de casa](huir/huir-casa.md)
