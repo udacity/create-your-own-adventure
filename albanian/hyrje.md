@@ -4,4 +4,6 @@ Udheton me [avion](avion/avion.md)?
 
 Udheton me [tren](tren/tren.md)?
 
+Udheton me [anije-kozmike](anije-kozmike/anije-kozmike.md)?
+
 Apo udheton me ndonje menyre tjeter?
