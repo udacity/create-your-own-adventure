@@ -10,7 +10,8 @@ He was born in a [Sikh](https://simple.wikipedia.org/wiki/Sikh) family.
 His family had earlier been involved in revolutionary activities against the 
 [British Raj](https://simple.wikipedia.org/wiki/Sikh). 
 When Bhagat Singh was a teenager, he studied European revolutionary movements.
-He became attracted to [anarchist](https://simple.wikipedia.org/wiki/Anarchist) and 
+
+He became attracted to
 
 [Marxist](https://simple.wikipedia.org/wiki/Marxist) ideologies.
 
