@@ -14,3 +14,8 @@ Fall is a great season to take a vacation in any of these spots:
 
 It's frosty winter.. but these places can be excitng:
 [winter destinations](winter/winter.md)
+
+
+As summer draws near, think of Swaziland.
+Enjoy a full week of live fun in Swazi Kingdom of South Africa
+[the Umhlanga Reed dance Aug 23-30/2017] (http://www.swazi.travel/event/Umhlanga_Reed_Dance)
