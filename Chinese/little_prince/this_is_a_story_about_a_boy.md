@@ -3,3 +3,5 @@ The Little Prince is a play based on the book of the same name by Antoine de Sai
 adapted by Rick Cummins and John Scoullar before 2000. 
 
 Rick Cummins wrote the music, and John Scoullar wrote the script and lyrics. 
+
+The main character is a boy from anyone planet, who fall in love with a selfish flower
