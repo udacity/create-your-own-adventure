@@ -13,3 +13,5 @@
 [Προσφέρεις στο ζαχαρωτό τσιγάρο](../offer_marshmallow_a_cigar/offer_marshmallow_a_cigar.md)
 
 [Προσεύχεσαι](../pray/pray.md)
+
+[Λιποθυμάς] (../pass_out/pass_out.md)
