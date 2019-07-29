@@ -1089,7 +1089,7 @@ Time to [move to Canada](Canada/Canada.md), eh?
 
 You struggle to find a line break to add your own adventure.
 You also want to undo the Brexit result. [You try CTRL-Z...](great-tasmanian-adventure/great-tasmanian-adventure.md)
-
+However, this seems to call for more extreme measures...[Call Dani](gameofthrones/Dani.md)
 
 
 The crushing weight of all these options causes you to [end your life.](end/end.md)
