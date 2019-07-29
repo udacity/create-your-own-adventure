@@ -1,3 +1,4 @@
+Hello, this is Ling Li.
 You clear your throat and begin to sing a version of the latest Taylor Swift song.
 
 You begin to look around to see the reaction of the monster's hand. It quickly pulls
