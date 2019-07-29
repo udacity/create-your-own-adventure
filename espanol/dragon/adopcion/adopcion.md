@@ -9,3 +9,4 @@ cambios en la voz y a tener cambios de humor. El dragón
 se dió cuenta que no se parecía a sus padres adoptivos
 por lo cual decidio:
 
+Comprar la serie de novelas de fantasía épica ["A Song of Ice and Fire"](hielo-fuego/hielo-fuego.md) de George R. R. Martin.
