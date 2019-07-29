@@ -40,7 +40,9 @@ After having your coffee do you want to:
 [Procrastinate?](procrastinate/procrastinate.md)
 
 [Go to bed?](bed/bed.md)
+
+[Sleep?](sleep/sleep.md)
 .
 
 Coffee creates a great medium for people to have conversations about ideas and visions.
-Have chocolate coffee in the morning and [enjoy.](another-coffee/another-coffee.md) 
+Have chocolate coffee in the morning and [enjoy.](another-coffee/another-coffee.md)
