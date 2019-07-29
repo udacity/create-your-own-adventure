@@ -1,0 +1,1 @@
+未生，描述了一位棋场老手、职场新人的奋斗历程，值得一看。[链接](http://www.youku.com/show_page/id_z0922d0924f6411e4a080.html)
