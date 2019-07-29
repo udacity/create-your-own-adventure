@@ -7,3 +7,5 @@ mental, pues en ocasiones hacían todo lo contrario a lo que él quería.
 
 En vista de este percance, hizo sucumbir a los que provocaban este desperfecto para evitar 
 futuros problemas en sus planes de dominacion.
+
+De paso, para reponerse un poco, se hizo una relaxing cup of café con leche at the fucking plaza mayor.
