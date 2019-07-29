@@ -1,4 +1,4 @@
-Sie tauchen nochmal, um die schönen Korallen näher zu betrachten.
+Sie tauchen nochmal, um die schönen Korallen, Fische und Seesterne näher zu betrachten.
 Dabei entdecken Sie eine Höhle unter der Wasseroberfläche, in der Sie
 einen goldenen Schimmer auszumachen glauben.
 
