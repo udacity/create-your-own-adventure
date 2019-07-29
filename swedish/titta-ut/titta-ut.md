@@ -1,7 +1,7 @@
 När du tittar ut genom fönstret ser du att det regnar.
 
 Det är fortfarande ganska mörkt ute och du känner dig helt utmattad efter nattens mardrömmar.
-varför är det alltdi så mörkt i dtta landet?
+varför är det alltid så mörkt i detta landet?
 
 Magen kurrar. Det är egentligen dags för frukost.
 
