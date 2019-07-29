@@ -9,3 +9,5 @@ Jaki prezent podarujesz swojemu monarsze?
 [Złoty krawat](prezent2/krawat.md)
 
 [Zlota muszke](prezent3/muszka.md)
+
+[Złote berło](berlo/berlo.md)
