@@ -1,0 +1,1 @@
+Menganito le partió la guitarra en la cabeza a Fulanito por cantar tan mal.
