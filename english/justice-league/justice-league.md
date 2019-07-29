@@ -19,3 +19,5 @@ Who will answer the call?
   - Cyborg?
   - Shazam?
   - [Spiderman](./spiderman/spiderman.md)?
+
+  Meanwhile, at the Hall of Justice, Zack and Jana can't find their space-monkey Gleek. 
