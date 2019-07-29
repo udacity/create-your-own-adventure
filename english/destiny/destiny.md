@@ -1,5 +1,7 @@
 you have decided to persue your destiny.
 
+Or, perhaps you were really interested in your [density](../density/density.md)
+
 before you start you must have forgotten to pee so [go now](../eating-walls/find-a-toilet/find-a-toilet.md).
 
 now that you are relieved of the pressure underneath.
