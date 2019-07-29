@@ -1,0 +1,1 @@
+Usypiasz a gdy budzisz się ściany z ptasiego mleczka pojawiły się ponownie. Co robisz?
