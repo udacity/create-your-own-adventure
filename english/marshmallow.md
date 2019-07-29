@@ -259,6 +259,10 @@ capacity for good, I have sent them you... my only son."
 
 Call in the [Justice League!](./justice-league/justice-league.md)
 
+Or better yet, [Underdog!](../underdog/underdog.md)  
+
+Yes, Underdog can help with anything!
+
 [Interrogate the man for clues.](./movie-ripoffs/zoolander/zoolander.md)
 
 [That sure sounds familiar...](./sounds-familiar/sounds-familiar.md)
