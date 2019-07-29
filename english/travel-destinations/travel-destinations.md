@@ -14,3 +14,5 @@ Fall is a great season to take a vacation in any of these spots:
 
 It's frosty winter.. but these places can be excitng:
 [winter destinations](winter/winter.md)
+
+Sweet!!! A [natural spa on the beach](http://www.thecoromandel.com/activities/must-do/hot-water-beach/)
