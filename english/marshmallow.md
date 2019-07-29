@@ -1,4 +1,4 @@
-There's a spot open for the role of [Lead Programmer](programmer/lead_programmer.md)
+﻿There's a spot open for the role of [Lead Programmer](programmer/lead_programmer.md)
 
 Wanna know what after death? Click [here](after-death/after-death.md)
 
@@ -9,6 +9,8 @@ Once upon a time many authors collaborated to make meaningless linked story.
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
 Now what?
+
+Look at [Mulan](mulan/mulan.md), she...
 
 A few learned to [tango](tango/tango.md)
 
