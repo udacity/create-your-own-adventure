@@ -25,4 +25,4 @@ I am going to continue this battle in the real world, buying a gameboy!
 
 [buy a gameboy](../buy-gameboy/buy-gameboy.md)
 
-
+[why did I come here again..?](../amnesia/amnesia.md)
