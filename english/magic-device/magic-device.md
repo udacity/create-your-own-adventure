@@ -1,4 +1,4 @@
 It is then when you realise that such thing has to contain some magic,
-so you don't think it twice and grab it inmediatelly.
+so you don't think twice and grab it immediatelly.
 
-Then, all at the sudden 
+Then, all of the sudden 
