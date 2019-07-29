@@ -16,9 +16,14 @@ Doctor: "I'm the Doctor.
   and I'm the man who is gonna save your lives and all 6 billion people on the planet below. 
   You got a problem with that?"
 
+An older man, armed with attack eyebrows, enters the room as you're about to follow the man calling
+himself the Doctor.  "Don't follow him, I didn't know then what I know now.  Hello Doctor," he says
+to the first man.  "Oh, hello Doctor," replies the first Doctor.
 
 [Call for another doctor](../doctor.md)
 
 [Put the jacket back on](../../backinstraitjacket/backinstraitjacket.md)
 
 [Follow the Doctor as he opens the door to the Tardis] (../insideTheTardis/insideTheTardis.md)
+
+[Follow the Doctors](../TemporalManipulator/TemporalManipulator.md)
