@@ -1,0 +1,1 @@
+Los elefantes africanos y asiáticos de hoy en día pertenecen al orden Proboscidea, en el pasado hubo más de 350 miembros en este orden, pero con el tiempo la mayoría de estos miembros sucumbieron a la extinción, hoy solo existen dos sobrevivientes finales, Elephas maximus (Elefante asiático) y Loxodonta africana(Elefante africano).
