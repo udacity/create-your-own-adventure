@@ -27,6 +27,7 @@ Maybe two more bites...
 
 oh! i have a great idea. why don't we get ourselves a mouse? me and the cat would be both satisfied...
 
+Or crow. We will all eat crow at some point in our life, whether literally or not.
 
 No. No.  A hedgehog would be the far superior choice, as hedgehogs make great pets
 and all the girls would stop and ask you what it is.  You could chat them up.  Maybe get their
