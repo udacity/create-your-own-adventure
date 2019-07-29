@@ -1,6 +1,6 @@
 Good, seems like you really want to get some work done.
 Open a new tab in your browser, and do a Google
-search for "Getting Things Done".
+search for "Getting Things Done". Or [take a look on Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done/)
 
 Or if you really, really need to work,
 just close this window and everything else you
