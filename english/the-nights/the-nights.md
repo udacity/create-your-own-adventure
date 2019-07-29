@@ -4,3 +4,5 @@ So live a life you will remember.
  Stay hungry, stay foolish!
 
  Know your [why](why/darts.md)
+
+ Sarcasm helps keep you from telling people what you really think of them.
