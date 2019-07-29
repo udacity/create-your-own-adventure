@@ -2,6 +2,8 @@ You wander around the forest and notice your new perceptions. The world seems li
 
 You see a man ahead of you, a spirit just like yourself.
 
+Would you care enough for the other spirit to help you or move on?
+
 You're suddenly hungry.  Do spirits get hungry?
 
 Ask the other spirit if he knows where to get [a beer and a sandwich](beer_sandwich/beer_sandwich.md).
