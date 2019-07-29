@@ -6,4 +6,6 @@ Você falou com seu amigo e...
 
 Percebeu que a tecnologia não é o seu ramo voltar a estudar [filosofia](filosofia/estudar.md)
 
+[Cansou de estudar programação e foi viver no meio do mato](mato/mato.md)
+
 Muito bem!
