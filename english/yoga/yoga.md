@@ -13,6 +13,10 @@ Suddenly a large beast appears from the shadows and starts terrorizing the villa
 
 You start becoming transcendent.
 
+As the beasat approaches, you hear a woman's voice from behind.
+
+[Voice from Behind](../yoga/voice/voice_from_behind.md)
+
 [Goals of yoga](../yoga/goals/goals_of_yoga.md)
 
 [Yoga LifeStyle](../yoga/lifestyle/yoga_lifestyle.md)
