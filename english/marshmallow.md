@@ -79,6 +79,8 @@ January 2017 approaches. You have two presidential candidates to vote for.
 
 [Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
 
+[Click](vote-the-president/harambe/Harambe.md) here to vote for Harambe.
+
 You don't like either of these candidates.
 So instead, you decide to [write a symphony](write-a-symphony/symphony.md)
 or
