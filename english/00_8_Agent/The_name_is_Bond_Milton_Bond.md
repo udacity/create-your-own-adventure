@@ -5,6 +5,8 @@ a [White Tiger](https://play.google.com/store/apps/details?id=com.linecorp.LGRGS
 If White Tiger is too dull, you may choose a 
 [Tiger Bear](http://i0.wp.com/listverse.com/wp-content/uploads/2011/05/liger.jpg?resize=548%2C426)
 
+...or you may opt for a [Polar Bear](https://polarbearsinternational.org/media/2967/d107411.jpg)
+
 You have entered into the world of one of Her Majesty's secret agent.
 Codename Agent 008; his name is Bond, Milton Bond.
 He's the pencil pushing assistant of his more well-known cousin, [James](http://www.007.com/characters/the-bonds/).
