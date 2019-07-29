@@ -2,6 +2,8 @@ Pero, a pesar de la terrible acción de Beatito, el Capitán no
 dejaría morir a su pueblo y dijo: "preparad la caballería".
 En ese mismo instante una sombra cubrió toda la zona.
 
+La sombra era tan grande que tapaba la luz del sol que caía sobre la tarde.
+
 El capitan miró hacia el cielo y encontró:
 
 [Un dragón en manos enemigas](dragon_malvado/dragon_malvado.md)
