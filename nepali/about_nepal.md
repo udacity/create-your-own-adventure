@@ -12,3 +12,5 @@ dhanyabad tapai ko .md file ko lagi
 [tapai sanga kura garda ramro lagyo](gthfy/gthfy.md)
 
 [purano](aalchi lagyo/alchi.md)
+
+click [here](https://github.com/BeckDevil/create-your-own-adventure/blob/add-natures/nepali/natures/mt-everest.md) to read about the highest mountain in the world.
