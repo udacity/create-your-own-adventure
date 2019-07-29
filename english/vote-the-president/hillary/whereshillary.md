@@ -1,0 +1,1 @@
+As long as she's not in the White House, we don't care. Enough corruption!
