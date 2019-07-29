@@ -1,0 +1,1 @@
+The 4 elements of hiphop are earth, wind, air and fire.

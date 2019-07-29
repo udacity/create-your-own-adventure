@@ -8,3 +8,4 @@ Hey, good choice! OK, here's how to tango:
 
 4. [Walk](walk/walk.md) in time with the music.
 
+You decide tango isn't for you. Maybe [Hip-Hop](hiphop/hiphop.md) is more appropriate.
