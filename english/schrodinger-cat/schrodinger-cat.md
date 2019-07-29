@@ -10,4 +10,6 @@ To be alive or not or both is your choice.
 
 So [open the box](dead-or-alive/dead-or-alive.md).
 
-Or, [weld the box shut](undead/undead.md) and become an immortal undead.
+Or [weld the box shut](undead/undead.md) and become an immortal undead.
+
+Or [remain paralyzed by inaction](inaction/inaction.md) and wonder what to do.
