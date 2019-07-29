@@ -25,4 +25,8 @@ from other students as the elderly wizard leaps up the staircase in misguided pu
 
 "Don't forget to put on your invisible cloak, Sir" calls Caroline as he disappears out of sight.  
 
-"We just tell him that he's invisible when he's wearing it - he's soooo gullible." giggles Caroline, rolling her eyes.
+"We just tell him that he's invisible when he's wearing it - he's soooo gullible." 
+giggles Caroline, rolling her eyes.
+
+Just then a redheaded kid with a rat in one hand and broken wand in the other walks up to you. 
+He puts the rat in his pocket, sticks his hand out to you and says, "Hi I'm Rorry Weasley."
