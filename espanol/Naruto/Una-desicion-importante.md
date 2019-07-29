@@ -1,0 +1,3 @@
+La guerra ha terminado, habrá esto cambiado la vida del héroe de Konoha, por fin Hinata tendrá una respuesta de Naruto...
+cambiara la vida de Hinata su nuevo maestro... descubran el camino que tiene que pasar Hianta Hyuga para conocerse a si misma.
+Para leer este fic hacer click [aqui](https://www.fanfiction.net/s/9560501/1/Una-desición-importante)
