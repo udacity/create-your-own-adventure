@@ -5,3 +5,5 @@ El que estaba "arriba de todos" había ya demostrado ser un tirano, corrompido p
 Sin embargo todo se derrumbo al llegar la noche.
 
 Winter is coming, carajo!
+
+Gritó [Jon Snow](JonSnow/JonSnow.md)
