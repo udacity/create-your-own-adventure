@@ -96,6 +96,8 @@ They seem friendly so you decide to go [talk to them.](friendly-person/friendly-
 
 Ask them to join you on a life changing [quest?](zuluquest/choosequest.md)
 
+When you have reached the end...where do you [go](space-story/final_frontier.md)
+
 Realize the [truth about candidates' tax plans](stopbernie/stopbernie.md)
 
 How about some [chill music](chillmusic/chillmusic.md)?
