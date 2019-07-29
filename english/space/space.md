@@ -1,0 +1,1 @@
+What is 'space'?  The 'empty' part of the universe?  Only the outside is empty.
