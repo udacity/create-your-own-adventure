@@ -20,26 +20,24 @@ But you ought to be careful, the power of the legos is not a joke!
 
 Would you like to?
 
-[practice flying?](../super-powers/practice-flying.md)
+practice flying?
 
 or
 
-[Bake a cake?](../dance/bake-a-cake/bake-a-cake.md)
+Bake a cake?
 
 or
 
-[Look for a way out?](../find-exit/leave.md)
+Look for a way out?
 
 or
 
-[Ponder](../ponder/ponder-about-life.md)
+Ponder
 
 or
 
-[Kick the man](../kicktheman/kicktheman.md)
+Kick the man
 
-You see, there are two types of legos in this world. 
+You see, there are two types of legos in this world.
 
-We all know and  love them lego brand legos, any other brand belongs in the trash heap. IMPOSTERS
-
-
+We all know and love them lego brand legos, any other brand belongs in the trash heap. IMPOSTERS
