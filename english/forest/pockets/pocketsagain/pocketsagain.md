@@ -12,4 +12,6 @@ You still need a shelter though.  The ground is muddy and full of vermin.
 
 [You decide to make a shelter out of your parachute.](../../shelter/shelter.md)
 
+[You decide to climb a tree to get yourself off the ground.](../../climb-tree/climb.md)
+
 
