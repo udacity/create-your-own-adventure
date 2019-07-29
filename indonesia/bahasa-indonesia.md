@@ -1,1 +1,3 @@
 Selamat datang kawan...
+
+Yang mau belajar bikin gorengan tahu bisa liat [disini](gorengan-tahu/masak-gorengan.md).
