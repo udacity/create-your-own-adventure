@@ -18,3 +18,6 @@ Mlada radnica ga je ljubazno gledala. Rekla je:
 Mislio se dugo šta bi mu najbolje za mamurluk prijalo i onde se dosetio.
 
 "Daćete mi jedan sa sirom, jedan jogurt i jedan niški za dezert, molim vas."
+
+Zbunio se kada ga je Ana razrogačeno pogledala i uzviknula: 
+"Pa kako misliš da igraš prepunog stomaka? Zar si zaboravio da treba da idemo na [klikni ovde](milongu/milonga.md)?"
