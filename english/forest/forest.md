@@ -38,3 +38,5 @@ Google can't help you right now. You are on your own.
 [Go back whence you came](../marshmallow.md)
 
 [Pray to God](pray/pray.md)
+
+[You see a company of High Elves](elf/Elrond/Elrond)
