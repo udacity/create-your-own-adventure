@@ -1,0 +1,1 @@
+Il n'y a rien de meilleurs que des bonnes frites avec de la mayonnaise!
