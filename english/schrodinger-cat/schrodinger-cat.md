@@ -11,3 +11,5 @@ To be alive or not or both is your choice.
 So [open the box](dead-or-alive/dead-or-alive.md).
 
 Or, [weld the box shut](undead/undead.md) and become an immortal undead.
+
+Or remain in a state of [perpetual purgatory](purgatory/purgatory.md).
