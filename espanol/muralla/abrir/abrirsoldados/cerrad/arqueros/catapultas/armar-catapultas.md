@@ -1,0 +1,1 @@
+Todos los hombres disponibles comenzaron a armar las catapultas rápidamente, antes de que el enemigo comience a utilizar las suyas.
