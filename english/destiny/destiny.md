@@ -32,4 +32,5 @@ On second thought, it might be safer to just lie low.
  The world is a dangerous place and to so strike out into it might be dangerous.
  [You decide obscurity is for you](../cowardice/cowardice.md).
 
+To feel safer you start to [learn java] (http://www.learnjavaonline.org/)
 
