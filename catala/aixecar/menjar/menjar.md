@@ -3,3 +3,5 @@ i comences a sospitar que potser has trobat una escletxa a Matrix.
 De sobte algú pica a la porta.
 
 Toc Toc Toc! Que fàs?
+
+[Respons dient "no és cosa teva"](respondre/respondre.md)
