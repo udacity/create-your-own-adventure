@@ -341,6 +341,8 @@ You hear a strange noise then turn and see a large, wooden door.
 Too large, in fact, and yet too small, for the frame it rests in.
 You [walk through the door](./unnatural_door/unnatural_door.md).
 
+Was the noise [real](./real-life/real-life.md)? Did it [sound familiar](./sounds-familiar/sounds-familiar.md)?
+
 You turn for a third time and see a small, metal door.
 
 You knock, hear nothing and decide to [enter](./strange-room/room.md).
