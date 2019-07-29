@@ -50,5 +50,17 @@ in their face.
 அனைத்தே புலவர் தொழில்.
 
 It is the part of the learned to give joy to those whom they meet, and on 
-leaving, to make them think (Oh! when shall we meet them again).
+leaving, to make them think (Oh! when shall we meet them again).குறள் 1:
+ அகர முதல எழுத்தெல்லாம் ஆதி
+ பகவன் முதற்றே உலகு.
+
+ 'A' is the prime of all letters. The Source - the God is the prime of the world.
+
+குறள் 41:
+இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்
+நல்லாற்றின் நின்ற துணை.
+
+7 He will be called a (true) householder, who is a firm support to the virtuous of the three orders in
+
+ Click [here](http://www.thirukkural.com) to visit all the kural.
 
