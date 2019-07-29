@@ -7,3 +7,5 @@
 
 
 それとも[この松茸か？](../mattake/mattake.md)
+
+それとも[iPhone 8か？](../smartphone/iphone8.md)
