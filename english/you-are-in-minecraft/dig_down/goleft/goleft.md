@@ -18,3 +18,8 @@ and your lighter. For some reason you find yourself remembering the last
 crack in the cave wall. Getting a good view of the chamber you have entered 
 you see ...
 
+A creeper!!
+
+[Run](run/dead-end.md)
+
+[Fight](fight/success.md)
