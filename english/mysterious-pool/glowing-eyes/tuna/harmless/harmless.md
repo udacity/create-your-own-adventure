@@ -1,0 +1,1 @@
+It makes no move to attack you, but suddenly the fish begins to smile at you. A smiling fish is pretty freaky.
