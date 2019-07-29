@@ -6,3 +6,5 @@ entonces se oyo una gran explosión en la habitacion y:
 [Apareció una misteriosa pareja de alienígenas](alienigenas/alienigenas.md)
 
 [Ambos perdieron la capacidad de oir](sinoido/perderoido.md)
+
+[Se le fue el poder de las manos y dejó al consejero sin brazos](sinbrazos/sinbrazos.md)
