@@ -5,3 +5,7 @@ ihr Gesicht geschrieben. Gerade als Sie ...
 "Du darfst nicht hier sein!", zischt Ihnen die junge Frau zu. Feuchte, dunkle Haarsträhnen hängen
 ihr ins Gesicht, darunter blitzen merkwürdig schwarze Augen im Feuerschein. Etwas scheint außerdem
 mit dem Mann nicht zu stimmen. Nach einem Augenblick wird Ihnen klar, dass er blind ist.
+
+Sie entschließen sich 
+
+[dazu vor den beiden abzuhauen](abhauen/abhauen.md)
