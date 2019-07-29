@@ -153,6 +153,8 @@ Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)
 
 solo [Escapó](escapo/escapo.md)
 
+, hacia un lugar donde sus habilidades serían más que [bienvenidas] (oportunidad/oportunidad.md)
+
 Y llego [Daynerys Targaryen](thrones/daynerys.md)
 
 [Temeroso, ordenó que lo guiaran al pasadizo que le llevaría fuera de la ciudad](pasadizo/pasadizo.md)

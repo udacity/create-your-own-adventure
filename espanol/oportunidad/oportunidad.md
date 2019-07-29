@@ -1,0 +1,2 @@
+En una isla lejana, donde humanos luchan contra titanes de gran tamaño, trepan murallas y árboles para llegar 
+al punto débil de los mismos, la nuca, para acabarlos y así liberar a la humanidad de esta pesadilla.
