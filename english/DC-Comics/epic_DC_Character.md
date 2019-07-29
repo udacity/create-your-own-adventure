@@ -1,10 +1,10 @@
 Epic DC
 
-Once upon a time DC Comics made an EPIC vigilante who simple changes his voice to disguise. 
+"A hero can be anyone. Even a man doing something as simple and reassuring as putting a coat around a 
+young boy's shoulders to let him know that the world hadn't ended."
 
-Give it a deep thouht and figure it out. 
+Guess the character
 
-Hint: A useless character :)
 
 [Green Arrow](Arrow/arrow.md)
 
