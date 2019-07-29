@@ -7,6 +7,7 @@ Ihnen sticht eine Kiste ins Auge. Sie öffnen sie,
 finden darin einen Lappen, ziehen den Finger
 aus dem Loch und stopfen den Lappen ins Loch.
 Nun müssen Sie schnellstmöglichst ans Ufer.
+Sie müssen sich beeilen. Der Wasserpegel steigt rasend schnell.
 
 Dazu …
 
