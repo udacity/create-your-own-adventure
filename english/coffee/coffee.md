@@ -1,5 +1,6 @@
 Do not mistake my yawn.
 It is a silent scream for coffee.
+A silent scream that spreads like wildfire to all those in the vicinity.
 
 The bitter-sweet flavor of roasted coffee beans invigorates your soul.
 
