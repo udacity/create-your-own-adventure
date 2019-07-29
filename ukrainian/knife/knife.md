@@ -6,4 +6,4 @@
 
 [Розженуся та спробую прорватися крізь одну з стін](../break-through-wall/break-through-wall.md)
 
-  
+[Зроблю фото](../photo/photo.md)

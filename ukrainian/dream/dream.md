@@ -5,3 +5,5 @@
 Та [прокидаєтеся у холодному поту](../marshmallow.md).
 
 Або [відчуваєте, що хтось хапає вас за руку](stranger/carroll.md)!
+
+Чи [плачете в куточку?](../Crying/crying-in-the-corner.md)
