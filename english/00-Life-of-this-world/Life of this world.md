@@ -12,3 +12,7 @@ whereas the life of this world is only a deceiving enjoyment“.
 "Life isn't that simple but you got to take every possible risk in life to achieve something."
 
 "Explore another dimension[dimension](../dimensions/dimension.md). It's fun"
+
+"I love how diversified people opinions are. Different culture, 
+religion, language, gender, colour...Above all the fact that
+we are all human makes me happier. Tesafe Hamle 29/2017"
