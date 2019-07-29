@@ -7,3 +7,4 @@ I tripped over it and went sprawling headlong.
 I picked myself up and continued running toward the woman.
 
 [Talk to the woman](../woman/scully.md)
+[Drop kick the woman](../woman/attack.md)
