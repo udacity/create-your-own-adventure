@@ -6,6 +6,8 @@ You don't feel scared in the room for now, so you decide to look around for a
 few minutes. You look under the table, and find a card with a random phone
 number written on it.
 
+You begin to suspect that someone is watching you. Now you are scared.
+
 Do you:
 
 [Call the random number?](../call-a-random-number/answer.md)
