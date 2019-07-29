@@ -19,3 +19,5 @@ Who will answer the call?
   - Cyborg?
   - Shazam?
   - [Spiderman](./spiderman/spiderman.md)?
+  - [Zatanna](https://en.wikipedia.org/wiki/Zatanna)?
+  - [Dr. Fate](https://en.wikipedia.org/wiki/Doctor_Fate)?
