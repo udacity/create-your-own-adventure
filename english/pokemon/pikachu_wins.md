@@ -18,3 +18,5 @@ Hint: you're a lyrical wordsmith
 [Write a hit song](../hit-song/hit-song.md)
 
 [buy a gameboy] (../buy-gameboy/buy-gameboy.md)
+
+[go ask  reddit](../reddit/ask-reddit.md)
