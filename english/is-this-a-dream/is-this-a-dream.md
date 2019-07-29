@@ -11,4 +11,6 @@ Joe's hallucination pizza bar. You know you want it cause life is short and ther
 
 Order the [pizza](../pizza/pizza.md).
 
+I want a [burger]!(../burger.md) 
+
 Nah.  I'm not hungry.  Let's get [back to the story.](../marshmallow.md)
