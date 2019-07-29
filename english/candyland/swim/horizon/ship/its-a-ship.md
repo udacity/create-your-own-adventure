@@ -13,3 +13,7 @@ Something seems...odd about the ship.
 It's yellow in color and the flag has a skull and crossbones on it.
 
 Oh no, banana-boat pirates!
+
+[Take a deap breath and plunge below the surface.](milkshake-dive/dive.md)
+
+[Take the lifesaver preserve the pirates toss to you.](pirates/lifesaver.md)
