@@ -12,3 +12,5 @@ Was werden Sie jetzt nun tun?
 
 ... im leicht fiebrigen Zustand noch ein wenig
 [dösen](../schwimmen/insel/schlafen/schlafen.md)
+
+oder aber das tun, was Sie zu hause auch tun würden nämlich Gabi Fragen. Aber halt, wo ist eigentlich Gabi?
