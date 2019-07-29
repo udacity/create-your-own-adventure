@@ -1,0 +1,1 @@
+Sie platzieren den Sprengstoff und fixieren ihn mit dem Kaugummi an einer aeusseren Planke. Die Detonation schleudert Sie mitsamt dem Boot auf ein nahegelegenes Riff. Beim Aufprall verlieren Sie das Bewusstsein.
