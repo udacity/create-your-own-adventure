@@ -8,3 +8,5 @@ Hey, good choice! OK, here's how to tango:
 
 4. [Walk](walk/walk.md) in time with the music.
 
+5. When you hear the cortina, thank your partner and proceed to step 1! 
+
