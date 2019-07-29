@@ -23,3 +23,5 @@ A baby that was thinking about the boom/bust nature of the NBA draft. Why did
 anyone think Anthony Bennett was deserving of the number 1 pick? But you could
 argue the Cavs were geniuses to pick him because one year later it netted
 LeBron. So weird.
+
+....Then, you [reconsider](blazers/blazers.md).
