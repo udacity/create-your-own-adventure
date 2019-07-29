@@ -13,3 +13,7 @@ But, the wall has to be fixed.  So you gather your courage and go to the dreaded
 aisle with the marshmallows.  Turning into the aisle you see a terrible sight.
 
 [Who is this man?](../bob-barker/barker.md)
+
+[why is there tea in the same aisle as marshmallows?](../tea/tea.md)
+
+[Holy crap! Is that a time machine?!?](../time-machine/time-machine.md)
