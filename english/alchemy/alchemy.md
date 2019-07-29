@@ -11,8 +11,8 @@ Time passes, and the coin solidifies as it cools.
 
 You gain 1 gold coin.
 
-You decide to play it safe and repeat the process a few times. Who knows how many coins
-the high-score currently is or how many you will need on your adventure?
+You decide to play it safe and repeat the process. Who knows how many coins
+the high-score currently is, or how many you will need on your adventure?
 
 The creation process gets quicker and quicker each time you practice the ancient art of
 alchemy. Your skills improve. However, on the fifth run, the coin has an air anomaly
