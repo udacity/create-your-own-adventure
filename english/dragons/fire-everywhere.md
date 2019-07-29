@@ -42,7 +42,14 @@ Drogon to fly...
 You do not much energy left in you...You are extremely tired...You don't even realize when you 
 fell asleep...
 
-When you wake up its noon and you come to know that it was all a dream !
+When you wake up its noon and you come to know it was all a dream!
+
+But then you find yourself lying face to face with
+[tyrion lanister](http://gameofthrones.wikia.com/wiki/Tyrion_Lannister)
+
+You become panicked as your words allued you but you some how manage to yell out, "Where are my dragons"?
+
+Tyrion responds, "is it always like you to take care of your dragons before your own well-being? Don't you care to know where you are, why you are here, and what will happen to you next?"
 
 
 
