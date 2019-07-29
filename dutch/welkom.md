@@ -18,7 +18,8 @@ U denkt
 
 ... maar de Iphone heeft weer geen batterij want deze gaat snel op. 
 Dus pak je maar je android die wel drie dagen lang meegaat!
-
+Of nog beter die nieuwe(?) Nokia 3310 die gaat wel 12 dagen mee.
+BlackBerry zal wel niet meer nodig zijn...
 
 
 [Google translate NL](https://translate.google.com/#nl/en/)
