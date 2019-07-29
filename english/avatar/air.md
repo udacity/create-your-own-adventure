@@ -1,3 +1,8 @@
+[Water](http://avatar.wikia.com/wiki/Water),
+[Earth](http://avatar.wikia.com/wiki/Earth),
+[Fire](http://avatar.wikia.com/wiki/Fire),
+[Air](http://avatar.wikia.com/wiki/Air)
+
 [But everything changed when the firenation attacked...](https://www.youtube.com/watch?v=pJUgCzEdx9k)
 
 [Fire Lord Ozai](http://avatar.wikia.com/wiki/Ozai) wanted to conquer the other nations and rule the world.
