@@ -38,3 +38,5 @@ Google can't help you right now. You are on your own.
 [Go back whence you came](../marshmallow.md)
 
 [Pray to God](pray/pray.md)
+
+[Stare into the abyss](the-abyss/the-abyss.md)
