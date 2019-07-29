@@ -18,3 +18,5 @@ Come reagisci?
 [Crei una bambola voodoo per addomesticarlo](tour/tour.md)
 
 [Attiri il tappeto] (attira-il-tappeto/attira-il-tappeto.md)
+
+[Corri incontro al T-rex](corri/corri.md)
