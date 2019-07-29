@@ -1,0 +1,3 @@
+The story in the movie is good, heart touching and reflects courage. However, it is far away from what truly happened there...
+||||||| merged common ancestors
+
