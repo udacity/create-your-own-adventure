@@ -11,3 +11,5 @@ Forget about career and jump into startup world like there's no [tomorrow?](no/t
 Invite you for a freshly ground [coffee](ground/coffee.md) and discuss about life, anything else and the number 42?
 
 Experience [generative states of meditative consciousness](experience/meditative_states.md)
+
+And now, the zulu quest is over!  On to the next story!
