@@ -49,4 +49,6 @@ There is no conflict！
 [Sleep]
 [Have some chocolate coffee.](../coffee/coffee.md)
 
+[Grab that phone from your pocket and say 'OK Google'](ok-google/ok-google.md)
+
 
