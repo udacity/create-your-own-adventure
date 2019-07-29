@@ -1,0 +1,6 @@
+Actuallly, it's a bit hard issue to shift your career, it's much more than what appeares on facebook posts about people who decide to do that and then all of a sudden they do it as reality is widely different from the virtual world.
+
+There are many hinders that may prevent you from doing so, ofcourse when you are single it is much more easy because you then bear the responsibilty of just yourself but when you are responsible for a family you can't just leave your job to start another one.
+
+My words don't mean that it is impossible but it is hard and needs lot of consideration, just keep in mind that the success in that point not to achieve the goal but to keep trying the whole life as the fairy stories on facebook aren't fair as it don't take in consideration what different circumstances for different people and many feel disappointment from these stories as they try faithfully but fails and for those i say:
+"The success is not in achievement but in just keep trying ...remain deaf to the media definition of success and make your whole one "
