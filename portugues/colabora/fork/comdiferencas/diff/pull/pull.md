@@ -6,6 +6,8 @@ O pull request não foi aceito pois havia um erro ortográfico em um comentário
 
 [Corrijo os erros ortográficos com a ajuda de um amigo que manja de inglês e reenvio.](reenvio/reenviar.md)
 
+[Corrijo os erros ortográficos usando um dicionario e vai ao banheiro buscar sua toalha.](../../../../../toalha/nave.md)
+
 [Descobre, logo agora que aprendeu o bash, vai ter que retomar os estudos de inglês no duolingo] (descobre/descobrir.md)
 
 Abro o [Google Tradutor](https://translate.google.com.br/) e verifico a tradução do meu comentário.
