@@ -1,5 +1,7 @@
 Congratulations, you are now helping people to decide their destiny! You are a brave person!
 
+Take a look at my [history](brave/astounding.md) and know for yourself that I'm brave.
+
 What sould they do?
 
 Stay on a tedious-corporate-kindofstable-job for life until it [ends?](the/end.md)
