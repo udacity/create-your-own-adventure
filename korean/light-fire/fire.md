@@ -4,6 +4,8 @@
 
 어떻게 할까요?
 
+[잘 익어가는 천장을 먹는다](./eat-ceiling/eat-ceiling.md)?
+
 [벽을 먹는다](../eating-walls/eating-marshmallows.md)?
 
 [다시 잔다](../sleep/marshmallow.md)?
