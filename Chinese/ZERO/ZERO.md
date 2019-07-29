@@ -1,1 +1,1 @@
-Click [here](http://www.google.com) to visit Google.
+Click [here](http://www.google.com) to visit Google.com.
