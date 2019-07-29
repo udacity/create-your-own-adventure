@@ -1,0 +1,1 @@
+A silver gray cat with green eyes hops on your shoulder and points with his tail to a hidden path in the woods.
