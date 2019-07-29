@@ -15,3 +15,5 @@ Dazu …
 … benutzen Sie das [hoelzerne Paddel](hoelzernes-Paddel/hoelzernes-Paddel.md).
 
 … benutzen Sie den [solarbetriebenen Motor](solarbetriebener-Motor/solarbetriebener-Motor.md).
+
+… schreien Sie nun doch [laut um hilfe](../Hilfeschrei/Hilfeschrei.md).
