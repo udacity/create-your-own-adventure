@@ -7,3 +7,5 @@ You realize you don't need to breathe, and water cannot get into your nose.
 As you swim more, you rise to the surface and find yourself flying out of the water.
 But you are not asleep anymore, and you now have super powers! Do you choose to
 [save the world](../super-powers/practice-flying.md) or just fly around forever?
+or
+[take a nap](../take-a-nap.md)
