@@ -2,7 +2,7 @@ This is my favorite Thai song.
 
 Do you:
 
-[แฟนจ๋า Fan Ja](https://www.youtube.com/watch?v=qvZuUBfG1Ck)
+[แฟนจ๋า Fan Ja](https://youtu.be/WGd8xfgjMGY)
 
 หลังจากที่คุณฟังเพลงแล้วก็เกิดสงสัยว่าเพลงนี้มันกี่ปีแล้วนะ โชคดีคุณมีอินเตอร์เนต
 อยู่ในห้องก็เลยใช้อินเตอร์เนตค้นดูสักพักก็พบว่าเป็นเพลงตั้งแต่ปี 2545 นี่ก็...13 ปี
