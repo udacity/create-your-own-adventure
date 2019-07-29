@@ -23,6 +23,8 @@ NGE is [here](NGE/NGE.md)
 
 [start](mad/mad.md) your journey into world of mad
 
+[by hopping over to the multi-coloured cow](cow/cow.md)
+
 or
 
 spend your time [wisely](http://www.pythonchallenge.com/)
