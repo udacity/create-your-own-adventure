@@ -10,7 +10,7 @@ This situation has the potential to go terribly wrong.
 
 The walls around you begin to melt, globs of flaming marshmallow falling all around you. What do you do?
 
-As you somehow avoid the globs of marshmallow using your reflexes, you notice a big enough opening in the melted 
+As you somehow avoid the globs of marshmallow using your reflexes, you notice a big enough opening in the melted
 walls for you to squeeze through.
 
 But then you notice a rat entering that opening too.
@@ -31,7 +31,7 @@ There is no conflict！
 
 [Succumb to your marshmallow-y grave!](succumb/game-over.md)
 
-[Turn on the chocolate sprinkler!](sprinkler/eating-chocolate.md)
+[Light up the colorful crackers!](crackers/bursting-crackers.md)
 
 [Stop, drop, and roll.](stop-drop-roll/stop-drop-roll.md)
 

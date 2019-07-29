@@ -1,0 +1,1 @@
+The "Chow mein" is the Cantonese pronunciation of the Chinese characters, which means stir-fried noodles. Generally speaking, this stir-fried dish consists of noodles, meat (usually chicken, beef, shrimp, or pork), onions and celery.
