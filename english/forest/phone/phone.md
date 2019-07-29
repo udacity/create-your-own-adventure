@@ -1,0 +1,3 @@
+You take your phone out of your pocket and check for signal. Unfortunately, as Caroline said there is 
+no internet, no Google here. You panic, not used to this isolating feeling and in your panic smash your
+phone on the ground. You hear a twig snap in the forest...

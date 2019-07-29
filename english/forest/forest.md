@@ -29,6 +29,8 @@ Google can't help you right now. You are on your own.
 
 [Check pockets](pockets/pockets.md)
 
+[Check your phone](phone/phone.md)
+
 [Make a shelter from the parachute](shelter/shelter.md)
 
 [Eat all of your rations in a panic](eat/eat.md)
