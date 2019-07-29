@@ -1,0 +1,1 @@
+My dad discovered the Internet. Uh, just because someone raised you, does not mean that you have to add them on Facebook.
