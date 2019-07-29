@@ -14,6 +14,18 @@ What have you done, you silly people! Commiserations from Australia :(
 
 So now Russia runs America? 
 
+Become [Donald Trump](become-trump/become-trump.md)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
