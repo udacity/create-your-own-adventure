@@ -19,3 +19,4 @@ Who will answer the call?
   - Cyborg?
   - Shazam?
   - [Spiderman](./spiderman/spiderman.md)?
+  - Firestorm?
