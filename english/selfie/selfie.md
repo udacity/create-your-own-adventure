@@ -10,7 +10,7 @@ Did your fairy godmother come back again? How did this happen?
 
 This sudden revelation has now complicated the matter.
 
-You hate marshmallows but can you really hate yourself?  
+You hate marshmallows but can you really hate himself?  
 
 The next logical step then is to: 
 
