@@ -1,0 +1,3 @@
+You have been blessed by your acceptance of the SAVIOR! By accepting HIM and being baptized in HIS name and receiving HIS gift of the HOLY GHOST, and by the proper authority, you have entered into an everlasting covenant in which you will be blessed with eternal life, not eternal death.  HE loves you eternally and as far as you have kept HIS commandments, you shall be blessed to live with HIM, and enter into HIS rest for eternity !!!
+
+[I will see you there...](judged.md)
