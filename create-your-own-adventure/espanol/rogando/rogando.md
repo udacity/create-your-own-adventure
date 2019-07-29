@@ -1,0 +1,1 @@
+Dejó caer su cayado en el suelo, se arrodilló junto a Betito y oró al cielo para que Dios mande un ejército de ángeles.

@@ -1,0 +1,1 @@
+Y Jordi Hurtado creò Saber y Ganar.

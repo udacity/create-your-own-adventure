@@ -1,0 +1,8 @@
+Epic DC
+
+Once upon a time DC Comics made an EPIC vigilante who simple changes his voice to disguise. 
+
+Give it a deep thouht and figure it out. 
+
+Hint: A useless character :)
+
