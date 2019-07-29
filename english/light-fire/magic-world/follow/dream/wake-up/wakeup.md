@@ -1,0 +1,1 @@
+You open your eyes, the familiar ceiling of your room looking calming your nerves as you think “What a wired dream!”.

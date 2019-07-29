@@ -13,3 +13,5 @@ A fire ring around your battlefield. Yes,a battlefield!!
 [Start fighting](fight/fight.md)
 
 [Yes you don't have an option!!!Start fighting!!!](fight/fight.md)
+
+[Wake up.](wake-up/wakeup.md)
