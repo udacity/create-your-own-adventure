@@ -4,3 +4,4 @@
 
 [돈이 없으면 핫초코를...직접 찾아나서는거! 핫초코를 찾아 여행](journey-to-find-coco/find-coco.md) 
 
+[사람은 공부를 하기위해 태어난거야.](../study/study.md)
