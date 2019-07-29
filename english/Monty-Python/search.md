@@ -15,3 +15,10 @@ Chop off his limbs
 Go off to find a nice shrubbery
 
 [Run into the Knights who say "Ni!" again!](https://www.youtube.com/watch?v=zIV4poUZAQo)
+
+
+...but WAIT!  there's MORE!
+
+- [military action!](https://www.youtube.com/watch?v=SNTzOBKs1bA)
+
+- [Politics!](https://www.youtube.com/watch?v=JvKIWjnEPNY)
