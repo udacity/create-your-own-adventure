@@ -1,6 +1,6 @@
 You stare at the lighter, the fork, and the rope. The lighter is an ordinary plastic lighter (which contains lighter
-fluid, a colorless oil which is, obviously, flammable). The fork is made of some kind of metal (you're not sure which,
-but it's not sterling silver), and has four tines (the pointy bits). The rope is about as thick as your finger, is made
+fluid, a colorless oil which is, obviously, flammable). The fork is made of some kind of metal (you're pretty sure 
+its alliuminum), and has four tines (the pointy bits). The rope is about as thick as your finger, is made
 of something organic, and is just long enough to stretch from the floor to the ceiling.
 
 You then start thinking:
