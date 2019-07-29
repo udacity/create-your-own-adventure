@@ -5,3 +5,5 @@ Jordi Hurtado, con su habitual simpatía, llegó a Canudos y se presentó ante e
 [Le dijo que fabricara una pociòn para no morir durante el ataque.](inmortal/inmortal.md)
 
 [Enloquecido por un odio mortal que no podía entender, decidio matar a Jordi Hurtado.](muertedejordi/muertedejordi.md)
+
+[Lanza una guitarra flamenca hacia Jordi como si fuera un hacha](guitarramazing/guitarramazing.md)
