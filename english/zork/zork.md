@@ -14,7 +14,7 @@ There is also om twine on the ground.
 
 The work Zork brings back memories.
 
-Zork is life, Zork is love.
+Zork is love, Zork is life.
 
 Zork is udacious.
 
