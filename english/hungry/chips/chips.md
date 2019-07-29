@@ -1,0 +1,3 @@
+Not enough food, evena after eating an entire bag. Should've eaten some blue corn tortilla chips and
+guacamole instead. But then again, avocados make you puke, so you're ok for now. Maybe you should open
+that jar of red mole from Trader Joe's and try to eat some of it with some tortilla chips...
