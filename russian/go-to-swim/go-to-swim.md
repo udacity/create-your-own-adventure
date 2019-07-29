@@ -6,4 +6,4 @@
 
 [Зайти в дверь с надписью "Массаж"](massage-door/massage.md)
 
-
+[Зайти в дверь с надписью "Парилка"](steam-room-door/steam-room.md)
