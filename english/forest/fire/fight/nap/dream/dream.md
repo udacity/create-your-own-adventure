@@ -1,0 +1,1 @@
+You see the fox and the coyote fighting hard. They dig their teeth into each other, while swirling around you, closer and closer. Until you realize, you are fighting! You are them! Or actually, one of them..
