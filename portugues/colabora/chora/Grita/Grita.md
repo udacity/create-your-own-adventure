@@ -1,0 +1,3 @@
+Voce grita varias vezes e nada de resposta.
+De repente um uraco abre e voce cai num lugar muito estranho.
+Voce ve...
