@@ -6,5 +6,5 @@ Per tua fortuna il Tirannosauro, frutto di un esperimento del Jurassic Park™,
 
 è erbivoro. Quando si accorge della presenza di carne umana nella sua bocca,
 
-ti sputa contro un tronco.
+ti sputa contro un tronco, perché non hai buon gusto.
 
