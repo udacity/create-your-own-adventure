@@ -7,3 +7,5 @@ O desenvolvedor:
 [Te responde de forma amigável!](amigavel/amigavel.md)
 
 [Não te responde!](nao-responde/nao-responde.md)
+
+[Não te responde, entretanto você recebe a resposta do departamento de TI](nao-responde/resposta-ti.md)
