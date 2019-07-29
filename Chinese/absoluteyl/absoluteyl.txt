@@ -1,0 +1,4 @@
+Hello, this is absoluteyl
+I'm learning Git and Github on Udacity.
+
+Nice to meet you!
