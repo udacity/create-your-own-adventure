@@ -17,7 +17,7 @@ U denkt
 ... u hoort uw iphone een geluidje maken en kijkt het is een sms [sm](sms/sms.md)
 
 ... maar de Iphone heeft weer geen batterij want deze gaat snel op. 
-Dus pak je maar je android die wel drie dagen lang meegaat!
+Dus [pak je maar je android](android-pakken/android.md) die wel drie dagen lang meegaat!
 
 
 
