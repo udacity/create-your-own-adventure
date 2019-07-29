@@ -13,7 +13,7 @@
 
 وفيه كتير بس انت عليك تدور
 
-freelancing اشهر مواقع العمل الحر 
+freelancing اشهر مواقع العمل الحر
 
 -[UpWork](https://www.upwork.com/)
 
@@ -33,6 +33,4 @@ freelancing اشهر مواقع العمل الحر
 
 - [أخرى](whattolearn/other/other.md)
 
-
-
-
+- [الحياة](whattolearn/life/life.md)
