@@ -1,0 +1,1 @@
+Siete in grado di dormire, ma i sogni sono più strani: balla il tango con un elefante rosa! Non sa dove metterele mani per afferrare le zampe grandissime dell'elefante. Sono cosi ruvide e pesanti!
