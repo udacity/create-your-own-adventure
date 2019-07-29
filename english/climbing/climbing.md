@@ -1,4 +1,4 @@
-You decide that the best way out of this situation is boudering... hardcore bouldering.
+You decide that the best way out of this situation is bouldering... hardcore bouldering.
 
 There is a door at the top of the rock.
 
