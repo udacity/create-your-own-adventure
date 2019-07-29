@@ -1,0 +1,3 @@
+Rüya içinde rüyaya dalma denemen çok tanıdık geldi :) fakat hesap edemediğin birşey vardı.
+Topaç henüz düşmemişti...
+
