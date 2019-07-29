@@ -1,0 +1,1 @@
+Non appena l'hai preso in mano, senti il suono di un violino. La porta si apre.
