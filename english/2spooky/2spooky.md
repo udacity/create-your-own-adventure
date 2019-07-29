@@ -22,3 +22,5 @@ but words!
 
 [consume combat ration](../combatration/combat_ration.md)
 mmmm combat rations...
+
+[Gavin's link](http://www.google.com)
