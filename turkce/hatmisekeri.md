@@ -17,3 +17,5 @@ Bu durumda ne yapardiniz?
 [Duvarları yeme başla?](../turkce/duvarlari-ye/duvarlari-ye.md)
 
 [Duvarları çatalla kaz?](../turkce/catalla-kaz/catalla-kaz.md)
+
+[3 kulhu bir elahm oku ve kurani hatmederek hatmi sekerinin faydalarini dusunemeye basla!](/hatim-indir/hatim-indir.md)

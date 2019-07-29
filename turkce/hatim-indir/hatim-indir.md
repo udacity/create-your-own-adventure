@@ -1,0 +1,1 @@
+Bravo. Gercekten uhrevi bir insansiniz. Hatmi sekeri diye bir sey olmamasina ragmen inanarak hatmi sekerine hatim indirdiniz. Bu yolda giderseniz ileride bir Ahmet Maranki bile olabilir. Insanlari sifali bitkiler ayagina kandirip milyonlari cukkalayabilirsiniz.
