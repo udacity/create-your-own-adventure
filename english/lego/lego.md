@@ -18,6 +18,8 @@ What do you do next to stimulate and excite you!
 
 But you ought to be careful, the power of the legos is not a joke!
 
+No kidding.  I once knew a kid from Chad who was building a bridge out of Legos, but he forgot to add super glue so while walking to school one day the bridge collapsed.
+
 Would you like to?
 
 [practice flying?](../super-powers/practice-flying.md)
