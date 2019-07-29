@@ -35,7 +35,7 @@ Are you a:
 
 or a
 
-[dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
+[Dog person](https://www.youtube.com/watch?v=59Zcx9YbZxI) ?
 
 Are you an:
 
