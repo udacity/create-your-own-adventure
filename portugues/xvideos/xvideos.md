@@ -4,3 +4,7 @@ Com isto, a sua franquia estourou e você está sem acesso a internet.
 
 O que você faz?
 
+[chama o batman]
+[diz não ao golpe]
+[chora o 7x1 que ainda tá pouco]
+
