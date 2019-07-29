@@ -16,8 +16,10 @@ This also worked!
 
 You then decide to change the transparency program to slowly alternate between 100% and 25%.
 
-Some time passes and an opportunity arises to [follow your destiny.](../destiny/destiny.md) 
+Some time passes and an opportunity arises to [follow your destiny.](../destiny/destiny.md)
 
-This is always easier whenever you drink [coffee!](../coffee/coffee.md) 
+This is always easier whenever you drink [coffee!](../coffee/coffee.md)
 
 Sometime I code and for fun I play or watch soccer.
+
+Or I drink beer to reach the Balmer peak.
