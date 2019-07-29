@@ -21,3 +21,5 @@ Tôi thì chưa từng đến Sài Gòn, tôi là người [Hà Nội gốc](Ha-
 Nhưng tôi là rể [Hải Phòng](Hai-Phong/Hai_Phong_thanh_pho_cang.md)
 
 Chuyen [kiem viec](TansStory/mystory.md) cua toi
+
+Bạn đã biết về git và GitHub? Xem thêm ở [đây](git/about-git.md). Học ở [đây](git/hoc-git.md)
