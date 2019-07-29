@@ -10,3 +10,4 @@ Do you:
 [Use the rope and the lighter to build up a door?](door/door.md)
 
 [scream appropriately at the fresh absence of your nails](../scream/scream.md)
+[open the door?](opendoor/opendoor.md)
