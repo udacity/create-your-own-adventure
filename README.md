@@ -29,7 +29,7 @@ reaches on any path of the story should not have any options.  For an example, s
 [this file](https://github.com/udacity/create-your-own-adventure/blob/c4f2bf7caac641df1c979a2db056a532e0c93e23/english/light-fire/fire.md)
 from an early version of the story.  Here are some examples of  appropriate changes:
 
-* Add a sentence or two to an existing "page" (file) of the story.
+* Add a sentence or a BAJILLION to an existing "page" (file) of the story.
 * Add a new option to an existing choice point, and link that option to an
   existing "page".
 * Add a new option to an existing choice point, create a new "page" for that
