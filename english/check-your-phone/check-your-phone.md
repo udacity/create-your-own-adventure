@@ -17,4 +17,7 @@ Do you:
 
 Think 'Hey, my dream says it's time to go to Paris!' and [plan your trip](http://www.tripadvisor.com/)
 
+Suddenly, you realize your battery has less than 10% charge and you won't
+be able to access your boarding pass at the 
+[airport](http://www.parisaeroport.fr/en/passengers/access/paris-charles-de-gaulle)
 
