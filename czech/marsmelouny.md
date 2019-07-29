@@ -10,3 +10,5 @@ Co uděláš:
 [Řekneš si, že s tím alkoholem už opravdu končíš, překulíš se na druhý bok a usneš](druhy_bok/spanek.md)
 
 [Uděláš zřejmé](zrejme/udelas.md)
+
+[Zamyslíš se, jestli Ti někdo v poslední době nabídl červenou pilulku.](pilulka/otazka.md)
