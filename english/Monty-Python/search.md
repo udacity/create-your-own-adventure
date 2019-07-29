@@ -2,7 +2,7 @@ You set out on a search for the holy grail.
 
 [Look for Grue](../grue/grue.md)
 
-Ride to the nearest castle.
+Ride to the nearest castle, while keeping an eye out for migrating coconuts.
 
 Meet the black knight
 
