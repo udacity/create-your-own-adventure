@@ -1,0 +1,1 @@
+Prokleta je žena ta što razdvoji druga dva.
