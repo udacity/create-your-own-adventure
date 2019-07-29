@@ -1,6 +1,6 @@
 You insist that what seems to be a mirror must indeed be a mirror. Upon
 insistence, the mirror perpetuates. Suddenly, all around you seems at once to be
-comprised of mirrors.
+comprised of mirrors. Never ending reflections of you surround you.
 
 You hear a faint and eerie voice: "Welcome to the labyrinth".
 

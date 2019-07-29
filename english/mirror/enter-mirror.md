@@ -7,3 +7,5 @@ It's not a mirror, it's a door to a marshmellow room that looks identical to the
 [Look for a toilet](../eating-walls/find-a-toilet/find-a-toilet.md)
 
 [quit your job](../quit-your-job/quit-your-job.md)
+
+[eatmarshallow](../eating-walls/eating-marshmallows.md)
