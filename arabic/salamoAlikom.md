@@ -4,6 +4,10 @@
 تمنياتي الى كل من قرأ هذا الملف بالاستفادة الكاملة من هذا التدريب
 بعد ان انتهيت من هذا السياق حول استعمل جيت هب ماذا تريد ان تفعل؟
 
+Click on [More Udacity free courses about Git](git-courses/git-courses.md) if you want to learn more about git
+
+Click on [More Udacity free courses about GitHub](GitHub-courses/GitHub-courses.md) if you want to learn more about GitHub
+
 [انام](sleep/sleep.md)
 
 [اريد ان اتعلم المزيد](learn/learn.md)
