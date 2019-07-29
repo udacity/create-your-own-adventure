@@ -1,0 +1,1 @@
+[至尊宝](https://github.com/udacity/create-your-own-adventure/blob/master/Chinese/ZZB/zzb.md)假如上天能再给我一次机会，我想再爱你五百年，甘心做你脚下烂泥。
