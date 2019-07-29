@@ -21,3 +21,5 @@ Consider unsubscribing from r/awww...
 And that, my friends, is how I spent the last week.
 
 But finally i stumbled upon [r/outside](outside_subreddit/r_outside.md) 
+
+I decided that subreddit was lame and went to  [r/videos](videos_subreddit/r_videos.md) instead.
