@@ -1,0 +1,1 @@
+You try to stay clam and be friendly with tiger, then you decide to introduce yourself. After a while, the tiger become non-aggressive as a nice, approachable stranger, it try to lead the way to somewhere in the jungle.
