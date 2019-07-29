@@ -16,3 +16,5 @@ see a bear licking you.
 [Play dead.](play-dead/play-dead.md)
 
 [Pet the bear.](pet-bear/pet-bear.md)
+
+[Punch the bear.](punch-bear/punch-bear.md)
