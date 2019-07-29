@@ -25,7 +25,7 @@ NGE is [here](NGE/NGE.md)
 
 or
 
-spend your time [wisely](http://www.pythonchallenge.com/)
+spend your time [wisely](wisely/wisely.md)
 
 [Click here](http://www.dvloper.me) to visit my dvloper.me blog .
 
