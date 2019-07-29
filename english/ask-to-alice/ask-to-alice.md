@@ -7,7 +7,7 @@ it's time for another pill, but which one should you take?
 
 Pick one of the choices below:
 
-Just click on the link.
+Just click on the link. Just do it!
 
 [The one that makes you larger](../super-man/save-the-word.md)
 
