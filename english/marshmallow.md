@@ -90,9 +90,9 @@ He looks a little forlorn so you decide to [cheer him up.](unicorn/thebigquestio
 It is time to begin your adventure.
 Your search for the grail begins [now](Monty-Python/search.md)
 
-Down one path you see a person standing in the middle of the path.
+Down one path you see two persons standing in the middle of the path.
 They look familiar somehow, but you just can't figure out who they are.
-They seem friendly so you decide to go [talk to them.](friendly-person/friendly-person.md)
+They seem friendly so you decide to go talk to them. So you go close to them, and you see that it is you but a happier, healthier and prosper self of you. you wave your hand but they can't seem to take notice of you. Suddenly there feet start to desolve in thin air and slowly-slowly moving up. You are just standing there and thinking what is happening but you can't seem to figure out what is happening. Your phone rings and you answer it, your boss is on the phone, he ask you to get to work fast and you reply "Yes i'm coming". After you cut the call you see that the rate of disolving has increased, you observed something and you start to think "Is it because i made a wrong decision?". So to test this theory you call your boss and say "Sir, there is an emergency in my house so I'm not coming to office today.", And the rate of disolve slowed down and there legs restored a little. At this point you thought that do i have a choice that can lead me to this happier self of me standing before me.
 
 Ask them to join you on a life changing [quest?](zuluquest/choosequest.md)
 
