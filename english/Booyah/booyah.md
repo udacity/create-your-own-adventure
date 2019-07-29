@@ -5,3 +5,5 @@ The world is now my [oyster.](https://en.wikipedia.org/wiki/Pacific_oyster)
 
 Have some booyah stew
 or call a [spirit](../call-spirit/call-spirit.md)
+
+Explore more courses on [Udacity.](https://www.udacity.com/)
