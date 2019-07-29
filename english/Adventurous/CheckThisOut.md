@@ -1,0 +1,1 @@
+Check out my Blog [storieshappen](http://jeanraphael6.wixsite.com/storieshappen) and leave a comment saying what will be your next awesome travel adventure!
