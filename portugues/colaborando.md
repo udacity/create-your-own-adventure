@@ -3,6 +3,8 @@ aplicativo, você detecta um bug.
 
 Você:
 
+[Vai para a porta da esperança do Silvio Santos](porta-da-esperanca/porta.md)
+
 [Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
 
 [Chora descontroladamente até que sua fada madrinha aparece e te dá 1 desejo](fada/fada.md)
