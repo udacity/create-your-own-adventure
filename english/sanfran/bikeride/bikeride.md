@@ -13,3 +13,7 @@ Let's ride to the wonderful intersection of Haight and Fillmore.
 Go to Bean There Cafe for some [Ginger Peachy Keen](ginger-peachy-keen/ginger-peachy-keen.md).
 
 Go to Cafe Europa for some pork schnitzel
+
+Go to the [Cafe du Soleil](https://www.tripadvisor.com/Restaurant_Review-g60713-d802647-Reviews-Cafe_Du_Soleil-San_Francisco_California.html) for a delicious coffee and an outdoor seat.
+
+Go to the [Duboce Park Cafe](duboce/duboce.md) for a smoothie.
