@@ -12,10 +12,12 @@ There is an object that looks like a [torch](../torch/torch.md) on the ground.
 
 There is also om twine on the ground.
 
-The work Zork brings back memories.
+The word Zork brings back memories.
 
 Zork is life, Zork is love.
 
 Zork is udacious.
+
+Zork is.
 
 Kick open the [door] (../duck/duck.md)
