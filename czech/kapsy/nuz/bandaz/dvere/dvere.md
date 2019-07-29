@@ -3,3 +3,5 @@ kteří vypadají jako panaček mischelin obraceny naruby
 a otočený vzhůru nohama. Jeden znich se otoči a vydase tvím směrem.
 Co udělaš? Vytasíš nuž? Začneš zdrhat?
 Nebo provedeš uplně něco jiného?
+
+["neco jiného"] (neco_jineho/neco_jineho.md)
