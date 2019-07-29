@@ -6,3 +6,5 @@ a while since you had your prostate checked.  Do you:
 [go back to sleep](../go-back-to-sleep/go-back-to-sleep.md)
 
 [call a doctor](../call-a-doctor/doctor.md)
+
+[perform a radical prostatectomy at home](/home-prostatectomy/bad-idea.md) 
