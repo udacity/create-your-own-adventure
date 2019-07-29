@@ -10,3 +10,5 @@ Bruce Wayne: You still haven't given up on [me](https://www.youtube.com/watch?v=
 Batman: [It's time...](../batmetal/batmetal.md)
 
 The batphone is ringing, [answer](catwoman/catwoman.md)?
+
+Heck no!
