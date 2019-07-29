@@ -7,7 +7,7 @@ If White Tiger is too dull, you may choose a
 
 You have entered into the world of one of Her Majesty's secret agent.
 Codename Agent 008; his name is Bond, Milton Bond.
-He's the pencil pushing assistant of his more well-known cousin, [James](http://www.007.com/characters/the-bonds/).
+He's the pen pushing assistant of his more well-known cousin, [James](http://www.007.com/characters/the-bonds/).
 While James is out stopping evil-doers, rescusing damsels in distress, and having the occasional martini.
 Milton is responsible for making sure all of James' paperwork is in order.
 Need the requisite form for a new Aston-Martin for that high speed car chase?
