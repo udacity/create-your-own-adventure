@@ -7,3 +7,5 @@ and a big spoon.
 
 What will you do with these things? you could try to plant the jell-o
 like seeds, or you could wear the bowl like a helmet...
+
+Sounds interesting?[ let's start](lustory/lustory.md)
