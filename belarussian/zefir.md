@@ -15,3 +15,5 @@
 [Пасплю яшчэ гадзінку](sleep-sweet/sleep-sweet.md)
 
 [Пайду пакiну каментароу на tut.by](tut-by/tut-by.md)
+
+[Збягу ў іншую краіну, толькі забягу ў амбасаду за візай](another-country/another-country.md)
