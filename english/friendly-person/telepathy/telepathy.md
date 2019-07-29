@@ -3,3 +3,5 @@ But for a long time you can't figure out what to concentrate on.
 Your breathing?
 Your feeling of utter confusion and terror?
 Or the totally alien sensation associated with having a sealed mouth?
+
+You decide to ignore this feeling and [picture the other person's brain to communicate with them](imagine-brain/imagine-brain.md).
