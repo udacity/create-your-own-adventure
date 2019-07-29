@@ -1,0 +1,3 @@
+Randeep Hooda (pronounced [r?d?i?p hu??a?]; born 20 August 1976) is an Indian film actor who appears in Hindi-language films. Hooda began acting in school productions at a young age. After completing his studies in Melbourne, Australia, he returned to India and began modelling and acting in theatre.
+
+Hooda made his Bollywood debut with Mira Nair's Monsoon Wedding in 2001. However, after a good performance in the film he waited four years for a second project, Ram Gopal Varma's D (2005), which earned him critical acclaim. After D, Hooda worked on a series of critically and commercially unsuccessful projects until he featured in Milan Luthria's Once Upon a Time in Mumbaai (2010).
