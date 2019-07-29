@@ -15,3 +15,5 @@
 "You could always start [learning Japanese](../learn_japanese/japanese.md)?"
 
 ["Maybe I should go to a jazz club?"](../jazz-guitar/jazz.md)
+
+"You could watch a movie"
