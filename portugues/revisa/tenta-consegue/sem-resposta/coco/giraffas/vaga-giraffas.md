@@ -1,0 +1,1 @@
+Você conseguiu uma vaga no Giraffas e começa a trabalhar amanhã.
