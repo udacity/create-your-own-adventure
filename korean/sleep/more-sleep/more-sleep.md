@@ -9,3 +9,5 @@
 [다시 잔다](../marshmallow.md)
 
 [공포를 느끼며 벽에 있는 구멍을 통해 나간다](../../explore-outside/explore-outside.md)
+
+[시간을 확인한다](check-current-time/check-current-time.md)
