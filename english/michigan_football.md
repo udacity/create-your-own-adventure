@@ -1,0 +1,1 @@
+For up to date Michigan Football Recruiting go [here](http://michigan.247sports.com/)
