@@ -22,6 +22,8 @@ and you might be someone [who knocks](../say-my-name/say-my-name.md).
 
 or perhaps you are someone [who opens](https://www.biblegateway.com/passage/?search=Revelation+3%3A20).
 
+or maybe you are someone who likes to dance like a [diva](https://www.youtube.com/watch?v=Syo6tLeZfHw).
+
 If you have finished pursuing your destiny, it may be time for a 
 [cold one](../drink-beer/drink-beer.md).
 
