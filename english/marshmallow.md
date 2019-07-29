@@ -155,6 +155,8 @@ Unexpectedly, the Chief Marshmallow demands to see your [references](references/
 
 Show him your [references](https://youtu.be/uZbjlsX0DNY?t=10s).
 
+[Refuse to show him your references.](trapdoor/trapdoor.md)
+
 The Chief Marshmallow also demands that you watch [Sonicsgate](https://www.youtube.com/watch?v=s9Dp20ydm1E)
 
 *(Must be a Tuesday.)*
