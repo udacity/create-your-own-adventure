@@ -10,6 +10,7 @@ You are now in the Kings Landing, looking at the Mad King on the Iron throne.
 I am coming for you mad king. For I am the mother of dragons
 What is dead may never die!
 With my green light saber, I'll deal with this sithlord madness!
+For I am a Jedi like my father before me, but I got my hogwarts letter, so..I
 
 Continue on to the port and get on the big ship.
 
