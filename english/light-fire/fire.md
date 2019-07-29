@@ -1,4 +1,4 @@
-You light a small fire in the middle of the marshmallow room.
+﻿You light a small fire in the middle of the marshmallow room.
 
 You stoke the fire by fanning the flames.
 
@@ -49,4 +49,4 @@ There is no conflict！
 [Sleep]
 [Have some chocolate coffee.](../coffee/coffee.md)
 
-
+Ancient used fire to cook food.
