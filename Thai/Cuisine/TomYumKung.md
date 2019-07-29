@@ -18,3 +18,9 @@ Do you:
 [I will fly to Thailand to have it there](../travel.md)
 
 Actually I prefer Thai Green Curry better!
+
+Thai Green Curry is popular among Thai people and also for foreigners
+
+who comes to visit Thailand. The dish can be found in every corner in
+
+Thailand especially in the markets.
