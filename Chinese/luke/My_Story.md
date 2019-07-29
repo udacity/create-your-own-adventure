@@ -1,0 +1,1 @@
+Good is not enough!
