@@ -1,0 +1,3 @@
+En me rendant compte que j'avais encore 30% de batterie sur mon iphone je décide alors d'appeler mon ICE qui se trouvais etre batman. Il me repond après deux sonneries qu'il avait eu une embrouille avec sa copine, robin, et me dit qu'il n'est pas disponible tout de suite. Deux secondes après mon iphone s'éteignit, par faute de batterie (iphone FTW)
+
+[Je reconsidère mes options une fois de plus](../feu-de-camp.md)
