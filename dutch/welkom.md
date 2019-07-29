@@ -24,3 +24,5 @@ Dus pak je maar je android die wel drie dagen lang meegaat!
 [Google translate NL](https://translate.google.com/#nl/en/)
 
 Terug naar [taalkeuze](../language.md)
+
+… het smsje is van een vriend. Er staat in: “ik moet je wat vertellen! Kom ff bij me langs zodra je dit leest”
