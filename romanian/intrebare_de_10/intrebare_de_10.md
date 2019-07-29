@@ -1,0 +1,1 @@
+Al cui rege a fost Ceaikovski și câte goluri a înscris el în partida de poker cu canalul Panama?
