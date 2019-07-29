@@ -9,3 +9,5 @@ Do you:
 [Lower your creative ambitions?](../write-a-hiku/hiku.md)
 
 [Ask your cat to finish it for you](../ask-a-cat/cat.md)
+
+[Experience a profound sense of existential dread](../existential-dread/existential-dread.md)
