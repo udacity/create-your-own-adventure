@@ -12,6 +12,8 @@ Now what?
 
 A few learned to [tango](tango/tango.md)
 
+Some more learned about [sustainable living](live-ethically/live-ethically.md)
+
 Some preferred to
 Enter [The Forest!](forest/forest.md)
 
