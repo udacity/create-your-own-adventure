@@ -4,7 +4,7 @@ You decide to call out for help.
 
 Nothing.
 
-"HEEEEEEEEEEEEELP!!! Is there anybody that can hear meee?"
+"HEEEEEEEEEEEEELP!!! Is there anybody that can hear mie?"
 
 Still nothing. You wait for a little bit. There's rustling in the bushes!
 Could it be someone that will come to my aid and rescue me?
