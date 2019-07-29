@@ -1,0 +1,1 @@
+Jako przewodnie hasło swoich rządów postanawiasz zaserować średnią hawajską dla każdego! Lud Cię ubóstwia, kochają Cię bogaci i biedni.
