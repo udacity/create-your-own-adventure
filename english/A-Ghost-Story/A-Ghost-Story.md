@@ -1,0 +1,1 @@
+The room was dark, only the light from the door was seen. I tried to calm myself, I was really scared and I couldn't do anything about it. Suddenly I saw something moving on my right. There she was. She was standing next to my grandmother and her hand is trying to reach me.
