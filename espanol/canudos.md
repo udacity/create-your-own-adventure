@@ -149,13 +149,13 @@ Y llego spiderman a salvar el dia.
 
 Con sus acrobáticos movimientos y osadas frases
 
-Spiderman al no entender que era lo que [pasaba] (realidad/realidad.md)
+Spiderman al no entender que era lo que [pasaba](realidad/realidad.md)
 
 solo [Escapó](escapo/escapo.md)
 
 Y llego [Daynerys Targaryen](thrones/daynerys.md)
 
-[Temeroso, ordenó que lo guiaran al pasadizo que le llevaría fuera de la ciudad](pasadizo/pasadizo.md)
+[Temeroso, ordenó que lo guiaran al pasadizo que le llevaría fuera de Nueva York](pasadizo/pasadizo.md)
 
 Recordó algunos crímenes que pesaban sobre él y de la nada perdió el conocimiento(desmayo/desmayo.md)
 
