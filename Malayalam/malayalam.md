@@ -14,3 +14,4 @@
 
 [ടിന്റുവും മാഷും] (../Malayalam/tintu/tintu-teacher.md)
 
+നിങ്ങൾ  NITC നിന്ന് ആകുന്നു എങ്കിൽ, [ഇത് നോക്കു] (http://www.eea.nitc.ac.in/)
