@@ -1,0 +1,1 @@
+Você utiliza um comando para destruir seu programa: rm -f e então o bug desaparece!
