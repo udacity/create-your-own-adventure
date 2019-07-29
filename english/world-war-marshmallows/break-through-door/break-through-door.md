@@ -13,3 +13,5 @@ Do you:
 [Open the glovebox to see if there's anything useful](eagle-5/liquid-schwartz.md)
 
 [Confront the monster](../../robot-army/robots-everywhere.md)
+
+[Check the marshmellowMonster sub reddit]  (https://www.reddit.com/r/marshmellowmonster/)
