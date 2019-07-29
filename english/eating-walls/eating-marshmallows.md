@@ -9,7 +9,7 @@ Sitting down next to the partially eaten marshmallow wall, your stomach begins t
 and babble. Hoping to walk off the uneasy feeling, you stand up. Upon standing up, your stomach
 quiets and you entertain how to spend the rest of the day.
 
-But wait!  Just when you when you were about to start contemplating, you suddenly feel torn between 
+But wait!  Just when you when you were about to start contemplating, you suddenly feel torn between
 heading for the toilet or heading for the hills.  Either way, neither of your options look pretty.
 
 Then you remember the matches in your pocket.
@@ -24,13 +24,15 @@ Do you:
 
 [Light-fire?](../light-fire/fire.md)
 
+[Light the candle in your other pocket??](../light-fire/light-candle.md)
+
 [Sing a song?](../sing-song/sing.md)
 
 [Eat ALL the marshmallows!](../count-the-marshmellows/eat-all-the-marshmellows/eat-all-the-marshmellows.md)
 
 [Eat pani-puri](../eat-panipuri/eat-panipuri.md)
 
-[Make Taffy!](../marshmallow-taffy/taffy.md)
+Delete the TAFFY!!
 
 [Find a Toilet](find-a-toilet/find-a-toilet.md)
 
