@@ -1,0 +1,1 @@
+Você não matou a aranha, mas segundos depois ela morde você!
