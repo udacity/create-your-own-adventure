@@ -2,6 +2,8 @@ What are memories?
 
 Where do they come from?
 
+Why are they so important?
+
 Why can I only remember the past and not the future?
 
 Why do my memories seem so inconsistent?
