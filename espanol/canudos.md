@@ -128,6 +128,8 @@ Lo que nadie sabía, es que el consejero era un versado maestro instruído en la
 
 - [Light_side](light_side/light_side.md)
 
+- [Unknown_side] (unknown_side/unknown_side.md)
+
 No tuvo más opción que buscar refuerzos, luchadores incanzables que tuvieran las siguientes características:
 
 - [Características](caracteristicas/caracteristicas.md)
