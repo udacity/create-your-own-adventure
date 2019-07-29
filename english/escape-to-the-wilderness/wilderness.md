@@ -1,12 +1,12 @@
-You decide to escape the city for a 
+You decide to escape the city for a
 weekend and head out to the wilderness.
 
 With your bag all packed with camping
 gear, you make your way toward the mountains.
 
-The hike to a campsite was relatively 
-easy so you settle down in a sleeping bag 
-next to the campfire, and drift off to sleep. 
+The hike to a campsite was relatively
+easy so you settle down in a sleeping bag
+next to the campfire, and drift off to sleep.
 
 You awake to find you're being dragged across
 the forest floor. But by who or what?
@@ -22,3 +22,7 @@ convince yourself you're [dreaming](../dream/dream.md)
 [meditate](../meditate/meditate.md)
 
 [scream](../scream/scream.md)
+
+If none of the above work, you can use a jujitsu to get away.
+
+Try using the Rasengan.
