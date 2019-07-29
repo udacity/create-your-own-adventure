@@ -42,4 +42,4 @@ You see, there are two types of legos in this world.
 
 We all know and  love them lego brand legos, any other brand belongs in the trash heap. IMPOSTERS
 
-
+Some we love, some we hate, But they ALL HURT WHEN YOU STEP ON THEM. Ouuuuuuuchhh!!!
