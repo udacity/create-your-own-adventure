@@ -1,0 +1,1 @@
+Provo a spostare l'armadio anche se è troppo pesante.
