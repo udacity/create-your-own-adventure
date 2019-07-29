@@ -1,0 +1,2 @@
+"The goal of meditation is not to get rid of thoughts or emotions. The goal is to become more aware" 
+For looking my effort in sharing self awareness click_here(https://plus.google.com/u/0/102294455002871753145)
