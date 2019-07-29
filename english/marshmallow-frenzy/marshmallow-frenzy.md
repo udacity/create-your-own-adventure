@@ -1,0 +1,3 @@
+It was looking at me, and the next one and the one after that what was I supposed to do? 
+My mind was racing about with different options but I knew what the inevitable outcome was. 
+Oh well...
