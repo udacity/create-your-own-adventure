@@ -77,6 +77,8 @@ January 2017 approaches. You have two presidential candidates to vote for.
 
 [Click](vote-the-president/trump/trump.md) here to vote for Donald Trump.
 
+[Click] (vote-the-president/johnson/johnson.md) here to vote for Gary Johnson.
+
 [Click](vote-the-president/hillary/Hillary.md) here to vote for Hillary Clinton.
 
 You don't like either of these candidates.
