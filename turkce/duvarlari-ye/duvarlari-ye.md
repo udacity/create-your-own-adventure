@@ -10,6 +10,6 @@ Ne yapacaksın?
 
 Orayı boşver. [Yemeye devam et](yemeye-devam-et/yemeye-devam.md)
 
-
+Yemeyi bırak. [Deliğe gir](delige-gir/delige-gir.md)
 
 
