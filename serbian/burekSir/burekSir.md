@@ -6,3 +6,5 @@ Konacno, nakon sto je uzeo burek sasirom, nezadovoljno je poceo da ga jede. Sira
 [uzima noz, i napada pekarku](noz/noz.md)
 
 [cuti, i mrndza, jer za bolje i nije](tihaPatnja/tihaPatnja.md)
+
+Utolivši prvu glad [počinje](pocetak/pocetak.md) da shvata kakvu je glupost napravio samom sebi.
