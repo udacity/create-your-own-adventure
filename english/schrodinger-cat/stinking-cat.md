@@ -1,0 +1,1 @@
+You quickly [bury the cat](schrodinger-cat).
