@@ -8,5 +8,7 @@ Chyba warto sprawdzić co jest w środku.
 
 [Macasz kieszeń i próbujesz odgadnąć co jest w środku](macasz/macasz.md)
 
+[Próbujesz zerwać z siebie kurtkę, przerażony niespodziewaną zmianą](kurtka/zrywasz.md)
+
 
 
