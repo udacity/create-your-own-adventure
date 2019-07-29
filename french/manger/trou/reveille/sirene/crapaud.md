@@ -4,6 +4,6 @@ Vous avez perdu le contrôle, les yeux clos, votre bouche contre la sienne, vous
 
 En effet, plus de sirène, le vieux crapaud est de retour juste sous votre nez, 
 
-vous regardant d'un oeil satisfait. Il vous a berné, vous avez bel et bien embrassé le batrassien...
+vous regardant d'un oeil satisfait. Il vous a berné, vous avez bel et bien embrassé le batracien...
 
 [et alors?](et_alors/croisiere.md)
