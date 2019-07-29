@@ -11,6 +11,8 @@ See you - Love Pink Unicorn
 Then you wonder why you're taking advice from a Love Pink Unicorn (after all, these are known to be
 the most untrustworthy breed of unicorn, far worse, even, than the Grim Charcoal Unicorns of Strawgoh).
 However, the Love Pink Unicorn brings happiness to everyone by handing out those yummy pot cookies.
+Maybe it's a cookie made from weed.
+It'll make you high.
 
 You realize the unicorn is really your inner self.
 
@@ -21,6 +23,8 @@ Take a vow of [sobriety]?(../shrooms/never-again.md)
 Decide to go to [sleep] instead?(../sleep/marshmallow.md)
 
 Opt for a [chemical-free nirvana]?(../sleep/sit-down-to-meditate.md)
+
+Decide to [ask-a-cat]?(../ask-a-cat/cat.md)
 
 Choose [Blue Pill](https://www.youtube.com/watch?v=1GFkN4deuZU)
 
