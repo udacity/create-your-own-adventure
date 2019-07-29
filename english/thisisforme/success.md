@@ -1,0 +1,1 @@
+Success is about not giving up and to keep going when at times you dont feel like no one is there for you.
