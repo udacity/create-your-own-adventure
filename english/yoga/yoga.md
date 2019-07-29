@@ -13,6 +13,12 @@ Suddenly a large beast appears from the shadows and starts terrorizing the villa
 
 You start becoming transcendent.
 
+<<<<<<< HEAD
+There is nothing to transcend.
+=======
+There is nothing to transcend. 
+>>>>>>> dfe6ec445b74181416675f5d9a7e4c794cd708ca
+
 [Goals of yoga](../yoga/goals/goals_of_yoga.md)
 
 [Yoga LifeStyle](../yoga/lifestyle/yoga_lifestyle.md)
