@@ -22,6 +22,10 @@ OR
 "I've never been lucky... nothing ever goes right for me...  now I've got a gun
 pointed in my face put there by me!  This goes down as a pretty bad day."
 
+OR
+
+You don't say anything at all, you smirk and begin walking toward him, calling his bluff. [call bluff](bluff/bluff.md)
+
 You're about to start talking to them, when you realize you can't actually open
 your mouth. It's kind of sealed. "What shall I do to communicate then?", you think:
 
