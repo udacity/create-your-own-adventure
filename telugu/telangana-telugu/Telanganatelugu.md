@@ -12,5 +12,5 @@
    ఇదంతా కవి అంతర్గత, బాహ్య 
    వలసాధిపత్యాలను వ్యతిరేకించే 
    క్రమంలో చేసే కవితా గానమే.
-
+   అటజనికాంచె భూమిసరుడంబర
 Starting with a prayer. Please click [here](../prayer-telugu/prayer-telugu.md).
