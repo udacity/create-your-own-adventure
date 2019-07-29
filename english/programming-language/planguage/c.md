@@ -1,0 +1,1 @@
+Not only It's the language for system and hardware programming, but also the most widely used language in the world.

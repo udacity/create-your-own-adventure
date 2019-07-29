@@ -1,0 +1,1 @@
+It's widely regarded as the best programming language for beginners.

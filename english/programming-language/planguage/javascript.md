@@ -1,0 +1,1 @@
+It's the most popular clients-side web scripting language. it's mostly for front-end.
