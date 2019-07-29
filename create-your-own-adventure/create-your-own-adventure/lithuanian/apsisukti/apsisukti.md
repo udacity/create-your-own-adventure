@@ -1,0 +1,1 @@
+Jis apsisuko ir pamatė

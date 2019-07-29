@@ -1,0 +1,1 @@
+El hijo bajó rápidamente a la armería, se equipó y quedó allí a la espera de más instrucciones

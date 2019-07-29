@@ -1,0 +1,1 @@
+Indicando que sus planes revolucionarios deberian tener un espacio y tiempo adecuado para su realizacion.
