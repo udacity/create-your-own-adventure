@@ -2,4 +2,4 @@
 
 [처음으로 돌아간다](../marshmallow.md)
 
-['꿈이겠지'라고 생각하며 마시멜로를 조금 떼어먹고 다시 잠이 든다](../sleep/marshmallow.md)
+['꿈이겠지'라고 생각하며 마시멜로를 조금 떼어먹고 다시 잠이 든다](../../sleep/marshmallow.md)
