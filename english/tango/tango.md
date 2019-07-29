@@ -8,3 +8,7 @@ Hey, good choice! OK, here's how to tango:
 
 4. [Walk](walk/walk.md) in time with the music.
 
+5. Enjoy!
+
+6. Say "Thank you" to end the dancing.
+
