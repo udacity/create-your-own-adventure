@@ -1,7 +1,8 @@
 You decide to drink one or two craft beers. Mmm refreshing.
 
 You decide to drink a whole case of Natural Light. Whoa!
-After doing so you see that tiny 6 pack you had in your abdomen region turn into a full keg!
+After doing so you see that tiny 6 pack you had in your abdomen region turn into a full keg! 
+You start to see stars and a star spangled banner.
 
 You decide you need to find a solution to your stomach situation, fast!
 
