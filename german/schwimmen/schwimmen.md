@@ -20,4 +20,6 @@ und diese Fischerleine aus den Flügeln kriegen.
 
 ... dem Klang des rythmischen Trommelschlages folgen.[Trommeln](trommeln/trommeln.md)
 
+... etwas zu trinken finden, eine Kokosnuss wäre jetzt fantastisch.[Kokosnuss](kokosnuss/kokosnuss.md)
+
 [Zurück](../ruderboot.md)
