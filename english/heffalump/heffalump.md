@@ -5,3 +5,5 @@ Well it's a magical beast with [super powers](../super-powers/practice-flying.md
 Not to be confused with a [scarab](../scarab/goddess.md),
 
  or in fact a [marshmallow](../marshmallow.md).
+
+ I wonder if they have striped legs like an [okapi](https://en.wikipedia.org/wiki/Okapi)?
