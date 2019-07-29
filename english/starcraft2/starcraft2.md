@@ -11,3 +11,5 @@ After downloading Star Craft 2, you start playing the campaign and
 you find it to be the best RTS campaign you've ever played.  You had
 
 so much fun playing it that you play through it twice more.
+
+Your APM was a petty 30, but you won a diamond league player whilst eating potato chips.
