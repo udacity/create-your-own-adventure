@@ -1,0 +1,1 @@
+El abuelo era un hombre que tenía gusto por engañar a las personas
