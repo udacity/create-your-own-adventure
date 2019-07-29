@@ -1,0 +1,1 @@
+Como não tinha como você levar o dev até o bug, tentou por vários dias reproduzi-lo até perceber que era problema no navegador.
