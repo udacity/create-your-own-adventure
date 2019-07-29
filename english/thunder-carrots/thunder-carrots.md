@@ -4,6 +4,8 @@ And you warm up a little soup. But then something happens.
 Out from the microwave, a dozen exploding thunder carrots swarm you smothering you as you cower.
 You fall to the ground and hit your head. You come to, and,
 
+find the pineapple you missplaced three weeks ago in your left armpit.
+
 Yes!
 
 That's how to [clone](https://goo.gl/IqYvlE) a remote!
