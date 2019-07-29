@@ -1,4 +1,4 @@
-Tak jak myślałemś, impreza za sklepem to lepszy pomysł. 
+﻿Tak jak myślałemś, impreza za sklepem to lepszy pomysł. 
 Od teraz Ziutek i Mietek określają Cię mianem "BOSS". ;))
 
 Po wielkiej imprezie Ziutek, Mietek i Ty macie wilekiego kaca.
@@ -14,3 +14,4 @@ W kasie rzucasz ledwo spoglądając na kasjerkę odliczoną kwotę, którą znal
 Z większym powodzniem wracasz do kompanów. Ziutek już siedzi, a Mietek nawet wstał oddać mocz.
 Kiedy widzą, że w ręku trzymasz lekarstwo na tę straszną dolegliwość, która was z rana dopadła oczy zachodzą im łzami. 
 W geście triumfu podnosisz Amarenę!
+A w drugiej CocaCole i robisz najlepszego drinka ever!
