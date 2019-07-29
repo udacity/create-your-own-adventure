@@ -1,0 +1,1 @@
+Mira al cielo, respira y piensa detenidamente.
