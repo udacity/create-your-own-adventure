@@ -9,7 +9,7 @@ to do:
 
 In a dash, you throw the marshmallow at your ex-girlfriend and bail.
 
-But then you realize that you forgot your parachute!
+But then you realize that you forgot your parachute...duh!
 
 During free fall, with only seconds to live, your mind races when
 
