@@ -1,0 +1,1 @@
+Baca pare na pult i dvojica ljudi izlaze iz pekare ostavljajuci ostale da sjede u cudu.
