@@ -1,5 +1,5 @@
 Well, looks like the end of a long and beautiful empire.
-(Insert name of politician you don't like) has won. What do you do?
+Looks like Donald Trump has won. What do you do?
 
 Alright. You're ready. 
 Let's head off to the [true north strong and free](https://www.youtube.com/watch?v=9yFs7K27kZI).
