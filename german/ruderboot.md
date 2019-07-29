@@ -1,4 +1,4 @@
-Sie wachen von der Sonne geblendet auf und stellen ziemlich benommen fest, dass Sie 
+Sie wachen von der Sonne geblendet auf und stellen ziemlich benebelt fest, dass Sie 
 
 in einem Ruderboot auf einem grossen See treiben. Ihre Hose ist vollkommen durchnässt, und
 
