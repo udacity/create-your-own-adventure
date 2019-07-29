@@ -36,3 +36,5 @@ Che fai?
 [Canto](canto/canto.md)
 
 [Guardo l'orologio](orologio/orologio.md)
+
+[Cerco lo specchio in grado da vere chi sono](specchio/specchio.md)
