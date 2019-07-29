@@ -1,4 +1,4 @@
-Pull out your phone to check the date and see where you are.
+ Pull out your phone to check the date and see where you are.
 You can't help but notice that she hasn't called. Will this love survive?
 
 You remember hearing somewhere that you can't read in a dream.
@@ -16,5 +16,7 @@ Do you:
 [Realize that it's just a dream](../dream/dream.md)
 
 Think 'Hey, my dream says it's time to go to Paris!' and [plan your trip](http://www.tripadvisor.com/)
+
+If it's destined to be Paris, then it's got to be with her [you call her using Skype](https://www.skype.com)
 
 
