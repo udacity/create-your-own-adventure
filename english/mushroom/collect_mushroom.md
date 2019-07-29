@@ -13,4 +13,6 @@ Do you:
 
 [Call up Alan and Leslie Chow?](call_alan/transported.md)
 
+[Scream to the sky and put a marshmallow in your mouth](../scream/scream.md)]
+
 [Throw away the poisonous mushroom?](poison/poisonous_mushroom.md)
