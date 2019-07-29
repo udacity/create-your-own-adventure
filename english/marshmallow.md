@@ -183,6 +183,8 @@ A sound from a Hitchcock movie fills the room, then quickly fades away.
 
 Was it the sound of a cry from the shower?
 
+Was it the creaking sound made by the [old door](creakDoor/door's-story.md)
+
 Was it the sound of birds?
 
 It sounded like it could have been a [heffalump](heffalump/heffalump.md)
