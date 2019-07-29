@@ -1,1 +1,1 @@
-"What a joke?"
+"What, a joke?"
