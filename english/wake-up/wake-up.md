@@ -22,4 +22,6 @@ to dawn on you that you really are still having a dream.
 
 [Stay in the dream and explore the island](dessert-island/explore-island.md)
 
+[Someone throws water on you and you wake up](dessert-island/explore-island.md)
+
 [Remember who you really are and wake up](vigilante/vigilante.md)
