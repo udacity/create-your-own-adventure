@@ -52,3 +52,10 @@ in their face.
 It is the part of the learned to give joy to those whom they meet, and on 
 leaving, to make them think (Oh! when shall we meet them again).
 
+
+****
+இன்மையின் இன்னாது உடைமை முறைசெய்யா 
+மன்னவன் கோற்கீழ்ப் படின்.	
+
+Property gives more sorrow than poverty,
+to those who live under the sceptre of a king without justice. 
