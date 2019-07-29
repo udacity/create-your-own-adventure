@@ -1,0 +1,1 @@
+Noticing the whiteness on the saber, the wall was closing and time was ticking.
