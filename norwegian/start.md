@@ -10,3 +10,5 @@ Jeg går ned i fjæra og plukker opp gjennstanden som fløyt der.
 
 
 [faller i vannet](faller/faller.md)
+
+[Plukker opp gjenstanden](gjenstand/gjenstand.md)
