@@ -9,3 +9,5 @@ Do you:
 [Lower your creative ambitions?](../write-a-hiku/hiku.md)
 
 [Ask your cat to finish it for you](../ask-a-cat/cat.md)
+
+Watch your [dog eat the world](../dog-eat-world/dog-eat-world.md)
