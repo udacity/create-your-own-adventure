@@ -8,4 +8,6 @@ What do you do?
 
 Buy a new one!
 
+
+
 [Give up and keep exploring?](../explore-outside/explore-outside.md)
