@@ -6,3 +6,4 @@
   అసలు కథ ఏంటంటే ఇది కేవలం మనకు గిట్ మరియు గిట్ హబ్ గురించి నేర్చుకునేందుకు ఏర్పాటు చేసిన కథ మాత్రమే. 
 అందుచేత ఇందులో ఏ అర్థాలూ వెతకొద్దు ప్లీజ్.  చేతనయితే మీరు కూడా కొన్ని లైన్లు వ్రాసి బాగా నేర్చుకోండి. 
 Click [here](../telugu/telangana-telugu/Telanganatelugu.md)
+[prayer-telugu](..telugu/prayer-telugu/prayer-telugu.md)
