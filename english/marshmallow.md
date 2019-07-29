@@ -147,6 +147,8 @@ Another visitor! [Stay a while...](impossible-adventure/start/start.md)
 
 [Time for some teachings on life and success](swami-vivekananda/swami-vivekananda.md)
 
+[Astral Project to another dimension](astral-project/astral-project.md)
+
 One morning, you wake up in a strange room with marshmallows for walls.
 
 Marshmallows smell funny. What is a marshmallow anyway?
@@ -647,6 +649,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 [Want to cook boneless pork shoulder roast?](pork/roast.md)
 
 [Take a selfie?](selfie/selfie.md)
+
+[]
 
 [Say something](blah-balh/blah-blah.md)
 
