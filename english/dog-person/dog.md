@@ -6,3 +6,5 @@ he shows you to the back to take a look. There's so many to choose from!
 HOW WILL YOU CHOOSE??
 
 [That golden lab looks nice](../golden-lab/golden-lab.md)
+
+[That chihuahua looks friendly](../chihuahua/chihuahua.md)
