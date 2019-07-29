@@ -6,3 +6,5 @@ The label reads "Liquid Schwartz - Extra Strength. One can to planet Spaceball."
 Confused, but intrigued, and thinking anything is better than being eaten by marshellows, you dump
 the whole can into a fuel recepticle in the front cabin. The Winnebago sprouts wings and carries you
 off on autopilot across the galaxy, leaving a plaid trail behind you.
+
+You eventually arrive to the [External World](https://www.youtube.com/watch?v=OxPyN6IK1tM)...
