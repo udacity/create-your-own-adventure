@@ -1,0 +1,1 @@
+I forgot most my nepali but its cool that there is a nepali folder here!
