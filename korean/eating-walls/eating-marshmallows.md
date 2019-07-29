@@ -14,3 +14,5 @@
 [어쩔줄 모르고 그냥 운다](../cry/cry.md)?
 
 [심심하니 축구나 한다](../soccer/soccer.md)?
+
+[심심하니 농구나 한다](basketball/basketball.md)?
