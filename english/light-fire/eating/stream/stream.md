@@ -3,3 +3,5 @@ You have arrived at the stream. You drink deeply and quench your thirst. A fasci
 [Go fish](go-fish/fish.md)
 
 [Head towards the tower](../../../explore-outside/journey-to-flaming-tower/journey-to-flaming-tower.md)
+
+[Scream angrily at the tower for being on fire](scream/scream.md)
