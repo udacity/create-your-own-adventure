@@ -31,4 +31,6 @@ HxM7nBml4E4_W9eLNTDyp4X9nZX7IcNuDO3a7KC7p_A)
 
 [Hulk out?](../hulk/smash.md)
 
+[Fish for food?](fish_food/fish_food.md)
+
 [Surprise!](../surprise!/surprise.md)
