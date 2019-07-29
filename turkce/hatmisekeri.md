@@ -2,17 +2,19 @@ Bir sabah, duvarları hatmi şekerleriyle kaplı ilginç bir odada uyandınız.
 
 Sanki rahatsız ve kısıtlayıcı bir ceket giyiyordunuz.
 
-Ceketinizi yirtmaya basliyorsunuz ve yere bir cakmak, catal ve ip dusuyor.
+Ceketinizi yirtmaya basliyorsunuz ve yere bir çakmak, çatal ve ip düşüyor.
 
-Izlendiginize dair supheleriniz var.
+İzlendiğinize dair şüpheleriniz var.
 
-Etrafiniza bakarken, hatmi sekerinden bir el cakmagi almaya tesebbus ediyor.
+Etrafınıza bakarken, hatmi şekerinden biri el çakmağı almaya teşebbüs ediyor.
 
-Birden hatmi sekerinin canlandigini anliyorsunuz.
+Birden hatmi şekerinin canlandığını anlıyorsunuz.
 
-Hatmi sekerini gozunuzun onune getirin ve..
+Hatmi şekeri size dönüyor ve şöyle diyor:
 
-Bu durumda ne yapardiniz?
+Hatmi şekerini gözünüzün önüne getirin ve..
+
+Bu durumda ne yapardınız?
 
 [Duvarları yeme başla?](../turkce/duvarlari-ye/duvarlari-ye.md)
 
