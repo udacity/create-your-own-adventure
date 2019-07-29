@@ -15,6 +15,7 @@ heading for the toilet or heading for the hills.  Either way, neither of your op
 Then you remember the matches in your pocket.
 
 Do you:
+[go watch Willy Wonka](https://www.youtube.com/watch?v=B9L5ir3yAok)
 
 [Search your pockets for a piece of chocolate?](../search_for_chocolate/search_for_chocolate.md)
 
