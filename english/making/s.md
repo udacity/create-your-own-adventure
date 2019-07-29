@@ -1,0 +1,1 @@
+The door shuts and you die... slowly
