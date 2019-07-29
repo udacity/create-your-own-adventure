@@ -1,4 +1,4 @@
-En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
+﻿En el pueblo de Canudos, el Consejero y Beatito estaban conversando acerca del imperio y la
 república cuando empezaron a sonar trompetas que indicaban la llegada del ejercito. En ese momento
 el Consejero:
 
@@ -145,7 +145,8 @@ se atrevio a lo que nadie se [imaginó:](Mutantes/Mutantes.md)
 
 éstos, sin mediar palabra y al unísono, [no dudaron](ayudantes_accion/ayudantes_accion.md)
 
-Y llego spiderman a salvar el dia.
+Y llego spiderman a salvar el dia
+, lanzando telaarañas!
 
 Con sus acrobáticos movimientos y osadas frases
 
