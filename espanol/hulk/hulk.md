@@ -1,0 +1,1 @@
+El ejercito del enemigo estaba liderado por Hulk, el cual estaba montado sobre un rinoceronte.
