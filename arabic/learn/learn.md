@@ -6,7 +6,8 @@
  امثلة مواقع الكورسات اونلاين :
 
 -Udacity
--coursera
+-[Coursera](whattolearn/programming/programming.md)
+-[Edx](whattolearn/programming/programming.md)
 -Udemy
 -Khan Academy
 -thenewboston
