@@ -1,1 +1,2 @@
-Fuerte, valeroso y con gran astucia.
+- Fuerte, valeroso y con gran astucia.
+- Personalidad arrolladora.
