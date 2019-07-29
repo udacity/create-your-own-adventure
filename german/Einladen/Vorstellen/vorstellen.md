@@ -13,3 +13,6 @@ Sie schlägt vor:
 
 
 [Schwenker essen und Stubbi trinken.](Saarland/aus_dem_Saarland.md)
+
+
+[Flegge essen und Vuchelbeerschnaps trinken](Erzebirge/aus_dem_Erzgebirge.md)
