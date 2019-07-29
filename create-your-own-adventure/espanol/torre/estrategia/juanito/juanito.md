@@ -1,0 +1,1 @@
+Beatito salió como un rayo por la puerta en búsqueda del general Juanito Nieves.

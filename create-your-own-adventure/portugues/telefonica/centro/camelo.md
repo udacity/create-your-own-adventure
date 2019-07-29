@@ -1,0 +1,1 @@
+Você deu sorte e logo que saiu do ônibus se deparou com um camelô vendendo cópias piratas de software.

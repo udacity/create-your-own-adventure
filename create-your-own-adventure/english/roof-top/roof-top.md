@@ -1,0 +1,1 @@
+You take a deep breath, enter bullet time mode and have a look around.

@@ -1,0 +1,1 @@
+Ce-avem noi aicea? Petre stie ... bine ca si-a luat-o aicea. Vezi [aici](https://www.youtube.com/watch?v=MaStwY7CY-I)
