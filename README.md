@@ -1,3 +1,5 @@
+----THE LINKS WEREN'T WORKING, SO THIS LINE IS MY CHANGE.
+
 # Collaborative Create-Your-Own-Adventure
 
 This is an example repo that illustrates the concept of a "Pull Request", created
