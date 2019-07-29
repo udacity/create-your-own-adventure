@@ -1,4 +1,4 @@
-Te trezesti intr-o dimineatza si patul este facut din nalbe. 
+Te trezesti intr-o dimineatza si patul este facut din nalbe.
 Ce faci?
 
 [Il chemi pe Ginel](Ginel/ginel.md)
@@ -28,19 +28,19 @@ Va tot intrebati cum de a reaparut patul de nalbe.
 
 [Cand deodata...](Ginel/ginel.md)
 
-Ginel cade pe ganduri, ca baba pe scanduri... Incearca sa-si aminteasca ce a fumat, 
+Ginel cade pe ganduri, ca baba pe scanduri... Incearca sa-si aminteasca ce a fumat,
 cat sa fi costat compania Ginutei, sau de ce nu a avut noroc in viata.
 Ginel nu coreleaza lipsa repetata de la scoala, cu lipsurile din prezent.
 Ginuta il priveste o vreme, asa cazut pe ganduri, apoi il intreaba:
  - Auzi, ai cumva un Orbit ?
 
--N-am, dar putem sa facem un [ceai de nalbe](ceai_de_nalbe/ceai_de_nalbe.md). Ar trebui sa 
-aiba gust bun, putem mari putin doza, doar avem un pat de nalbe, sa vedem ce se intampla. 
-Se pusera ei pe baut ceai de nalba cand deodata... 
+-N-am, dar putem sa facem un [ceai de nalbe](ceai_de_nalbe/ceai_de_nalbe.md). Ar trebui sa
+aiba gust bun, putem mari putin doza, doar avem un pat de nalbe, sa vedem ce se intampla.
+Se pusera ei pe baut ceai de nalba cand deodata...
 
 Aparu, [Zana Albastra](zana_albastra/cum_arata_zana.md):
 
-- Dragii mei, nu mai beti ceai de nalbe! Am nevoie de toate nalbele de 
+- Dragii mei, nu mai beti ceai de nalbe! Am nevoie de toate nalbele de
 aici pentru o [potiune fermecata](potiune_fermecata/potiune.md).
 
 Sigur, Zana albastra, spuse Ginel.
@@ -70,7 +70,7 @@ Bineinteles ca o sa bea. Ginel stia ca asta inseamna sa fii mafiot la urma urmei
 
 [Beau tot](Beau/Beau_paharul_pana_la_fund.md)
 
-Apoi ma trezesc chinuit de ganduri stranii. 
+Apoi ma trezesc chinuit de ganduri stranii.
 
 [Adevarate framantari filosofice](panda/marmota.md).
 
@@ -85,3 +85,6 @@ Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
 Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
 
 Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
+
+Ginel, inca ametit, a lovit o [broasca](https://www.youtube.com/watch?v=k85mRPqvMbE).
+Ginuta speriata a mers cu ea [la veterinar](Broasca/veterinar.md)!!!
