@@ -8,6 +8,8 @@
 
 [Зателефоную доктору Хто](dr-who/dr-who.md)
 
+[Сяду, опущу голову та буду скігліти](Crying/crying-in-the-corner.md)
+
 [Розженуся та спробую прорватися крізь одну з стін](break-through-wall/break-through-wall.md)
 
 [Спробую стіну на смак](eat-wall/eat-wall.md)
