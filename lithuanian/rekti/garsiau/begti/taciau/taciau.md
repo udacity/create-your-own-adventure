@@ -1,0 +1,1 @@
+Vilkai buvo kurkas greitesni
