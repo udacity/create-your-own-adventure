@@ -15,3 +15,5 @@ licking his paws from all the honey that he just ate. The bear turns
 to you and says "Are you done in there? I've got to wash my paws."
 
 What is your response?
+
+[Uhhh, yes, I'm done, you can go ahead and wash and I'll try and ignore the fact I'm talking to a bear](beartalk/beartalk.md)
