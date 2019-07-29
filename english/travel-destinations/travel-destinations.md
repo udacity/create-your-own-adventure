@@ -6,7 +6,7 @@ It's Summer! Time to explore these places:
 
 [Sweden](https://youtu.be/5KYm1UpXiq0?t=53s)
 
-Visit the Rhine and Rothenburg
+Visit the Rhine and Rothenburg and Plettenburg.
 [Germany](https://www.youtube.com/watch?v=uD9b7mP6whk)
 
 Fall is a great season to take a vacation in any of these spots:
