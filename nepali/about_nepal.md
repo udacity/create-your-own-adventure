@@ -8,6 +8,8 @@
 चितवन राष्ट्रिय निकुन्जको बारे जान्न 
 [यहाँ िथचनुहोस् ।] (http://www.chitwannationalpark.gov.np)
 
+मलाई [मोमो ](momo-khane/momos.md) अशाधै मन पर्छ।
+
 dhanyabad tapai ko .md file ko lagi
 [tapai sanga kura garda ramro lagyo](gthfy/gthfy.md)
 
