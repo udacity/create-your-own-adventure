@@ -4,7 +4,7 @@ Okazało się również, że masz na sobie niewygodną kurtkę i nie masz na sob
 
 Czujesz, że wzmaga się w tobie pragnienie, czy to nie jest dobry pomysł, żeby napić się Kadarki?
 
-Co robisz? 
+Co robisz w tej sytuacji? 
 
 [Idziesz spac?](spanie/spaniee.md)
 
