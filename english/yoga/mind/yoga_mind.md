@@ -16,3 +16,7 @@ are suddenly in a strange room with marshmallows for walls.
 Marshmallows smell funny. What is a marshmallow anyway?
 
 Unexpectedly, the Chief Marshmallow demands to see your [references](../../references/references.md)
+
+The sun comes out, and shines bright.  
+
+The ocean waves, full of energy, roar to shore.
