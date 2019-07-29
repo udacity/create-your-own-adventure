@@ -1,0 +1,1 @@
+"Želite li i kečap?" - upitala je potom radnica
