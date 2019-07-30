@@ -10,3 +10,8 @@ Some people have trouble after eating these
 [no sleep?](../amnesia/amnesia.md)
 
 [You remember that these actually are really gross](gross/gross.md)
+
+[You set aside the grossness as joyous feelings of nostalgia overcome you and
+you wolf down a mouthful. Jumping with child like glee, the buoyant trampoline 
+like floor bounces you straight through the blubbery roof.](bounce/bounce.md)
+
