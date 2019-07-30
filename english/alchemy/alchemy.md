@@ -30,6 +30,8 @@ You slip the ring over your finger and ...
 
 [A polar bear suddenly appears and charges towards you](../polar-bear-attack/polar-bear-attack.md)
 
+[say "Like a good neighbor, state farm is there!"](state-farm.md)
+
 [you close you eyes and recite Buzz Lightyear's "To infinity and beyond!"](../my-story/my-story.md)
 
 [quickly decide to take the ring off and try using its unknown powers later](../android-v6/use-android-v6.md)
