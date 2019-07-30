@@ -151,6 +151,9 @@ One morning, you wake up in a strange room with marshmallows for walls.
 
 Marshmallows smell funny. What is a marshmallow anyway?
 
+You look, naturally, to the Chief Marshmallow for answers.
+He merely looks quizzically back at you, until you verbalize your question.
+
 Unexpectedly, the Chief Marshmallow demands to see your [references](references/references.md).
 
 Show him your [references](https://youtu.be/uZbjlsX0DNY?t=10s).
