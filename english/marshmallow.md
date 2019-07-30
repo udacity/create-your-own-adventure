@@ -405,6 +405,7 @@ Suddenly, you become aware of the need to take a leak.
 You can't hold it. You wonder, Are glowing pants waterproof?
 You [Look for a toilet](./eating-walls/find-a-toilet/find-a-toilet.md)
 
+In fact, you really need [a tissue](./eating-walls/a-tissue.md)!
 
 Do you:
 
