@@ -1,6 +1,6 @@
 It's deliriously delicious!
 
-Let's try something else.
+Let's try SOMETHING else. Shall we?
 
 What about some [Morning Jade](drink-more-teas/morning-jade/morning-jade.md)?
 
