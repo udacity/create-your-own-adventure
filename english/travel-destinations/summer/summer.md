@@ -1,0 +1,1 @@
+Bask in the beach paradise called [Boracay](http://www.lonelyplanet.com/philippines/the-visayas/boracay)

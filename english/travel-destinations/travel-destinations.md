@@ -1,6 +1,6 @@
 It's glorious Spring! Here are some great [destinations](spring/spring.md):
 
-It's Summer! Time to explore these places:
+It's Summer! Time to explore these [places](summer/summer.md)
 
 [Spectre](spectre/spectre.md)
 
