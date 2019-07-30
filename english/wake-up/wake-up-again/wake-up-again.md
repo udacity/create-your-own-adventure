@@ -8,7 +8,7 @@ yet. You were still half-asleep and if you just ignored the sound, you
 
 figured you’d be able to go back to sleep. But not back to the nightmare
 
-you just had, obviously.
+you just had, obviously. You are trying to forget the negative feelings.
 
 As your eyes droop and you started drifting back into the other world 
 
