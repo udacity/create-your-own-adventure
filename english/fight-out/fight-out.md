@@ -2,6 +2,8 @@ You don't want the story.
 
 But the thrill is just [outside](../marshmallow.md) your door.
 
+Or maybe it's in [your kitchen](../statue/statue.md).
+
 It's just waiting there with tons of stories.
 
 but it seems you have chosen your path.
