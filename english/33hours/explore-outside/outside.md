@@ -3,7 +3,7 @@ do you see your surroundings. You are standing near a long two-lane highway that
 left and your right. You stand there several minutes, but see no cars at all.
 
 The motel parking lot is completely empty. It looks to be abandoned. There are no other buildings around for as far as
-you can see.
+you can see. There are only a few empty garbage bins lying around.
 
 [Go back inside and explore the motel room.](../explore-room/room.md)
 
