@@ -440,6 +440,8 @@ Take out your [crochet project](crochet/crochet.md) instead and finish that tedd
 
 [Go eat some rainbows](eat-rainbows/rainbows.md)
 
+[GO to eat some delicious tacos](eat-tacos/tacos.md)
+
 [Admire your glowing pants](glowing-pants/glowing-pants.md)
 
 [Grab some coffee?](coffee/coffee.md)
