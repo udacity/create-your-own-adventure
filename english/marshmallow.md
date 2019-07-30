@@ -917,7 +917,13 @@ there are two options you must choose from.
 
 You may either do [this](gtd/gtd.md),
 
- or [that](procrastinate/procrastinate.md).
+ or [that](procrastinate/procrastinate.md). 
+ 
+ Thanks!
+
+So we only have four more days until the new year?
+Isn't it time to really get work done, then?
+
 
  This is one weird story. Did anybody read the whole page?
 
