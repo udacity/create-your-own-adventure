@@ -14,6 +14,8 @@ light is still on the horizon, perhaps a bit closer, perhaps
 not.  As you gear up for continued pursuit, you notice another 
 light, in the opposite direction, the direction you came from.  
 
+This is your moment of destiny.
+
 Do you [continue forward?](continue-forward/Forward.md)
 
 Or do you[go back?](go-back/goBack.md)
