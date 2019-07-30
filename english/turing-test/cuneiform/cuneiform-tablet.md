@@ -4,14 +4,14 @@ You read what is etched in the wedge-shaped clay tablet:
 
   Krabby Patty recipe:
 
-  Bun
-  Lettuce
-  Tomato
-  Onion
-  Cheese
-  Pickles
-  Ketchup
-  Mayo
-  Mustard
-  Patty
+  Bun +
+  Lettuce +
+  Tomato +
+  Onion +
+  Cheese +
+  Pickles +
+  Ketchup +
+  Mayo +
+  Mustard +
+  Patty +
   ******** (redacted secret ingredient)
