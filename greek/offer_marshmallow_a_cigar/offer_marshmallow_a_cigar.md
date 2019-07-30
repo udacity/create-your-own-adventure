@@ -10,3 +10,5 @@
 [Ανάβεις τον αναπτήρα](set_it_on_fire/set_it_on_fire.md)
 
 [Ανάβεις ακόμη ένα τσιγάρο](intimacy/intimacy.md)
+
+[Μπορείς ακόμα να βγάλεις την κάλτσα σου] (put_socks_off/put-socks-off.md)
