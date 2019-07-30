@@ -919,7 +919,7 @@ You may either do [this](gtd/gtd.md),
 
  or [that](procrastinate/procrastinate.md).
 
- This is one weird story. Did anybody read the whole page?
+ This is one weird story. Did anybody read the whole page? No, but it all start on [New Year's] (new-years/new-years.md).
 
  I sure did not. This is as weird as it gets.
 
