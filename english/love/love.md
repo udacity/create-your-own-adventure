@@ -15,6 +15,8 @@ lived in order to be understood. All the words there are in the world
 cannot make you understand the feeling of it. Anyways, [here's 
 something comepletely different.](../marshmallow.md)
 
+You're not living until you love.
+
 If all else fails, you could [try this.](../read-a-book/read-a-book.md)
 
 Love feels eternal but the 
