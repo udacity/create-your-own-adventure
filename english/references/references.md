@@ -10,3 +10,5 @@ Before you go, you decide to ask the Chief Marshmallow for HIS [references](../c
 
 You know Chief Marshmellow's really look their best when golden brown. 
 So you ["Lunch for a lighter to make him golden brown."](../lunge-for-the-lighter/lunge-for-the-lighter.md)
+
+You decide to tell Chief Marshmellow ["The answer to life, universe and everything."](https://www.youtube.com/watch?v=aboZctrHfK8)
