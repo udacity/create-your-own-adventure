@@ -1,0 +1,1 @@
+Are you batman? Let's [find out](http://www.somethingawful.com/news/concealed-carry-renfest/1/)
