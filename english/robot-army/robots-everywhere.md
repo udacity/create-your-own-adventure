@@ -7,7 +7,6 @@ minions and summon them with haste.
 Your minions run towards you with a fiery passion in their
 eyes. It is in this moment you know that they truly care for you and would do anything for you.
 
-
 Done, you sit down and relax as your [minions](https://www.youtube.com/watch?v=IS0-MVYAVZs) cut the
 marshmallow into conveniently sized pieces for a party you've decided to hold.
 
