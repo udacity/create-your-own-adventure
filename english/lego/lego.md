@@ -1,4 +1,4 @@
-The mallow man seems nice so you chat to him after walking up to him.
+The mallow man seems nice so you chat with him after walking up to him.
 
 He decides he likes you too, so he gets out his Lego's.
 
