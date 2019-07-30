@@ -6,6 +6,10 @@ want to spread the joy (and chocolate chip cookies, or peanut butter, or
 ginger).
 Probably you love cookies too, or at least you like the idea of them.
 Because cookies are awesome!!!
+If you don't have every ingredient you need for a recipe, try using alternatives
+You never know what you can get by experimenting!
+For example, you can use bananas instead of eggs, or oil instead of butter.
+Try your own substitute and see how it turns out!
 If you don't have time and want to eat delicious cookies, then get some from Sprouts!
 Do you:
 
