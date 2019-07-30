@@ -8,7 +8,7 @@ You send out a distress signal.
 
 Who will answer the call?
 
-  - Superman?
+  - [Superman?](./superman/superman.md)?
   - Batman?
   - Wonder Woman?
   - Flash?
