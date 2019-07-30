@@ -9,3 +9,5 @@ while seeking that degree in Lego Engineering.
 You realize Lego Engineering may not have been the best choice in majors...
 But first, let me take a selfie.
 That's so ratchet..
+
+If hip pain keeps you from running, [go here](../hope_to_run_again/hope_to_run_again.md)
