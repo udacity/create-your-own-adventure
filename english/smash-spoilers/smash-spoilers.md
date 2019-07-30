@@ -1,0 +1,3 @@
+... then you walk trhoug looking for a real option that make you finish
+your work... trying to avoid any suspicion. Then you see a new door. One that recognize and you know it can be fun... you don't know WHAT IS AT THE END... so you enter the breaking bad door ...
+When you read the warning ... then you feel a horrible pain... you shake your head and run screaming from there... thinking in how you can  kill the one who's create it.
