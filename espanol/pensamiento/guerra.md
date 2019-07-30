@@ -1,15 +1,21 @@
-Será que hoy es el día, aquel día en el que nos preguntamos ¿por que?
-¿ Por que no disfrute más el día de ayer ?
-¿ Por que no vi venir esta situación ?
-¿ Por que cuando todavia estoy en mi época de juventud ?
+SerÃ¡ que hoy es el dÃ­a, aquel dÃ­a en el que nos preguntamos Â¿por que?
+Â¿ Por que no disfrute mÃ¡s el dÃ­a de ayer ?
+Â¿ Por que no vi venir esta situaciÃ³n ?
+Â¿ Por que cuando todavia estoy en mi Ã©poca de juventud ?
+Â¿ Por que no salir, disfrutar la vida?
+Â¿ Por que mejor no encontrar una simple salida?
+Â¿ Dejar todo atras?
+Â¿ Deberia soltar el miedo y volar?
+Â¿ o solo sera otro dia mas de lamento, de imaginacion... viajando en la mente unicamente?
+
 
 Tras terminar con sus lamentaciones:
 
-[Una reflexión de gran importancia le asaltó](estoicismo/estoicismo.md)
+[Una reflexiÃ³n de gran importancia le asaltÃ³](estoicismo/estoicismo.md)
 
-[Se sentÃ³ en el suelo y se puso a meditar](meditacion/meditar.md)
+[Se sentÃƒÂ³ en el suelo y se puso a meditar](meditacion/meditar.md)
 
-Cuando volvió a mirar al cielo, se dio cuenta de que estaba cubierto de nubes.
-¿Con tan malos auspicios comenzaría la batalla?
+Cuando volviÃ³ a mirar al cielo, se dio cuenta de que estaba cubierto de nubes.
+Â¿Con tan malos auspicios comenzarÃ­a la batalla?
 
-[No podía quedarse de brazos cruzados.](soluciones/soluciones.md)
+[No podÃ­a quedarse de brazos cruzados.](soluciones/soluciones.md)
