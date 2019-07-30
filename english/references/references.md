@@ -1,3 +1,5 @@
+Chief Marshmellow sees you put down Obama as a reference. So her calls him and Obama says [you used to call me on my cellphone](https://youtu.be/hrjs1UXC8rU)
+
 You calmly explain to the Chief Marshmallow that you come from the [Land of Ice and Snow](../../norwegian/start.md).
 
 Then while making a gradual motion with 3 fingers on your right hand, you say
