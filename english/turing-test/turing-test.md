@@ -1,10 +1,10 @@
-After realizing that the marshmallow may be self-aware, you want to confirm your suspision by delivering a turing test. 
+After realizing that the marshmallow may be self-aware, you want to confirm your suspision by delivering a turing test.
 
 You scream inside the belly of the beast "Hello! What do you call yourself?"
 
-At first you hear no response. And then, a deep rumble comes from all around. 
+At first you hear no response. And then, a deep rumble comes from all around.
 
-"Stay Puft" 
+"Stay Puft"
 
 Do you:
 
@@ -32,3 +32,4 @@ Do you:
 
 [If you really want to know something, ask OkGoogle](OkGoogle/ask_OkGoogle.md)
 
+[Pick up the Cuneiform tablet just centimeters from your feet](cuneiform/cuniform-tablet)
