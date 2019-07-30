@@ -67,7 +67,7 @@ this freaks you out, but you feel paralyzed, unable to move, a force grips you a
 the figure inches closer to you. You begin to realize that the the being is none 
 other than Man-Bear-Pig!
 
-You scream out of fright, and notice the reflection of the hippy holding a large a 
+You scream out of fright, and notice the reflection of the hippy holding a large 
 blue fork in the mirror next to you, even though there is no one else in the room! 
 He gestures for you to reach towards the mirror!
 
