@@ -1,7 +1,7 @@
 As you walk into the dental office, the pain in your mouth subsides.
 Just as you start feeling happy that your mouth doesn't hurt anymore,
 you look around and realize you're back in that weird room with the marshmallow walls.
-The garishly dressed, vacant-eyed young man is still lounging on the sofa.
+The garishly dressed, green-vacant-eyed, interesting young man is still lounging on the sofa.
 
 [Interrogate the man for clues](../../movie-ripoffs/zoolander/zoolander.md)
 
