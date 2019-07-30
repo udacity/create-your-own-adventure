@@ -17,7 +17,7 @@ I'm like a wild animal in the corner
 Waiting for the break of dawn
 Trying to get through the night
 Just a man with the will to survive
-
+One [pinches](../pinch/pinch.md) from  one hundred buybuilders
 
 After that episode,
 
