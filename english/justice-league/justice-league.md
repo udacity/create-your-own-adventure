@@ -9,7 +9,8 @@ You send out a distress signal.
 Who will answer the call?
 
   - Superman?
-  - Batman?
+  - Batman
+  - [Bruce Wayne](./batman/batman.md)?
   - Wonder Woman?
   - Flash?
   - Green Arrow?
