@@ -6,3 +6,7 @@ outside the room you see...
 
 That you are about to be crushed by a giant corn. :)
 
+-
+
+What should you do  [Find and grab a light saber](../lightsaber/shoot/shoot.md) ?
+
