@@ -32,4 +32,4 @@ Do you:
 
 [If you really want to know something, ask OkGoogle](OkGoogle/ask_OkGoogle.md)
 
-[Pick up the Cuneiform tablet just centimeters from your feet](cuneiform/cuneiform-tablet)
+[Pick up the Cuneiform tablet just centimeters from your feet](cuneiform/cuneiform-tablet.md)
