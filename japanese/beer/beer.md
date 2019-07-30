@@ -5,6 +5,8 @@
 
 [掛け軸を拝見する](../kakejiku/kakejiku.md)
 
+[他の掛け軸を拝見する](../hokanokakejiku/hokanokakejiku.md)
+
 [ソフトドリンクに変更する](../softdrink/softdrink.md)
 
 [新年の抱負を語る](../newyear/newyear.md)
