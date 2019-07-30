@@ -182,6 +182,7 @@ Then, you consider playing a [chess puzzle](chess/chess.md)
 A sound from a Hitchcock movie fills the room, then quickly fades away.
 
 Was it the sound of a cry from the shower?
+Do you want to investigate the [shower](shower/shower.md)?
 
 Was it the sound of birds?
 
