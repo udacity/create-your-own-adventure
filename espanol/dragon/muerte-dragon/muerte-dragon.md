@@ -1,1 +1,3 @@
 La muerte del dragón provocó la ira de sus hermanos, que no dudaron en jurar venganza por aquel atroz acto.
+
+Paquito El Grande, el hermano menor, fue el más afectado de todos por la muerte del dragón.
