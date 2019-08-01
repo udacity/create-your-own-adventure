@@ -1,9 +1,9 @@
 Sie antworten "Ich bin ... jetzt kennst Du mich ja. Magst Du ein Bier oder etwas anderes?".
 Sie lacht.
-Sie schlägt vor:
+Sie schlï¿½gt vor:
 
 
-[Äppler trinken und Handkäs mit Musigg essen.](Hessen/aus_Hessen.md)
+[ï¿½ppler trinken und Handkï¿½s mit Musigg essen.](Hessen/aus_Hessen.md)
 
 
 [Kuchen essen dann Wodka trinken und dann Bier.](MeckPomm/aus_Meckpomm.md)
@@ -13,3 +13,6 @@ Sie schlägt vor:
 
 
 [Schwenker essen und Stubbi trinken.](Saarland/aus_dem_Saarland.md)
+
+
+[WeiÃŸwurst essen und WeiÃŸbier trinken.](Bayern/aus_Bayern.md)
