@@ -11,15 +11,15 @@ and should'ves. Time goes on and drags you with it. Whether you are in or
 out of love, make the best of now while being aware of the worst of before.
 
 Of course, there is no substitute for the experince of it. It must be
-lived in order to be understood. All the words there are in the world 
-cannot make you understand the feeling of it. Anyways, [here's 
+lived in order to be understood. All the words there are in the world
+cannot make you understand the feeling of it. Anyways, [here's
 something comepletely different.](../marshmallow.md)
 
 If all else fails, you could [try this.](../read-a-book/read-a-book.md)
 
-Love feels eternal but the 
-pain it adds to your heart is painful 
-[The Pain] (https://www.quora.com/What-is-it-like-when-you-feel-the-pain-of-loving-someone-when-its-one-sided) 
+Love feels eternal but the
+pain it adds to your heart is painful
+[The Pain](https://www.quora.com/What-is-it-like-when-you-feel-the-pain-of-loving-someone-when-its-one-sided)
 to see how people manage the pain
 
 An Entrapment
@@ -44,7 +44,7 @@ I wish to stay entrapped forever.
 With you for all eternity.
 Our hearts, always as one.
 
-- Anthony Kolos - 
+- Anthony Kolos -
 
 God is love.
 Love.
@@ -58,4 +58,6 @@ Love can be a passion.
 But depending on the person.
 Love can be anything.
 
-I didn't believed in love until i met you - A <3  
+I didn't believed in love until i met you - A <3
+
+[News](https://www.cnn.com/)
