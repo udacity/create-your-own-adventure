@@ -1,4 +1,4 @@
-If you like Ed Sheeran's songs [for you](english/Ed-Sheeran-music/list-song.md)
+﻿If you like Ed Sheeran's songs [for you](english/Ed-Sheeran-music/list-song.md)
 
 If you wanna rock and roll [Headbang to here](rock/first_step.md)
 
@@ -183,3 +183,5 @@ If you speak Igbo, [go here](igbo/igbo-news.md)
 [Russian lang? | Рус. яз.?](ru/lang.md)
 
 If you want to visit google developer , [go here](english/android-dev/dev.md).
+
+If you like machine learning, [go here](coding/machine_learning.md)
