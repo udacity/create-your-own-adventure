@@ -5,3 +5,5 @@ Só dá ocupado.
 [Como você não consegue ligar, você resolve ir a praia e gastar seus 5 Cruzeiros num mate Leão.](praia/mate.md)
 	
 [Você resolve trocar de empresa.](outra/mesma.md)
+
+[Depois de muito tempo eles atendem já lhe oferecendo uma promoção.](promocao/promocao.md)
