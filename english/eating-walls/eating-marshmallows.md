@@ -34,6 +34,8 @@ Do you:
 
 [Find a Toilet](find-a-toilet/find-a-toilet.md)
 
+[Head for the hills](head-for-the-hills/head-for-the-hills.md)
+
 [Begin to sing very clearly](../sing/sing.md)
 
 [Remember your ability to regurgitate on command](../get-out-of-system/get-out-of-system.md)
