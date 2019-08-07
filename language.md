@@ -1,3 +1,5 @@
+As jy Afrikaans kan praat, kliek [hier](afrikaans/kos.md)
+
 If you like Ed Sheeran's songs [for you](english/Ed-Sheeran-music/list-song.md)
 
 If you wanna rock and roll [Headbang to here](rock/first_step.md)
@@ -140,8 +142,6 @@ Se vi parolas esperanton, alklaki [tie] (esperanto/komenci.md).
 ئەگەر ئۇيغۇرچە سۆزلىسىڭىز، [بۇ يەرگە كىرىڭ](uyghurish/uyghurish-story.md)
 
 Na kama lugha yako ni Swahili, [click hapa](swahili/swahili.md)
-
-As jy Afrikaans kan praat, gaan [hier](afrikaans/kos.md)
 
 =======
 Kama unazungumza kiswahili [ingia hapa](swahili/marshmallow.md)
