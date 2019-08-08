@@ -1,1 +1,3 @@
-De un río cercano, el maestro desvió su cauce sobre el enemigo, obligándolos a retirarse.
+De un rï¿½o cercano, el maestro desviï¿½ su cauce sobre el enemigo, obligï¿½ndolos a retirarse.
+El enemigo decidiÃ³ contraatacar usando lo Ãºltimo que entrenÃ³:
+
