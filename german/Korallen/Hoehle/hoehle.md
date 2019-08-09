@@ -2,6 +2,7 @@ Sie sind trotz Ihrer Einschätzung, dass die Luft nicht reichen würde, in die H
 
 Im Inneren angekommen...
 
+[finden Sie einen riesen großen Schatz](Schatz/schatz.md)
 
 [Treffen Sie auf eine Meerjungfrau](Meerjungfrau/meerjungfrau.md)
 
