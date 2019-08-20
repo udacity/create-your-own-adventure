@@ -9,3 +9,5 @@ Do you:
 
 [use the voice recognition feature](voice/voice.md)
 
+[use the retinal scan] (retinal-scan/retinal-scan.md)
+
