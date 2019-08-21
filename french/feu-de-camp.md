@@ -30,7 +30,7 @@ Que faites-vous ?
 
 [Je demande de l'aide a Google](google/google.md)
 
-[J'appelle le genie](appelle-genie/appelle-genie.md)
+[J'appelle le genie](appel-genie/appel-genie.md)
 
 [Je me lève et me dirige vers la sortie](sortie/pousser-porte/pousser-porte.md)
 

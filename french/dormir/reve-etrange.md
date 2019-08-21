@@ -6,7 +6,7 @@ Vous vous réveillez ce qui semble être quelques heures plus tard,
 
 Que faites-vous ?
 
-[Je ne sais pas, mais je vais le déterminer grâce à une aide inattendue](../appelle-genie/appelle-genie.md)
+[Je ne sais pas, mais je vais le déterminer grâce à une aide inattendue](../appel-genie/appel-genie.md)
 
 [Je cherche une sortie](../sortie/chercher-la-sortie.md)
 
