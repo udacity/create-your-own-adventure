@@ -1,5 +1,5 @@
-Comme c'est le weekend, sa mère repond et me demande d'aller lui acheter du pain.
+Comme c'est le weekend, ma mère répond et me demande d'aller lui acheter du pain.
 
-Il met son manteau.
+Je mets mon manteau.
 
 [Retourner](../feu-de-camp.md)

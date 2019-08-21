@@ -1,6 +1,6 @@
 Par un beau matin, vous vous réveillez dans une pièce étrange aux murs en pain d'épice.
 
-On aurait pû faire que les murs soient fait en pâte de guimave, mais ce sont des murs français. ;)
+On aurait pu faire en sorte que les murs soient fait en pâte de guimauve, mais ce sont des murs français. ;)
 
 Que faites-vous ?
 
@@ -20,9 +20,9 @@ Que faites-vous ?
 
 [J'appelle mon prof de maths](riddle/prof_maths.md)
 
-[Je dessine une porte avec un syphon de crème chantilly qui traine](dessine/porte.md)
+[Je dessine une porte avec un syphon de crème chantilly qui traîne](dessine/porte.md)
 
-[Je ne parle pas francais](../english/marshmallow.md)
+[Je ne parle pas français](../english/marshmallow.md)
 
 [Je parle un peu arabe](../arabic/salamoAlikom.md)
 
