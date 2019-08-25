@@ -11,3 +11,5 @@ Maybe even a [fart] (../eat-farts/eat-farts.md)or two?
 sick of it?
 
 Stick to rice.  
+
+without the beans, of course!
