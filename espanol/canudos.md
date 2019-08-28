@@ -201,3 +201,6 @@ Y despues de varios disparos decidio ir a comer, mientras su amigo lo cubria el 
 para iniciar su viaje directo al [espacio](space/space.md).
 
 Se tomo unos [macarrones con tomatito del lidl, queso y choricito](macarrones/macarras.md).
+
+Se despidió de Beatito y le dijo: "te quiero mucho, por fa no seas comunista :3".
+
