@@ -1,4 +1,4 @@
-Il y assez de pain d'épice pour tous vos amis ! Invitez les tous pour une soirée gourmande pain d'épices.
-Avec du foie gras, ça sera encore mieux :)
+Il y assez de pain d'Ã©pice pour tous vos amis ! Invitez les tous pour une soirÃ©e gourmande pain d'Ã©pice.
+Avec du foie gras, ce sera encore mieux :)
 
 [Je commande du foie gras](../foie-gras/foie-gras.md)

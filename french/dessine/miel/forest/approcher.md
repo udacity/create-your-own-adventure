@@ -1,11 +1,9 @@
-C'est malheureusement bien ce que j'avais pressenti: un ours me 
-regarde goulument!
-Si seulement je pouvais lui parler et lui demander pitie...!
+C'est malheureusement bien ce que j'avais pressenti : un ours me 
+regarde goulument !
+Si seulement je pouvais lui parler et lui demander pitié...!
 
 Je décide de...
 
-[Partir a courrir pour me sauver de l'ours](fuite/fuite.md)
+[Partir et courir pour me sauver de l'ours](fuite/fuite.md)
 
-
-[Je sors mon syphon a crème chantilly et l'asperge.] (chantilly/asperge.md)
-
+[Je sors mon syphon à crème chantilly et l'asperge.](chantilly/asperge.md)
