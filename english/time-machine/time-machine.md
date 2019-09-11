@@ -11,6 +11,8 @@ Which part of the world, and what time you want to travel? And why?
 
 [You decide to travel back in time to visit a founding father of America](https://www.youtube.com/watch?v=t0aX8Jy1tME)
 
+[You decide to travel to the jaurasic period and pet a dinosaur](../dinosaur/dinosaur-eaten.md)
+
 You travel to [1999](https://www.youtube.com/watch?v=ddzbxJasID4)to prepare for Y2k.
 
 [You turn back](../marshmallow.md)
