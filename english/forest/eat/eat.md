@@ -25,3 +25,5 @@ eveywhere. Hundreds of squirrels! You're surrounded. You've walked
 straight into their trap.
 
 The hunter has become the hunted...
+
+The chatter of the squirrels is getting louder and louder.

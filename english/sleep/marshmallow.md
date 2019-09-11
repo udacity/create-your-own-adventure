@@ -40,3 +40,5 @@ Do you:
 [Sit down to meditate](sit-down-to-meditate/sit-down-to-meditate.md)
 
 [Wish for ice cream](./ice-cream/ice-cream.md)
+
+[look for something that will help you on the walls](lookwalls/lookwalls.md)

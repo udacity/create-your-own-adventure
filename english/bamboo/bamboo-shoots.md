@@ -9,4 +9,10 @@ You don't know what to do.The pandas continue to walk towards you.
 
 You begin retreating slowly.Suddenly,one of the pandas speed up.
 
+You saw Panda coming more closer to you!
+
+You saw Panda and it is really big!
+
 How strong is scaffolding made of bamboo you ask?
+
+Well, not so sure. But you have no other choice to take a bamboo as a weapon against the evil pandas.

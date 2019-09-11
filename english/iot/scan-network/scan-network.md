@@ -20,3 +20,4 @@ said in an irritated tone.
 "Of course it wasn't. It was you, just another home assistance gadget 
 configured as if he's the only RFC1918 address in the IoT"
 
+
