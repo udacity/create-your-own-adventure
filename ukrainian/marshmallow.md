@@ -53,3 +53,5 @@
 Перед вами вікно. Ви його [відкиваєте](window/open-the-window.md)...
 
 Послухаю [музику](music/links_to_music.md)
+
+Просто додам [печеньку](cookie/cookie.md)
