@@ -1,0 +1,1 @@
+Як поєднати стіну з [печенькою](https://en.wikipedia.org/wiki/S%27more).
