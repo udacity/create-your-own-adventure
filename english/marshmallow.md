@@ -1265,3 +1265,5 @@ Do you like [tigers](tiger/tiger.md)?
 [Travel the world!](travel/destinations.md)
 
 Do you like [apple?](https://www.youtube.com/watch?v=1goJcurIMig)
+
+Some people believe that any accomplishment deserves a great celebration, regardless of the magnitude of the action.
