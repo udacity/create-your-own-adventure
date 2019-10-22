@@ -11,7 +11,7 @@ Salman,[go here](actor2/salman.md)
 
 Amithab, [go here](actor3/amithab.md)
 
-Hrithik Roshan, [यहाँ देखें](hrithik/hrithik.md)
+Hrithik Roshan, [यहाँ देखें](hrithik/hrithik.md), [follow on twitter](https://twitter.com/iHrithik?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
 
 shraddha kappor,[go here](shraddha/shraddha.md)
 
