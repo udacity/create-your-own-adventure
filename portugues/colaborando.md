@@ -54,7 +54,9 @@ Vende seu PC?
 
 [NÃO](nvenda/nao.md)
 
-[Um tijolo pesa 1 quilo mais meio tijolo. Quanto pesa 1 tijolo e meio?](pesos/tijolos.md) 
+Um tijolo pesa 1 quilo mais meio tijolo. Quanto pesa 1 tijolo e meio?
+
+Verifique [aqui](pesos/tijolos.md) o resultado do peso de 1 tijolo e meio.
 
 BR BR BR Hue hue hue!!!!
 
