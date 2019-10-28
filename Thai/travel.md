@@ -10,4 +10,4 @@ What do you want to do?
 
  I want to sleep on a beach and dream of [hiking](Activities/Hiking.md) a mountain in the Northern of Thailand.
 
- [Surf while drinking bear] (../Thai/surf-and-bear/travel.md)
+ [Surf while drinking bear](Thai/surf-and-beer/travel.md)
