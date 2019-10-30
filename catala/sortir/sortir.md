@@ -9,4 +9,11 @@ has vist sigui fruit de la teva imaginació.
 
 Però veus que no pots agafar son i t'acabes despertant.
 
-Clica [aquí](../catala.md) per tornar a començar...
+Què fas ara? 
+
+[Somrius](somrius/somrius.md)
+
+[Tornes a dormir](dormir/dormir.md)
+
+[Fas uns stories](stories/stories.md)
+
