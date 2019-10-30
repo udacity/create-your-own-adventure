@@ -10,7 +10,10 @@ has vist sigui fruit de la teva imaginació.
 Però veus que no pots agafar son i t'acabes despertant.
 
 Què fas ara? 
-[somrius](somrius/somrius.md)
+
+[Somrius](somrius/somrius.md)
+
 [Tornes a dormir](dormir/dormir.md)
-[Fer uns stories](stories/stories.md)
+
+[Fas uns stories](stories/stories.md)
 
