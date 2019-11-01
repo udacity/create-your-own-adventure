@@ -4,4 +4,6 @@ fue una experiencia real. Experiencia dura, cruel, fiera y brutal pero no
 exenta de moraleja: cualquier hecho pérfido, peligroso y dañino puede acontecer
 en un día cualquiera pero de todo se aprender y todo termina
 
-A todo día le sucede otro.
+A todo día le sucede otro. 
+
+No necesariamente mejor.
