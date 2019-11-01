@@ -5,3 +5,4 @@ exenta de moraleja: cualquier hecho pérfido, peligroso y dañino puede acontece
 en un día cualquiera pero de todo se aprender y todo termina
 
 A todo día le sucede otro.
+No necesariamente mejor.
