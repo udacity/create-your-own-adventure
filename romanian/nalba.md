@@ -86,4 +86,4 @@ Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
 
 Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
 
-Insa, dupa ce efectul potiunii isi mai pierduse din intensitate, Ginel a realizat ca si vrajeala s-a mai diminuat si dintr-odata il cuprinse o mahnire stranie, ce-i intrase pana in adancul oaselor. Framantarile filozofice reapasurera, iar Ginel medita cu indarjire la [conditia sa de geniu](conditie/conditia_omului_de_geniu.md). 
+Insa, dupa ce efectul potiunii isi mai pierduse din intensitate, Ginel a realizat ca si vrajeala s-a mai diminuat si dintr-odata il cuprinse o mahnire stranie, ce-i intrase pana in adancul oaselor. Framantarile filozofice reaparusera, iar Ginel medita cu indarjire la [conditia sa de geniu](conditie/conditia_omului_de_geniu.md). 
