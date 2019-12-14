@@ -3,7 +3,9 @@ a game for the fool,
 a comedy for the rich, 
 a tragedy for the poor.
 
-
+You are not a drop in the ocean. 
+You are the entire ocean in a drop. 
+-Rumi
 
 Quote for [Family](family/family.md)
 
