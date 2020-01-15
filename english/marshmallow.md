@@ -1,3 +1,5 @@
+"Missile Man of INDIA" has a message for you.[CLICK HERE](missile-man-of-india/apj-kalam.md)
+
 There's a spot open for the role of [Lead Programmer](programmer/lead_programmer.md)
 
 Wanna know what after death? Click [here](after-death/after-death.md)
