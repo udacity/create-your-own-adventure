@@ -1,3 +1,3 @@
-[Rübezahl antwortet nicht...](german/ruderboot.md)
+[Rübezahl antwortet nicht...](../ruderboot.md)
 
-[Rübezahl antwortet...](ruebezahl/berge.md)
+[Rübezahl antwortet...](../berge.md)
