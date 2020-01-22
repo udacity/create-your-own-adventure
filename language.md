@@ -1,4 +1,5 @@
 If you like Ed Sheeran's songs [for you](english/Ed-Sheeran-music/list-song.md)
+Perfect by Ed Sheeran is a good song [click here to sing along] (english/Ed-sheeran-music/Perfect/perfect-lyric.md)
 
 If you wanna rock and roll [Headbang to here](rock/first_step.md)
 
