@@ -1,10 +1,8 @@
 "doot doot!" - mr. skeltal
 
-good bones and calcium are in your future!
+Good bones and calcium are in your future!
 
-plz updoot
-
-mr. skeltal is nice!
+mr. skeltal isn't nice!
 
 As in, "not nice"
 
@@ -12,7 +10,7 @@ hahahaha
 
 'sup?
 
-no your face!
+not your face!
 
 but words!
 
