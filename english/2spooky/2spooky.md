@@ -16,6 +16,8 @@ no your face!
 
 but words!
 
+"Using complete sentences man!" Said mr. skeltal
+
 [Go back to sleep.](../sleep/marshmallow.md)
 
 [Check DC Comics.](../DC-Comics/epic_DC_Character.md)
