@@ -56,6 +56,8 @@ please muzhe en char logann ki talash hain
 please enka pata bata do... yeah char loganne meri
 zindagi bachpan se ab tak baingan main mila de rehe
 varna enkay bolney ka khauff hamesha bana rahega!"
+
+Wo char log jahnnum me hai bhai.
  
 
 
