@@ -85,3 +85,5 @@ Parea ca devenise un [pitigoi lustragiu](pitigoi/pitigoi.md) pentru incisivii
 Si se simtea atat de [euforic] (euforie/euforie.md) incat nu-i mai pasa.
 
 Plin de vrajeala alicea [da un click aici](vrajeala/vrajeala.md)
+
+Oare este bine că am băut și nu mai sunt conștient de mine? se gândi el.
