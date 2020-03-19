@@ -1,1 +1,3 @@
 Selamat datang kawan...
+
+Cerita ini berawal ketika seorang [petualang](indonesia/petualang/petualang.md)

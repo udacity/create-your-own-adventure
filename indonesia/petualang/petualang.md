@@ -1,0 +1,1 @@
+Aku adalah seorang petualang
