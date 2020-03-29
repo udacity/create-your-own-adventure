@@ -1,0 +1,6 @@
+This is a story of a person who was once sad and disappointed because of helplessness.
+Till the age of 20, he was very happy, until a sad turning of event made his life miserable.
+And that was the biggest incident of his life. His mother left this life....
+But after sometime, something unexpected happened which changed his complete life.
+
+For a complete story make a new file in this directory containing with your NAME as @YourName.
