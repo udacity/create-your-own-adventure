@@ -6,6 +6,8 @@ If you wanna rock and roll [Headbang to here](rock/first_step.md)
 
 ﻿If you speak English, [go here](english/marshmallow.md).
 
+If youo speak Canadian, [go here, eh](Canadian/Canadian.md).
+
 Jei kalbi lietuviškai [spausk čia](lithuanian/startas.md)
 
 Nhar mai sai to, [nsit mai wefo](maibrat/tinyi.md)
