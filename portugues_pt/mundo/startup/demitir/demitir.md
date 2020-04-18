@@ -1,1 +1,0 @@
-A maioria dos funcionários possuía família e passaram fome. Você está sendo perseguido nas ruas

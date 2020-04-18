@@ -1,1 +1,0 @@
-Olha como é melhor!

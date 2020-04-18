@@ -1,1 +1,0 @@
-Hazi [Valyrian](https://en.wikipedia.org/wiki/Valar_Morghulis), yer yofi!!

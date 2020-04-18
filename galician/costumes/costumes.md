@@ -1,1 +1,0 @@
-Esta vez tiria que subir a cama, pra masaxear os seus donos cas suas patas dianteiras ata que espertasen.

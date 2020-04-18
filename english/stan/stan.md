@@ -1,1 +1,0 @@
-The morning rain clouds up my window, and I can't see at all!
