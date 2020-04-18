@@ -1,1 +1,0 @@
-Kemiti acha?

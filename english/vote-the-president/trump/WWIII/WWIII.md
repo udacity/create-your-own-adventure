@@ -1,3 +1,0 @@
-After the wall is completed, President Trump sends Mexico a bill for $8 billion to Mexico.
-Mexico doesn't like that, and declares war on the U.S.
-The rest is downhill from here...
