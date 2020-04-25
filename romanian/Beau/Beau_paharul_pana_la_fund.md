@@ -1,1 +1,1 @@
-Ginel ca un adevarat mafiot bau tot, ca era de menta.
+Ginel ca un adevarat mafiot bau tot, ca era de menta. GINEL!
