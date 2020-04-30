@@ -7,3 +7,5 @@
 [Зайду в ліфт та з'їхати до фабрики](factory/factory.md)
 
 [Зійду по східцям на вулицю](stairs/stairs.md)
+
+[Піду східцям вгору](stairs_up/stairs_up.md)
