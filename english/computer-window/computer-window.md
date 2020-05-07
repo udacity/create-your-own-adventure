@@ -8,8 +8,6 @@ You asked her,
 
  - Yes, thank you. I'm just thinking about our future...
 
- And you tell her,
-
-- Don't worry about the future. It belongs to AI and robots.
+ What do you do?
 
 [Check out Wikipedia](../wikipedia/wiki.md)
