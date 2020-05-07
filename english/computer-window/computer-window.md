@@ -10,4 +10,6 @@ You asked her,
 
  What do you do?
 
+ I tell her that she shouldn't be so worried about the future because, in the end, it will belong to AI and robots.
+
 [Check out Wikipedia](../wikipedia/wiki.md)
