@@ -1,7 +1,7 @@
 Yoga originated in India.
 Starting out in child pose, you start to zoom out from the environment and take focus on your breathing.
 
-Yoga is good for the boy and soul.
+Yoga is good for the body and soul.
 
 There are many types of yoga - Ashtanga, Bikram, Sivananda, Iyengar etc.
 
@@ -26,3 +26,4 @@ You start becoming transcendent.
 [Learn to breathe](../yoga/breathe/breathe.md)
 
 [Building the habit](../yoga/habit/yoga-habit.md)
+
