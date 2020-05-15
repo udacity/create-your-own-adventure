@@ -1,4 +1,4 @@
-Jednog jutra, probudio si se u cudnoj sobi za sidovima od sljezovih slatkiša.
+Jednog jutra, probudio si se u čudnoj sobi za sidovima od sljezovih slatkiša.
 
 Sljezovih slatkiša je mnogo i izgledaju jako ukusno.
 
@@ -8,13 +8,13 @@ U jakni pronađeš upaljač, vilicu i konop.
 
 Čini ti se da te netko promatra.
 
-Kad pogledaš u stranu, sljezova ruka ti pokusava zgrabiti upaljac!
+Kad pogledaš u stranu, vidiš da ti sljezova ruka pokušava zgrabiti upaljač!
 
-Napokon shvatis da je sljez samosvjestan!
+Napokon shvatiš da je sljez samosvjestan!
 
 Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
 
-Vani pada kisa.
+Vani pada kiša.
 
 [Otvori vrata](otvori_vrata.md)
 
