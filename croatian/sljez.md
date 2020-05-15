@@ -1,14 +1,14 @@
-Jednog jutra, probudis se u cudnoj sobi za sidovima od sljezovih slatkisa.
+Jednog jutra, probudio si se u cudnoj sobi za sidovima od sljezovih slatkiša.
 
-Sljezovih slatkisa je mnogo i izgledaju jako ukusno.
+Sljezovih slatkiša je mnogo i izgledaju jako ukusno.
 
-Na sebi nosis neudobnu koznu jaknu
+Na sebi nosiš neudobnu kožnu jaknu
 
-U jakni pronalazis upaljac, vilicu i konop.
+U jakni pronađeš upaljač, vilicu i konop.
 
-Cini ti se da te netko promatra
+Čini ti se da te netko promatra.
 
-Kad pogledas na stranu, sljezova ruka ti pokusava zgrabiti upaljac/
+Kad pogledaš u stranu, sljezova ruka ti pokusava zgrabiti upaljac!
 
 Napokon shvatis da je sljez samosvjestan!
 
@@ -16,4 +16,6 @@ Brzo zgrabiš upaljač, prestravljeno trčeći prema najbližim vratima.
 
 Vani pada kisa.
 
-Istrcis van, sljez se rastopi.
+[Otvori vrata](otvori_vrata.md)
+
+[Upali vatru](upali_vatru.md)
