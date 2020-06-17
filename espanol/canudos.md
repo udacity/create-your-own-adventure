@@ -201,3 +201,5 @@ Y despues de varios disparos decidio ir a comer, mientras su amigo lo cubria el 
 para iniciar su viaje directo al [espacio](space/space.md).
 
 Se tomo unos [macarrones con tomatito del lidl, queso y choricito](macarrones/macarras.md).
+
+y saco tanta fuerza de donde no habia que tuvo que darle [energia al sol](sol/sol.md) para no morir.
