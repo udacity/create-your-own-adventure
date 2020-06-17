@@ -1,1 +1,1 @@
-Levantos sus manos mirando hacia el sol, como si fuera hacer la henkidame, pero en realidad estaba estaciado, con la comida que tenia unos hongos alucinogenos. Sin pensarlo dos veces, salio corriendo, tirando golpes al ire como si derrotara gigantes.
+Levantos sus manos mirando hacia el sol, como si fuera hacer la henkidame, pero en realidad estaba estaciado, con la comida que tenia unos hongos alucinogenos. Sin pensarlo dos veces, salio corriendo, tirando golpes al viento como si derrotara gigantes.
