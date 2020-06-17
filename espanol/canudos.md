@@ -202,4 +202,4 @@ para iniciar su viaje directo al [espacio](space/space.md).
 
 Se tomo unos [macarrones con tomatito del lidl, queso y choricito](macarrones/macarras.md).
 
-y saco fuerza de donde no habia tantas, que tuvo que darle [energia al sol](sol/sol.md) para no morir.
+y saco tanta fuerza de donde no habia que tuvo que darle [energia al sol](sol/sol.md) para no morir.
