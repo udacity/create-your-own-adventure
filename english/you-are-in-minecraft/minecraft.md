@@ -32,3 +32,5 @@ HxM7nBml4E4_W9eLNTDyp4X9nZX7IcNuDO3a7KC7p_A)
 [Hulk out?](../hulk/smash.md)
 
 [Surprise!](../surprise!/surprise.md)
+
+[Dig down again] (dig_down/dig_down.md)
