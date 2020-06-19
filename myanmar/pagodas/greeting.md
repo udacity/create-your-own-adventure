@@ -1,0 +1,1 @@
+မင်္ဂလာပါ (ming-gah-lah-bahr)
