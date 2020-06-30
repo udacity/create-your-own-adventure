@@ -1,0 +1,8 @@
+> **Cuélebre** ([Asturian](https://en.wikipedia.org/wiki/Asturian_language)) or **Culebre** ([Cantabrian](https://en.wikipedia.org/wiki/Cantabrian_dialect)), is a giant winged serpent-[dragon](https://en.wikipedia.org/wiki/Dragon) of the [Asturian](https://en.wikipedia.org/wiki/Asturias) and [Cantabrian mythology](https://en.wikipedia.org/wiki/Cantabrian_mythology), that lives in a cave, guards [treasures](https://en.wikipedia.org/wiki/Treasure) and keeps *[anjanas](https://en.wikipedia.org/wiki/Anjana_(Cantabrian_mythology))* (also known as *xanas*) as prisoners. Although they are immortal, the cuélebre age, and their scales become thick and impenetrable, and [bat](https://en.wikipedia.org/wiki/Bat) wings grow in their bodies. They must eventually flee Asturias and fly to the [Mar Cuajada](https://en.wikipedia.org/w/index.php?title=Mar_Cuajada&action=edit&redlink=1), a paradise located beyond the sea.
+>
+> They do not usually move, and when they do it, it is in order to eat cattle and people. One can kill the cuélebre giving him as meal a red-hot stone or a bread full of pins. Its spit it is said to turn into a magic stone which heals many diseases.
+>
+> In [Midsummer](https://en.wikipedia.org/wiki/Midsummer), which is a magical night in Asturian and Cantabrian folklore, it is possible for brave men to defeat the *cuélebre*, whose spells don't take effect that night, and marry the xana and get the treasure. However, in Cantabrian areas it is said the night of [Saint Bartholomew](https://en.wikipedia.org/wiki/Saint_Bartholomew) the creature increases his power and unleashes all his fury against people in revenge.
+>
+> -Wikipedia, [Cuélebre](https://en.wikipedia.org/wiki/Cu%C3%A9lebre)
+
