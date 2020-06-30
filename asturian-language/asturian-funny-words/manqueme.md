@@ -1,0 +1,1 @@
+- In Asturias, when you hit something and you hurt yourself, you say: **"manquéme"**.
