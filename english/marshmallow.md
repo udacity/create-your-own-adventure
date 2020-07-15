@@ -12,6 +12,8 @@ Now what?
 
 A few learned to [tango](tango/tango.md)
 
+Others learned to master the [waltz](waltz/waltz.md)
+
 Some preferred to
 Enter [The Forest!](forest/forest.md)
 
