@@ -1,3 +1,5 @@
+If you speak Hausa language, [click here](https://www.britannica.com/topic/Hausa-language)
+
 If you like Ed Sheeran's songs [for you](english/Ed-Sheeran-music/list-song.md)
 
 If you wanna rock and roll [Headbang to here](rock/first_step.md)
@@ -18,7 +20,7 @@ If you understand Tamil, தமிழ் வணக்கம் [இங்கே 
 
 தமிழ் வணக்கம்! To view Tamil Proverb about Friendship [Click Here](Tamil/Thirukural.md)
 
-தமிழ் வணக்கம்!To view ponmozhigal [Click Here](Tamil/Vivekanandha/ponmozhigal.md)
+தமிழ் வணக்கம்!To view ponmozhigal [Clck Here](Tamil/Vivekanandha/ponmozhigal.md)
 
 If you speak Punjabi, [go here](punjabi/punjabi.md).
 
