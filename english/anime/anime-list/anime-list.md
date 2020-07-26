@@ -1,4 +1,3 @@
-[Naruto](anime-list/naruto/naruto.md)
+[Naruto](naruto/naruto.md)
 
-[Bleach](anime-list/bleach/bleach.md)
-
+[Bleach](bleach/bleach.md)

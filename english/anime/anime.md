@@ -8,4 +8,4 @@ What's your favourite anime?
 
 please tell me...
 
-here's a list, [go here](anime/anime-list/anime-list.md)
+here's a list, [go here](anime-list/anime-list.md)
