@@ -75,3 +75,5 @@ BR BR BR Hue hue hue!!!!
 [Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
 
 [Será o fim?](historia/fim.md)
+
+Tá conseguindo entender tudo até [aqui?](entender/perdido.md)
