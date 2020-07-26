@@ -1,4 +1,4 @@
-What is [Anime](https://en.wikipedia.org/wike/Anime)?
+What is [Anime](https://en.wikipedia.org/wiki/Anime)?
 
 For me Anime is the peak of story-telling
 
