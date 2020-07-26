@@ -1,4 +1,4 @@
-What is [Anime](https://en.wikipedia.org/wike/Anime) ?
+What is [Anime](https://en.wikipedia.org/wike/Anime)?
 
 For me Anime is the peak of story-telling
 
@@ -8,4 +8,4 @@ What's your favourite anime?
 
 please tell me...
 
-here's a list, [go here](anime/anime-list/anime-list.md) 
+here's a list, [go here](anime/anime-list/anime-list.md)

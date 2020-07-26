@@ -1266,4 +1266,4 @@ Do you like [tigers](tiger/tiger.md)?
 
 Do you like [apple?](https://www.youtube.com/watch?v=1goJcurIMig)
 
-Do you love Japanese Anime, [hurl your Rasengan!] (english/anime/anime.md)
+Do you love Japanese Anime, [hurl your Rasengan!](english/anime/anime.md)
