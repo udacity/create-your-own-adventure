@@ -1265,3 +1265,5 @@ Do you like [tigers](tiger/tiger.md)?
 [Travel the world!](travel/destinations.md)
 
 Do you like [apple?](https://www.youtube.com/watch?v=1goJcurIMig)
+
+Do you love Japanese Anime, [hurl your Rasengan!] (english/anime/anime.md)
