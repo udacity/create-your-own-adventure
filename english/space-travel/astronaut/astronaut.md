@@ -9,3 +9,4 @@ Do you:
 
 [use the voice recognition feature](voice/voice.md)
 
+[press the button](button/button.md)
