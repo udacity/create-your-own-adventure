@@ -183,3 +183,5 @@ If you speak Igbo, [go here](igbo/igbo-news.md)
 [Russian lang? | Рус. яз.?](ru/lang.md)
 
 If you want to visit google developer , [go here](english/android-dev/dev.md).
+
+বাঙলাএ পরার জন্নে এখান এ | For Bengali/Bangla plese follow - [বাঙলা | Bengali | Bangla](bangla/bangla.md)
