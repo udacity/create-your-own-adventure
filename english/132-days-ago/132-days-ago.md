@@ -6,6 +6,8 @@ You decide to [eat the chocolate anyway.](../youre-fine/youre-fine.md)
 
 Or, you could [eat a juicy steak](../rib-eye/rib-eye.md)
 
+Was the day the world ended [mom and dad stayed behind](../space-travel/space-travel.md)
+
 Maybe even a [fart] (../eat-farts/eat-farts.md)or two?
 
 sick of it
