@@ -7,3 +7,6 @@ Katsellessasi tyyntä järveä kuulet kuikan huudot hämärtyvässä elokuun alu
 Mene uimaan painamalla [tästä](järvi/järvi.md)
 
 Palaa [löylyyn](loyly/loyly.md)
+
+Tuli nälkä, mene ostamaan makkaraa [kaupasta](kauppa/kauppa.md)
+
