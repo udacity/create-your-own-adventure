@@ -1,6 +1,6 @@
 Jy voel jy sal graag
 
-- [Ouma](./ouma/ouma.md) winkel beskuit
+- [Ouma](./ouma/ouma.md) winkel bikini
 
 - [Tuisgebakte] (./tuisgebakte/tuisgebakte.md) beskuit
 eet.
