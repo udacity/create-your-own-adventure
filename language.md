@@ -184,4 +184,4 @@ If you speak Igbo, [go here](igbo/igbo-news.md)
 
 If you want to visit google developer , [go here](english/android-dev/dev.md).
 
-Click [here](http://www.google.com) to visit Google.
+Click [here](http://www.youtube.com) to visit Youtube.
