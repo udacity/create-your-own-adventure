@@ -183,3 +183,5 @@ If you speak Igbo, [go here](igbo/igbo-news.md)
 [Russian lang? | Рус. яз.?](ru/lang.md)
 
 If you want to visit google developer , [go here](english/android-dev/dev.md).
+
+Learn Piano music theory .[click here](https://www.edx.org/search?q=music&tab=course)
