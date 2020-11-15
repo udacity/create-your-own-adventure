@@ -1,0 +1,3 @@
+Bu cevap seyircinin hoşuna gidiyor.
+Herkes kahkalar ile sana gülerken birden
+stüdyodaki tüm ışıklar kararıyor ve...
