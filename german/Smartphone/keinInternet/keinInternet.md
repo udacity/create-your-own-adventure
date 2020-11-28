@@ -4,4 +4,5 @@ Du echauffrierst dich zunächst 10 Minuten über deinen schlechten Netzanbieter.
 [los zu schwimmen](../../schwimmen/schwimmen.md)
 
 [um Hilfe zu rufen] (../../Hilfeschrei/Hilfeschrei.md)
+
 [um Hilfe zu rufen](../../../Hilfeschrei/Hilfeschrei.md)
