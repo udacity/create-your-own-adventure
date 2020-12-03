@@ -1,13 +1,17 @@
-You are either dead or alive.
+How will you meet this cat?
 
-You simultaneously are both dead and alive.
+[Open the box and hope for the best?](open-box/open-box.md)
 
-Also known as Quantum Superposition
+Faced with the dilemma of how to meet a Schrödinger cat humanely, you
+[leave the box as is and forget about the whole idea.](walk-away/walk-away.md)
 
-It is only when you open the box that you become either dead or alive.
+In a show of solidarity, you [join the cat in the box.](join-the-cat/join-the-cat.md)
 
-To be alive or not or both is your choice.
+You decide there's no need to drag a cat into this neurotic morbidity,
+so you will [be the cat and satisfy your own dang curiosity.](be-the-cat/be-the-cat.md)
 
-So [open the box](dead-or-alive/dead-or-alive.md).
+Go to a press conference with cat and box pre-interment to try to
+[stop this madness.](stop-the-cat/stop-the-cat.md)
 
-Or, [weld the box shut](undead/undead.md) and become an immortal undead.
+Try to [find an ex-Schrödinger-cat](find-survivors/find-survivors.md) at
+a speakeasy frequented by survivors of modern science.

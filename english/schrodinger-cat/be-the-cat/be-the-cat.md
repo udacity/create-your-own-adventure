@@ -1,0 +1,1 @@
+You stare at the lid and contemplate your life choices.
