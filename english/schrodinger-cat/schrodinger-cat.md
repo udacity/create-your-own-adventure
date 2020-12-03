@@ -13,4 +13,5 @@ so you will [be the cat and satisfy your own dang curiosity.](be-the-cat/be-the-
 Go to a press conference with cat and box pre-interment to try to
 [stop this madness.](stop-the-cat/stop-the-cat.md)
 
-Try to [find an ex-Schrödinger-cat](find-survivors/find-survivors.md) at a speakeasy frequented by survivors of modern science.
+Try to [find an ex-Schrödinger-cat](find-survivors/find-survivors.md) at
+a speakeasy frequented by survivors of modern science.
