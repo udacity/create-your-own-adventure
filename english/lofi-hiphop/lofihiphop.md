@@ -1,1 +1,1 @@
-chill out to some [lofi hiphop](../songs/lofihiphop-songs)
+chill out to some [lofi hiphop songs now](songs/lofihiphop-songs.md)
