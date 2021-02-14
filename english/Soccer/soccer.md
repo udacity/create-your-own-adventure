@@ -2,4 +2,4 @@ The very first question you should ask yourself is about the position you want t
 
 If you want to score goals, you would probably be a Striker.
 
-If you want to score goals, you would probably be a Goalie.
+If you want to prevent goals, you would probably be a Goalie.
