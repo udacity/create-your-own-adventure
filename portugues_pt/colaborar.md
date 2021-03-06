@@ -38,3 +38,5 @@ Iria passear na [Itália](italia/italia.md)
 Investiria no [saturnov](http://www.saturnov.com/) 
 
 Daria a volta ao mundo 
+
+Mas essa volta ao mundo seria em [bicicleta](https://www.tripsavvy.com/best-bikepacking-routes-around-the-world-4178241). Bikepacking está cada vez mais na moda.
