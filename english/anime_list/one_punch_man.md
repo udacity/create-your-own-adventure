@@ -1,0 +1,1 @@
+my personal favorite, short and concise and a perfect sattire on the overpowered heroes who are bored of getting someone to even stand a chance against them. [click here](https://www.google.com/search?q=one+punch+man)
