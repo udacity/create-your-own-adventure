@@ -1265,3 +1265,6 @@ Do you like [tigers](tiger/tiger.md)?
 [Travel the world!](travel/destinations.md)
 
 Do you like [apple?](https://www.youtube.com/watch?v=1goJcurIMig)
+
+Do you qualify as a quant analyst/researcher working in a hedge fund? Find out [here.](Quant-Finance/quant-finance.md)
+
