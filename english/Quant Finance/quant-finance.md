@@ -1,1 +1,0 @@
-Here's the skills to become a Quantitative Researcher/Analyst in hedge fund. Read this [documentation](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/how-to-become-a-quant/#:~:text=Quants%20need%20to%20possess%20quantitative,fits%20machine%20learning%20and%20econometrics.) 
