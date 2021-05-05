@@ -8,5 +8,6 @@ Chyba warto sprawdzić co jest w środku.
 
 [Macasz kieszeń i próbujesz odgadnąć co jest w środku](macasz/macasz.md)
 
+[Macasz ściany żeby zobaczyć, co się stanie](macaj_sciany/macaj_sciany.md)
 
 
