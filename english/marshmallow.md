@@ -1,3 +1,5 @@
+Are you interested in bicycle safety? Click [here](bicycle-safety/bicycle-safety.md)
+
 There's a spot open for the role of [Lead Programmer](programmer/lead_programmer.md)
 
 Wanna know what after death? Click [here](after-death/after-death.md)
