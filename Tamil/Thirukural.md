@@ -9,3 +9,8 @@ Friendship hastens to rescue as fast as hand’s reflex to catch slipping cloth
 மெய்வருத்தக் கூலி தரும்
 Though fate-divine should make your labour vain;
 Effort its labour's sure reward will gain
+
+எப்பொருள் யார்யார்வாய்க் கேட்பினும் அப்பொருள்
+மெய்ப்பொருள் காண்ப தறிவு.
+Though things diverse from divers sages' lips we learn,
+'Tis wisdom's part in each the true thing to discern.
