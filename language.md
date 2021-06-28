@@ -183,3 +183,7 @@ If you speak Igbo, [go here](igbo/igbo-news.md)
 [Russian lang? | Рус. яз.?](ru/lang.md)
 
 If you want to visit google developer , [go here](english/android-dev/dev.md).
+
+For illaya thalapathy vijay songs click [here](Tamil/songs_by_actor/vijay.md)
+
+Thirukural updated please [click me](Tamil/Thirukural.md)
