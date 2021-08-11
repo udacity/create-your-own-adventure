@@ -43,6 +43,10 @@ Are you an:
 
 or a
 
+Are you a:
+
+[story writer, then write a story](https://github.com/Niraj-Kumar-Gangale/create-your-own-adventure.git)
+
 [night owl](nightOwl/content.md) ?
 
 Your adventure begins. You realize there are hundreds of paths for you to choose from.
