@@ -9,3 +9,6 @@ Do you:
 
 [use the voice recognition feature](voice/voice.md)
 
+
+[use the manual elevator buttons](button/button.md)
+
