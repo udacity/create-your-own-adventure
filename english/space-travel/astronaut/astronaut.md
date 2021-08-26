@@ -8,5 +8,5 @@ You enter the space elevator.
 Do you:
 
 [use the voice recognition feature](voice/voice.md)
+[use the manual elevator buttons](button/button.md)
 
-[use the manual elevator buttons](buttons/buttons.md)
