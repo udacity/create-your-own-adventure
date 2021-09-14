@@ -1,7 +1,7 @@
 # Collaborative Create-Your-Own-Adventure
 
 This is an example repo that illustrates the concept of a "Pull Request", created
-as part of the Udacity course [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
+as part of the Udacity course [How to Use Git and GitHub](https://classroom.udacity.com/courses/ud775/).
 In the create-your-own-adventure story the reader chooses what action to take and
 turns to an appropriate page of the story based on their choice.  It is collaborative
 because it is written one small piece at a time by many authors.  To start reading
