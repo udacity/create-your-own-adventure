@@ -1,1 +1,0 @@
-Boa idéia. Melhor morrer de fome do que perder o lançamento de Wolfenstein 3D ano que vem.

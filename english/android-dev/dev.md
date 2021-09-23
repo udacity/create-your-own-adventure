@@ -1,1 +1,0 @@
-Click [here](https://developer.android.com/) to visit Google Developer.

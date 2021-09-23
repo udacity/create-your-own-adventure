@@ -1,1 +1,0 @@
-Você descobriu o novo desenvolvedor, mas parece que ele possui uma péssima reputação.

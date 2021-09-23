@@ -1,1 +1,0 @@
-Het lichtje komt snel dichterbij. Wanhopig grijp je naar je [Zwitsers zakmes](../../zakmes/zakmes.md).
