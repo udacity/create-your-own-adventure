@@ -6,6 +6,8 @@ the hand as you try and tie the rope into a lasso. As the hand
 
 lunges forward, you throw the rope around the hand.
 
+This also reminds me of Ted Lasso, legendary coach of AFC richmond. 
+
 Do you:
 
 [Jump on the hand?](../lasso-hand/ride/ride.md)
