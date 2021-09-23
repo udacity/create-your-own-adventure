@@ -1,1 +1,0 @@
-Dáš si na raòajky túto chutnú kyslú rybku (však sladkého je všade naokolo dos :)

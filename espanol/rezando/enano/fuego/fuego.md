@@ -1,1 +1,0 @@
- y al decir esas palabras todas las flamas de las velas se intencificaron, a lo que Beatito respondió: 

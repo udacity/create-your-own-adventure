@@ -1,1 +1,0 @@
-Porque esto en tiempos de Pajares y Esteso no pasaba, las cosas acababan como debían ser.

@@ -1,1 +1,0 @@
-Você acessa a página [Udacity](http://udacity.com), faz o seu cadastro e começa a aprender!
