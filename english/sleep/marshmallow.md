@@ -42,3 +42,5 @@ Do you:
 [Wish for ice cream](./ice-cream/ice-cream.md)
 
 [look for something that will help you on the walls](lookwalls/lookwalls.md)
+
+[Start a fire and roast the marshmallow walls](../roast/roast.md)
