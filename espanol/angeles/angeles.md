@@ -11,3 +11,5 @@ La tecnología es un mal de la sociedad si se emplea mal.
 El progreso no mide tiempo.
 
 Los ángeles son mensajeros y voceros de la humanidad.
+
+Cuando los angeles lloaran llovera 😊
