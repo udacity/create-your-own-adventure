@@ -32,3 +32,5 @@ Para sa mga gusto kumanta [kanta] (kanta/minsan.md)
 Januart 12, 2017
 
 Para sa hindi pa namumulat sa katotohanan, pumunta [rito](mulat/mulat.md).
+
+Para sa mga nahihirapan [lunod](lunod/lunod.md)
