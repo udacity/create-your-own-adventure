@@ -9,3 +9,7 @@ Do you:
 [Lower your creative ambitions?](../write-a-hiku/hiku.md)
 
 [Ask your cat to finish it for you](../ask-a-cat/cat.md)
+
+Think of Beethoven and carry on! You begin work on your masterpiece and fresh ideas pop into your head.
+
+
