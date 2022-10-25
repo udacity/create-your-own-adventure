@@ -1254,6 +1254,8 @@ Why are you reading this line? smile and move on.
 
 Smile and move on gingerly.
 
+Have a nice weekend also.
+
 What is your [passion?](passion/passion.md)
 
 -
