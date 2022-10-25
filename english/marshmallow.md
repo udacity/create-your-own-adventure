@@ -1254,6 +1254,8 @@ Why are you reading this line? smile and move on.
 
 Smile and move on gingerly.
 
+Have a nice weekend also.
+
 What is your [passion?](passion/passion.md)
 
 -
@@ -1265,3 +1267,5 @@ Do you like [tigers](tiger/tiger.md)?
 [Travel the world!](travel/destinations.md)
 
 Do you like [apple?](https://www.youtube.com/watch?v=1goJcurIMig)
+
+Try being a frined with [Pinocchio](https://www.youtube.com/watch?v=JV-D_K4drsA)
