@@ -1265,3 +1265,5 @@ Do you like [tigers](tiger/tiger.md)?
 [Travel the world!](travel/destinations.md)
 
 Do you like [apple?](https://www.youtube.com/watch?v=1goJcurIMig)
+
+Try being a frined with [Pinocchio](https://www.youtube.com/watch?v=JV-D_K4drsA)
