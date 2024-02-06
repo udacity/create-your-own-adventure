@@ -77,10 +77,9 @@ visually separated.
 ### Avoid Using Markdown Features
 
 Other than links, please only use plain text in your story and not the other
-features of Markdown.  We want it to be easy to read the raw files even for
+features of Markdown. We want it to be easy to read the raw files even for
 people who don't know Markdown.
 
 ## License
 
-The content of this repository is licensed under a
-[Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+The content of this repository is licensed under a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
