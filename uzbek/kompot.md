@@ -1,0 +1,1 @@
+Sharq safari Toshkent jaziramasida savol bilan boshlanadi. - Bu nima, kompot? Va u qayerda?
