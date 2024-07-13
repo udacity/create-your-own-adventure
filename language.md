@@ -183,3 +183,5 @@ If you speak Igbo, [go here](igbo/igbo-news.md)
 [Russian lang? | Рус. яз.?](ru/lang.md)
 
 If you want to visit google developer , [go here](english/android-dev/dev.md).
+
+ಕನ್ನಡ ಓದಬಲ್ಲಿರೇ ?[ಇಲ್ಲಿ ಒತ್ತಿ ](kannada/navikarisida_soochike_1.md)
