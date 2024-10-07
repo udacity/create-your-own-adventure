@@ -1,0 +1,1 @@
+dqdo mraz e pederaZ
