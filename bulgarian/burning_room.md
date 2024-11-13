@@ -26,3 +26,21 @@
 
 12. [Решаваш, че ти е писнало от тази примитивна планета. Нега си гори:](./Enterprise/Enterprise.md)
     [- Скоти, телепортирай ме на Ентърпрайз!](./Enterprise/Enterprise.md)
+
+13. [Скоти го телепортира на Ентърпрайз](./Nanko/NankoStory.md)
+
+14. [Нова история](./stefan/stef.md)
+
+15. [Решаваш, че искаш да се биеш срещу мафията вместо да бягаш](./kill_them/kill_them.md)
+
+16. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
+
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+15. [Някой ден!!!](./valio/ddz.md)
+
+
+16. [решавам да си погледна телефона](./Newhistory26/newhistoryMitko.md)
+>>>>>>> 8a9e1ec2f246b1e70fcfb8487a562dc1e1e490b5
