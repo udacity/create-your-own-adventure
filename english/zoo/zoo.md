@@ -9,3 +9,7 @@ I choose to get better at [English](../get-better-at-english/english.md)
 After my self trolling is complete, I decide to drink the lemonade.
 As I lift the lemonade to my mouth I see the tigers have broken loose.
 [tiger-attack](../tiger-attack/tiger-attack.md)
+
+then a lion attacked me [lion](./lion/lion.md)
+
+and a man [stole](../stole/stole.md) a baby lion. 

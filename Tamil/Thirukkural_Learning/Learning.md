@@ -1,5 +1,27 @@
 ﻿திருக்குறள்
 ===============================================================================
+
+அதிகாரம்/Chapter: கடவுள் வாழ்த்து/ Prayer to God
+
+குறள் 1:
+அகர முதல எழுத்தெல்லாம் ஆதி
+பகவன் முதற்றே உலகு
+
+All the letters are voiced subsequent to the letter "A" and hence we call them as alphabets.
+For the world that came to existence there is One Who stood 
+before beginningless (and stands endless).
+That God is the ultimate Precedent of the world.
+
+
+குறள் 2:
+கற்றதனால் ஆய பயனென்கொல் வாலறிவன்
+நற்றாள் தொழாஅர் எனின்
+
+No fruit have men of all their studied lore,
+Save they the 'Purely Wise One's' feet adore
+
+===============================================================================
+
 பால்: பொருட்பால்
 அதிகாரம்/Chapter: கல்வி / Learning 
 

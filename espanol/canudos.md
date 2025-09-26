@@ -194,3 +194,10 @@ Luego de su viaje extraordinario se acordó de su [máquina del tiempo](maquina/
 [El ejército invasor avanza](ejercito-invasor/ejercito-invasor.md)
 
 [Y de repente, sintió la necesidad de que la historia llegase a su fin](fin/fin.md)
+
+[Activo su Stand ZA WARUDO](dio/dio.md)
+
+Y despues de varios disparos decidio ir a comer, mientras su amigo lo cubria el encendia el coche
+para iniciar su viaje directo al [espacio](space/space.md).
+
+Se tomo unos [macarrones con tomatito del lidl, queso y choricito](macarrones/macarras.md).

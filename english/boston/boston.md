@@ -4,6 +4,8 @@
 
 ...or on the second thought, I'll put on a coat, stop being a sissy, and get to work!
 
+...or maybe I can just go back the heavens of my sleep and things would be better when I wakeup
+
 [Go on vacation](../licked-cat/vacation.md)
 
 [Get to work](../gtd/gtd.md)

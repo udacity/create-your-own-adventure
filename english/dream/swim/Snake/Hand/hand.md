@@ -1,0 +1,1 @@
+A disembodied hand pulls you away from the snake.

@@ -35,6 +35,8 @@ Você:
 
 [Toda vez que eu chego em casa...](barata/baratadavizinha.md)
 
+[Será o fim?](historia/fim.md)
+
 Na verdade, isto tudo é a sua imaginação. Você vive em 1991 e usa MS-DOS 5.0 e um modem de 9600 baud.
 
 A sua linha telefônica está uma droga hoje e você tem que baixar a ultima versão do XTree para enciumar os seus amigos.
@@ -71,3 +73,5 @@ BR BR BR Hue hue hue!!!!
 [Você quer ser um desenvolvedor de jogos independente](jornada-indie/O inicio.md)
 
 [Você faz uma simpatia para o código funcionar](simpatia/simpatia.md)
+
+[Será o fim?](historia/fim.md)
